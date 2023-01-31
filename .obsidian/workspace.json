@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "38833e9874ee40e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4807ff1575dc20c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "591749bf9e6642ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/markdown-cheat-sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bb50d643ec1cf38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Projects/Robot arm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdad53c2f7915a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Python/functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51ee8e0bb9612bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Python/concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3348ca123ad4ba47",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0aa37c5eb419e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67ef5afbee5fb6c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54289b9de94bd0b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea3504fd1de54a14",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf19661f729d6ff7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "703eba2feea725e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Projects/Robot arm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dab8911558a29618",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Areas/Projects/Robot arm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e52e0e0a9e5d8016",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b1190ecdba4494d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Areas/Projects/Robot arm.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5bb50d643ec1cf38",
+  "lastOpenFiles": [
+    "Resources/Python/functions.md",
+    "Areas/Projects/Robot arm.md",
+    "Resources/Python/concepts.md",
+    "Resources/markdown-cheat-sheet.md",
+    "Resources/assorted media/copy-list-in-python.png",
+    "Resources/assorted media/Pasted image 20221009214700.png",
+    "().md",
+    "Resources/P.A.R.A note taking.md",
+    "Areas/school/Workflow.md",
+    "Areas/Projects/Discord bot.md"
+  ]
+}

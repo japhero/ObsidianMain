@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "38833e9874ee40e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "56151b58acd20576",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Areas/school/Workflow.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3348ca123ad4ba47",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0aa37c5eb419e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67ef5afbee5fb6c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54289b9de94bd0b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea3504fd1de54a14",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf19661f729d6ff7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "703eba2feea725e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/school/Workflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dab8911558a29618",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Areas/school/Workflow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e52e0e0a9e5d8016",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b1190ecdba4494d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Areas/school/Workflow.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "56151b58acd20576",
+  "lastOpenFiles": [
+    "Resources/Python/Vocab.md",
+    "Resources/Python/common.md",
+    "Resources/links.md",
+    "[[Vocab]].md",
+    "Reasorces/Python/Vocab.md",
+    "Vocab.mb.md",
+    "Resources/Vocab.md",
+    "Reasorces/Vocab.md",
+    "reasorces/Vocab.md",
+    "[[Vocab.md"
+  ]
+}
