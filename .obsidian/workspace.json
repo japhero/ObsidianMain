@@ -34,13 +34,15 @@
           {
             "id": "cdad53c2f7915a90",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Python/functions.md",
+                "file": "Areas/Projects/Robot arm.md",
                 "mode": "source",
-                "source": false
-              }
+                "source": true
+              },
+              "pinned": true
             }
           },
           {
@@ -56,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bb50d643ec1cf38",
+  "active": "cdad53c2f7915a90",
   "lastOpenFiles": [
     "Resources/Python/functions.md",
     "Areas/Projects/Robot arm.md",
