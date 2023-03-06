@@ -162,5 +162,34 @@ def Grab(buttonVal):
 
 First, the reason we use global variables is that we can't reset the value of the state of the arm nor the previous state, as they must stay consistent in between runs of the function.  Next the debouncer, it takes the current value and compares it to the last value of the button if they are the same we know that the button was not pressed if the opposite is true we can change the previous state to on and flip the state of the button in this case the variable of "GrabClose".
 ***
+## Managing the direction of the stepper 
+The way the stepper changes is effected by the delay the range of the delay is shown below in the graph
+
+![[GRAPH EXAMPLE.png|600]]
+in the code bellow the range is shown as the function creates this graph and uses it to determine the direction represented by the letters (F,S,B)
+``` python
+def direcManager(interval):
+    global lastDirec
+    global timeInt
+    time = timeInt
+
+    #change condition for time to subtract thats were bugg is
+    #global because needs to change value
+
+    if time > abs(interval) or time == 10:
+        timeInt = 0
+        #better way to controll direction
+        if interval >=-9 and interval <= -1:
+            motor.onestep(direction=2)
+            lastDirec = "b"
+        elif interval <= 9 and interval >= 1:    
+            motor.onestep()
+            lastDirec = "f"
+        else:
+            lastDirec = "s"
+    return lastDirec
+```
+***
+
 
 
