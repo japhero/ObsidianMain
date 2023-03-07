@@ -1,4 +1,6 @@
 [
   "obsidian-kanban",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]

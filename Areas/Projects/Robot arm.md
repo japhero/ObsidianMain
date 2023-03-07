@@ -165,7 +165,7 @@ First, the reason we use global variables is that we can't reset the value of th
 ## Managing the direction of the stepper 
 The way the stepper changes is effected by the delay the range of the delay is shown below in the graph
 
-![[GRAPH EXAMPLE.png|600]]
+![[GRAPH EXAMPLE.png ]]
 in the code bellow the range is shown as the function creates this graph and uses it to determine the direction represented by the letters (F,S,B)
 ``` python
 def direcManager(interval):
@@ -173,7 +173,7 @@ def direcManager(interval):
     global timeInt
     time = timeInt
 
-    #change condition for time to subtract thats were bugg is
+   
     #global because needs to change value
 
     if time > abs(interval) or time == 10:
@@ -189,6 +189,7 @@ def direcManager(interval):
             lastDirec = "s"
     return lastDirec
 ```
+when the delay is smaller the the stepper moves faster and the negative and positive range determines the direction
 ***
 
 

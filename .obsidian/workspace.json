@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "591749bf9e6642ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/markdown-cheat-sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bb50d643ec1cf38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Python/concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cdad53c2f7915a90",
             "type": "leaf",
             "pinned": true,
@@ -40,25 +16,12 @@
               "state": {
                 "file": "Areas/Projects/Robot arm.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "51ee8e0bb9612bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Python/concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,6 +42,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "38d930cc7c142fd3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           },
           {
@@ -104,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,42 +91,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703eba2feea725e3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Resources/Python/concepts.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "dab8911558a29618",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Resources/Python/concepts.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "e52e0e0a9e5d8016",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -164,34 +107,71 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Python/concepts.md"
+                "file": "Areas/Projects/Robot arm.md"
+              }
+            }
+          },
+          {
+            "id": "06a797fa18dc8d51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Projects/Robot arm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85eaf91faea7d71a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Areas/Projects/Robot arm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "cdad53c2f7915a90",
   "lastOpenFiles": [
+    "Areas/Projects/Robot arm.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-03-07 11.53.34.excalidraw.md",
+    "Excalidraw",
+    "2023-03-07.md",
+    "Resources/assorted media/GRAPH EXAMPLE.png",
+    "Resources/assorted media/copy-list-in-python.png",
+    "Resources/Python/functions.md",
+    "Resources/assorted media/Pasted image 20221009214700.png",
     "Resources/markdown-cheat-sheet.md",
     "Resources/Python/concepts.md",
-    "Resources/Python/functions.md",
-    "Areas/Projects/Robot arm.md",
-    "Resources/assorted media/copy-list-in-python.png",
-    "Resources/assorted media/Pasted image 20221009214700.png",
     "().md",
     "Resources/P.A.R.A note taking.md",
     "Areas/school/Workflow.md",
