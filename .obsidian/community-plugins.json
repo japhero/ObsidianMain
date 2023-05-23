@@ -2,5 +2,7 @@
   "obsidian-kanban",
   "obsidian-languagetool-plugin",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-pandoc",
+  "obsidian-imgur-plugin"
 ]

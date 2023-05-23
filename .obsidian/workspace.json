@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4807ff1575dc20c",
+        "id": "a66065707cbde501",
         "type": "tabs",
         "children": [
           {
-            "id": "591749bf9e6642ee",
+            "id": "e4ac0835cdddc4f6",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Resources/Python/Notes on Mp3 librarys for python.md",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               }
             }
@@ -32,16 +32,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67ef5afbee5fb6c8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "0d9a2f8aed13fdbc",
             "type": "leaf",
             "state": {
@@ -57,31 +47,25 @@
             }
           },
           {
-            "id": "54289b9de94bd0b5",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "226471514abbdd10",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "f9ab71fc25a436d2",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "67ef5afbee5fb6c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,17 +144,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "591749bf9e6642ee",
+  "active": "e4ac0835cdddc4f6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Resources/P.A.R.A note taking.md",
+    "Resources/markdown-cheat-sheet.md",
+    "Resources/links.md",
+    "Resources/Python/Notes on Mp3 librarys for python.md",
+    "Resources/Python/Notes on Tkinter.md",
     "Areas/Projects/Robot arm.md",
     "Areas/Projects/Discord bot.md",
-    "Areas/Projects/PID/PID reasorces.md",
-    "Resources/markdown-cheat-sheet.md",
-    "Resources/Python/Notes on Mp3 librarys for python.md",
-    "Areas/Projects/PID",
-    "Resources/Python/Notes on Tkinter.md",
-    "Resources/assorted media/GRAPH EXAMPLE.png",
     "Excalidraw/Drawing 2023-03-07 11.53.34.excalidraw.md",
+    "Areas/school/Workflow.md",
+    "Areas/school/event notes.md",
+    "Areas/Projects/PID/PID reasorces.md",
+    "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
+    "Areas/Projects/LeetCode/Two Sum.md",
+    "Areas/Projects/LeetCode",
+    "Areas/Projects/PID",
+    "Resources/assorted media/GRAPH EXAMPLE.png",
     "Excalidraw",
     "Areas/Projects/MP3 player/hello.md",
     "Areas/Projects/MP3 player",
@@ -178,9 +170,6 @@
     "Resources/Python/concepts.md",
     "Resources/assorted media/Pasted image 20221009214700.png",
     "Resources/assorted media/copy-list-in-python.png",
-    "Areas/school/Workflow.md",
-    "Areas/school/event notes.md",
-    "().md",
-    "Resources/P.A.R.A note taking.md"
+    "().md"
   ]
 }

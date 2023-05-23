@@ -165,7 +165,9 @@ First, the reason we use global variables is that we can't reset the value of th
 ## Managing the direction of the stepper 
 The way the stepper changes is effected by the delay the range of the delay is shown below in the graph
 
-![[GRAPH EXAMPLE.png ]]
+![](https://i.imgur.com/2AHTljy.png)
+
+
 in the code bellow the range is shown as the function creates this graph and uses it to determine the direction represented by the letters (F,S,B)
 ``` python
 def direcManager(interval):
@@ -191,6 +193,7 @@ def direcManager(interval):
 ```
 when the delay is smaller the the stepper moves faster and the negative and positive range determines the direction
 ***
-
+## Reflection 
+overall the hardest part of this project was fixing bugs and figuring out the librarys used. A good example of bugs was the issue with using functions such as copy instead of deepcopy as in regular python the correct function is deepcopy but in this version you just use the copy function. Another aspect was the fact that some design decitions changed during the project such  as the control surface. In the future i would give myself more times to fix bugs and wireing.
 
 

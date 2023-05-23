@@ -6,9 +6,14 @@ kanban-plugin: basic
 
 ## To do
 
-- [ ] band test
-- [ ] math x2
-- [ ] english quiz x2
+- [ ] math X4
+- [ ] math retake
+
+
+## doing
+
+- [ ] ap soccer explaines
+- [ ] math test retake study
 
 
 ## Late
@@ -18,6 +23,15 @@ kanban-plugin: basic
 ## done
 
 **Complete**
+
+
+***
+
+## Archive
+
+- [x] math x2
+- [x] english quiz x2
+- [x] band test
 - [x] math: 10/17
 - [x] Personal: Archive band music
 - [x] math: HW 9/29
@@ -33,9 +47,6 @@ kanban-plugin: basic
 - [x] BND: playing test Bb,G,C
 - [x] ENG: submit onshape "teamwork is dreamwork"
 - [x] science:Concept Review-Classifying Matter
-
-
-
 
 %% kanban:settings
 ```
