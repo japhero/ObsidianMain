@@ -8,17 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cdad53c2f7915a90",
+            "id": "591749bf9e6642ee",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Areas/Projects/Robot arm.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+                "file": "Resources/Python/Notes on Mp3 librarys for python.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -45,14 +42,6 @@
             }
           },
           {
-            "id": "38d930cc7c142fd3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "0d9a2f8aed13fdbc",
             "type": "leaf",
             "state": {
@@ -74,9 +63,25 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "226471514abbdd10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9ab71fc25a436d2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -91,13 +96,40 @@
         "type": "tabs",
         "children": [
           {
+            "id": "703eba2feea725e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dab8911558a29618",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "e52e0e0a9e5d8016",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -106,38 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Areas/Projects/Robot arm.md"
-              }
-            }
-          },
-          {
-            "id": "06a797fa18dc8d51",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Areas/Projects/Robot arm.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "85eaf91faea7d71a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Areas/Projects/Robot arm.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "state": {}
             }
           }
         ],
@@ -145,36 +146,41 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "canvas:Create new canvas": false
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "cdad53c2f7915a90",
+  "active": "591749bf9e6642ee",
   "lastOpenFiles": [
     "Areas/Projects/Robot arm.md",
-    "Untitled.canvas",
+    "Areas/Projects/Discord bot.md",
+    "Areas/Projects/PID/PID reasorces.md",
+    "Resources/markdown-cheat-sheet.md",
+    "Resources/Python/Notes on Mp3 librarys for python.md",
+    "Areas/Projects/PID",
+    "Resources/Python/Notes on Tkinter.md",
+    "Resources/assorted media/GRAPH EXAMPLE.png",
     "Excalidraw/Drawing 2023-03-07 11.53.34.excalidraw.md",
     "Excalidraw",
-    "2023-03-07.md",
-    "Resources/assorted media/GRAPH EXAMPLE.png",
-    "Resources/assorted media/copy-list-in-python.png",
+    "Areas/Projects/MP3 player/hello.md",
+    "Areas/Projects/MP3 player",
     "Resources/Python/functions.md",
-    "Resources/assorted media/Pasted image 20221009214700.png",
-    "Resources/markdown-cheat-sheet.md",
     "Resources/Python/concepts.md",
-    "().md",
-    "Resources/P.A.R.A note taking.md",
+    "Resources/assorted media/Pasted image 20221009214700.png",
+    "Resources/assorted media/copy-list-in-python.png",
     "Areas/school/Workflow.md",
-    "Areas/Projects/Discord bot.md"
+    "Areas/school/event notes.md",
+    "().md",
+    "Resources/P.A.R.A note taking.md"
   ]
 }
