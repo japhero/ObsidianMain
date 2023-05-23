@@ -121,5 +121,6 @@ This code takes every number inside of the numbers list (<span style="color:ligh
 * Again a point were storing the indexes in a hashmap would be the proper way to find the solution
 * The next atempt will use the list of factors to try to find the "pairs" of factors that are present in the data set.
 
-## Second attempt
+## Solution 
+
 

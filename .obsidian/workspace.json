@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Python/functions.md",
+                "file": "Areas/Projects/LeetCode/Two Sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6e249b4f7aa8914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +57,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Projects/LeetCode/Two Sum.md"
+                "file": "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md"
               }
             }
           },
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/LeetCode/Two Sum.md",
+                "file": "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/LeetCode/Two Sum.md",
+                "file": "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +197,11 @@
   },
   "active": "38d930cc7c142fd3",
   "lastOpenFiles": [
-    "Resources/Python/functions.md",
     "Areas/Projects/LeetCode/Two Sum.md",
+    "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
+    "Resources/P.A.R.A note taking.md",
     "Resources/Python/concepts.md",
+    "Resources/Python/functions.md",
     "Areas/Projects/Robot arm.md",
     "Areas/Projects/LeetCode",
     "Resources/assorted media/GRAPH EXAMPLE.png",
@@ -201,7 +216,6 @@
     "Resources/assorted media/Pasted image 20221009214700.png",
     "Resources/markdown-cheat-sheet.md",
     "().md",
-    "Resources/P.A.R.A note taking.md",
     "Areas/school/Workflow.md",
     "Areas/Projects/Discord bot.md"
   ]
