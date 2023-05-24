@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a66065707cbde501",
+        "id": "d239c503ea6b2fb6",
         "type": "tabs",
         "children": [
           {
-            "id": "e4ac0835cdddc4f6",
+            "id": "adc7c47a15ef17f2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "febe021e7c43821c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md"
+              }
             }
           }
         ],
@@ -130,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,8 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ac0835cdddc4f6",
+  "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
+    "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
+    "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
+    "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
+    "Areas/Projects/LeetCode/Two Sum.md",
     "conflict-files-obsidian-git.md",
     "Resources/P.A.R.A note taking.md",
     "Resources/markdown-cheat-sheet.md",
@@ -158,8 +181,6 @@
     "Areas/school/Workflow.md",
     "Areas/school/event notes.md",
     "Areas/Projects/PID/PID reasorces.md",
-    "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
-    "Areas/Projects/LeetCode/Two Sum.md",
     "Areas/Projects/LeetCode",
     "Areas/Projects/PID",
     "Resources/assorted media/GRAPH EXAMPLE.png",
