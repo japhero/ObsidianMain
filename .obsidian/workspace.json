@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d239c503ea6b2fb6",
+        "id": "e4807ff1575dc20c",
         "type": "tabs",
         "children": [
           {
-            "id": "adc7c47a15ef17f2",
+            "id": "5d67446ac2c3d091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Projects/LeetCode/Two Sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc1a48b969dddaa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Projects/LeetCode/Two Sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6e249b4f7aa8914",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +44,21 @@
             }
           },
           {
-            "id": "febe021e7c43821c",
+            "id": "a5f0a92abd89efe4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Python/concepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3f8f9c1946bd413d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e049b7e7837a0cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Projects/LeetCode/217. Contains Duplicate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -45,6 +95,24 @@
         "id": "e0aa37c5eb419e43",
         "type": "tabs",
         "children": [
+          {
+            "id": "38d930cc7c142fd3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "67ef5afbee5fb6c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
           {
             "id": "0d9a2f8aed13fdbc",
             "type": "leaf",
@@ -61,25 +129,22 @@
             }
           },
           {
-            "id": "f9ab71fc25a436d2",
+            "id": "54289b9de94bd0b5",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "starred",
               "state": {}
             }
           },
           {
-            "id": "67ef5afbee5fb6c8",
+            "id": "9ab6b183351d7339",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "type": "bookmarks",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,42 +159,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703eba2feea725e3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "dab8911558a29618",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "e52e0e0a9e5d8016",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -139,58 +175,87 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md"
+                "file": "Areas/Projects/LeetCode/217. Contains Duplicate.md"
+              }
+            }
+          },
+          {
+            "id": "06a797fa18dc8d51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Projects/LeetCode/217. Contains Duplicate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85eaf91faea7d71a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Areas/Projects/LeetCode/217. Contains Duplicate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9ab71fc25a436d2",
+  "active": "38d930cc7c142fd3",
   "lastOpenFiles": [
-    "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
-    "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
     "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
+    "Areas/Projects/LeetCode/217. Contains Duplicate.md",
     "Areas/Projects/LeetCode/Two Sum.md",
-    "conflict-files-obsidian-git.md",
-    "Resources/P.A.R.A note taking.md",
-    "Resources/markdown-cheat-sheet.md",
-    "Resources/links.md",
-    "Resources/Python/Notes on Mp3 librarys for python.md",
+    "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
+    "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
     "Resources/Python/Notes on Tkinter.md",
-    "Areas/Projects/Robot arm.md",
-    "Areas/Projects/Discord bot.md",
-    "Excalidraw/Drawing 2023-03-07 11.53.34.excalidraw.md",
-    "Areas/school/Workflow.md",
-    "Areas/school/event notes.md",
+    "Resources/Python/Notes on Mp3 librarys for python.md",
     "Areas/Projects/PID/PID reasorces.md",
-    "Areas/Projects/LeetCode",
     "Areas/Projects/PID",
-    "Resources/assorted media/GRAPH EXAMPLE.png",
-    "Excalidraw",
-    "Areas/Projects/MP3 player/hello.md",
-    "Areas/Projects/MP3 player",
-    "Resources/Python/functions.md",
+    "Resources/P.A.R.A note taking.md",
     "Resources/Python/concepts.md",
-    "Resources/assorted media/Pasted image 20221009214700.png",
+    "Resources/Python/functions.md",
+    "Areas/Projects/Robot arm.md",
+    "Areas/Projects/LeetCode",
+    "Resources/assorted media/GRAPH EXAMPLE.png",
+    "2023-03-16.md",
+    "Areas/Projects/Robot arm 1.md",
+    "Areas/Projects/Drawing 2023-03-16 14.33.22.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-03-07 11.53.34.excalidraw.md",
+    "Excalidraw",
+    "2023-03-07.md",
     "Resources/assorted media/copy-list-in-python.png",
-    "().md"
+    "Resources/assorted media/Pasted image 20221009214700.png",
+    "Resources/markdown-cheat-sheet.md",
+    "().md",
+    "Areas/school/Workflow.md",
+    "Areas/Projects/Discord bot.md"
   ]
 }
