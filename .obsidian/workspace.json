@@ -10,47 +10,11 @@
           {
             "id": "5d67446ac2c3d091",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Projects/LeetCode/Two Sum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc1a48b969dddaa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Projects/LeetCode/Two Sum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6e249b4f7aa8914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5f0a92abd89efe4",
-            "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Python/concepts.md",
+                "file": "Areas/Projects/PID/Code Documentation.md",
                 "mode": "source",
                 "source": false
               },
@@ -58,31 +22,42 @@
             }
           },
           {
-            "id": "3f8f9c1946bd413d",
+            "id": "406040a80dc6081e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
+                "file": "Areas/Projects/LeetCode/Two Sum.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3e049b7e7837a0cf",
+            "id": "f79e77d2da173ccb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/LeetCode/217. Contains Duplicate.md",
+                "file": "Areas/Projects/Robot arm.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4e327e11d844d68",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Resources/Python/Notes on Mp3 librarys for python.md",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Areas/Projects/LeetCode/217. Contains Duplicate.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/LeetCode/217. Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/LeetCode/217. Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,21 +198,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38d930cc7c142fd3",
+  "active": "b4e327e11d844d68",
   "lastOpenFiles": [
-    "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
-    "Areas/Projects/LeetCode/217. Contains Duplicate.md",
+    "Areas/Projects/PID/Code Documentation.md",
     "Areas/Projects/LeetCode/Two Sum.md",
-    "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
-    "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
-    "Resources/Python/Notes on Tkinter.md",
-    "Resources/Python/Notes on Mp3 librarys for python.md",
+    "Areas/Projects/Robot arm.md",
     "Areas/Projects/PID/PID reasorces.md",
-    "Areas/Projects/PID",
-    "Resources/P.A.R.A note taking.md",
+    "Areas/Projects/LeetCode/217. Contains Duplicate.md",
+    "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
+    "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
     "Resources/Python/concepts.md",
     "Resources/Python/functions.md",
-    "Areas/Projects/Robot arm.md",
+    "Resources/Python/Notes on Tkinter.md",
+    "Resources/Python/Notes on Mp3 librarys for python.md",
+    "Areas/Projects/Discord bot.md",
+    "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
+    "Areas/Projects/PID",
+    "Resources/P.A.R.A note taking.md",
     "Areas/Projects/LeetCode",
     "Resources/assorted media/GRAPH EXAMPLE.png",
     "2023-03-16.md",
@@ -255,7 +228,6 @@
     "Resources/assorted media/Pasted image 20221009214700.png",
     "Resources/markdown-cheat-sheet.md",
     "().md",
-    "Areas/school/Workflow.md",
-    "Areas/Projects/Discord bot.md"
+    "Areas/school/Workflow.md"
   ]
 }

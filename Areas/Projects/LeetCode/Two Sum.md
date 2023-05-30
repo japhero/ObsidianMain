@@ -40,7 +40,7 @@ This was a [leetCode](https://leetcode.com/problems/two-sum/description/) proble
 </div>
 
 ### Summary of description
-Basicaly you are given a List of numbers and a target number you must find a combinination of the numbers in the list that add uo to the target number
+Basically you are given a List of numbers and a target number you must find a combination of the numbers in the list that add up to the target number
 
 ## My First Solution 
 
