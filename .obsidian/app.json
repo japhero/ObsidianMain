@@ -11,6 +11,11 @@
   },
   "spellcheckDictionary": [
     "deepcopy",
-    "ints"
+    "ints",
+    "FrankenCode",
+    "Tkinter",
+    "RPMCalculator",
+    "setpoint",
+    "ASYNCIO"
   ]
 }
