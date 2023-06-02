@@ -35,9 +35,14 @@ def RPMcompute(self):
 >Code of the compute function in the RPMCalculator class.
 
 ## Approach
-We approach the problem of calculating rpm by getting 2 time variables, one at the first interrupt of the Circle (2 Interrupts per full rotation)  and one at the second interrupt. Then we subtract the second by the first to get the difference, then on the next cycle we just subtract inversely doing the now "first" but actually second minus the now second. The way that we easily maintain a loop of number is the Modulo operator (<span style="color:orange"> %</span>) which just divides by a set number and the returns the remainder of that division.  This is very useful when it comes to controlling loops as it sets a forever infinitely increasing number to forever repeat at an interval of <span style = color:lightgreen > 0 until N-1 </span> that's also how we treat the RPM calculations as seen in the code we take an MOD 2 of the total interrupts and therefore can easily forever split the increasing number of interrupts into groups of 0 and 1 as every even interrupt will be 0 and every odd will be 1 giving us the opportunity to get the times and preform the calculations 
+We approach the problem of calculating rpm by getting 2 time variables, one at the first interrupt of the Circle (2 Interrupts per full rotation)  and one at the second interrupt. Then we subtract the second by the first to get the difference, then on the next cycle we just subtract inversely doing the now "first" but actually second minus the now second. The way that we easily maintain a loop of number is the Modulo operator (<span style="color:orange"> %</span>) which just divides by a set number and the returns the remainder of that division.  This is very useful when it comes to controlling loops as it sets a forever infinitely increasing number to forever repeat at an interval of <span style = color:lightgreen > 0 until N-1 </span> that's also how we treat the RPM calculations as seen in the code we take an MOD 2 of the total interrupts and therefore can easily forever split the increasing number of interrupts into groups of 0 and 1 as every even interrupt will be 0 and every odd will be 1 giving us the opportunity to get the times and preform the calculations instead of resetting a counter every loop.
+
+###  Problems 
+* Originally Didn't debounce the rpm calculation, Time 1 or Time 2 this ment that on every loop i would get a new time because it doesn't matter to the program if I just got a new interrupt it will treat the constant loop of the old interrupt number as the current, meaning that it will get a new time for an interrupt that hasn't happened. This was fixed by just putting the rpm calculation inside the actual polling function.
+* The speed of the execution of the original was an issue as printing and doing the calculation every time slowed down the RPM calculation so much that it sometimes skipped over some interrupts giving a very inconsistent number and sometimes throwing a can't divide by 0 error because interrupt time 1 and 2 would be the same and turn out to be 0 and when trying to divide 60 by that number it would throw an error.
 
 <img src = "https://i.imgur.com/rEf0TpX.png" width =400>
+
 > The graphic is an example of how rpm would be computed for the first for interrupts.
 
 #### Calculation
@@ -46,6 +51,11 @@ We approach the problem of calculating rpm by getting 2 time variables, one at t
 RPM = 60/((self.time2-self.time1))
 ```
 ![](https://i.imgur.com/743DyXs.png)
+
+The calculation is just taking the time between the interrupt second interrupt/A full rotation - the time of the last full rotation. You may ask why wouldn't you just get the time at full rotation this is because of the function used Monatomic time is a set point of time not a sort of stopwatch, therefore we can't just call it and assume the timer started on the first interrupt for example if want the time in between 8am and 10am we would take 10 and subtract 8.
+
+## Reflection on RPM
+RPM was definitely a new problem, the math was easy to understand and implement, but the new aspect was the fact that we had to worry about code efficiency and runtime as the execution time was an actual factor because of the speed that some of the wheels run at. It was definitely very annoying that the interrupt feature was disabled and that was the major difference between this project and the Arduino version in my opinion, making it much harder.
 
 ## Printing to the LCD
 
@@ -96,7 +106,7 @@ The blue is what happens on button press and Red is what happens on scroll
 
 ### Iterations
 
-* The first iteration was a Tkinter window because i had not set up the LCD for debugging, yet the system was "FrankenCode"Spaghetti code and a very legacy approach using Modulo to loop over a list of strings that were then printed to the LCD. The problem was the fact that it was hard to enter an individual item/tree.
+* The first iteration was a Tkinter window because i had not set up the LCD for debugging, yet the system was "FrankenCode"/Spaghetti code and a very legacy approach using Modulo to loop over a list of strings that were then printed to the LCD. The problem was the fact that it was hard to enter an individual item/tree.
 
 * The second and final Iteration is one where we separate prints into different commands on a menu function, and then to change the LCD we just call different values on that menu function. This allows separation between the logic of the menu and the actual printing, making the code much easier to understand and write, as one system is independent of another.
 
@@ -175,6 +185,6 @@ while True:
     RPMCalc.debug(DelayInterval=500)
     RPMCalc.RPMcompute()
 ```
-This is the main handler for the LCD object, and the fact that it's not a class or a function shows the crunch on this project :). Anyway the code is split into the different cases the first 2 ifs are for PID on/off all they do is change the name on button press and then the corresponding variable/flag. The actual tree part of the menu is formed by adding a new while true loop that waits for the user to press the button after selecting a new setpoint. Copying the loop is made convenient by the fact that the majority of the code is in the class making just copying over the functions painless and the exact reason they were created.
+This is the main handler for the LCD object, and the fact that it's not a class or a function shows the crunch on this project :). Anyway the code is split into the different cases the first 2 ifs are for PID on/off all they do is change the name on button press and then the corresponding variable/flag. The actual tree part of the menu is formed by adding a new while true loop that waits for the user to press the button after selecting a new setpoint. Copying the loop is made convenient by the fact that the majority of the code is in the RPM class, making just copying over the functions painless and the exact reason they were created.
 
 

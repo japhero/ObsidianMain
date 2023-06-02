@@ -15,8 +15,8 @@
               "type": "markdown",
               "state": {
                 "file": "Areas/Projects/PID/Code Documentation.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "pinned": true
             }
@@ -28,8 +28,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "7b0a1fa1bf7e7bc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Projects/PID/Wiring And planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/PID/Code Documentation.md",
+                "file": "Areas/Projects/PID/Wiring And planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/PID/Code Documentation.md",
+                "file": "Areas/Projects/PID/Wiring And planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Projects/PID/Code Documentation.md"
+                "file": "Areas/Projects/PID/Wiring And planning.md"
               }
             }
           }
@@ -170,10 +183,11 @@
   },
   "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
-    "Screenshot 2023-05-30 153423.png.md",
     "Areas/Projects/PID/Code Documentation.md",
-    "[.md",
     "Areas/Projects/PID/PID reasorces.md",
+    "Areas/Projects/PID/Wiring And planning.md",
+    "Screenshot 2023-05-30 153423.png.md",
+    "[.md",
     "[[Robot.md",
     "Robot.md",
     "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
@@ -201,7 +215,6 @@
     "Areas/Projects/MP3 player/hello.md",
     "Areas/Projects/MP3 player",
     "Resources/Python/functions.md",
-    "Resources/Python/concepts.md",
     "Resources/assorted media/Pasted image 20221009214700.png",
     "Resources/assorted media/copy-list-in-python.png"
   ]

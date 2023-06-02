@@ -16,6 +16,9 @@
     "Tkinter",
     "RPMCalculator",
     "setpoint",
-    "ASYNCIO"
+    "ASYNCIO",
+    "MatPlotLib",
+    "plotLive",
+    "e 1 "
   ]
 }
