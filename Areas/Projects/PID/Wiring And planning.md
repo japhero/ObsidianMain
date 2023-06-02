@@ -20,3 +20,24 @@ To write my own PID, I had to learn the math that calculates the function of PID
 * [wiki on PID](https://en.wikipedia.org/wiki/PID_controller#Fundamental_operation)
 ### Takeaways 
 Overall writing my own PID was a very good way to learn the system and definitely helped me understand the system and how it works and also refreshed me on more complex code when writing the graphing utility.
+
+
+# Wiring
+The wiring was 3 main circuits, although practically it was just 3 circuits and the rest required more of just "plug and play" style not really a circuit
+
+<img src = "https://i.imgur.com/wU3Dmu0.png"  width =600>
+
+> note that we didn't separately wire the 9volt and 6volt but because the modified backpack doesn't exist we had to use those parts 
+
+### LCD wiring 
+Our solution to the "LCD" problem or the fact that the LCD draws a lot of current to start, blocking the microcontroller from booting if it is turned on was to initialize the LCD power in the script by creating a transistor to allow the flow of power and then by virtue of the script turning the LCD on it has to innit for the LCD to even turn on.
+
+
+## MOSFET Transistor
+The MOSFET was one of the more challenging things to use because it was a different transistor type and no one had really documented it, so we researched the individual part to figure out the specs and find a matching wiring diagram which as it turns out isn't too different from the current transistor layout it just allows way more current and voltage giving us more SPEEEEED.
+
+<img src="https://i.stack.imgur.com/AjURy.png" width =600>
+
+> Thanks to [This](https://electronics.stackexchange.com/questions/179084/driving-dc-motor-using-a-single-mosfet-why-does-the-motor-spin-without-applying) beautiful stack exchange user for finding this.
+
+
