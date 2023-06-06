@@ -21,6 +21,48 @@ To write my own PID, I had to learn the math that calculates the function of PID
 ### Takeaways 
 Overall writing my own PID was a very good way to learn the system and definitely helped me understand the system and how it works and also refreshed me on more complex code when writing the graphing utility.
 
+## LCD planning 
+Planning for the LCD was done by creating 2 code prototypes. The first was done in class and was the encoder assignment. The second was a sort of simulation program run in a TK window that basically simulated a LCD locally as to help with debugging. We preferred making code prototypes over pudo code because often you only find bugs or issues in your concepts after a pratical application.
+
+### Takeaways from LCD 
+Overall again trying to make several ideas and applying them practically was definitely a way to figure out what was a good idea and bad one. Another lesson was to test your programs.
+
+## RPM planning 
+To plan for the RPM i created another test program that runs through python. This program was just a concept tester that ran over the math with a set interval so that we could predict results. 
+```python
+import time
+time1=0
+time2=0
+RPM =0
+
+for totalInterrupts in range(8): # simulates the total interrupts going up
+    time.sleep(1)
+	# debug statements
+    print(f"\
+    RPM: {RPM}\
+    T1: {time1}\
+    T2: {time2}\
+    mod {totalInterrupts %2}\
+    X {totalInterrupts}\
+    ")
+
+	#RPM compute function
+    if totalInterrupts % 2 == 0:
+        time1= time.monotonic()
+        RPM = 60/((time1-time2))
+
+    elif totalInterrupts % 2 == 1:
+        time2 = time.monotonic()
+        RPM = 60/((time2-time1))
+
+## outputs 59.9 for all loops
+``` 
+> [Source](https://github.com/japhero/PID-project/blob/master/code/testCode.py)
+
+
+### Takeaway RPM 
+Always add more time for unconventional bugs as that was the number 1 issue by far not the math or the timings but things like runtime efficiency causing us to skip interrupts or power consumption.
+
 
 # Wiring
 The wiring was 3 main circuits, although practically it was just 3 circuits and the rest required more of just "plug and play" style not really a circuit

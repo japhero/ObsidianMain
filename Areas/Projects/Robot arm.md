@@ -72,7 +72,7 @@ similar to above but also stores names
 these functions smothed over the values by finding the mean of several values as to avoid outliers.
 ``` python
 
-runningMedian = []
+	runningMedian = []
 
 def medianCalc(x):
 

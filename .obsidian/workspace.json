@@ -15,18 +15,10 @@
               "type": "markdown",
               "state": {
                 "file": "Areas/Projects/PID/Code Documentation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "65952e55822a9723",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -35,9 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/PID/Code Documentation.md",
+                "file": "Areas/Projects/LeetCode/12. Integer to Roman.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3e9f95599ae7793b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-05 19.47.15.excalidraw.md"
               }
             }
           }
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/PID/Code Documentation.md",
+                "file": "Excalidraw/Drawing 2023-06-05 19.47.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/PID/Code Documentation.md",
+                "file": "Excalidraw/Drawing 2023-06-05 19.47.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Projects/PID/Code Documentation.md"
+                "file": "Excalidraw/Drawing 2023-06-05 19.47.15.excalidraw.md"
               }
             }
           }
@@ -183,20 +185,25 @@
   },
   "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
-    "Areas/Projects/PID/Wiring And planning.md",
+    "Areas/Projects/LeetCode/12. Integer to Roman.md",
+    "Excalidraw/Drawing 2023-06-05 19.47.15.excalidraw.md",
+    "Untitled.canvas",
     "Areas/Projects/PID/Code Documentation.md",
+    "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
+    "Untitled.md",
+    "Areas/Projects/Discord bot.md",
+    "Areas/Projects/Robot arm.md",
     "Areas/Projects/PID/PID reasorces.md",
+    "Areas/Projects/PID/Wiring And planning.md",
     "Screenshot 2023-05-30 153423.png.md",
     "[.md",
     "[[Robot.md",
     "Robot.md",
     "Areas/Projects/LeetCode/TwoPointers-PalindroneNumbers.md",
     "[Robot.md",
-    "Areas/Projects/Robot arm.md",
     "Areas/Projects/LeetCode/Two Sum.md",
     "LCD.md",
     "Areas/Projects/LeetCode/217. Contains Duplicate.md",
-    "Areas/Projects/LeetCode/20. Valid Parentheses-Stack data structures.md",
     "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
     "conflict-files-obsidian-git.md",
     "Resources/P.A.R.A note taking.md",
@@ -204,17 +211,13 @@
     "Resources/links.md",
     "Resources/Python/Notes on Mp3 librarys for python.md",
     "Resources/Python/Notes on Tkinter.md",
-    "Areas/Projects/Discord bot.md",
     "Excalidraw/Drawing 2023-03-07 11.53.34.excalidraw.md",
     "Areas/school/Workflow.md",
-    "Areas/school/event notes.md",
     "Areas/Projects/LeetCode",
     "Areas/Projects/PID",
     "Resources/assorted media/GRAPH EXAMPLE.png",
     "Excalidraw",
-    "Areas/Projects/MP3 player/hello.md",
     "Areas/Projects/MP3 player",
-    "Resources/Python/functions.md",
     "Resources/assorted media/Pasted image 20221009214700.png",
     "Resources/assorted media/copy-list-in-python.png"
   ]
