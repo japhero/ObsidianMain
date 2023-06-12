@@ -3,5 +3,7 @@
   "obsidian-languagetool-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-imgur-plugin"
+  "obsidian-imgur-plugin",
+  "obsidian-pandoc",
+  "media-extended"
 ]

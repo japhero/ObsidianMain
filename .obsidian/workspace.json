@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86dc22fd1371d643",
+            "id": "5a96fce719ef856c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/LeetCode/concepts/Binary search.md",
-                "mode": "preview",
+                "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -32,8 +32,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fad4a1465b4cecc1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/G component.md"
+              }
+            }
+          },
+          {
+            "id": "22add097feed8e73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Projects/LeetCode/concepts/Binary search.md"
+                "file": "Areas/Projects/A star/A Star algorithm vid notes.md"
               }
             }
           },
@@ -136,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/LeetCode/concepts/Binary search.md",
+                "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/LeetCode/concepts/Binary search.md",
+                "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,9 +204,15 @@
   },
   "active": "38d930cc7c142fd3",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-06-10 21.58.26.excalidraw.md",
-    "Areas/Projects/LeetCode/concepts/Binary search.md",
+    "Areas/Projects/A star/implementation.md",
+    "Areas/Projects/A star/A Star algorithm vid notes.md",
     "Resources/Mathjax.md",
+    "Excalidraw/G component.md",
+    "Resources/markdown-cheat-sheet.md",
+    "Areas/Projects/LeetCode/concepts/Binary search.md",
+    "Excalidraw/distance Comparison.md",
+    "Areas/Projects/A star",
+    "Excalidraw/Drawing 2023-06-10 21.58.26.excalidraw.md",
     "Areas/Projects/PID/PID reasorces.md",
     "Excalidraw/Drawing 2023-03-07 11.53.34.excalidraw.md",
     "Excalidraw/Drawing 2023-06-05 19.47.15.excalidraw.md",
@@ -208,14 +238,9 @@
     "Areas/Projects/PID",
     "Areas/Projects/LeetCode",
     "Resources/assorted media/GRAPH EXAMPLE.png",
-    "2023-03-16.md",
-    "Areas/Projects/Robot arm 1.md",
-    "Areas/Projects/Drawing 2023-03-16 14.33.22.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
-    "2023-03-07.md",
     "Resources/assorted media/copy-list-in-python.png",
-    "Resources/assorted media/Pasted image 20221009214700.png",
-    "Resources/markdown-cheat-sheet.md"
+    "Resources/assorted media/Pasted image 20221009214700.png"
   ]
 }
