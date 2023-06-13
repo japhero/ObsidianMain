@@ -16,6 +16,7 @@
               "state": {
                 "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "pinned": true
@@ -29,6 +30,7 @@
               "state": {
                 "file": "Resources/Mathjax.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -49,15 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
+                "file": "Resources/Python/Pygame notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +205,10 @@
   },
   "active": "38d930cc7c142fd3",
   "lastOpenFiles": [
-    "Areas/Projects/A star/implementation.md",
+    "Resources/Python/Pygame notes.md",
     "Areas/Projects/A star/A Star algorithm vid notes.md",
+    "Areas/Projects/A star/Untitled.md",
+    "Areas/Projects/A star/implementation.md",
     "Resources/Mathjax.md",
     "Excalidraw/G component.md",
     "Resources/markdown-cheat-sheet.md",
@@ -232,8 +235,6 @@
     "Resources/Python/concepts.md",
     "Resources/Python/functions.md",
     "Resources/Python/Notes on Tkinter.md",
-    "Resources/Python/Notes on Mp3 librarys for python.md",
-    "Areas/Projects/Discord bot.md",
     "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
     "Areas/Projects/PID",
     "Areas/Projects/LeetCode",
