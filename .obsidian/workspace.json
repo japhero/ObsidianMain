@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/Guitar/Yellow.md",
+                "file": "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02c973da8493cfc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Projects/Guitar/Yellow.md"
+                "file": "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md"
               }
             }
           },
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/Guitar/Yellow.md",
+                "file": "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/Guitar/Yellow.md",
+                "file": "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +197,15 @@
   },
   "active": "38d930cc7c142fd3",
   "lastOpenFiles": [
-    "Areas/Projects/Guitar/Creep Chords.md",
+    "Excalidraw/Two sum 2.md",
+    "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
+    "Excalidraw",
+    "Areas/Projects/LeetCode/Questions/TwoPointers-PalindroneNumbers.md",
+    "Areas/Projects/LeetCode/Questions/Two Sum.md",
     "Areas/Projects/A star/A Star algorithm vid notes.md",
-    "Areas/Projects/A star/implementation.md",
+    "Areas/Projects/Guitar/Creep Chords.md",
     "Areas/Projects/Guitar/Yellow.md",
+    "Areas/Projects/A star/implementation.md",
     "Resources/assorted media/Excalidraw/Drawing 2023-06-10 21.58.26.excalidraw.md",
     "Resources/assorted media/Excalidraw/Drawing 2023-06-13 19.48.17.excalidraw.md",
     "Resources/assorted media/Pasted Image 20230613195002_207.png",
@@ -212,12 +230,8 @@
     "Excalidraw/Drawing 2023-06-05 19.47.15.excalidraw.md",
     "Resources/P.A.R.A note taking.md",
     "Areas/Projects/PID/Code Documentation.md",
-    "Areas/Projects/LeetCode/Questions/12. Integer to Roman.md",
     "Areas/Projects/LeetCode/concepts",
     "Areas/Projects/LeetCode/Questions",
-    "Areas/Projects/LeetCode/Questions/20. Valid Parentheses-Stack data structures.md",
-    "Areas/Projects/LeetCode/Questions/217. Contains Duplicate.md",
-    "Areas/Projects/LeetCode/Questions/Two Sum.md",
     "desktop.ini",
     "Areas/Projects/PID",
     "Areas/Projects/LeetCode",
