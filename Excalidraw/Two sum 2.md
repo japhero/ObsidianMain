@@ -620,8 +620,8 @@ check/solution = Target - Given ^SapCrUHB
 		},
 		{
 			"type": "arrow",
-			"version": 180,
-			"versionNonce": 1220352063,
+			"version": 259,
+			"versionNonce": 820978424,
 			"isDeleted": false,
 			"id": "5-wjKkaNesJDwvLIXDBTT",
 			"fillStyle": "hachure",
@@ -635,25 +635,25 @@ check/solution = Target - Given ^SapCrUHB
 			"strokeColor": "#862e9c",
 			"backgroundColor": "transparent",
 			"width": 62.24428550225457,
-			"height": 212.95215148710685,
+			"height": 215.8492086535732,
 			"seed": 410609439,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1687118698026,
+			"updated": 1688588024220,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "BZm6UZKZyJsA2c3uEAImv",
-				"gap": 10.06370166484703,
-				"focus": -0.776720087904356
+				"focus": -0.776720087904356,
+				"gap": 10.06370166484703
 			},
 			"endBinding": {
 				"elementId": "YTQF22b2kuDw9CR_oTKne",
-				"focus": 0.7054886189880941,
-				"gap": 10.970713620707784
+				"focus": 0.6763394097573533,
+				"gap": 7.674251781765406
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -668,8 +668,8 @@ check/solution = Target - Given ^SapCrUHB
 					118.87840180756285
 				],
 				[
-					4.951249983133835,
-					212.95215148710685
+					1.654788144191457,
+					215.8492086535732
 				]
 			]
 		},
@@ -709,8 +709,8 @@ check/solution = Target - Given ^SapCrUHB
 		},
 		{
 			"type": "arrow",
-			"version": 75,
-			"versionNonce": 1806907249,
+			"version": 76,
+			"versionNonce": 167723400,
 			"isDeleted": false,
 			"id": "IevrfAIORedorGqu5Y6wF",
 			"fillStyle": "hachure",
@@ -731,7 +731,7 @@ check/solution = Target - Given ^SapCrUHB
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1687118698026,
+			"updated": 1688588016939,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -790,8 +790,8 @@ check/solution = Target - Given ^SapCrUHB
 		},
 		{
 			"type": "arrow",
-			"version": 103,
-			"versionNonce": 282694033,
+			"version": 104,
+			"versionNonce": 331839992,
 			"isDeleted": false,
 			"id": "Ctj6klL1BBaSTyOqg-qHw",
 			"fillStyle": "hachure",
@@ -812,7 +812,7 @@ check/solution = Target - Given ^SapCrUHB
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1687118698025,
+			"updated": 1688588016938,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1077,10 +1077,10 @@ check/solution = Target - Given ^SapCrUHB
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 594.6375076490733,
-		"scrollY": 474.7649001916815,
+		"scrollX": 604.5878798575101,
+		"scrollY": 530.6238874745599,
 		"zoom": {
-			"value": 1.55
+			"value": 1.3
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

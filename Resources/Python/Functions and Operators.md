@@ -1,4 +1,4 @@
-
+# Functions 
 ## len()
 Len is a function that takes an object as an argument and returns the length.
 ```python
@@ -33,4 +33,22 @@ print(f"deep:{deepCopy} shallow: {shallowCopy}")
 Notice how when appending to the original it also affects the shallow copy while the deep copy remains unaffected this is a result of the change in memory location. 
 *** 
 
+# Operators 
 
+## Match statements/Switch case
+
+```python
+def errorName(errorCode):
+	match errorCode:
+		case 400:
+			return "No connection"
+		case 200:
+			return "operation failed"
+		case 300:
+			return "Failed init"
+print(errorName(300))
+# This would print out "Failed init" 
+```
+This is just pythons way of doing switch cases another way to handle large numbers of cases without elif statements for days makes your code more readable.
+
+--- 

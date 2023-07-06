@@ -85,7 +85,7 @@ runningMedian.pop(0)
 return median(runningMedian)
 
   ```
-The Function adds to an array every time the function is called in the loop. This happens untill the function [len](functions##len) returns the max value of 20 which is when we use the pop function to remove the first value in the array. Removing the first value allows values to flow similar to a conveyor belt.  
+The Function adds to an array every time the function is called in the loop. This happens untill the function [len](Functions%20and%20Operators.md##len) returns the max value of 20 which is when we use the pop function to remove the first value in the array. Removing the first value allows values to flow similar to a conveyor belt.  
 ``` python
 for x in range(1,8):
 	medianCalc(x)
@@ -118,7 +118,7 @@ return sortedArray[length]
 #returning the center value 
 ```
 The median is the center value of a sorted list of numbers. In this function we first make a 
-[[functions#.deepcopy() |deepcopy()]] of the list sort the list numericaly then calculate the center by rounding half of the length of the list and then return that value.
+[[Functions and Operators#.deepcopy()|deepcopy()]] of the list sort the list numericaly then calculate the center by rounding half of the length of the list and then return that value.
 
 Step by step
 ``` 

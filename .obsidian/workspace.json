@@ -4,18 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "e4807ff1575dc20c",
+        "id": "7a19a8145186a34a",
         "type": "tabs",
         "children": [
           {
-            "id": "5a96fce719ef856c",
+            "id": "8557b41f000ddfb7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Projects/PID/Code Documentation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c1030e11f6923e4b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -23,26 +38,13 @@
             }
           },
           {
-            "id": "14fb3cc6f60e962a",
+            "id": "242353deece9e357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
+                "file": "Resources/Python/Pygame notes.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02c973da8493cfc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -63,7 +65,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38d930cc7c142fd3",
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9ab71fc25a436d2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -81,37 +98,15 @@
             }
           },
           {
-            "id": "0d9a2f8aed13fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "54289b9de94bd0b5",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "9ab6b183351d7339",
+            "id": "7a3707bc446fb6fd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,13 +121,42 @@
         "type": "tabs",
         "children": [
           {
+            "id": "703eba2feea725e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-06 20.37.33.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dab8911558a29618",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-06 20.37.33.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "e52e0e0a9e5d8016",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -142,101 +166,73 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md"
-              }
-            }
-          },
-          {
-            "id": "06a797fa18dc8d51",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "85eaf91faea7d71a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Excalidraw/Drawing 2023-07-06 20.37.33.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "canvas:Create new canvas": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "38d930cc7c142fd3",
+  "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
-    "Excalidraw/Two sum 2.md",
-    "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
-    "Excalidraw",
-    "Areas/Projects/LeetCode/Questions/TwoPointers-PalindroneNumbers.md",
-    "Areas/Projects/LeetCode/Questions/Two Sum.md",
-    "Areas/Projects/A star/A Star algorithm vid notes.md",
-    "Areas/Projects/Guitar/Creep Chords.md",
-    "Areas/Projects/Guitar/Yellow.md",
-    "Areas/Projects/A star/implementation.md",
-    "Resources/assorted media/Excalidraw/Drawing 2023-06-10 21.58.26.excalidraw.md",
-    "Resources/assorted media/Excalidraw/Drawing 2023-06-13 19.48.17.excalidraw.md",
-    "Resources/assorted media/Pasted Image 20230613195002_207.png",
-    "Resources/assorted media/Pasted image 20221009214700.png",
-    "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
-    "Resources/assorted media/GRAPH EXAMPLE.png",
-    "Resources/Mathjax.md",
-    "Resources/assorted media/Excalidraw/G component.md",
     "Resources/Python/Pygame notes.md",
-    "Resources/Python/functions.md",
+    "Excalidraw/Drawing 2023-07-06 20.37.33.excalidraw.md",
+    "Areas/Projects/LeetCode/Questions/Two Sum.md",
+    "Areas/Projects/LeetCode/Questions/TwoPointers-PalindroneNumbers.md",
+    "Areas/Projects/LeetCode/Questions/217. Contains Duplicate.md",
+    "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
+    "Areas/Projects/LeetCode/Questions/20. Valid Parentheses-Stack data structures.md",
+    "Areas/Projects/LeetCode/Questions/12. Integer to Roman.md",
     "Resources/Python/Notes on Mp3 librarys for python.md",
-    "Resources/Python/concepts.md",
-    "Resources/links.md",
-    "Areas/Projects/Guitar",
-    "Areas/Projects/A star/Untitled.md",
-    "Resources/markdown-cheat-sheet.md",
-    "Areas/Projects/LeetCode/concepts/Binary search.md",
-    "Resources/assorted media/Excalidraw/distance Comparison.md",
-    "Areas/Projects/A star",
-    "Areas/Projects/PID/PID reasorces.md",
-    "Excalidraw/Drawing 2023-03-07 11.53.34.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-05 19.47.15.excalidraw.md",
-    "Resources/P.A.R.A note taking.md",
+    "Resources/Python/Functions and Operators.md",
+    "Excalidraw/Two sum 2.md",
+    "Areas/Projects/Robot arm.md",
+    "Areas/Projects/PID/Wiring And planning.md",
     "Areas/Projects/PID/Code Documentation.md",
+    "Areas/Projects/Discord bot.md",
+    "Areas/Projects/PID/PID reasorces.md",
+    "Resources/assorted media/Excalidraw/distance Comparison.md",
+    "Areas/Projects/A star/A Star algorithm vid notes.md",
+    "Resources/Python/Notes on Tkinter.md",
+    "Resources/Python/concepts.md",
+    "Screenshot 2023-05-30 153423.png.md",
+    "Areas/Projects/A star/implementation.md",
+    "Areas/Projects/Guitar/Creep Chords.md",
+    "Areas/Projects/LeetCode/concepts/Binary search.md",
+    "desktop.ini",
+    "Resources/assorted media/Pasted Image 20230613195002_207.png",
+    "Resources/assorted media/Excalidraw/G component.md",
+    "Resources/assorted media/Excalidraw/Drawing 2023-06-13 19.48.17.excalidraw.md",
+    "Resources/assorted media/Excalidraw",
     "Areas/Projects/LeetCode/concepts",
     "Areas/Projects/LeetCode/Questions",
-    "desktop.ini",
-    "Areas/Projects/PID",
-    "Areas/Projects/LeetCode",
+    "Areas/Projects/Guitar",
+    "Areas/Projects/A star",
     "Untitled.canvas",
-    "Resources/assorted media/Excalidraw",
+    "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
+    "Areas/Projects/LeetCode",
+    "Areas/Projects/PID",
+    "Resources/assorted media/GRAPH EXAMPLE.png",
+    "Excalidraw",
+    "Areas/Projects/MP3 player",
+    "Resources/assorted media/Pasted image 20221009214700.png",
     "Resources/assorted media/copy-list-in-python.png"
   ]
 }
