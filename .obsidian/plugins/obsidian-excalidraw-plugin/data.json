@@ -1,7 +1,7 @@
 {
-  "folder": "Excalidraw",
+  "folder": "Resources/assorted media/Excalidraw",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "Excalidraw/Template.excalidraw",
+  "templateFilePath": "Resources/assorted media/Excalidraw/Template.md",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
   "autosave": true,

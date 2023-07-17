@@ -14,5 +14,10 @@ eventually every important link should have its own file :) **checkmark just mar
 	- [ ] slash commands 
 	- [ ] lightbulb
 - [ ] importing classes objects from other files 
+- [ ] mp3 Library
+- [ ] pygame
+	- [ ] Sprites 
+	- [ ] input/keyboard in 
+	- [ ] 
 
 

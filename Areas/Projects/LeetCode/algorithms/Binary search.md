@@ -41,7 +41,7 @@ print(findNum(29,primes))
 
 ## Center Calculation 
 
-![[Drawing 2023-06-10 21.58.26.excalidraw|700]]
+![[midpoint|700]]
 
 The calculation as we see follows the formula $min+\frac{max-min}{2}$ this is because if we take the distance in-between the range so max and min and divide it by 2 we get the distance between min to the center. To make this distance relative we just add the min. The other way would be to use the max, that formula would be $max-\frac{max-min}{2}$ 
 

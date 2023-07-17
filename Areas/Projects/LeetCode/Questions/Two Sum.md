@@ -1,6 +1,7 @@
 This was a [leetCode](https://leetcode.com/problems/two-sum/description/) problem my very First this will try to explain my solution and work though the answer with notes
 
-## Description
+
+## Description #leetCode
 <div class="_1l1MA" data-track-load="qd_description_content"><p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
 
 <p>You may assume that each input would have <strong><em>exactly</em> one solution</strong>, and you may not use the <em>same</em> element twice.</p>
@@ -106,7 +107,7 @@ Numbers   Target  Program out (Indexes of the solution)
 
 This orrigionaly was planned to be implemented into the main search because it is bad practice to solve for exeptions as you usualy want a function that can handle all input instead of having to rely on edge case computing outside of the function.
 
-### Brute Force search
+### Brute Force search #bruteForce
 ```python
 for firstNum in nums:
 	for itNum in nums:

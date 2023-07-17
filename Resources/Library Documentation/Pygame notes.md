@@ -2,6 +2,25 @@
 
 # Pygame objects 
 
+### pygame.Sprite.Group()
+The sprite group object is a way to as you guessed group together sprites. The object is a container for sprites and allows the user to instead of looping over all used sprites or individual doing actions you can group them together and apply sprite methods.
+```python
+newGroup = pygame.sprite.Group()
+#constructer
+```
+#### Methods
+```python 
+newGroup.add(mySpriteObj)
+# Adds a sprite to the group
+
+newGroup.has(mySpriteObj)
+# Checks if the container has the sprite similar to "in" keyword
+
+newGroup.draw(displayObj)
+# "blits" the sprites on the canvas. Meaning it overlays the drawing on top of whatevers on the canvas 
+```
+
+
 ### pygame.Surface()
 Basic object for representing images 
 ```python

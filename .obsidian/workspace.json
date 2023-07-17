@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a19a8145186a34a",
+        "id": "db72512d6edf1fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "8557b41f000ddfb7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Projects/PID/Code Documentation.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c1030e11f6923e4b",
+            "id": "ca7cc9cfc71a8e4d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -38,12 +23,27 @@
             }
           },
           {
-            "id": "242353deece9e357",
+            "id": "389783fe6707a650",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Projects/A star/PseudoCode for A*.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "485b78f85aefe800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Python/Pygame notes.md",
+                "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#resource",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-06 20.37.33.excalidraw.md",
+                "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-06 20.37.33.excalidraw.md",
+                "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-06 20.37.33.excalidraw.md"
+                "file": "Areas/Projects/A star/A Star algorithm vid notes.md"
               }
             }
           }
@@ -192,46 +192,46 @@
   },
   "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
-    "Resources/Python/Pygame notes.md",
-    "Excalidraw/Drawing 2023-07-06 20.37.33.excalidraw.md",
-    "Areas/Projects/LeetCode/Questions/Two Sum.md",
-    "Areas/Projects/LeetCode/Questions/TwoPointers-PalindroneNumbers.md",
-    "Areas/Projects/LeetCode/Questions/217. Contains Duplicate.md",
+    "Areas/Projects/A star/implementation.md",
+    "Areas/Projects/A star/PseudoCode for A*.md",
+    "Areas/Projects/A star/A Star algorithm vid notes.md",
+    "Areas/Projects/Space Traders/Front End.md",
+    "Areas/Projects/Space Traders/Rest Api.md",
+    "Areas/Projects/Guitar/Yellow.md",
+    "Resources/Note taking",
+    "Resources/Library Documentation",
+    "Areas/school/event notes.md",
+    "Areas/school/Workflow.md",
+    "Archives/Projects",
+    "Areas/Projects/Space Traders",
+    "Untitled",
+    "Areas/Projects/LeetCode/algorithms/Binary search.md",
+    "Resources/assorted media/Excalidraw/Two sum 2.md",
+    "Resources/assorted media/Excalidraw/Template.md",
+    "Resources/assorted media/Excalidraw/midpoint.md",
+    "Resources/assorted media/Excalidraw/linked list no loop.md",
+    "Resources/assorted media/Excalidraw/linked list graphic.md",
+    "Resources/assorted media/Excalidraw/G component.md",
+    "Resources/assorted media/Excalidraw/Drawing 2023-07-09 22.38.15.excalidraw.md",
+    "Resources/assorted media/Excalidraw/distance Comparison.md",
+    "Resources/assorted media/Excalidraw/code into linked list.md",
     "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
+    "Areas/Projects/LeetCode/Questions/141. Linked List Cycle.md",
     "Areas/Projects/LeetCode/Questions/20. Valid Parentheses-Stack data structures.md",
     "Areas/Projects/LeetCode/Questions/12. Integer to Roman.md",
-    "Resources/Python/Notes on Mp3 librarys for python.md",
-    "Resources/Python/Functions and Operators.md",
-    "Excalidraw/Two sum 2.md",
-    "Areas/Projects/Robot arm.md",
-    "Areas/Projects/PID/Wiring And planning.md",
-    "Areas/Projects/PID/Code Documentation.md",
-    "Areas/Projects/Discord bot.md",
-    "Areas/Projects/PID/PID reasorces.md",
-    "Resources/assorted media/Excalidraw/distance Comparison.md",
-    "Areas/Projects/A star/A Star algorithm vid notes.md",
-    "Resources/Python/Notes on Tkinter.md",
-    "Resources/Python/concepts.md",
-    "Screenshot 2023-05-30 153423.png.md",
-    "Areas/Projects/A star/implementation.md",
-    "Areas/Projects/Guitar/Creep Chords.md",
-    "Areas/Projects/LeetCode/concepts/Binary search.md",
+    "Areas/Projects/LeetCode/Questions/217. Contains Duplicate.md",
+    "Areas/Projects/LeetCode/Questions/Two Sum.md",
+    "Areas/Projects/LeetCode/Questions/TwoPointers-PalindroneNumbers.md",
+    "Areas/Projects/LeetCode/algorithms/Floyd's tortoise and hare.md",
+    "Areas/Projects/LeetCode/Data structures",
     "desktop.ini",
     "Resources/assorted media/Pasted Image 20230613195002_207.png",
-    "Resources/assorted media/Excalidraw/G component.md",
-    "Resources/assorted media/Excalidraw/Drawing 2023-06-13 19.48.17.excalidraw.md",
     "Resources/assorted media/Excalidraw",
-    "Areas/Projects/LeetCode/concepts",
+    "Areas/Projects/LeetCode/algorithms",
     "Areas/Projects/LeetCode/Questions",
-    "Areas/Projects/Guitar",
-    "Areas/Projects/A star",
     "Untitled.canvas",
     "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
-    "Areas/Projects/LeetCode",
-    "Areas/Projects/PID",
     "Resources/assorted media/GRAPH EXAMPLE.png",
-    "Excalidraw",
-    "Areas/Projects/MP3 player",
     "Resources/assorted media/Pasted image 20221009214700.png",
     "Resources/assorted media/copy-list-in-python.png"
   ]

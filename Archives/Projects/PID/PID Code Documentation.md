@@ -1,8 +1,8 @@
-This is the explanation for individual code segments and ideas for future reference and for grading of the PID assignment 
+This is the explanation for individual code segments and ideas for future reference and for grading of the PID assignment #Engineering  
 
 
 
-## RPM computation
+## RPM computation 
 The RPM computation is the system which takes the Rotations per minute and also manages the overall debug functions to efficiently allow consistent output.
 
 ### Initial development Problems
