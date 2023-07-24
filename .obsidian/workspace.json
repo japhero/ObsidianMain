@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "485b78f85aefe800",
+            "id": "a51819706a0c8640",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
+                "file": "Areas/Projects/A star/implementation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
+                "file": "Areas/Projects/A star/implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/A star/A Star algorithm vid notes.md",
+                "file": "Areas/Projects/A star/implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Projects/A star/A Star algorithm vid notes.md"
+                "file": "Areas/Projects/A star/implementation.md"
               }
             }
           }
@@ -192,43 +192,43 @@
   },
   "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
-    "Areas/Projects/A star/implementation.md",
-    "Areas/Projects/A star/PseudoCode for A*.md",
-    "Areas/Projects/A star/A Star algorithm vid notes.md",
-    "Areas/Projects/Space Traders/Front End.md",
-    "Areas/Projects/Space Traders/Rest Api.md",
-    "Areas/Projects/Guitar/Yellow.md",
-    "Resources/Note taking",
-    "Resources/Library Documentation",
-    "Areas/school/event notes.md",
-    "Areas/school/Workflow.md",
-    "Archives/Projects",
-    "Areas/Projects/Space Traders",
-    "Untitled",
+    "Areas/Projects/LeetCode/Data structures/Linked list.md",
+    "Areas/Projects/LeetCode/algorithms/Floyd's tortoise and hare.md",
     "Areas/Projects/LeetCode/algorithms/Binary search.md",
-    "Resources/assorted media/Excalidraw/Two sum 2.md",
-    "Resources/assorted media/Excalidraw/Template.md",
-    "Resources/assorted media/Excalidraw/midpoint.md",
-    "Resources/assorted media/Excalidraw/linked list no loop.md",
-    "Resources/assorted media/Excalidraw/linked list graphic.md",
-    "Resources/assorted media/Excalidraw/G component.md",
-    "Resources/assorted media/Excalidraw/Drawing 2023-07-09 22.38.15.excalidraw.md",
-    "Resources/assorted media/Excalidraw/distance Comparison.md",
-    "Resources/assorted media/Excalidraw/code into linked list.md",
-    "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
-    "Areas/Projects/LeetCode/Questions/141. Linked List Cycle.md",
-    "Areas/Projects/LeetCode/Questions/20. Valid Parentheses-Stack data structures.md",
     "Areas/Projects/LeetCode/Questions/12. Integer to Roman.md",
+    "Areas/Projects/LeetCode/Questions/20. Valid Parentheses-Stack data structures.md",
+    "Areas/Projects/LeetCode/Questions/141. Linked List Cycle.md",
+    "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
     "Areas/Projects/LeetCode/Questions/217. Contains Duplicate.md",
     "Areas/Projects/LeetCode/Questions/Two Sum.md",
     "Areas/Projects/LeetCode/Questions/TwoPointers-PalindroneNumbers.md",
-    "Areas/Projects/LeetCode/algorithms/Floyd's tortoise and hare.md",
+    "Archives/Projects/Robot arm.md",
+    "Areas/Projects/A star/PseudoCode for A*.md",
+    "Areas/Projects/Hasso Plattner/Professer interview.md",
+    "Areas/Projects/Hasso Plattner/Reaserch info.md",
+    "Areas/Projects/Space Traders/Brain dump.md",
+    "Areas/Projects/Space Traders/Front End.md",
+    "Areas/Projects/Space Traders/Rest Api.md",
+    "Areas/Projects/A star/implementation.md",
+    "Archives/Projects/PID/Wiring And planning.md",
+    "Archives/Projects/PID/PID resource links.md",
+    "Archives/Projects/PID/PID Code Documentation.md",
+    "Areas/Projects/A star/A Star algorithm vid notes.md",
+    "Areas/Projects/Hasso Plattner",
+    "Areas/Projects/Space Traders/Untitled.md",
+    "Resources/Note taking/markdown-cheat-sheet.md",
+    "Resources/Python Docs/Functions and Operators.md",
+    "Resources/Python Docs/concepts.md",
+    "Resources/Note taking",
+    "Resources/Library Documentation",
+    "Archives/Projects",
+    "Areas/Projects/Space Traders",
+    "Untitled",
     "Areas/Projects/LeetCode/Data structures",
     "desktop.ini",
     "Resources/assorted media/Pasted Image 20230613195002_207.png",
     "Resources/assorted media/Excalidraw",
     "Areas/Projects/LeetCode/algorithms",
-    "Areas/Projects/LeetCode/Questions",
     "Untitled.canvas",
     "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
     "Resources/assorted media/GRAPH EXAMPLE.png",
