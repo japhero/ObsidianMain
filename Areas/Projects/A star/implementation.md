@@ -50,22 +50,33 @@ This line of code is used to innitalize the priority queue object/queue to set t
 
 	while True:
 		top = queue.get()
-		# print(top[2].G)
+		# getting the object with the highest priority or F score 
+		
 		topNeighbors = top[2].getNeighbors(grid)
+		# Getting the list of nighbors for the selected "top" node
+
 		for Neighbor in topNeighbors:
+			# Going through all neighbors of the top node 
 			
-			H_Score = Neighbor.getHscore(end)		
+			H_Score = Neighbor.getHscore(end)
+			# Getting the Hscore score of the current neighbor
+
 			Fscore = H_Score + Neighbor.G
+			#creating the F score of the current neighbor
 			
-			
-			if Neighbor == end:
+			if Neighbor == end: # Checks if we found the end node 
+				
 				backTrack(top[2],start)
+					# Tracing back the fastest way to the start after
+					# finding the end node.
 				return False
+				# Break out of the loop 
 				
 			
 			queue.put((Fscore,n,Neighbor))
+			# Adds the nieghbors to the priority queue 
 			n+=1
-			
+			# makes an order for all of the objects in the queue 
 		draw(grid)
 
 ```
