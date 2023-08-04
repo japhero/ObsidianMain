@@ -23,13 +23,15 @@
             }
           },
           {
-            "id": "8f14825a79ffb48c",
+            "id": "6ab0bcd8676074b6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Archives/Projects/Hasso Plattner/Professer interview.md",
-                "staged": false
+                "file": "Areas/Projects/DMV Permit/DMV notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -109,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas/Projects/DMV Permit/DMV notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/Projects/DMV Permit/DMV notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Areas/Projects/DMV Permit/DMV notes.md"
+              }
             }
           }
         ],
@@ -171,6 +177,8 @@
   },
   "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
+    "Resources/assorted media/Pasted image 20230804120331.png",
+    "Areas/Projects/A star/A Star algorithm vid notes.md",
     "Areas/Projects/DMV Permit/Missed questions.md",
     "Areas/Projects/DMV Permit/DMV notes.md",
     "Areas/Projects/DMV Permit",
@@ -183,7 +191,6 @@
     "Resources/Library Documentation/Notes on Tkinter.md",
     "Areas/Projects/A star/implementation.md",
     "Areas/Projects/A star/PseudoCode for A*.md",
-    "Areas/Projects/A star/A Star algorithm vid notes.md",
     "Resources/Library Documentation/Notes on Mp3 librarys for python.md",
     "Resources/Library Documentation/Pygame notes.md",
     "Resources/assorted media/Excalidraw/code into linked list.md",
@@ -198,7 +205,6 @@
     "Areas/Projects/LeetCode/Questions/Two Sum.md",
     "Areas/Projects/LeetCode/Questions/TwoPointers-PalindroneNumbers.md",
     "Archives/Projects/Robot arm.md",
-    "Archives/Projects/Hasso Plattner/Professer interview.md",
     "Archives/Projects/Hasso Plattner",
     "Resources/Note taking",
     "Resources/Library Documentation",
