@@ -24,12 +24,10 @@
             "id": "44de8762b060f745",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Areas/Projects/Room remodel/Poster list.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -126,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Areas/Projects/Room remodel/Poster list.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/Room remodel/Poster list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/Room remodel/Poster list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +176,10 @@
   },
   "active": "38d930cc7c142fd3",
   "lastOpenFiles": [
-    "Archives/DMV Permit/DMV notes.md",
+    "Resources/assorted media/Pasted image 20230804120331.png",
+    "conflict-files-obsidian-git.md",
     "Areas/Projects/Room remodel/Poster list.md",
+    "Archives/DMV Permit/DMV notes.md",
     "Areas/Projects/Room remodel",
     "Areas/Projects/DMV Permit/Untitled.md",
     "Archives/DMV Permit/Missed questions.md",
@@ -208,8 +204,6 @@
     "Archives/Projects/Robot arm.md",
     "Archives/Projects/PID/Wiring And planning.md",
     "Archives/Projects/PID/PID resource links.md",
-    "Archives/Projects/PID/PID Code Documentation.md",
-    "Archives/Guitar/Yellow.md",
     "Resources/Python Docs",
     "Resources/Note taking",
     "Resources/Library Documentation",
