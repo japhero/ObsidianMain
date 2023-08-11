@@ -8,15 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44de8762b060f745",
+<<<<<<< HEAD
+=======
+            "id": "f95a1ed6fc5a03b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/Room remodel/Poster list.md",
+                "file": "Archives/DMV Permit/Missed questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+>>>>>>> beba19b517863c0b9c92f3cfd98571c4220e2922
+            "id": "44de8762b060f745",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -112,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Areas/Projects/Room remodel/Poster list.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/Room remodel/Poster list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/Room remodel/Poster list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,6 +178,7 @@
   },
   "active": "38d930cc7c142fd3",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Archives/Projects/DMV Permit/Missed questions.md",
     "Archives/Projects/DMV Permit/DMV notes.md",
     "Archives/Projects/DMV Permit",
@@ -176,6 +187,10 @@
     "Archives/Projects/Guitar",
     "conflict-files-obsidian-git.md",
     "Resources/assorted media/Pasted image 20230804120331.png",
+=======
+    "Resources/assorted media/Pasted image 20230804120331.png",
+    "conflict-files-obsidian-git.md",
+>>>>>>> beba19b517863c0b9c92f3cfd98571c4220e2922
     "Areas/Projects/Room remodel/Poster list.md",
     "Archives/DMV Permit/DMV notes.md",
     "Areas/Projects/Room remodel",
@@ -199,12 +214,23 @@
     "Resources/Note taking/P.A.R.A note taking.md",
     "Resources/Note taking/Mathjax.md",
     "Areas/Projects/A star/PseudoCode.md",
+<<<<<<< HEAD
+=======
+    "Archives/Projects/Robot arm.md",
+    "Archives/Projects/PID/Wiring And planning.md",
+    "Archives/Projects/PID/PID resource links.md",
+>>>>>>> beba19b517863c0b9c92f3cfd98571c4220e2922
     "Resources/Python Docs",
     "Resources/Note taking",
     "Resources/Library Documentation",
     "Areas/Projects/Space Traders",
     "Areas/Projects/LeetCode/algorithms",
     "Areas/Projects/LeetCode/Data structures",
+<<<<<<< HEAD
+=======
+    "Areas/Projects/LeetCode/concepts",
+    "Areas/Projects/Guitar",
+>>>>>>> beba19b517863c0b9c92f3cfd98571c4220e2922
     "Resources/assorted media/copy-list-in-python.png",
     "Resources/assorted media/Pasted Image 20230613195002_207.png",
     "Resources/assorted media/Pasted image 20221009214700.png",
