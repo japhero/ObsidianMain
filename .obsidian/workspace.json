@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/DMV Permit/Missed questions.md",
+                "file": "Archives/DMV Permit/Missed questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/DMV Permit/DMV notes.md",
+                "file": "Areas/Projects/Room remodel/Poster list.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Projects/DMV Permit/DMV notes.md"
+                "file": "Areas/Projects/Room remodel/Poster list.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/DMV Permit/DMV notes.md",
+                "file": "Areas/Projects/Room remodel/Poster list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/DMV Permit/DMV notes.md",
+                "file": "Areas/Projects/Room remodel/Poster list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,10 +182,13 @@
   },
   "active": "38d930cc7c142fd3",
   "lastOpenFiles": [
-    "Areas/Projects/DMV Permit/Missed questions.md",
-    "Areas/Projects/DMV Permit/DMV notes.md",
+    "Archives/DMV Permit/DMV notes.md",
+    "Areas/Projects/Room remodel/Poster list.md",
+    "Areas/Projects/Room remodel",
+    "Areas/Projects/DMV Permit/Untitled.md",
+    "Archives/DMV Permit/Missed questions.md",
     "Areas/Projects/A star/A Star algorithm vid notes.md",
-    "Areas/Projects/DMV Permit",
+    "Archives/DMV Permit",
     "Archives/Projects/Hasso Plattner/Reaserch_info.md",
     "Archives/Projects/Hasso Plattner/Professer_Interview.md",
     "Areas/Projects/A star/implementation.md",
@@ -207,17 +210,14 @@
     "Archives/Projects/PID/PID resource links.md",
     "Archives/Projects/PID/PID Code Documentation.md",
     "Archives/Guitar/Yellow.md",
-    "Archives/Guitar/Creep Chords.md",
     "Resources/Python Docs",
     "Resources/Note taking",
     "Resources/Library Documentation",
     "Areas/Projects/Space Traders",
     "Areas/Projects/LeetCode/algorithms",
     "Areas/Projects/LeetCode/Data structures",
-    "Screenshot 2023-05-30 153423.png.md",
     "Areas/Projects/LeetCode/concepts",
     "Areas/Projects/Guitar",
-    "Archives/Projects/Hasso Plattner",
     "Resources/assorted media/copy-list-in-python.png",
     "Resources/assorted media/Pasted Image 20230613195002_207.png",
     "Resources/assorted media/Pasted image 20221009214700.png",
