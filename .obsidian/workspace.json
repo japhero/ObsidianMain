@@ -4,37 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "e4807ff1575dc20c",
+        "id": "db72512d6edf1fb2",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-=======
-            "id": "f95a1ed6fc5a03b1",
+            "id": "ca7cc9cfc71a8e4d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/DMV Permit/Missed questions.md",
-                "mode": "source",
+                "file": "Archives/Projects/A star/A Star algorithm vid notes.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
->>>>>>> beba19b517863c0b9c92f3cfd98571c4220e2922
-            "id": "44de8762b060f745",
+            "id": "6ab0bcd8676074b6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +45,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38d930cc7c142fd3",
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#resource",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9ab71fc25a436d2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -66,37 +78,15 @@
             }
           },
           {
-            "id": "0d9a2f8aed13fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "54289b9de94bd0b5",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "9ab6b183351d7339",
+            "id": "7a3707bc446fb6fd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,13 +101,40 @@
         "type": "tabs",
         "children": [
           {
+            "id": "703eba2feea725e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dab8911558a29618",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "e52e0e0a9e5d8016",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -128,114 +145,71 @@
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "06a797fa18dc8d51",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "85eaf91faea7d71a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "canvas:Create new canvas": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "38d930cc7c142fd3",
+  "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Archives/Projects/DMV Permit/Missed questions.md",
-    "Archives/Projects/DMV Permit/DMV notes.md",
-    "Archives/Projects/DMV Permit",
+    "Areas/Projects/Collage essay Practice/Essay prep.md",
+    "Areas/Projects/Collage essay Practice/Main essay.md",
+    "Areas/Projects/Space Traders/Front End.md",
+    "Areas/Projects/Collage essay Practice/Untitled",
+    "Areas/Projects/Collage essay Practice",
+    "Resources/Library Documentation/Notes on Tkinter.md",
+    "Areas/Projects/Space Traders/Brain dump.md",
+    "Areas/Projects/Space Traders/Rest Api.md",
+    "Areas/Projects/Room remodel/Poster list.md",
+    "Areas/Projects/Room remodel",
     "Archives/Projects/Guitar/Yellow.md",
     "Archives/Projects/Guitar/Creep Chords.md",
     "Archives/Projects/Guitar",
-    "conflict-files-obsidian-git.md",
+    "Archives/Projects/DMV Permit/Missed questions.md",
+    "Archives/Projects/DMV Permit/DMV notes.md",
+    "Archives/Projects/DMV Permit",
+    "Areas/Projects/DMV Permit/DMV notes.md",
     "Resources/assorted media/Pasted image 20230804120331.png",
-=======
-    "Resources/assorted media/Pasted image 20230804120331.png",
-    "conflict-files-obsidian-git.md",
->>>>>>> beba19b517863c0b9c92f3cfd98571c4220e2922
-    "Areas/Projects/Room remodel/Poster list.md",
-    "Archives/DMV Permit/DMV notes.md",
-    "Areas/Projects/Room remodel",
-    "Areas/Projects/DMV Permit/Untitled.md",
-    "Archives/DMV Permit/Missed questions.md",
-    "Areas/Projects/A star/A Star algorithm vid notes.md",
-    "Archives/DMV Permit",
+    "Archives/Projects/A star/A Star algorithm vid notes.md",
+    "Areas/Projects/DMV Permit/Missed questions.md",
+    "Areas/Projects/DMV Permit",
+    "Archives/Projects/A star/PseudoCode.md",
     "Archives/Projects/Hasso Plattner/Reaserch_info.md",
     "Archives/Projects/Hasso Plattner/Professer_Interview.md",
-    "Areas/Projects/A star/implementation.md",
-    "Resources/assorted media/Excalidraw/midpoint.md",
-    "Resources/assorted media/Excalidraw/linked list no loop.md",
-    "Resources/assorted media/Excalidraw/linked list graphic.md",
+    "Areas/Projects/Hasso Plattner/Professer interview.md",
+    "Areas/Projects/Hasso Plattner/Reaserch info.md",
+    "Areas/Projects/Hasso Plattner",
+    "Archives/Projects/A star/implementation.md",
+    "Areas/Projects/A star/PseudoCode for A*.md",
+    "Resources/Library Documentation/Notes on Mp3 librarys for python.md",
+    "Resources/Library Documentation/Pygame notes.md",
     "Resources/assorted media/Excalidraw/code into linked list.md",
-    "Resources/assorted media/Excalidraw/Two sum 2.md",
-    "Resources/assorted media/Excalidraw/Template.md",
-    "Resources/assorted media/Excalidraw/Drawing 2023-07-09 22.38.15.excalidraw.md",
-    "Resources/Python Docs/concepts.md",
-    "Resources/Python Docs/Functions and Operators.md",
-    "Resources/Note taking/markdown-cheat-sheet.md",
-    "Resources/Note taking/P.A.R.A note taking.md",
-    "Resources/Note taking/Mathjax.md",
-    "Areas/Projects/A star/PseudoCode.md",
-<<<<<<< HEAD
-=======
-    "Archives/Projects/Robot arm.md",
-    "Archives/Projects/PID/Wiring And planning.md",
-    "Archives/Projects/PID/PID resource links.md",
->>>>>>> beba19b517863c0b9c92f3cfd98571c4220e2922
-    "Resources/Python Docs",
+    "Areas/Projects/LeetCode/Data structures/Linked list.md",
+    "Areas/Projects/LeetCode/algorithms/Floyd's tortoise and hare.md",
+    "Archives/Projects/Hasso Plattner",
     "Resources/Note taking",
     "Resources/Library Documentation",
-    "Areas/Projects/Space Traders",
-    "Areas/Projects/LeetCode/algorithms",
-    "Areas/Projects/LeetCode/Data structures",
-<<<<<<< HEAD
-=======
-    "Areas/Projects/LeetCode/concepts",
-    "Areas/Projects/Guitar",
->>>>>>> beba19b517863c0b9c92f3cfd98571c4220e2922
-    "Resources/assorted media/copy-list-in-python.png",
     "Resources/assorted media/Pasted Image 20230613195002_207.png",
-    "Resources/assorted media/Pasted image 20221009214700.png",
+    "Untitled.canvas",
     "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
     "Resources/assorted media/GRAPH EXAMPLE.png",
-    "Untitled.canvas"
+    "Resources/assorted media/Pasted image 20221009214700.png",
+    "Resources/assorted media/copy-list-in-python.png"
   ]
 }
