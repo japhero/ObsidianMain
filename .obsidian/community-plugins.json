@@ -1,8 +1,9 @@
 [
   "obsidian-kanban",
-  "obsidian-languagetool-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-imgur-plugin",
-  "media-extended"
+  "media-extended",
+  "templater-obsidian",
+  "obsidian-underline"
 ]
