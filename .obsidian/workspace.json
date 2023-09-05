@@ -47,8 +47,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3416be75bd8b795f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Resources/PDF versions/Chapter 2 notes.pdf"
+              }
+            }
+          },
+          {
+            "id": "3aa81e070f629b21",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Resources/PDF versions/Chapter 2 notes.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Projects/school/APUSH/Book notes/Chapter 2 notes.md"
+                "file": "Resources/PDF versions/Chapter 2 notes.pdf"
               }
             }
           },
@@ -151,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/school/APUSH/Book notes/Chapter 2 notes.md",
+                "file": "Resources/PDF versions/Chapter 2 notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/school/APUSH/Book notes/Chapter 2 notes.md",
+                "file": "Resources/PDF versions/Chapter 2 notes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +218,12 @@
   },
   "active": "38d930cc7c142fd3",
   "lastOpenFiles": [
-    "[.md",
     "Areas/Projects/school/APUSH/Book notes/Chapter 2 notes.md",
     "Resources/Note taking/Keybinds.md",
+    "Resources/PDF versions/Chapter 2 notes.pdf",
+    "Resources/PDF versions",
+    "Resources/New folder",
+    "[.md",
     "Resources/Note taking/markdown-cheat-sheet.md",
     "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
     "Resources/assorted media/Excalidraw/midpoint.md",
@@ -222,7 +246,6 @@
     "Areas/Projects/LeetCode/algorithms/Binary search.md",
     "Areas/Projects/school/TODO lists/09-04-2023.md",
     "Areas/Projects/LeetCode/Questions/12. Integer to Roman.md",
-    "Areas/Projects/LeetCode/Questions/20. Valid Parentheses-Stack data structures.md",
     "Resources/Templates",
     "Areas/Projects/school/APUSH/Book notes",
     "Areas/Projects/school/TODO lists",
@@ -230,9 +253,6 @@
     "Areas/Projects/Collage essay Practice",
     "Archives/Projects/A star",
     "Areas/Projects/A star",
-    "Areas/Projects/school",
-    "Archives/Projects/DMV Permit",
-    "Archives/Projects/Guitar",
     "Resources/assorted media/Pasted image 20230804120331.png",
     "Resources/assorted media/copy-list-in-python.png",
     "Resources/assorted media/Pasted Image 20230613195002_207.png",

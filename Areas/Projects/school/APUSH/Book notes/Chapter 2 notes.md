@@ -46,20 +46,21 @@ The notes are structured like a dump and will never be turned into structure unl
 - Agra tech in Jamestown was largely a product of Indians as they had traded or stolen their techniques. 
 - English learned a lot from the Indians.
 ### Maryland and the Calvert's
-- colony founded under diffrent circumstances from the VA colony.
+- colony founded under different circumstances from the VA colony.
 - The colony was the "dream of Gorge Calvert." the first lord Baltimore. 
 - Founded as a "speculative venture in real estate" and "retreat for Catholics." who felt opressed by Anglican establishments (the church).
 - Son granted charter of Pennsylvania, Delaware and VA.
 - 200 - 300 passengers established the St, Mary colony along the Potomac river.
-- they befriended the local Indians because the indians where more worried about rival tribes. 
-- The colony tried to convince Catholics and protestants 2% of the english pop to move to the colony
+- they befriended the local Indians because the Indians where more worried about rival tribes. 
+- The colony tried to convince Catholics and protestants 2% of the English pop to move to the colony
 ### Turbulent Virginia.
 - Sir William Berkeley was appointed Virginia gov by the king.
 ---
 # Terms for quiz
 ### The London Company
 The Virginia Company was an English trading company chartered by King James I on 10 April 1606 with the object of colonizing the eastern coast of America. The coast was named Virginia, after Elizabeth I, and it stretched from present-day Maine to the Carolinas.[1],[2],[3] The company's shareholders were Londoners, and it was distinguished from the Plymouth Company, which was chartered at the same time and composed largely of gentlemen from Plymouth, England.[4], [5], [6],[7]
-### John Smith
+### [John Smith](https://en.wikipedia.org/wiki/John_Smith_(explorer))
+John Smith (baptized 6 January 1580 – 21 June 1631) was an English soldier, explorer, colonial governor, admiral of New England, and author. He played an important role in the establishment of the colony at Jamestown, Virginia, the first permanent English settlement in North America, in the early 17th century. He was a leader of the Virginia Colony between September 1608 and August 1609, and he led an exploration along the rivers of Virginia and the Chesapeake Bay, during which he became the first English explorer to map the Chesapeake Bay area. [wiki](https://en.wikipedia.org/wiki/John_Smith_(explorer))
 ### “Starving Time”
 The winter of 1609-1610 a severe winter caused by supply ships getting destroyed in a storm. The colonists resorted to killing dogs and other animals to survive even some cannibalisms. 
 ### John Rolfe
@@ -74,7 +75,9 @@ Proprietaries are "absolute lords" that have to acknowledge the sovereignty of t
 
 ### Toleration Act
 ### Bacon’s Rebellion
+Bacons rebellion was a reactionary rebellion lead by Nathanial Bacon an aristocrat who was deeply unhappy with the Berkley (where he lived) government. After a white man was killed in a small raid by a small tribe bacon used the anger to defy the Berkley government and start a insurrection not only against the small tribe that killed the white man but also against the much bigger Susquehannock tribe. But what had started against a unauthorized assault on Indians had become a military challenge to the colonial government. Twice Bacon lead his army east to Jamestown first time gaining a pardon and second time he burned it down and drove the governor into exile. 
 ### Mayflower Compact
+Because the Plymouth colony was outside of the charter given to them by the British government the puritans realized they had no legal basis for staying there, for that reason the **Mayflower Compact** was created it established a civil government and swore allegiance to the king.
 
 ### Plymouth
 Starting in 1606  congregation of "separatists" (A religious group prosecuted by the Church of England) formed the Plymouth plantation in cape cod. They had previously seeked asylum in Leyden Holland but also suffered there and decided to permanently leave. They where permitted by [[#The London Company|the Virginia company]] to settle in British America saying the king would "not molest them". This was a historic concession as it allowed people of lower social class such as the Protestants Separatists and Puritans to settle in British America. Because of a storm on the way there they chose to start their colony in cape cod instead of New York city making their charter invalid.
@@ -96,8 +99,18 @@ William Penn the wealthy son of an Admiral in the Royal Navy who owned valuable 
 ### Indentured Servants
 Indentured servants where people brought over to British America to serve as workers they didn't pay the travel cost of crossing the Atlantic but in turn were obliged to work for 7 years usually on tobacco plantations. 
 ### Navigation Acts
+Gradually the English government made restrictions to the colony's trade first in 1651 passing laws keeping Dutch ships out of colonials ports. After the [[#Restoration]] Charles 2 adopted the **Navigation acts:**
+- Closed all trade to non English ships.
+- Restricted exports of tobacco to exclusively England
+- All goods shipped to the colonies must go thorough England first (for taxes).
+- Allowed appointed customs officials to regulate the laws.
+==These acts formed the Legal system of mercantilism.== 
 ### Dominion of New England
+in an attempt to exert more control over the colonies and to enforce the Navigation Acts Charles the 2nd took the territory of New Hampshire under the crown's control in personally appointed a government. After the government of Massachusetts defied the navigations act the crown also took away their territory and combined it with New Hampshire forming the **dominion of New England**.
+
 ### Glorious Revolution
+The glorious revolution describes series of events where James the 2nd try to regain the power of absolute monarch through Parliament this failed drastically as the opposition James was so great that parliament voted him out of his throne this bloody less coup became known as the glorious revolution.
+
 --- 
 ### links.
 [Quiz link](https:####/cvilleschools.instructure.com/courses/40037/calendar_events/119769?return_to=https%3A%2F%2Fcvilleschools.instructure.com%2Fcalendar%3Finclude_contexts%3Dcourse_40037%23view_name%3Dmonth%26view_start%3D2023-09-04)
