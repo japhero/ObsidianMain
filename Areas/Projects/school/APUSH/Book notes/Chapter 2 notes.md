@@ -69,11 +69,13 @@ The winter of 1609-1610 a severe winter caused by supply ships getting destroyed
 - This "transformed the Chesapeake society in fundamental ways."
 ### “Headright System”
 **Headrights** were 50 acre grants of land which new settlers could acquire in a variety of ways. Those who already live in the colony received 100 acres apiece. Each new settler received a single **Headrights** for himself or herself this system encouraged family groups to migrate together since the more family members travel to America the larger the land holding the family would receive.
-### 1622 Uprising
+### [1622 Uprising](https://en.wikipedia.org/wiki/Indian_massacre_of_1622)
+The 1622 uprising/massacare was a killing of the British settlers as a result of them trying to take lands from the powatan to grow tobbaco. The indians killed a quartar of the british collony.
 ### “proprietaries”
 Proprietaries are "absolute lords" that have to acknowledge the sovereignty of the crown by paying an annual fee. This status was granted to gorge culvert's family over the Pennsylvania charter. The crown would use this to give land in the Americas to people while still contractually making them pay fealty to the crown. 
 
-### Toleration Act
+### [Toleration Act](https://en.wikipedia.org/wiki/Toleration_Act_1688)
+The act signed by the british monarchy after the great revolution allowed "nonconformants"/protestants to worship if they pledged fielty to the king.
 ### Bacon’s Rebellion
 Bacons rebellion was a reactionary rebellion lead by Nathanial Bacon an aristocrat who was deeply unhappy with the Berkley (where he lived) government. After a white man was killed in a small raid by a small tribe bacon used the anger to defy the Berkley government and start a insurrection not only against the small tribe that killed the white man but also against the much bigger Susquehannock tribe. But what had started against a unauthorized assault on Indians had become a military challenge to the colonial government. Twice Bacon lead his army east to Jamestown first time gaining a pardon and second time he burned it down and drove the governor into exile. 
 ### Mayflower Compact
