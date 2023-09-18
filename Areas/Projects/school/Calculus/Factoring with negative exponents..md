@@ -1,7 +1,8 @@
-
+https://youtu.be/dOuI8pvevcw
 # Vid Notes dump 
 * Get the smaller Value when factoring this also applies with negative exponents get the **GCF** [00:45](https://www.youtube.com/watch?app=desktop&v=dOuI8pvevcw#t=45.09272695994568)
 
+*  exponent rule $$\frac{x^a}{x^b} = x^{a-b}$$
 # Examples 
 
 ## Example 1 
