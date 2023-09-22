@@ -1,4 +1,4 @@
-binary search is an algorithm that is used to find an "item" in a list. It works by repeatedly dividing in half the portion of the list that could contain the item, until you've narrowed down the possible locations to just one.
+	binary search is an algorithm that is used to find an "item" in a list. It works by repeatedly dividing in half the portion of the list that could contain the item, until you've narrowed down the possible locations to just one.
 
 ## Written example 
 One of the most common ways to use binary search is to find an item in an array. For example, the Tycho-2 star catalog contains information about the brightest 2,539,913 stars in our galaxy. Suppose that you want to search the catalog for a particular star, based on the star's name. If the program examined every star in the star catalog in order starting with the first, an algorithm called **linear search**, the computer might have to examine all 2,539,913 stars to find the star you were looking for, in the worst case. If the catalog were sorted alphabetically by star names, **binary search** would not have to examine more than 22 stars, even in the worst case. 
@@ -48,6 +48,6 @@ The calculation as we see follows the formula $min+\frac{max-min}{2}$ this is be
 
 ## Notes on code improvement
 * Probably could have used recursion for more space efficiency.
-* Defines <span style="color:orange"> curIndex</span> twice, yuck. Maby a Lambada would have worked.
+* Defines <span style="color:orange"> curIndex</span> twice, yuck. Maby a Lambada would have worked. (do while loop)
 * Maby better way to handle both cases with math instead of 2 ifs such as using the difference to calculate but works fine rn and doesn't rlly need more complication
 
