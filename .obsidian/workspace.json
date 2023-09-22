@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "9045e6f8a4d92657",
+            "id": "868687c2eb82379e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/TODO temp.md",
+                "file": "Archives/Projects/A star/A Star algorithm vid notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,13 +36,15 @@
             }
           },
           {
-            "id": "da59cf8321f2133f",
+            "id": "1dee59ce3a5b9ee8",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Python Docs/concepts.md",
-                "staged": false
+                "file": "Areas/Projects/school/Calculus/Implicit derivatives.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -109,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Areas/Projects/school/Calculus/Implicit derivatives.md"
+              }
             }
           },
           {
@@ -148,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas/Projects/school/Calculus/Implicit derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/Projects/school/Calculus/Implicit derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +207,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da59cf8321f2133f",
+  "active": "1dee59ce3a5b9ee8",
   "lastOpenFiles": [
+    "Areas/Projects/school/Calculus/Factoring with negative exponents..md",
+    "Archives/Projects/A star/A Star algorithm vid notes.md",
+    "Areas/Projects/school/Calculus/Implicit derivatives.md",
     "Resources/links.md",
     "Resources/School Docs/APUSH/1993 DBQ - Two Societies documents.pdf",
     "Resources/Python Docs/Functions and Operators.md",
@@ -209,7 +219,6 @@
     "Resources/PDF versions/Chapter 2 notes.pdf",
     "Resources/Note taking/Mathjax.md",
     "Resources/Note taking/P.A.R.A note taking.md",
-    "Areas/Projects/school/Calculus/Factoring with negative exponents..md",
     "Areas/Projects/school/TODO lists/09-17-2023.md",
     "Resources/School Docs/APUSH",
     "Resources/School Docs/New folder",
@@ -234,7 +243,6 @@
     "Areas/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
     "Resources/assorted media/Excalidraw/midpoint.md",
     "Resources/assorted media/Excalidraw/Template.md",
-    "Archives/Projects/A star/implementation.md",
     "Resources/Templates",
     "Areas/Projects/school/APUSH/Book notes",
     "Resources/assorted media/Pasted image 20230804120331.png",

@@ -15,7 +15,7 @@ We are trying to factor out the **GCF** (**G**reatest **C**ommon **F**actor)
 
 2. To find out what's the result we have to divide each piece by the **GCF**. 
 	1. First we will find the **GCF** which is $2x^{-2}$. 
-	2. Then divide by that **GCF** individually starting with  $2x^{-2}$
+	2. Then divide by that **GCF** individually starting with  $2x^{-5}$
 	3. We then actually create the division:  $\frac{2x^{-2}}{2x^{-5}}$
 
 
