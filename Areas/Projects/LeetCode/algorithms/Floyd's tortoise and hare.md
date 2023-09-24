@@ -1,7 +1,7 @@
 The algorithms purpose is to find cycles in a linked list data structure.
 
 ## Fast and Slow pointers
-The algorithm has 2 pointers that simultaneously continue on  the given [[linked list]] they do this until they reach one another or the next node returns [[null]] meaning that the list is not a loop.
+The algorithm has 2 pointers that simultaneously continue on  the given [[Linked list]] they do this until they reach one another or the next node returns [[null]] meaning that the list is not a loop.
 
 ![[linked list graphic|400]]
 

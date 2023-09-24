@@ -1,4 +1,4 @@
-The [[linked List]] data structure is a way to store and access data. It typically consists of [[node|nodes]]. Each node has 2 parts the data value and then the pointer to the next node. There are different types of linked lists, they differ in the way that the nodes point to the next. Some types of linked lists include
+The [[Linked list]] data structure is a way to store and access data. It typically consists of [[node|nodes]]. Each node has 2 parts the data value and then the pointer to the next node. There are different types of linked lists, they differ in the way that the nodes point to the next. Some types of linked lists include
 * [[#Singly linked list]]
 * [[# Doubly linked list]]
 * [[# Circular linked list]]
