@@ -1,7 +1,9 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "snippet"
+    "snippet",
+    "dashboard",
+    "dashboard-ReadLineLength"
   ],
   "baseFontSize": 18
 }

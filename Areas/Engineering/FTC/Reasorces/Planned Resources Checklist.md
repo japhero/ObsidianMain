@@ -1,0 +1,10 @@
+- [ ] Odometry 
+- [ ] Roadrunner
+- [ ] Android studio
+	- [x] Git token (Alexeis)
+	- [ ] prerequisites 
+	- [ ] Common bugs 
+	- [x] How to upload 
+	- [ ] Checklist for Setup.
+- [ ] Create a page that lists reasorces and a breif description of them.
+- [ ] 

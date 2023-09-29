@@ -8,51 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65925bbd4d796117",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Projects/LeetCode/Questions/74. Search a 2D Matrix.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0e375dca921ff520",
+            "id": "802eb5b4c701b539",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resources/assorted media/Excalidraw/74 part2.md"
-              }
-            }
-          },
-          {
-            "id": "1dee59ce3a5b9ee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Projects/LeetCode/Questions/74. Search a 2D Matrix.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "090ac05b39eb1cf0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resources/assorted media/Excalidraw/Matrix into linear.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -148,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Areas/Projects/LeetCode/Questions/74. Search a 2D Matrix.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Projects/LeetCode/Questions/74. Search a 2D Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Projects/LeetCode/Questions/74. Search a 2D Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,48 +165,47 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "canvas:Create new canvas": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65925bbd4d796117",
+  "active": "802eb5b4c701b539",
   "lastOpenFiles": [
-    "Resources/assorted media/Excalidraw/74 part2.md",
-    "Resources/assorted media/Excalidraw/Matrix into linear.md",
+    "Areas/Engineering/FTC/Personal notes/Notes checklist.md",
+    "Areas/Engineering/FTC/Personal notes/Roadrunner/Roadrunner tuning.md",
+    "Areas/Engineering/FTC/Personal notes/Misc notes",
+    "Areas/Engineering/FTC/Personal notes/links.md",
+    "Areas/Engineering/FTC/Personal notes/Roadrunner/Links.md",
+    "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
+    "Areas/Engineering/Eng Dashboard.md",
+    "Areas/Engineering/FTC/Personal notes/Misc notes/The Game.md",
+    "Areas/Engineering/FTC/Reasorces/Kinematics.md",
+    "Areas/Engineering/FTC/Personal notes/Roadrunner/Quick Start guide.md",
+    "Areas/Engineering/FTC/Personal notes/Roadrunner/Road  Runner directory.md",
+    "Areas/Engineering/FTC/Reasorces/Links.md",
+    "Areas/Engineering/FTC/Reasorces/PID control.md",
     "Areas/Projects/LeetCode/Questions/74. Search a 2D Matrix.md",
-    "Areas/Projects/LeetCode/algorithms/Binary search.md",
+    "Archives/Projects/A star/implementation.md",
+    "Areas/Engineering/FTC/Personal notes/Misc notes/Need to know terms.md",
+    "Areas/Engineering/FTC/Personal notes/Roadrunner",
+    "Areas/Engineering/FTC/Reasorces",
+    "Areas/Engineering/FTC/Intro 1.md",
+    "Areas/Engineering/FTC/Personal notes",
+    "Areas/Engineering/FTC/Untitled.md",
+    "Areas/Engineering/Drone Ftc/placeholder.md",
+    "Archives/Projects/PID/PID Code Documentation.md",
+    "Archives/Projects/PID/Wiring And planning.md",
+    "Archives/Projects/PID/PID resource links.md",
+    "Areas/Engineering/FTC",
+    "Areas/Engineering/Drone Ftc",
+    "Areas/Engineering",
     "Areas/Projects/Room remodel/Poster list.md",
-    "Resources/Note taking/P.A.R.A note taking.md",
-    "Areas/school/TODO lists/09-23-2023.md",
-    "Areas/school/Calculus/Implicit derivatives.md",
-    "Areas/school/Calculus/Factoring with negative exponents..md",
-    "Archives/Projects/A star/A Star algorithm vid notes.md",
-    "Resources/links.md",
+    "Resources/assorted media/Excalidraw/Matrix into linear.md",
+    "Resources/assorted media/Excalidraw/74 part2.md",
+    "Areas/Projects/LeetCode/algorithms/Binary search.md",
     "Resources/School Docs/APUSH/1993 DBQ - Two Societies documents.pdf",
-    "Resources/Python Docs/Functions and Operators.md",
-    "Resources/Python Docs/concepts.md",
     "Resources/PDF versions/Chapter 2 notes.pdf",
-    "Resources/Note taking/Mathjax.md",
-    "Areas/school/TODO lists/09-17-2023.md",
     "Resources/School Docs/APUSH",
-    "Resources/School Docs/New folder",
-    "Resources/School Docs",
-    "Resources/New folder",
-    "Areas/school/TODO lists/09-04-2023.md",
-    "Areas/school/TODO lists/09-11-2023.md",
-    "Areas/school/TODO lists/09-14-2023.md",
-    "Resources/Templates/TODO temp.md",
-    "Areas/school/APUSH/Book notes/Chapter 2 notes.md",
-    "Resources/Note taking/Keybinds.md",
-    "Resources/Note taking/markdown-cheat-sheet.md",
-    "Areas/school/Calculus",
-    "Areas/Projects/LeetCode/algorithms/Floyd's tortoise and hare.md",
-    "Areas/Projects/LeetCode/Data structures/Linked list.md",
-    "Areas/Projects/Collage essay Practice/Essay prep.md",
-    "Areas/Projects/Collage essay Practice/Main essay.md",
-    "Resources/PDF versions",
-    "Resources/Templates",
-    "Areas/school/APUSH/Book notes",
     "Resources/assorted media/Pasted image 20230804120331.png",
     "Resources/assorted media/copy-list-in-python.png",
     "Resources/assorted media/Pasted Image 20230613195002_207.png",
