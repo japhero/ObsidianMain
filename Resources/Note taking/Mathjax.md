@@ -5,7 +5,7 @@
 # Exponents with {} brackets
 
 ## Example
-```
+```mathjax
 $2x^{-5+n}$
 ```
 
