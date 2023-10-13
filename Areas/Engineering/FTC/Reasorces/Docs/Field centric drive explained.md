@@ -1,7 +1,7 @@
 
 
 # Using Vectors to calculate movement 
-The goal of this program is to control the power of the DC motors with a vector which has an input of **Power and cartesian coordinates**. This basically means  i want to go in this direction$\degree$ with this speed. Additionally We want to be able to control the direction of the robot regardless of of its heading(the direction its currently facing) and to then also turn the robot while moving. 
+The goal of this program is to control the power of the DC motors with a vector which has an input of **Power and cartesian coordinates relative to the joystick**. This basically means we want to turn our wish of I want to go in this direction$\degree$ with this speed into a power value for the motors. Additionally We want to be able to control the direction of the robot regardless of of its heading(the direction its currently facing) and turn the robot while moving. 
 
 
 ## Getting Theta out of cartesian cords
@@ -19,7 +19,7 @@ To get the motor values of each motor we are going to treat our angle theta as a
 
 
 
-We know that if we make the Adjacent vector and Opposite vector relative to the robots strafing movement and forwards and backwards we can calculate the power needed. To make the angle relative we shift the angle by $\degree{-45}$ because the wheels are positioned to be positive 45 degrees offset from the center. This can be visualized by shifting the angle of raw vector of the motor by $\degree{-45}$.
+We know that if we make the Adjacent vector and Opposite vector relative to the robots strafing movement and forwards and backwards movement we can then use those vectors as power values. To make the angle relative we shift the angle of $\theta$ by $\degree{-45}$ because the wheels forces are "pushing" 45 degrees offset from the center. This can be visualized by shifting the angle of raw vector of the motor by $\degree{-45}$.
 ![[shifted -45|500]]
 Therefore the pseudocode for getting the motor power (not scaled) is.   
 ```java
