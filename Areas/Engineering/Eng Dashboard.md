@@ -5,6 +5,7 @@ cssclasses: dashboard
 # FTC robotics
 - Personal/Research notes
 	- [[The Game|The game for 2023-2024 season]]
+	- [[Field-Oriented Drive]]
 - Resource  creation
 	- [[Road  Runner directory|Road Runner]]
 - Code documentation

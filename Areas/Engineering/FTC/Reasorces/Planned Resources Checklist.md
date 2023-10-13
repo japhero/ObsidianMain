@@ -6,5 +6,7 @@
 	- [ ] Common bugs 
 	- [x] How to upload 
 	- [ ] Checklist for Setup.
-- [ ] Create a page that lists reasorces and a breif description of them.
-- [ ] 
+- [ ] Create a page that lists resources and a breif description of them.
+- [ ] [[Mechanum wheels ]]
+	- [ ] [Video](https://www.youtube.com/watch?v=gnSW2QpkGXQ)
+	- [ ] 
