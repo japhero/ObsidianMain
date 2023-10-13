@@ -1,7 +1,7 @@
 
 
 # Using Vectors to calculate movement 
-The goal of this program is to control the power of the DC motors with a vector which has an input of **Power and cartesian coordinates**. This means lamend i want to go in this direction with this speed. Additionally We want to be able to control the direction of the robot regardless of of its heading(the direction its currently facing) and to then also turn the robot while moving. 
+The goal of this program is to control the power of the DC motors with a vector which has an input of **Power and cartesian coordinates**. This basically means  i want to go in this direction$\degree$ with this speed. Additionally We want to be able to control the direction of the robot regardless of of its heading(the direction its currently facing) and to then also turn the robot while moving. 
 
 
 ## Getting Theta out of cartesian cords

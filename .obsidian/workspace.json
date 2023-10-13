@@ -39,6 +39,16 @@
             "id": "37363db740d3d258",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Resources/assorted media/Excalidraw/shifted -45.md"
+              }
+            }
+          },
+          {
+            "id": "f37e2aa63ca4ca68",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
@@ -49,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,15 +209,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37363db740d3d258",
+  "active": "f37e2aa63ca4ca68",
   "lastOpenFiles": [
     "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
+    "Areas/Engineering/Eng Dashboard.md",
     "Resources/assorted media/Excalidraw/shifted -45.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
     "Resources/assorted media/Excalidraw/vector addition.md",
     "Archives/Projects/A star/A Star algorithm vid notes.md",
     "Untitled.canvas",
-    "Areas/Engineering/Eng Dashboard.md",
     "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
     "Areas/Engineering/FTC/Reasorces/Docs",
     "Areas/Engineering/FTC/Personal notes/Notes checklist.md",
