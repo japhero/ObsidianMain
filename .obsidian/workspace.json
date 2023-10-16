@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4e5e1a9bcb8b0e35",
+        "id": "db72512d6edf1fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "5c68510c8e473b66",
+            "id": "36ec63c30fd1d595",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Projects/The Continuity of Splines/Bezier Curves.md",
+                "file": "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,35 +23,12 @@
             }
           },
           {
-            "id": "a51164d3aef5d184",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resources/assorted media/Excalidraw/LERP.md"
-              }
-            }
-          },
-          {
-            "id": "a30fdfb363330d0d",
+            "id": "9a33a026d929bd46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Note taking/Mathjax.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b719d12a2fdb21c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +50,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38d930cc7c142fd3",
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#resource",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9ab71fc25a436d2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -91,37 +83,15 @@
             }
           },
           {
-            "id": "0d9a2f8aed13fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "54289b9de94bd0b5",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "9ab6b183351d7339",
+            "id": "7a3707bc446fb6fd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -136,13 +106,42 @@
         "type": "tabs",
         "children": [
           {
+            "id": "703eba2feea725e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dab8911558a29618",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "e52e0e0a9e5d8016",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -152,41 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md"
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md"
               }
             }
           },
           {
-            "id": "06a797fa18dc8d51",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "85eaf91faea7d71a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f7a7db88ba69a887",
+            "id": "ba2fa59ec56cbd52",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -196,71 +166,71 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "canvas:Create new canvas": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9b719d12a2fdb21c",
+  "active": "67ef5afbee5fb6c8",
   "lastOpenFiles": [
-    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
-    "Areas/Projects/The Continuity of Splines/Bezier Curves.md",
     "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
     "Areas/Engineering/FTC/Mechanum Sim",
-    "Archives/Projects/Untitled",
-    "Untitled.canvas",
-    "Resources/assorted media/Excalidraw/vector addition.md",
-    "Resources/assorted media/Excalidraw/shifted -45.md",
+    "Archives/Projects/Robot arm.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
     "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
+    "Areas/Engineering/Eng Dashboard.md",
+    "Resources/assorted media/Excalidraw/Drawing 2023-07-09 22.38.15.excalidraw.md",
+    "Resources/assorted media/Excalidraw/shifted -45.md",
+    "Resources/assorted media/Excalidraw/Matrix into linear.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
+    "Resources/assorted media/Excalidraw/vector addition.md",
+    "Archives/Projects/A star/A Star algorithm vid notes.md",
+    "Untitled.canvas",
+    "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
     "Areas/Engineering/FTC/Reasorces/Docs",
-    "Areas/Projects/The Continuity of Splines/Bezier Splines.md",
-    "Resources/assorted media/Pasted Image 20231006133015_244.png",
-    "Resources/assorted media/Excalidraw/ENG FEA part 3 diagram.md",
+    "Areas/Engineering/FTC/Personal notes/Notes checklist.md",
+    "Areas/Engineering/FTC/Personal notes/Roadrunner/Roadrunner tuning.md",
+    "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
     "Areas/school/English/Common Literary Devices.md",
     "Areas/school/English",
-    "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
-    "Areas/Projects/The Continuity of Splines",
-    "Areas/Untitled",
-    "Areas/Projects/Space Traders/Untitled",
+    "conflict-files-obsidian-git.md",
+    "Resources/assorted media/Pasted Image 20231006133015_244.png",
+    "Resources/assorted media/Excalidraw/ENG FEA part 3 diagram.md",
+    "Areas/Projects/LeetCode/algorithms/Floyd's tortoise and hare.md",
     "Resources/assorted media/Excalidraw/LERP.md",
-    "Resources/Note taking/Mathjax.md",
-    "Resources/Note taking/markdown-cheat-sheet.md",
-    "Areas/Projects/Vi",
     "Areas/school/TODO lists/10-02-2023.md",
-    "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
-    "Areas/Engineering/FTC/Personal notes/Notes checklist.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Quick Start guide.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Roadrunner tuning.md",
+    "Areas/Projects/The Continuity of Splines/Bezier Splines.md",
+    "Areas/Projects/The Continuity of Splines/Bezier Curves.md",
+    "Areas/Projects/The Continuity of Splines",
     "Areas/Engineering/FTC/Personal notes/Roadrunner/Road  Runner directory.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes",
-    "Areas/Engineering/FTC/Personal notes/links.md",
+    "Areas/Engineering/FTC/Personal notes/Roadrunner/Quick Start guide.md",
     "Areas/Engineering/FTC/Personal notes/Roadrunner/Links.md",
-    "Areas/Engineering/Eng Dashboard.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/The Game.md",
-    "Areas/Engineering/FTC/Reasorces/Kinematics.md",
-    "Areas/Engineering/FTC/Reasorces/Links.md",
-    "Areas/Engineering/FTC/Reasorces/PID control.md",
     "Areas/Engineering/FTC/Personal notes/Roadrunner",
+    "Areas/Engineering/FTC/Personal notes/Misc notes",
+    "Areas/Engineering/FTC/Reasorces",
+    "Areas/Engineering/FTC/Personal notes",
+    "Areas/Engineering/FTC",
+    "Areas/Engineering/Drone Ftc",
     "Resources/assorted media/Pasted image 20230804120331.png",
-    "Resources/assorted media/copy-list-in-python.png",
     "Resources/assorted media/Pasted Image 20230613195002_207.png",
-    "Resources/assorted media/Pasted image 20221009214700.png",
     "Resources/assorted media/Layer~1.Multiply.100.Visible.png",
-    "Resources/assorted media/GRAPH EXAMPLE.png"
+    "Resources/assorted media/GRAPH EXAMPLE.png",
+    "Resources/assorted media/Pasted image 20221009214700.png",
+    "Resources/assorted media/copy-list-in-python.png"
   ]
 }
