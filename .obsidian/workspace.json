@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b610a7c24b9a6038",
+        "id": "db72512d6edf1fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "9b719d12a2fdb21c",
+            "id": "36ec63c30fd1d595",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
+                "file": "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "407db99610a646a2",
+            "id": "9a33a026d929bd46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,17 +36,30 @@
             }
           },
           {
-            "id": "0fd338a5e0e3c542",
+            "id": "151bd49800441e3d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf"
+                "file": "Areas/school/TODO lists/10-16-2023.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46a79d09dd659d82",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Resources/assorted media/Excalidraw/G component.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38d930cc7c142fd3",
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#resource",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9ab71fc25a436d2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -78,30 +106,7 @@
             }
           },
           {
-            "id": "0d9a2f8aed13fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "54289b9de94bd0b5",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "9ab6b183351d7339",
+            "id": "7a3707bc446fb6fd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -124,52 +129,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e52e0e0a9e5d8016",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "06a797fa18dc8d51",
+            "id": "703eba2feea725e3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
+                "file": "Resources/assorted media/Excalidraw/G component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "85eaf91faea7d71a",
+            "id": "dab8911558a29618",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
+                "file": "Resources/assorted media/Excalidraw/G component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f7a7db88ba69a887",
+            "id": "e52e0e0a9e5d8016",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -179,75 +174,89 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md"
+                "file": "Resources/assorted media/Excalidraw/G component.md"
+              }
+            }
+          },
+          {
+            "id": "ba2fa59ec56cbd52",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "canvas:Create new canvas": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "407db99610a646a2",
+  "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Paragraph Structure.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
     "Resources/Templates/Checkmark.md",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Paragraph Structure.md",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning",
-    "Areas/Projects/The Continuity of Splines/Bezier Curves.md",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ",
-    "Areas/school/TODO lists/10-16-2023.md",
     "Areas/school/APUSH/DBQ",
-    "Areas/school/TODO lists/10-02-2023.md",
+    "Resources/assorted media/Excalidraw/Drawing 2023-07-09 22.38.15.excalidraw.md",
+    "Resources/assorted media/Excalidraw/ENG FEA part 3 diagram.md",
+    "Resources/assorted media/Excalidraw/G component.md",
+    "Resources/assorted media/Excalidraw/code into linked list.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
+    "Areas/school/TODO lists/10-16-2023.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
+    "Areas/school/English/Common Literary Devices.md",
+    "Resources/assorted media/Image/copy-list-in-python.png",
+    "Resources/assorted media/Image/Pasted image 20230804120331.png",
+    "Resources/assorted media/Image/Pasted image 20221009214700.png",
+    "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
+    "Resources/assorted media/Image/Pasted Image 20230613195002_207.png",
+    "Resources/assorted media/Image/Layer~1.Multiply.100.Visible.png",
+    "Resources/assorted media/Image/GRAPH EXAMPLE.png",
+    "Resources/assorted media/Image",
+    "Areas/school/TODO lists/september 23/09-23-2023.md",
+    "Areas/school/TODO lists/september 23/09-17-2023.md",
+    "Areas/school/TODO lists/september 23/09-14-2023.md",
+    "Areas/school/TODO lists/september 23/09-11-2023.md",
     "Areas/school/TODO lists/september 23/09-04-2023.md",
     "Areas/school/TODO lists/september 23",
-    "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
-    "Resources/Note taking/Mathjax.md",
-    "Resources/assorted media/Image/copy-list-in-python.png",
-    "Resources/assorted media/Image",
-    "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
     "Areas/Engineering/FTC/Mechanum Sim",
-    "Archives/Projects/Untitled",
-    "Untitled.canvas",
-    "Resources/assorted media/Excalidraw/vector addition.md",
+    "Archives/Projects/Robot arm.md",
+    "Areas/Engineering/Eng Dashboard.md",
     "Resources/assorted media/Excalidraw/shifted -45.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
-    "Areas/Engineering/FTC/Reasorces/Docs",
-    "Areas/Projects/The Continuity of Splines/Bezier Splines.md",
-    "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
-    "Resources/assorted media/Excalidraw/ENG FEA part 3 diagram.md",
-    "Areas/school/English/Common Literary Devices.md",
-    "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
-    "Resources/assorted media/Excalidraw/LERP.md",
-    "Resources/Note taking/markdown-cheat-sheet.md",
+    "Resources/assorted media/Excalidraw/Matrix into linear.md",
+    "Resources/assorted media/Excalidraw/vector addition.md",
+    "Archives/Projects/A star/A Star algorithm vid notes.md",
+    "Untitled.canvas",
     "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
-    "Areas/Engineering/FTC/Personal notes/Notes checklist.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Quick Start guide.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Roadrunner tuning.md",
-    "Resources/assorted media/Image/Pasted image 20230804120331.png",
-    "Resources/assorted media/Image/Pasted Image 20230613195002_207.png",
-    "Resources/assorted media/Image/Pasted image 20221009214700.png",
-    "Resources/assorted media/Image/Layer~1.Multiply.100.Visible.png",
-    "Resources/assorted media/Image/GRAPH EXAMPLE.png"
+    "Areas/Engineering/FTC/Reasorces/Docs",
+    "Areas/school/English",
+    "Resources/assorted media/Pasted Image 20231006133015_244.png",
+    "Resources/assorted media/Pasted image 20230804120331.png",
+    "Resources/assorted media/Pasted Image 20230613195002_207.png"
   ]
 }
