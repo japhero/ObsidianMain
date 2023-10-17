@@ -21,7 +21,7 @@
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    ""
+    "Resources/Templates/Checkmark.md"
   ],
   "startup_templates": [
     ""

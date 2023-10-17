@@ -15,5 +15,21 @@
       ],
       "key": "X"
     }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:Resources/Templates/Checkmark.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }

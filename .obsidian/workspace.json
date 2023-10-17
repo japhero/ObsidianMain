@@ -4,60 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "4e5e1a9bcb8b0e35",
+        "id": "b610a7c24b9a6038",
         "type": "tabs",
         "children": [
           {
-            "id": "5c68510c8e473b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Projects/The Continuity of Splines/Bezier Curves.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a51164d3aef5d184",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resources/assorted media/Excalidraw/LERP.md"
-              }
-            }
-          },
-          {
-            "id": "a30fdfb363330d0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b719d12a2fdb21c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/TODO lists/10-16-2023.md",
+                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "407db99610a646a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fd338a5e0e3c542",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,22 +135,12 @@
             }
           },
           {
-            "id": "6b1190ecdba4494d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Areas/school/TODO lists/10-16-2023.md"
-              }
-            }
-          },
-          {
             "id": "06a797fa18dc8d51",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/TODO lists/10-16-2023.md",
+                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/TODO lists/10-16-2023.md",
+                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +172,19 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "6b1190ecdba4494d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -215,11 +204,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b719d12a2fdb21c",
+  "active": "407db99610a646a2",
   "lastOpenFiles": [
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Paragraph Structure.md",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
+    "Resources/Templates/Checkmark.md",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning",
+    "Areas/Projects/The Continuity of Splines/Bezier Curves.md",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ",
+    "Areas/school/TODO lists/10-16-2023.md",
+    "Areas/school/APUSH/DBQ",
     "Areas/school/TODO lists/10-02-2023.md",
     "Areas/school/TODO lists/september 23/09-04-2023.md",
-    "Areas/school/TODO lists/10-16-2023.md",
     "Areas/school/TODO lists/september 23",
     "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
     "Resources/Note taking/Mathjax.md",
@@ -227,7 +226,6 @@
     "Resources/assorted media/Image",
     "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
     "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
-    "Areas/Projects/The Continuity of Splines/Bezier Curves.md",
     "Areas/Engineering/FTC/Mechanum Sim",
     "Archives/Projects/Untitled",
     "Untitled.canvas",
@@ -239,23 +237,13 @@
     "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
     "Resources/assorted media/Excalidraw/ENG FEA part 3 diagram.md",
     "Areas/school/English/Common Literary Devices.md",
-    "Areas/school/English",
     "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
-    "Areas/Projects/The Continuity of Splines",
-    "Areas/Untitled",
-    "Areas/Projects/Space Traders/Untitled",
     "Resources/assorted media/Excalidraw/LERP.md",
     "Resources/Note taking/markdown-cheat-sheet.md",
-    "Areas/Projects/Vi",
     "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
     "Areas/Engineering/FTC/Personal notes/Notes checklist.md",
     "Areas/Engineering/FTC/Personal notes/Roadrunner/Quick Start guide.md",
     "Areas/Engineering/FTC/Personal notes/Roadrunner/Roadrunner tuning.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Road  Runner directory.md",
-    "Areas/Engineering/FTC/Personal notes/links.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Links.md",
-    "Areas/Engineering/Eng Dashboard.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/The Game.md",
     "Resources/assorted media/Image/Pasted image 20230804120331.png",
     "Resources/assorted media/Image/Pasted Image 20230613195002_207.png",
     "Resources/assorted media/Image/Pasted image 20221009214700.png",
