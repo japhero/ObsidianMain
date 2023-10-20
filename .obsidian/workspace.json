@@ -23,25 +23,22 @@
             }
           },
           {
-            "id": "9a33a026d929bd46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "151bd49800441e3d",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf"
+              }
+            }
+          },
+          {
+            "id": "4ff12230423dfbe5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/TODO lists/10-16-2023.md",
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,17 +46,38 @@
             }
           },
           {
-            "id": "46a79d09dd659d82",
+            "id": "75b829523f4034db",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Resources/assorted media/Excalidraw/G component.md"
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf"
+              }
+            }
+          },
+          {
+            "id": "645d110d3e26cf33",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf"
+              }
+            }
+          },
+          {
+            "id": "fe12d63318deeadb",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
+                "staged": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/assorted media/Excalidraw/G component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/assorted media/Excalidraw/G component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resources/assorted media/Excalidraw/G component.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,8 +223,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9ab71fc25a436d2",
+  "active": "fe12d63318deeadb",
   "lastOpenFiles": [
+    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
+    "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
+    "Areas/school/TODO lists/10-16-2023.md",
+    "Resources/assorted media/Excalidraw/G component.md",
     "Resources/Templates/Checkmark.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Paragraph Structure.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
@@ -222,12 +243,7 @@
     "Areas/school/APUSH/DBQ",
     "Resources/assorted media/Excalidraw/Drawing 2023-07-09 22.38.15.excalidraw.md",
     "Resources/assorted media/Excalidraw/ENG FEA part 3 diagram.md",
-    "Resources/assorted media/Excalidraw/G component.md",
     "Resources/assorted media/Excalidraw/code into linked list.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
-    "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
-    "Areas/school/TODO lists/10-16-2023.md",
-    "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
     "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
     "Areas/school/English/Common Literary Devices.md",
     "Resources/assorted media/Image/copy-list-in-python.png",
@@ -250,11 +266,8 @@
     "Resources/assorted media/Excalidraw/shifted -45.md",
     "Resources/assorted media/Excalidraw/Matrix into linear.md",
     "Resources/assorted media/Excalidraw/vector addition.md",
-    "Archives/Projects/A star/A Star algorithm vid notes.md",
     "Untitled.canvas",
-    "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
     "Areas/Engineering/FTC/Reasorces/Docs",
-    "Areas/school/English",
     "Resources/assorted media/Pasted Image 20231006133015_244.png",
     "Resources/assorted media/Pasted image 20230804120331.png",
     "Resources/assorted media/Pasted Image 20230613195002_207.png"

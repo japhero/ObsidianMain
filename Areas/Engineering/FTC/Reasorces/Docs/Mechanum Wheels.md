@@ -18,6 +18,12 @@ leftBack   = speed + turn - strafe;
 rightBack  = speed - turn + strafe;
 ```
 
+
+
+## Moving
+
+![](https://i.imgur.com/deq2hvT.png)
+	
 ---
 
 
