@@ -25,59 +25,20 @@
           {
             "id": "151bd49800441e3d",
             "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf"
-              }
-            }
-          },
-          {
-            "id": "4ff12230423dfbe5",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
+                "file": "Areas/school/Calculus/Finding and graphing points of inflection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "75b829523f4034db",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf"
-              }
-            }
-          },
-          {
-            "id": "645d110d3e26cf33",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf"
-              }
-            }
-          },
-          {
-            "id": "fe12d63318deeadb",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
-                "staged": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -152,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas/school/Calculus/Finding and graphing points of inflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/school/Calculus/Finding and graphing points of inflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Areas/school/Calculus/Finding and graphing points of inflection.md"
+              }
             }
           },
           {
@@ -223,13 +188,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe12d63318deeadb",
+  "active": "67ef5afbee5fb6c8",
   "lastOpenFiles": [
-    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
-    "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
+    "![[2xGraph.png.md",
+    "Areas/school/Calculus/Finding and graphing points of inflection.md",
+    "Resources/assorted media/Image/figure3-6-7.gif",
+    "Resources/assorted media/Image/figure3-6-7.gif.crdownload",
+    "Resources/assorted media/2xGraph.png",
+    "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
+    "Resources/assorted media/Pasted image 20231023104528.png",
+    "Resources/assorted media/Pasted image 20231023104506.png",
     "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
+    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
     "Areas/school/TODO lists/10-16-2023.md",
     "Resources/assorted media/Excalidraw/G component.md",
     "Resources/Templates/Checkmark.md",
@@ -251,8 +225,6 @@
     "Resources/assorted media/Image/Pasted image 20221009214700.png",
     "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
     "Resources/assorted media/Image/Pasted Image 20230613195002_207.png",
-    "Resources/assorted media/Image/Layer~1.Multiply.100.Visible.png",
-    "Resources/assorted media/Image/GRAPH EXAMPLE.png",
     "Resources/assorted media/Image",
     "Areas/school/TODO lists/september 23/09-23-2023.md",
     "Areas/school/TODO lists/september 23/09-17-2023.md",
@@ -264,12 +236,6 @@
     "Archives/Projects/Robot arm.md",
     "Areas/Engineering/Eng Dashboard.md",
     "Resources/assorted media/Excalidraw/shifted -45.md",
-    "Resources/assorted media/Excalidraw/Matrix into linear.md",
-    "Resources/assorted media/Excalidraw/vector addition.md",
-    "Untitled.canvas",
-    "Areas/Engineering/FTC/Reasorces/Docs",
-    "Resources/assorted media/Pasted Image 20231006133015_244.png",
-    "Resources/assorted media/Pasted image 20230804120331.png",
-    "Resources/assorted media/Pasted Image 20230613195002_207.png"
+    "Untitled.canvas"
   ]
 }
