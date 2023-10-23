@@ -36,9 +36,45 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7e5941447492082d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf"
+              }
+            }
+          },
+          {
+            "id": "461a64ab39369ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa311b04c2614cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/school/Calculus/Finding and graphing points of inflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,20 +224,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67ef5afbee5fb6c8",
+  "active": "aa311b04c2614cd1",
   "lastOpenFiles": [
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
-    "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
-    "![[2xGraph.png.md",
+    "Areas/school/Calculus/Implicit derivatives.md",
+    "Areas/school/Calculus/Factoring with negative exponents..md",
     "Areas/school/Calculus/Finding and graphing points of inflection.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
+    "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
+    "![[2xGraph.png.md",
     "Resources/assorted media/Image/figure3-6-7.gif",
     "Resources/assorted media/Image/figure3-6-7.gif.crdownload",
     "Resources/assorted media/2xGraph.png",
     "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Resources/assorted media/Pasted image 20231023104528.png",
     "Resources/assorted media/Pasted image 20231023104506.png",
-    "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
     "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
     "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
     "Areas/school/TODO lists/10-16-2023.md",
@@ -218,13 +257,11 @@
     "Resources/assorted media/Excalidraw/Drawing 2023-07-09 22.38.15.excalidraw.md",
     "Resources/assorted media/Excalidraw/ENG FEA part 3 diagram.md",
     "Resources/assorted media/Excalidraw/code into linked list.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
     "Areas/school/English/Common Literary Devices.md",
     "Resources/assorted media/Image/copy-list-in-python.png",
     "Resources/assorted media/Image/Pasted image 20230804120331.png",
     "Resources/assorted media/Image/Pasted image 20221009214700.png",
     "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
-    "Resources/assorted media/Image/Pasted Image 20230613195002_207.png",
     "Resources/assorted media/Image",
     "Areas/school/TODO lists/september 23/09-23-2023.md",
     "Areas/school/TODO lists/september 23/09-17-2023.md",
@@ -235,7 +272,6 @@
     "Areas/Engineering/FTC/Mechanum Sim",
     "Archives/Projects/Robot arm.md",
     "Areas/Engineering/Eng Dashboard.md",
-    "Resources/assorted media/Excalidraw/shifted -45.md",
     "Untitled.canvas"
   ]
 }
