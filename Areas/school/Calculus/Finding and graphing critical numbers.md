@@ -20,7 +20,7 @@ Relative Maximum :  $f^\prime(x) = Positive \rightarrow f^\prime(x) = negative$
 Relative Minimum: $f^\prime(x) = Negative \rightarrow f^\prime(x) = Positive$ 
 
 ## Sharp points
-Any critical numbers created by the denominator being zero and making $f^\prime(x) = \require{cancel} \cancel{\exists}$ are sharp points and will apear as edges on the graph of $f(x)$
+Any critical numbers created by the denominator being zero and making $f^\prime(x) = \require{cancel} \cancel{\exists}$ are sharp points and will apear as edges on the graph of $f(x)$ and as $\require{cancel} \cancel{\exists}$ at zero for $f^\prime(x)$
 
 ---
 ## Links

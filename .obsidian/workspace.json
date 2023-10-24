@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/Calculus/Finding and graphing points of inflection.md",
+                "file": "Areas/school/Calculus/Finding and graphing critical numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,11 +119,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea3504fd1de54a14",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/Calculus/Finding and graphing points of inflection.md",
+                "file": "Areas/school/Calculus/Finding and graphing critical numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/Calculus/Finding and graphing points of inflection.md",
+                "file": "Areas/school/Calculus/Finding and graphing critical numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/school/Calculus/Finding and graphing points of inflection.md"
+                "file": "Areas/school/Calculus/Finding and graphing critical numbers.md"
               }
             }
           },
@@ -216,14 +217,16 @@
   },
   "active": "151bd49800441e3d",
   "lastOpenFiles": [
-    "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
+    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
+    "Areas/school/Calculus/Finding and graphing critical numbers.md",
     "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.canvas",
+    "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
     "Areas/school/TODO lists/10-16-2023.md",
     "Areas/school/TODO lists/10-02-2023.md",
-    "Areas/school/Calculus/Finding and graphing points of inflection.md",
     "Areas/school/Calculus/Implicit derivatives.md",
     "Areas/school/Calculus/Factoring with negative exponents..md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
     "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "![[2xGraph.png.md",
@@ -258,9 +261,7 @@
     "Areas/school/TODO lists/september 23/09-17-2023.md",
     "Areas/school/TODO lists/september 23/09-14-2023.md",
     "Areas/school/TODO lists/september 23/09-11-2023.md",
-    "Areas/school/TODO lists/september 23/09-04-2023.md",
     "Areas/school/TODO lists/september 23",
-    "Areas/Engineering/FTC/Mechanum Sim",
-    "Untitled.canvas"
+    "Areas/Engineering/FTC/Mechanum Sim"
   ]
 }
