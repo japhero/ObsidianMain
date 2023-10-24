@@ -38,16 +38,6 @@
             }
           },
           {
-            "id": "7e5941447492082d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf"
-              }
-            }
-          },
-          {
             "id": "461a64ab39369ae6",
             "type": "leaf",
             "state": {
@@ -66,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/Calculus/Finding and graphing points of inflection.md",
+                "file": "Areas/school/TODO lists/10-16-2023.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,14 +214,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa311b04c2614cd1",
+  "active": "151bd49800441e3d",
   "lastOpenFiles": [
+    "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
+    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
+    "Areas/school/TODO lists/10-16-2023.md",
+    "Areas/school/TODO lists/10-02-2023.md",
+    "Areas/school/Calculus/Finding and graphing points of inflection.md",
     "Areas/school/Calculus/Implicit derivatives.md",
     "Areas/school/Calculus/Factoring with negative exponents..md",
-    "Areas/school/Calculus/Finding and graphing points of inflection.md",
     "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
-    "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
     "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "![[2xGraph.png.md",
@@ -243,7 +235,6 @@
     "Resources/assorted media/Pasted image 20231023104506.png",
     "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
     "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
-    "Areas/school/TODO lists/10-16-2023.md",
     "Resources/assorted media/Excalidraw/G component.md",
     "Resources/Templates/Checkmark.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Paragraph Structure.md",
@@ -270,8 +261,6 @@
     "Areas/school/TODO lists/september 23/09-04-2023.md",
     "Areas/school/TODO lists/september 23",
     "Areas/Engineering/FTC/Mechanum Sim",
-    "Archives/Projects/Robot arm.md",
-    "Areas/Engineering/Eng Dashboard.md",
     "Untitled.canvas"
   ]
 }
