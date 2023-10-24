@@ -23,27 +23,12 @@
             }
           },
           {
-            "id": "151bd49800441e3d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/school/Calculus/Finding and graphing critical numbers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "461a64ab39369ae6",
+            "id": "9a33a026d929bd46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,7 +36,7 @@
             }
           },
           {
-            "id": "aa311b04c2614cd1",
+            "id": "151bd49800441e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,6 +58,20 @@
     "id": "3348ca123ad4ba47",
     "type": "split",
     "children": [
+      {
+        "id": "0185b9d96d38b3e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9ab71fc25a436d2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "e0aa37c5eb419e43",
         "type": "tabs",
@@ -90,14 +89,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "f9ab71fc25a436d2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -123,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea3504fd1de54a14",
@@ -140,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/Calculus/Finding and graphing critical numbers.md",
+                "file": "Areas/school/TODO lists/10-16-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/Calculus/Finding and graphing critical numbers.md",
+                "file": "Areas/school/TODO lists/10-16-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/school/Calculus/Finding and graphing critical numbers.md"
+                "file": "Areas/school/TODO lists/10-16-2023.md"
               }
             }
           },
@@ -218,26 +208,19 @@
   "active": "151bd49800441e3d",
   "lastOpenFiles": [
     "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
-    "Areas/school/Calculus/Finding and graphing critical numbers.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
-    "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
-    "Areas/school/TODO lists/10-16-2023.md",
-    "Areas/school/TODO lists/10-02-2023.md",
+    "Areas/school/Calculus/Finding and graphing critical numbers.md",
     "Areas/school/Calculus/Implicit derivatives.md",
     "Areas/school/Calculus/Factoring with negative exponents..md",
+    "Areas/school/Calculus/Finding and graphing points of inflection.md",
     "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
-    "![[2xGraph.png.md",
-    "Resources/assorted media/Image/figure3-6-7.gif",
-    "Resources/assorted media/Image/figure3-6-7.gif.crdownload",
-    "Resources/assorted media/2xGraph.png",
-    "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
-    "Resources/assorted media/Pasted image 20231023104528.png",
-    "Resources/assorted media/Pasted image 20231023104506.png",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
     "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
+    "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
+    "Resources/assorted media/Image/figure3-6-7.gif",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
+    "Resources/assorted media/2xGraph.png",
+    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
     "Resources/assorted media/Excalidraw/G component.md",
     "Resources/Templates/Checkmark.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Paragraph Structure.md",
@@ -251,17 +234,24 @@
     "Resources/assorted media/Excalidraw/Drawing 2023-07-09 22.38.15.excalidraw.md",
     "Resources/assorted media/Excalidraw/ENG FEA part 3 diagram.md",
     "Resources/assorted media/Excalidraw/code into linked list.md",
+    "Areas/school/TODO lists/10-16-2023.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
     "Areas/school/English/Common Literary Devices.md",
     "Resources/assorted media/Image/copy-list-in-python.png",
     "Resources/assorted media/Image/Pasted image 20230804120331.png",
     "Resources/assorted media/Image/Pasted image 20221009214700.png",
     "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
+    "Resources/assorted media/Image/Pasted Image 20230613195002_207.png",
+    "Resources/assorted media/Image/Layer~1.Multiply.100.Visible.png",
     "Resources/assorted media/Image",
     "Areas/school/TODO lists/september 23/09-23-2023.md",
     "Areas/school/TODO lists/september 23/09-17-2023.md",
     "Areas/school/TODO lists/september 23/09-14-2023.md",
     "Areas/school/TODO lists/september 23/09-11-2023.md",
+    "Areas/school/TODO lists/september 23/09-04-2023.md",
     "Areas/school/TODO lists/september 23",
-    "Areas/Engineering/FTC/Mechanum Sim"
+    "Areas/Engineering/FTC/Mechanum Sim",
+    "Archives/Projects/Robot arm.md",
+    "Areas/Engineering/FTC/Reasorces/Docs"
   ]
 }
