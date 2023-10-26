@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/asyncio/Learning.md",
+                "file": "Resources/Github DEBUG.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/asyncio/Learning.md",
+                "file": "Resources/Github DEBUG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/asyncio/Learning.md",
+                "file": "Resources/Github DEBUG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/asyncio/Learning.md"
+                "file": "Resources/Github DEBUG.md"
               }
             }
           },
@@ -172,7 +172,20 @@
   },
   "active": "1c2df2a3ed8a9014",
   "lastOpenFiles": [
+    "Resources/links.md",
+    "Resources/Github DEBUG.md",
     "Areas/Engineering/Drone Ftc/asyncio/Learning.md",
+    "Resources/Untitled",
+    "Archives/Projects/The Continuity of Splines/Bezier Curves.md",
+    "Archives/Projects/The Continuity of Splines/Bezier Splines.md",
+    "Archives/Projects/The Continuity of Splines",
+    "Archives/Projects/Space Traders/Rest Api.md",
+    "Archives/Projects/Space Traders/Front End.md",
+    "Archives/Projects/Space Traders/Brain dump.md",
+    "Archives/Projects/Space Traders",
+    "Archives/Projects/Collage essay Practice/Main essay.md",
+    "Archives/Projects/Collage essay Practice/Essay prep.md",
+    "Archives/Projects/Collage essay Practice",
     "Areas/Engineering/Drone Ftc/asyncio",
     "Areas/school/TODO lists/10-24-2023.md",
     "Areas/school/Calculus/Finding and graphing critical numbers.md",
@@ -199,25 +212,12 @@
     "Resources/assorted media/Excalidraw/G component.md",
     "Resources/Templates/Checkmark.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Paragraph Structure.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ",
-    "Areas/school/APUSH/DBQ",
-    "Resources/assorted media/Excalidraw/Drawing 2023-07-09 22.38.15.excalidraw.md",
-    "Resources/assorted media/Excalidraw/ENG FEA part 3 diagram.md",
-    "Resources/assorted media/Excalidraw/code into linked list.md",
-    "Areas/school/English/Common Literary Devices.md",
     "Resources/assorted media/Image/copy-list-in-python.png",
     "Resources/assorted media/Image/Pasted image 20230804120331.png",
     "Resources/assorted media/Image/Pasted image 20221009214700.png",
-    "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
-    "Resources/assorted media/Image",
-    "Areas/school/TODO lists/september 23/09-23-2023.md",
-    "Areas/school/TODO lists/september 23/09-17-2023.md",
-    "Areas/school/TODO lists/september 23/09-14-2023.md",
-    "Areas/school/TODO lists/september 23"
+    "Resources/assorted media/Image/Pasted Image 20231006133015_244.png"
   ]
 }
