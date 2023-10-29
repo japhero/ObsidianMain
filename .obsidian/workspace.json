@@ -10,17 +10,30 @@
           {
             "id": "1c2df2a3ed8a9014",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Github DEBUG.md",
+                "file": "Areas/Engineering/Drone Ftc/Multi Threading/Basic info.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "19a3de555fea24c5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#resource",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Github DEBUG.md",
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Github DEBUG.md",
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Github DEBUG.md"
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Study.pdf"
               }
             }
           },
@@ -154,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,11 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c2df2a3ed8a9014",
+  "active": "19a3de555fea24c5",
   "lastOpenFiles": [
-    "Resources/links.md",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Syntax.md",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Synchronization.md",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Basic info.md",
+    "Areas/Engineering/Drone Ftc/Planning for software.md",
+    "Areas/Engineering/Drone Ftc/Multi Threading",
+    "Areas/Engineering/Drone Ftc/asyncio/Async.md",
     "Resources/Github DEBUG.md",
-    "Areas/Engineering/Drone Ftc/asyncio/Learning.md",
+    "Resources/links.md",
     "Resources/Untitled",
     "Archives/Projects/The Continuity of Splines/Bezier Curves.md",
     "Archives/Projects/The Continuity of Splines/Bezier Splines.md",
@@ -208,13 +225,8 @@
     "Resources/assorted media/Pasted image 20231023104528.png",
     "Resources/assorted media/Pasted image 20231023104506.png",
     "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
-    "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
-    "Resources/assorted media/Excalidraw/G component.md",
-    "Resources/Templates/Checkmark.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Paragraph Structure.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
     "Resources/assorted media/Image/copy-list-in-python.png",
     "Resources/assorted media/Image/Pasted image 20230804120331.png",
     "Resources/assorted media/Image/Pasted image 20221009214700.png",

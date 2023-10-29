@@ -7,3 +7,6 @@ fatal: unable to access 'https://github.com/Pweder69/REC-Eclipse-2024.git/': The
 ```
 
 [fix for mac](https://superuser.com/questions/1064197/how-to-switch-git-user-at-terminal)
+
+--- 
+
