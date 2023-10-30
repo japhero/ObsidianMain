@@ -1,0 +1,1 @@
+A feeling of disappointment resulting from the discovery that something is not as good as one believed it to be. Being unhappy with the reality not being delusional but more of the opposite 

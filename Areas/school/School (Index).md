@@ -16,7 +16,11 @@
 
 ---
 # Description
-Because there are currently few individual notes they will all be subject under this larger index untill i need to expand it.
+Because there are currently few individual notes they will all be subject under this larger index until i need to expand it.
 #index
 
 ---
+# Bibliography 
+#Bibliography 
+- [[1993 DBQ - Two Societies documents.pdf]]
+- 

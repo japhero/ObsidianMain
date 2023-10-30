@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c2df2a3ed8a9014",
+            "id": "70f6b9decb6f05d6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/Multi Threading/Multi Threading Basics.md",
+                "file": "Areas/school/English/Class notes/Great Gatsby chapter 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,22 +23,32 @@
             }
           },
           {
-            "id": "61a796583188f92a",
+            "id": "fb681b6cb0d171ca",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/FTC/FTC (Index).md",
+                "file": "Areas/school/English/Vocab/Disillusionment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "48ce2683484962eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/school/Calculus/Exponent Rule.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Engineering/FTC/FTC (Index).md",
+                "file": "Areas/school/English/Class notes/Great Gatsby chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Engineering/FTC/FTC (Index).md",
+                "file": "Areas/school/English/Class notes/Great Gatsby chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Engineering/FTC/FTC (Index).md"
+                "file": "Areas/school/English/Class notes/Great Gatsby chapter 1.md"
               }
             }
           },
@@ -187,10 +197,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61a796583188f92a",
+  "active": "70f6b9decb6f05d6",
   "lastOpenFiles": [
-    "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
+    "Areas/school/Calculus/Exponent Rule.md",
+    "Areas/school/English/Vocab/Disillusionment.md",
+    "Areas/school/English/Class notes/Great Gatsby chapter 1.md",
+    "Areas/school/English/Vocab/Character Foil.md",
+    "Areas/school/Calculus/Factoring with negative exponents..md",
+    "Areas/school/Calculus/Finding and graphing critical numbers.md",
+    "Areas/school/Calculus/Implicit derivatives.md",
+    "Areas/school/School (Index).md",
+    "Areas/school/English/Vocab",
     "Areas/Engineering/FTC/FTC (Index).md",
+    "Areas/school/English/Class notes",
+    "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
     "Areas/Engineering/Drone Ftc/Multi Threading/Multi Threading Basics.md",
     "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
     "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
@@ -201,7 +221,6 @@
     "Areas/Engineering/Eng Dashboard.md",
     "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
-    "Areas/school/School (Index).md",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ",
     "Areas/school/English/Common Literary Devices.md",
     "Areas/school/Calculus/Calculus (Index).md",
@@ -209,17 +228,10 @@
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Untitled.md",
     "Archives/Robot arm.md",
     "Areas/Engineering/Drone Ftc/asyncio/Async.md",
-    "Areas/Engineering/Drone Ftc/Planning for software.md",
-    "Areas/Engineering/FTC/Personal notes/Notes checklist.md",
-    "Areas/Engineering/FTC/Personal notes/links.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Links.md",
     "Areas/Engineering/FTC/Mechanum Sim/Kinematic Model of a Four Mecanum Wheeled Mobile Robot.pdf",
-    "Areas/Engineering/Drone Ftc/Multi Threading/Syntax.md",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Resources/assorted media/Image/2xGraph.png",
-    "Areas/Engineering/Drone Ftc/Multi Threading/Synchronization.md",
     "Areas/Engineering/Drone Ftc/Multi Threading",
-    "Resources/Github DEBUG.md",
     "Resources/Untitled",
     "Archives/The Continuity of Splines",
     "Archives/Space Traders",
@@ -228,12 +240,10 @@
     "Untitled.canvas",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Resources/assorted media/Image/figure3-6-7.gif",
-    "Resources/assorted media/Image/figure3-6-7.gif.crdownload",
     "Resources/assorted media/2xGraph.png",
     "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Resources/assorted media/Pasted image 20231023104528.png",
     "Resources/assorted media/Pasted image 20231023104506.png",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning",
     "Resources/assorted media/Image/copy-list-in-python.png",
     "Resources/assorted media/Image/Pasted image 20230804120331.png"
   ]
