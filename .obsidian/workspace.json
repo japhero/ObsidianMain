@@ -23,32 +23,20 @@
             }
           },
           {
-            "id": "fb681b6cb0d171ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/school/English/Vocab/Disillusionment.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "48ce2683484962eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/Calculus/Exponent Rule.md",
+                "file": "Areas/school/Calculus/Factoring with negative exponents..md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/English/Class notes/Great Gatsby chapter 1.md",
+                "file": "Areas/school/Calculus/Factoring with negative exponents..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/English/Class notes/Great Gatsby chapter 1.md",
+                "file": "Areas/school/Calculus/Factoring with negative exponents..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/school/English/Class notes/Great Gatsby chapter 1.md"
+                "file": "Areas/school/Calculus/Factoring with negative exponents..md"
               }
             }
           },
@@ -197,14 +185,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70f6b9decb6f05d6",
+  "active": "48ce2683484962eb",
   "lastOpenFiles": [
+    "Areas/school/Calculus/Finding and graphing critical numbers.md",
+    "Areas/school/Calculus/Factoring with negative exponents..md",
     "Areas/school/Calculus/Exponent Rule.md",
     "Areas/school/English/Vocab/Disillusionment.md",
     "Areas/school/English/Class notes/Great Gatsby chapter 1.md",
     "Areas/school/English/Vocab/Character Foil.md",
-    "Areas/school/Calculus/Factoring with negative exponents..md",
-    "Areas/school/Calculus/Finding and graphing critical numbers.md",
     "Areas/school/Calculus/Implicit derivatives.md",
     "Areas/school/School (Index).md",
     "Areas/school/English/Vocab",
