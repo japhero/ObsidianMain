@@ -1,0 +1,6 @@
+- How does hasso platners approach to teaching differ from other universities
+- How does using the degree work internationally 
+- what's hasso plattners relationship with Virginia tech 
+- why should i pursue a master’s degree in computer science 
+- what's unique about the programs at HPI
+- 

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b610a7c24b9a6038",
+        "id": "6c3a7b99cf2e9eec",
         "type": "tabs",
         "children": [
           {
-            "id": "9b719d12a2fdb21c",
+            "id": "1c2df2a3ed8a9014",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
+                "file": "Areas/Engineering/Drone Ftc/Multi Threading/Multi Threading Basics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,16 +23,18 @@
             }
           },
           {
-            "id": "4964a8db8287af1e",
+            "id": "61a796583188f92a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/TODO lists/10-24-2023.md",
+                "file": "Areas/Engineering/FTC/FTC (Index).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -50,7 +52,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38d930cc7c142fd3",
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9ab71fc25a436d2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -68,37 +85,15 @@
             }
           },
           {
-            "id": "0d9a2f8aed13fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "54289b9de94bd0b5",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "9ab6b183351d7339",
+            "id": "7a3707bc446fb6fd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -113,52 +108,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e52e0e0a9e5d8016",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "06a797fa18dc8d51",
+            "id": "703eba2feea725e3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/TODO lists/10-24-2023.md",
+                "file": "Areas/Engineering/FTC/FTC (Index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "85eaf91faea7d71a",
+            "id": "dab8911558a29618",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/TODO lists/10-24-2023.md",
+                "file": "Areas/Engineering/FTC/FTC (Index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f7a7db88ba69a887",
+            "id": "e52e0e0a9e5d8016",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -168,79 +153,88 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/school/TODO lists/10-24-2023.md"
+                "file": "Areas/Engineering/FTC/FTC (Index).md"
+              }
+            }
+          },
+          {
+            "id": "ba2fa59ec56cbd52",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "canvas:Create new canvas": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38d930cc7c142fd3",
+  "active": "61a796583188f92a",
   "lastOpenFiles": [
+    "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
+    "Areas/Engineering/FTC/FTC (Index).md",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Multi Threading Basics.md",
+    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
+    "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
+    "Areas/Engineering/FTC/Reasorces/Links.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
+    "Areas/Engineering/Drone Ftc/Index.md",
+    "Areas/Engineering/Eng Dashboard.md",
+    "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
+    "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
+    "Areas/school/School (Index).md",
+    "Areas/school/APUSH/DBQ/Unit 3 DBQ",
+    "Areas/school/English/Common Literary Devices.md",
+    "Areas/school/Calculus/Calculus (Index).md",
+    "Resources/Templates/Index.md",
+    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Untitled.md",
+    "Archives/Robot arm.md",
     "Areas/Engineering/Drone Ftc/asyncio/Async.md",
     "Areas/Engineering/Drone Ftc/Planning for software.md",
+    "Areas/Engineering/FTC/Personal notes/Notes checklist.md",
+    "Areas/Engineering/FTC/Personal notes/links.md",
+    "Areas/Engineering/FTC/Personal notes/Roadrunner/Links.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Kinematic Model of a Four Mecanum Wheeled Mobile Robot.pdf",
     "Areas/Engineering/Drone Ftc/Multi Threading/Syntax.md",
-    "Areas/Engineering/Drone Ftc/Multi Threading/Synchronization.md",
-    "Areas/Engineering/Drone Ftc/Multi Threading/Basic info.md",
-    "Areas/Engineering/Drone Ftc/Multi Threading",
-    "Resources/assorted media/Image/2xGraph.png",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
+    "Resources/assorted media/Image/2xGraph.png",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Synchronization.md",
+    "Areas/Engineering/Drone Ftc/Multi Threading",
     "Resources/Github DEBUG.md",
-    "Areas/school/TODO lists/10-24-2023.md",
-    "Areas/Engineering/Drone Ftc/asyncio/Learning.md",
+    "Resources/Untitled",
+    "Archives/The Continuity of Splines",
+    "Archives/Space Traders",
+    "Archives/Collage essay Practice",
     "Areas/Engineering/Drone Ftc/asyncio",
-    "Areas/school/TODO lists/10-16-2023.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
-    "Areas/school/TODO lists/10-02-2023.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Paragraph Structure.md",
-    "Archives/Projects/The Continuity of Splines/Bezier Splines.md",
-    "Archives/Projects/The Continuity of Splines/Bezier Curves.md",
-    "Areas/school/Calculus/Finding and graphing critical numbers.md",
     "Untitled.canvas",
-    "Resources/assorted media/Image/figure3-6-7.gif",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
-    "Areas/school/Calculus/Finding and graphing points of inflection.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
-    "Areas/Engineering/FTC/Mechanum Sim/Study.pdf",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
-    "Resources/Templates/Checkmark.md",
+    "Resources/assorted media/Image/figure3-6-7.gif",
+    "Resources/assorted media/Image/figure3-6-7.gif.crdownload",
+    "Resources/assorted media/2xGraph.png",
+    "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
+    "Resources/assorted media/Pasted image 20231023104528.png",
+    "Resources/assorted media/Pasted image 20231023104506.png",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ",
-    "Areas/school/APUSH/DBQ",
-    "Areas/school/TODO lists/september 23/09-04-2023.md",
-    "Areas/school/TODO lists/september 23",
-    "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
-    "Resources/Note taking/Mathjax.md",
     "Resources/assorted media/Image/copy-list-in-python.png",
-    "Resources/assorted media/Image",
-    "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
-    "Resources/assorted media/Excalidraw/vector addition.md",
-    "Resources/assorted media/Excalidraw/shifted -45.md",
-    "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
-    "Resources/assorted media/Image/Pasted image 20230804120331.png",
-    "Resources/assorted media/Image/Pasted Image 20230613195002_207.png",
-    "Resources/assorted media/Image/Pasted image 20221009214700.png",
-    "Resources/assorted media/Image/Layer~1.Multiply.100.Visible.png"
+    "Resources/assorted media/Image/Pasted image 20230804120331.png"
   ]
 }

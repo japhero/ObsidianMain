@@ -7,7 +7,7 @@
 	- [ ] [Drive constants](https://learnroadrunner.com/drive-constants.html#drive-constants) #codeDocs 
 
 
-- [x] Android studio
+- [x] [[Android studio]]
 
 
 - [ ] [[FTC dashboard]] [link](https://github.com/acmerobotics/ftc-dashboard) 
@@ -15,7 +15,8 @@
 
 ## Odometry
 - [ ] [[odometry]]
-	- [ ] [Dead weels](https://gm0.org/en/latest/docs/common-mechanisms/dead-wheels.html) 
+	- [ ] [[Dead wheels]] 
+		- [ ] [Reasource](https://gm0.org/en/latest/docs/common-mechanisms/dead-wheels.html) 
 
- - [ ] Opmode
+ - [ ] [[Opmode]]
 
