@@ -2,7 +2,10 @@
 ---
 ### APUSH
 [[Final Essay|DBQ 2]]
-[[DBQ 3 Outline]]
+	[[Paragraph Structure]]
+	[[Categories-Document summary]]
+[[DBQ 3 Outline|DBQ 3]]
+	[[DBQ 3 Outline]]
 ### Calculus
 [[Factoring with negative exponents.]]
 [[Finding and graphing critical numbers]]
@@ -10,6 +13,7 @@
 [[First and second derivative test]]
 [[Factoring polynomials]]
 [[Exponent Rule]]
+
 
 
 ### English
