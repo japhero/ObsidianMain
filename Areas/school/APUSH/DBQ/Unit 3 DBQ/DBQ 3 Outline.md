@@ -66,27 +66,29 @@ From 1825 until 1850 movements such as Womens suffrage,Religious reformists and 
 # Main idea per doc
 V.	Extract the MAIN IDEA from each document. Make sure you’re extracting just the idea.  It should be no more than one succinct sentence/phrase.  It’s purpose is to help you insert it in a timed writing environment!
 
-Doc. A = Penitentiary reform tried to rehabilitate the criminal.
+Doc. A = Penitentiary reform tried to rehabilitate the criminal. 
 
-Doc. B = The church tries to change "sinners" into "good" people again.
+Doc. B = The church tries to change "sinners" into "good" people again. $\color{\green}{\unicode{x2714}}$ 
 
-Doc. C = Slaves are women but not "sisters" when concerning womens reform they are not included in the womens push for equality. 
+Doc. C = Slaves are women but not "sisters" when concerning womens reform they are not included in the womens push for equality.  $\color{\green}{\unicode{x2714}}$ 
 
-Doc. D = Americans were worried that immigrants with other cultural or religious views could enter the united states and Influence it. 
+Doc. D = Americans were worried that immigrants with other cultural or religious views could enter the united states and Influence it.  $\color{\green}{\unicode{x2714}}$
 
 Doc. E = Materialism is not a virtue and one should strive to be happy through hard work and determination.
 
 Doc. F = Some Americans became welcomed the idea of the collective over the individual.  
 
-Doc. G = Continued groups lead social reform denouncing others. 
+Doc. G = some believed that we shouldn't follow reformist because we would be denouncing the past  because the  past is what shaped the present.
 
-Doc. H = Women suffered under the
+Doc. H = women organized under the banner of temperance movement $\color{\green}{\unicode{x2714}}$
 
-Doc.  I = 
+Doc.  I = Women demanded the right to vote $\color{\green}{\unicode{x2714}}$
 
 
 ---
 # Final thesis 
+
+**From 1825 until 1850 reformists furthered democratic ideals through pushing personal rehabilitation, womens rights and religious reformism **
 
 
 ---

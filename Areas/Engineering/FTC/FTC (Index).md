@@ -29,6 +29,7 @@ Basic physics and coding in java.
 # Bibliography 
 ---
 - [[Kinematic Model of a Four Mecanum Wheeled Mobile Robot.pdf]]
+- [[Kinematic, Dynamic Modelling and Simulation of Quadcopter” by Shaikh Altamash(12ME48), Syed Adnan (12ME62), Padwekar Aamir(13ME133).pdf]]
 
 #Bibliography
 #index

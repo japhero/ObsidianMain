@@ -5,5 +5,6 @@
   "media-extended",
   "templater-obsidian",
   "obsidian-underline",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-languagetool-plugin"
 ]

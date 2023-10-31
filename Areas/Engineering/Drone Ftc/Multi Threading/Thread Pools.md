@@ -1,0 +1,1 @@
+Thread pool is like a [[concepts#Context managers|context manager]] it manages the [[Synchronization]] of the thread and how things are passed to the diffrent processess note that this is used under [[multiprocessing]]

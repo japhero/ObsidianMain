@@ -4,7 +4,16 @@
 - [[Multi Threading Basics]]
 - [[Synchronization]]
 - [[Syntax]]
+- [[Thread Pools]]
+- [[multiprocessing]]
+- [[thread safety]]
+- [[Mutithreading vs multiprocessing]]
 
+
+- [[Planning for software]]
+### Flight controler
+- [[Flight controler explanation]]
+- [[drone Kinematics ]]
 ### Other
 - [[Planning for software]]
 - [[Async|asyncio]]

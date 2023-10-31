@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57be754f79f0b5dd",
+            "id": "3326b865ffeb3a2d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
+                "file": "Areas/Engineering/Drone Ftc/Multi Threading/Thread Pools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,48 +23,33 @@
             }
           },
           {
-            "id": "b6b28af40a2aa8fa",
+            "id": "6aed43fe9bd088b7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/School (Index).md",
+                "file": "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "caded8dc55291051",
+            "id": "77f54d3453794d4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "2260e6a20ad3aafb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dadf2d1af1ff6b47",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf"
-              },
-              "pinned": true
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "context manager",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,8 +124,9 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -155,8 +141,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -176,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md"
+              }
             }
           },
           {
@@ -189,13 +178,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,11 +197,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "caded8dc55291051",
+  "active": "77f54d3453794d4d",
   "lastOpenFiles": [
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Kinematic, Dynamic Modelling and Simulation of Quadcopter” by Shaikh Altamash(12ME48), Syed Adnan (12ME62), Padwekar Aamir(13ME133).pdf",
+    "Archives/Collage essay Practice/Gauselman essay prep.md",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter",
+    "Areas/Engineering/FTC/FTC (Index).md",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
+    "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Thread Pools.md",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Syntax.md",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Multi Threading Basics.md",
+    "Archives/Python Docs/concepts.md",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Synchronization.md",
+    "Areas/school/School (Index).md",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf",
-    "Areas/school/School (Index).md",
     "Resources/Templates/Checkmark.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
@@ -229,26 +227,15 @@
     "Areas/school/English/Vocab/Character Foil.md",
     "Areas/school/English/Vocab/Disillusionment.md",
     "Areas/school/English/Vocab",
-    "Areas/Engineering/FTC/FTC (Index).md",
     "Areas/school/English/Class notes",
     "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
-    "Areas/Engineering/Drone Ftc/Multi Threading/Multi Threading Basics.md",
     "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
     "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
-    "Areas/Engineering/FTC/Reasorces/Links.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
-    "Areas/Engineering/Drone Ftc/Index.md",
-    "Areas/Engineering/Eng Dashboard.md",
-    "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ",
-    "Areas/school/Calculus/Calculus (Index).md",
     "Areas/Engineering/FTC/Mechanum Sim/Kinematic Model of a Four Mecanum Wheeled Mobile Robot.pdf",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Resources/assorted media/Image/2xGraph.png",
     "Areas/Engineering/Drone Ftc/Multi Threading",
-    "Resources/Untitled",
-    "Archives/The Continuity of Splines",
     "Untitled.canvas",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Resources/assorted media/Image/figure3-6-7.gif",
