@@ -13,7 +13,7 @@ This index is similar to school not large enough to justify individuals.
 - [[How to upload Through Wifi]]
 - [[Mechanum Wheels]]
 - [[Field-Oriented Drive]]
-- [[PID algo|Turning Pid]]
+- [[PID algo|Turning PID]]
 ### Roadrunner
 - [[Quick Start guide]]
 - [[Roadrunner tuning]]
