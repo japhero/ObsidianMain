@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3326b865ffeb3a2d",
+            "id": "77f54d3453794d4d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/Multi Threading/Thread Pools.md",
+                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,28 +23,27 @@
             }
           },
           {
-            "id": "6aed43fe9bd088b7",
+            "id": "89893ad0c8faa9e3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
+                "file": "Areas/Physics/Physics (index).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "77f54d3453794d4d",
+            "id": "52fc095b9df7776d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf"
               }
             }
           }
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "context manager",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
+                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
+                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md"
+                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf"
               }
             }
           },
@@ -197,15 +196,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77f54d3453794d4d",
+  "active": "52fc095b9df7776d",
   "lastOpenFiles": [
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
+    "Areas/Physics/Physics (index).md",
+    "Areas/Physics/Frames of reference.md",
+    "Areas/Physics/Untitled",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf",
+    "Areas/Physics/Rotation Matrix.md",
+    "Areas/Engineering/Drone Ftc/Planning for software.md",
+    "Areas/Physics",
     "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Kinematic, Dynamic Modelling and Simulation of Quadcopter” by Shaikh Altamash(12ME48), Syed Adnan (12ME62), Padwekar Aamir(13ME133).pdf",
+    "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Unconfirmed 217658.crdownload",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Thread Pools.md",
+    "Flight controler explanation.md",
     "Archives/Collage essay Practice/Gauselman essay prep.md",
     "Areas/Engineering/Drone Ftc/Kinematics of quadcopter",
     "Areas/Engineering/FTC/FTC (Index).md",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
-    "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
-    "Areas/Engineering/Drone Ftc/Multi Threading/Thread Pools.md",
     "Areas/Engineering/Drone Ftc/Multi Threading/Syntax.md",
     "Areas/Engineering/Drone Ftc/Multi Threading/Multi Threading Basics.md",
     "Archives/Python Docs/concepts.md",
@@ -225,17 +233,9 @@
     "Areas/school/Calculus/Exponent Rule.md",
     "Areas/school/English/Common Literary Devices.md",
     "Areas/school/English/Vocab/Character Foil.md",
-    "Areas/school/English/Vocab/Disillusionment.md",
     "Areas/school/English/Vocab",
-    "Areas/school/English/Class notes",
-    "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
-    "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ",
-    "Areas/Engineering/FTC/Mechanum Sim/Kinematic Model of a Four Mecanum Wheeled Mobile Robot.pdf",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Resources/assorted media/Image/2xGraph.png",
-    "Areas/Engineering/Drone Ftc/Multi Threading",
     "Untitled.canvas",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Resources/assorted media/Image/figure3-6-7.gif",

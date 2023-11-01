@@ -11,8 +11,8 @@
 
 
 - [[Planning for software]]
-### Flight controler
-- [[Flight controler explanation]]
+### Flight controller
+- [[Flight controller explanation]]
 - [[drone Kinematics ]]
 ### Other
 - [[Planning for software]]
