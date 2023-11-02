@@ -46,7 +46,6 @@
           {
             "id": "eecb02449f97d5cf",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -54,36 +53,26 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "cba181f1830f1416",
+            "id": "0a04c74ba3b26f28",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/School (Index).md",
+                "file": "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f1898ab8b89d4950",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Archives/The Continuity of Splines/Bezier Curves.md",
-                "staged": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -158,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md"
+              }
             }
           },
           {
@@ -227,15 +220,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1898ab8b89d4950",
+  "active": "0a04c74ba3b26f28",
   "lastOpenFiles": [
-    "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
-    "Areas/school/School (Index).md",
     "Areas/school/English/Class notes/Chapter 1 The great Gatsby Paul Weder.md",
+    "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
+    "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
+    "Areas/Engineering/Drone Ftc/Planning for software.md",
+    "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
+    "Areas/school/School (Index).md",
     "Areas/school/APUSH/Book notes/Chapter 2 notes.md",
     "Areas/Physics/Frames of reference.md",
     "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
     "Archives/The Continuity of Splines/Bezier Curves.md",
     "Areas/Engineering/FTC/FTC (Index).md",
     "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
@@ -243,11 +239,9 @@
     "Areas/Physics/Physics (index).md",
     "Areas/school/English/Book notes",
     "Areas/Engineering/Drone Ftc/Multi Threading/Threads vs Queues.md",
-    "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
     "Areas/Physics/Rotation Matrix.md",
     "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf",
     "Areas/Physics/Untitled",
-    "Areas/Engineering/Drone Ftc/Planning for software.md",
     "Areas/Physics",
     "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Kinematic, Dynamic Modelling and Simulation of Quadcopter” by Shaikh Altamash(12ME48), Syed Adnan (12ME62), Padwekar Aamir(13ME133).pdf",
     "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Unconfirmed 217658.crdownload",
@@ -262,7 +256,6 @@
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf",
     "Resources/Templates/Checkmark.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
