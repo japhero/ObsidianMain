@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "89893ad0c8faa9e3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Physics/Physics (index).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "52fc095b9df7776d",
             "type": "leaf",
             "state": {
@@ -51,20 +36,54 @@
             }
           },
           {
+            "id": "1d8de6dcc4d829ad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "eecb02449f97d5cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cba181f1830f1416",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
+                "file": "Areas/school/School (Index).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1898ab8b89d4950",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Archives/The Continuity of Splines/Bezier Curves.md",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -83,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,16 +227,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eecb02449f97d5cf",
+  "active": "f1898ab8b89d4950",
   "lastOpenFiles": [
+    "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
+    "Areas/school/School (Index).md",
+    "Areas/school/English/Class notes/Chapter 1 The great Gatsby Paul Weder.md",
+    "Areas/school/APUSH/Book notes/Chapter 2 notes.md",
+    "Areas/Physics/Frames of reference.md",
+    "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
+    "Archives/The Continuity of Splines/Bezier Curves.md",
     "Areas/Engineering/FTC/FTC (Index).md",
+    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
+    "Areas/Physics/Physics (index).md",
+    "Areas/school/English/Book notes",
     "Areas/Engineering/Drone Ftc/Multi Threading/Threads vs Queues.md",
     "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
-    "Areas/Physics/Frames of reference.md",
-    "Areas/Physics/Physics (index).md",
     "Areas/Physics/Rotation Matrix.md",
     "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
     "Areas/Physics/Untitled",
     "Areas/Engineering/Drone Ftc/Planning for software.md",
     "Areas/Physics",
@@ -234,21 +259,12 @@
     "Areas/Engineering/Drone Ftc/Multi Threading/Multi Threading Basics.md",
     "Archives/Python Docs/concepts.md",
     "Areas/Engineering/Drone Ftc/Multi Threading/Synchronization.md",
-    "Areas/school/School (Index).md",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf",
     "Resources/Templates/Checkmark.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Categories-Document summary.md",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
-    "Areas/school/English/Class notes/Great Gatsby chapter 1.md",
-    "Resources/Github DEBUG.md",
-    "Areas/school/Calculus/Implicit derivatives.md",
-    "Areas/school/Calculus/Finding and graphing critical numbers.md",
-    "Areas/school/Calculus/Factoring with negative exponents..md",
-    "Areas/school/Calculus/Exponent Rule.md",
-    "Areas/school/English/Common Literary Devices.md",
-    "Areas/school/English/Vocab",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Resources/assorted media/Image/2xGraph.png",
     "Untitled.canvas",

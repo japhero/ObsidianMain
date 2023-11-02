@@ -18,6 +18,11 @@
 
 ### English
 [[Common Literary Devices]]
+[[Chapter 1 The great Gatsby Paul Weder]]
+[[Chapter 3 The great Gatsby Paul Weder]]
+
+
+
 
 ---
 # Description
