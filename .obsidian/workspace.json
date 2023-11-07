@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6c3a7b99cf2e9eec",
+        "id": "ff7d75c5dac04a1f",
         "type": "tabs",
         "children": [
           {
-            "id": "77f54d3453794d4d",
+            "id": "1e9c0746f9e6cc9a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
+                "file": "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "52fc095b9df7776d",
+            "id": "f829334ee458545e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/FTC/FTC (Index).md",
+                "file": "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,43 +36,31 @@
             }
           },
           {
-            "id": "1d8de6dcc4d829ad",
+            "id": "2d67d9c8e09f97d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "eecb02449f97d5cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".obsidian/app.json",
+                "staged": false
               }
             }
           },
           {
-            "id": "0a04c74ba3b26f28",
+            "id": "158ac899e01c3061",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
+                "file": "Areas/school/School (Index).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,22 +74,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d9a2f8aed13fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f9ab71fc25a436d2",
+            "id": "38d930cc7c142fd3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -119,7 +92,30 @@
             }
           },
           {
-            "id": "7a3707bc446fb6fd",
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "atan2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54289b9de94bd0b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ab6b183351d7339",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -127,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,42 +138,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703eba2feea725e3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "dab8911558a29618",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "e52e0e0a9e5d8016",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "06a797fa18dc8d51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/school/School (Index).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85eaf91faea7d71a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Areas/school/School (Index).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7a7db88ba69a887",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           },
@@ -187,87 +193,79 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md"
-              }
-            }
-          },
-          {
-            "id": "ba2fa59ec56cbd52",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
+                "file": "Areas/school/School (Index).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "canvas:Create new canvas": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a04c74ba3b26f28",
+  "active": "158ac899e01c3061",
   "lastOpenFiles": [
-    "Areas/school/English/Class notes/Chapter 1 The great Gatsby Paul Weder.md",
-    "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
-    "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
-    "Areas/Engineering/Drone Ftc/Planning for software.md",
-    "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
-    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
-    "Areas/school/School (Index).md",
-    "Areas/school/APUSH/Book notes/Chapter 2 notes.md",
-    "Areas/Physics/Frames of reference.md",
-    "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
-    "Archives/The Continuity of Splines/Bezier Curves.md",
-    "Areas/Engineering/FTC/FTC (Index).md",
     "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
-    "Areas/Physics/Physics (index).md",
+    "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
+    "Areas/school/English/Class notes/Chapter 1 The great Gatsby Paul Weder.md",
+    "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
     "Areas/school/English/Book notes",
     "Areas/Engineering/Drone Ftc/Multi Threading/Threads vs Queues.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
     "Areas/Physics/Rotation Matrix.md",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf",
-    "Areas/Physics/Untitled",
+    "Areas/Physics/Physics (index).md",
+    "Areas/Physics/Frames of reference.md",
     "Areas/Physics",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Kinematic, Dynamic Modelling and Simulation of Quadcopter” by Shaikh Altamash(12ME48), Syed Adnan (12ME62), Padwekar Aamir(13ME133).pdf",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Unconfirmed 217658.crdownload",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf",
+    "Archives/Robot arm.md",
+    "Areas/Engineering/FTC/Personal notes/Misc notes/Need to know terms.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Kinematic Model of a Four Mecanum Wheeled Mobile Robot.pdf",
+    "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Mechanum kinematics.md",
+    "Areas/Engineering/FTC/FTC (Index).md",
+    "Areas/Engineering/Engineering (index).md",
+    "Areas/school/School (Index).md",
     "Areas/Engineering/Drone Ftc/Multi Threading/Thread Pools.md",
-    "Flight controler explanation.md",
-    "Archives/Collage essay Practice/Gauselman essay prep.md",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Kinematic, Dynamic Modelling and Simulation of Quadcopter” by Shaikh Altamash(12ME48), Syed Adnan (12ME62), Padwekar Aamir(13ME133).pdf",
     "Areas/Engineering/Drone Ftc/Kinematics of quadcopter",
-    "Areas/Engineering/Drone Ftc/Multi Threading/Syntax.md",
-    "Areas/Engineering/Drone Ftc/Multi Threading/Multi Threading Basics.md",
-    "Archives/Python Docs/concepts.md",
-    "Areas/Engineering/Drone Ftc/Multi Threading/Synchronization.md",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
+    "Archives/Collage essay Practice/Gauselman essay prep.md",
+    "Areas/school/English/Class notes/Great Gatsby chapter 1.md",
+    "Areas/school/TODO lists/10-24-2023.md",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf",
-    "Resources/Templates/Checkmark.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
+    "Archives/Space Traders/Front End.md",
+    "Archives/Space Traders/Rest Api.md",
+    "Archives/Space Traders/Brain dump.md",
+    "Archives/Space Traders",
+    "Archives/Python Docs/Functions and Operators.md",
+    "Archives/Python Docs/concepts.md",
+    "Archives/Python Docs",
+    "Archives/PID",
     "Resources/assorted media/Image/2xGraph.png",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Untitled.canvas",
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Resources/assorted media/Image/figure3-6-7.gif",
-    "Resources/assorted media/2xGraph.png",
-    "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
-    "Resources/assorted media/Pasted image 20231023104528.png",
-    "Resources/assorted media/Pasted image 20231023104506.png",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Resources/assorted media/Image/copy-list-in-python.png",
-    "Resources/assorted media/Image/Pasted image 20230804120331.png"
+    "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
+    "Resources/assorted media/Image/Pasted image 20230804120331.png",
+    "Resources/assorted media/Image/Pasted Image 20230613195002_207.png",
+    "Resources/assorted media/Image/Pasted image 20221009214700.png",
+    "Resources/assorted media/Image/Layer~1.Multiply.100.Visible.png"
   ]
 }

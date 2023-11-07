@@ -13,6 +13,8 @@
 [[First and second derivative test]]
 [[Factoring polynomials]]
 [[Exponent Rule]]
+[[related rates formulas]]
+[[solving related rates]]
 
 
 
