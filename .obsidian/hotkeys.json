@@ -40,5 +40,13 @@
       ],
       "key": "P"
     }
+  ],
+  "file-explorer:new-file-in-current-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "N"
+    }
   ]
 }

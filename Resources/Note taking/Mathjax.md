@@ -12,3 +12,6 @@ $2x^{-5+n}$
 $2x^{-5+n}$
 
 ---
+## FINDING BEST WEBSITE
+https://detexify.kirelabs.org/classify.html
+
