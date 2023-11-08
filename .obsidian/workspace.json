@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "676e837989d206d7",
+        "id": "db72512d6edf1fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "0c067b96c3c98fbf",
+            "id": "36ec63c30fd1d595",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9a33a026d929bd46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/School (Index).md",
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,19 +36,18 @@
             }
           },
           {
-            "id": "c71cfb0066e721bd",
+            "id": "151bd49800441e3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Resources/Note taking/Mathjax.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".obsidian/app.json",
+                "staged": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -43,24 +57,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e0aa37c5eb419e43",
+        "id": "0185b9d96d38b3e2",
         "type": "tabs",
         "children": [
-          {
-            "id": "0d9a2f8aed13fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "pid algo",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "f9ab71fc25a436d2",
             "type": "leaf",
@@ -80,6 +79,21 @@
             }
           },
           {
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#resource",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "7a3707bc446fb6fd",
             "type": "leaf",
             "state": {
@@ -87,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,9 +121,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/School (Index).md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -125,9 +137,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/School (Index).md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -147,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Areas/school/School (Index).md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,73 +171,75 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "67ef5afbee5fb6c8",
+  "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
-    "Areas/school/Math/Rules",
-    "Areas/school/Math/Rules/Exponent Rule.md",
-    "Areas/school/Math/Untitled.md",
-    "Areas/school/Math/Rules/Product rule.md",
     "Areas/school/Math/Rules/Quotient rule.md",
-    "Areas/school/Math/Implicit derivatives.md",
+    "Areas/school/Math/Rules/Product rule.md",
+    "Areas/school/Math/Rules/Exponent Rule.md",
     "Areas/school/Math/solving related rates.md",
-    "Resources/Note taking/Mathjax.md",
-    "Untitled.md",
+    "Areas/school/Math/Rules",
+    "Areas/school/Math/Implicit derivatives.md",
     "Areas/school/Math/Finding and graphing critical numbers.md",
     "Areas/school/Math/Factoring with negative exponents..md",
-    "Areas/school/School (Index).md",
-    "Areas/Physics/Frames of reference.md",
-    "FRC drone competition.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
+    "Areas/school/Math",
+    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
     "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
-    "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
-    "Areas/Engineering/FTC/FTC (Index).md",
-    "Areas/Engineering/FTC/Personal notes/Notes checklist.md",
-    "Areas/Engineering/FTC/Personal notes/links.md",
-    "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/Need to know terms.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/The Game.md",
     "Areas/school/English/Class notes/Chapter 1 The great Gatsby Paul Weder.md",
-    "Areas/Engineering/Drone Ftc/Planning for software.md",
-    "Areas/Engineering/Drone Ftc/Drone FTC (index).md",
+    "Areas/school/English/Class notes",
+    "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
     "Areas/school/English/Book notes",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf",
-    "Areas/Physics/Untitled",
-    "Areas/Physics",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Kinematic, Dynamic Modelling and Simulation of Quadcopter” by Shaikh Altamash(12ME48), Syed Adnan (12ME62), Padwekar Aamir(13ME133).pdf",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Unconfirmed 217658.crdownload",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
+    "Areas/Physics/Rotation Matrix.md",
+    "Areas/Physics/Physics (index).md",
+    "Areas/Physics/Frames of reference.md",
+    "Areas/Physics",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Threads vs Queues.md",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Thread Pools.md",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/drone Kinematics.md",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Kinematic, Dynamic Modelling and Simulation of Quadcopter” by Shaikh Altamash(12ME48), Syed Adnan (12ME62), Padwekar Aamir(13ME133).pdf",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter",
+    "Archives/Collage essay Practice/Gauselman essay prep.md",
+    "Areas/Engineering/Drone Ftc/asyncio/Async.md",
+    "Areas/Engineering/Drone Ftc/asyncio",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Syntax.md",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Synchronization.md",
+    "Areas/Engineering/Drone Ftc/Multi Threading/Multi Threading Basics.md",
+    "Archives/The Continuity of Splines/Bezier Splines.md",
+    "Archives/The Continuity of Splines/Bezier Curves.md",
+    "Archives/Space Traders/Rest Api.md",
+    "Archives/Space Traders/Front End.md",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Resources/assorted media/Image/2xGraph.png",
     "Untitled.canvas",
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
-    "Resources/assorted media/Image/figure3-6-7.gif",
-    "Resources/assorted media/2xGraph.png",
     "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
-    "Resources/assorted media/Pasted image 20231023104528.png",
-    "Resources/assorted media/Pasted image 20231023104506.png",
+    "Resources/assorted media/Image/figure3-6-7.gif",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
+    "Resources/assorted media/2xGraph.png",
     "Resources/assorted media/Image/copy-list-in-python.png",
-    "Resources/assorted media/Image/Pasted image 20230804120331.png"
+    "Resources/assorted media/Image/Pasted image 20230804120331.png",
+    "Resources/assorted media/Image/Pasted image 20221009214700.png",
+    "Resources/assorted media/Image/Pasted Image 20231006133015_244.png"
   ]
 }
