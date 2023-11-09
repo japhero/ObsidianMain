@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/Math/Factoring with negative exponents..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/Math/Factoring with negative exponents..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/school/Math/Factoring with negative exponents..md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -182,8 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c067b96c3c98fbf",
+  "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
+    "Areas/school/Math/Factoring with negative exponents..md",
+    "conflict-files-obsidian-git.md",
     "Areas/school/Math/Finding and graphing critical numbers.md",
     "Areas/school/Math/Implicit derivatives.md",
     "Areas/school/Math/solving related rates.md",
@@ -195,7 +195,6 @@
     "Areas/school/Math/Rules/Quotient rule.md",
     "Resources/Note taking/Mathjax.md",
     "Untitled.md",
-    "Areas/school/Math/Factoring with negative exponents..md",
     "Areas/Physics/Frames of reference.md",
     "FRC drone competition.md",
     "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
