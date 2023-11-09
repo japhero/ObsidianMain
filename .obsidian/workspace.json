@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/School (Index).md",
+                "file": "Areas/school/Math/Factoring with negative exponents..md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,9 +108,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/School (Index).md",
+                "file": "Areas/school/Math/Factoring with negative exponents..md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/School (Index).md",
+                "file": "Areas/school/Math/Factoring with negative exponents..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/school/School (Index).md"
+                "file": "Areas/school/Math/Factoring with negative exponents..md"
               }
             }
           },
@@ -162,7 +162,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,20 +182,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67ef5afbee5fb6c8",
+  "active": "0c067b96c3c98fbf",
   "lastOpenFiles": [
+    "Areas/school/Math/Finding and graphing critical numbers.md",
+    "Areas/school/Math/Implicit derivatives.md",
+    "Areas/school/Math/solving related rates.md",
+    "Areas/school/School (Index).md",
     "Areas/school/Math/Rules",
     "Areas/school/Math/Rules/Exponent Rule.md",
     "Areas/school/Math/Untitled.md",
     "Areas/school/Math/Rules/Product rule.md",
     "Areas/school/Math/Rules/Quotient rule.md",
-    "Areas/school/Math/Implicit derivatives.md",
-    "Areas/school/Math/solving related rates.md",
     "Resources/Note taking/Mathjax.md",
     "Untitled.md",
-    "Areas/school/Math/Finding and graphing critical numbers.md",
     "Areas/school/Math/Factoring with negative exponents..md",
-    "Areas/school/School (Index).md",
     "Areas/Physics/Frames of reference.md",
     "FRC drone competition.md",
     "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
@@ -218,7 +219,6 @@
     "Areas/Engineering/Drone Ftc/Kinematics of quadcopter",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf",
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Resources/assorted media/Image/2xGraph.png",
     "Untitled.canvas",

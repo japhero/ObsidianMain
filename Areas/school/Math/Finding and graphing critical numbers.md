@@ -27,3 +27,4 @@ Any critical numbers created by the denominator being zero and making $f^\prime(
 [reasource](https://byjus.com/jee/maxima-and-minima-in-calculus/)
 [First derivative video](https://www.youtube.com/watch?v=G5wlKltW7pM)
 [First deriv vid with sharp points](https://www.youtube.com/watch?v=REWoDT08SR4)
+  
