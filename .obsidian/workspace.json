@@ -8,6 +8,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "57e17343d937e317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/Document analysis Independant.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "18adc434c12279b5",
+        "type": "tabs",
+        "children": [
+          {
             "id": "0c067b96c3c98fbf",
             "type": "leaf",
             "pinned": true,
@@ -23,48 +42,18 @@
             }
           },
           {
-            "id": "57e17343d937e317",
+            "id": "2d7156ebbdecc7d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/Document analysis Independant.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "staged": false
               }
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "c9b31a1dd159b7a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "299776e4fc830673",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/AP® United States History 2002 Scoring Guidelines.pdf"
-              }
-            }
-          },
-          {
-            "id": "e521dc75083534d7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf"
-              },
-              "pinned": true
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/AP® United States History 2002 Scoring Guidelines.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/AP® United States History 2002 Scoring Guidelines.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/AP® United States History 2002 Scoring Guidelines.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -214,12 +199,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "299776e4fc830673",
+  "active": "2d7156ebbdecc7d8",
   "lastOpenFiles": [
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/Document analysis Independant.md",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/AP® United States History 2002 Scoring Guidelines.pdf",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf",
+    "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
+    "Areas/school/APUSH/DBQ/Unit 3 DBQ/Document analysis Independant.md",
+    "Areas/school/APUSH/DBQ/Unit 3 DBQ/AP® United States History 2002 Scoring Guidelines.pdf",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/Unconfirmed 189134.crdownload",
     "Areas/school/English/Book notes/Chapter 4 The great Gatsby.md",
     "Areas/school/Math/Factoring with negative exponents..md",

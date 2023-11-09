@@ -21,7 +21,7 @@
 	- Utopian's have an emphasis on the communal good
 	- harmony and cooperation
 - G:
-	- contrasts with (brooke farm )F
+	- contrasts with (Brooke farm )F
 	- critical of utopian communities 
 	- sees reform as a threat to existing order
 - H: 
