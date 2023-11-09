@@ -88,7 +88,7 @@ Doc.  I = Women demanded the right to vote $\color{\green}{\unicode{x2714}}$
 ---
 # Final thesis 
 
-**From 1825 until 1850 reformists furthered democratic ideals through pushing personal rehabilitation, womens rights and religious reformism **
+**From 1825 until 1850 reformists furthered democratic ideals through pushing personal rehabilitation, womens rights and spiritual reformism **
 
 
 ---
@@ -96,3 +96,4 @@ Doc.  I = Women demanded the right to vote $\color{\green}{\unicode{x2714}}$
 [[Planning for PG's]]
 [[Final DBQ 3]]
 [[Reform Era DBQ.pdf]]
+[[AP® United States History 2002 Scoring Guidelines.pdf]]
