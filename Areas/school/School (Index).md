@@ -12,8 +12,15 @@
 [[Implicit derivatives]]
 [[First and second derivative test]]
 [[Factoring polynomials]]
-[[related rates formulas]]
+[[Related Rates Formulas]]
 [[solving related rates]]
+#### Formulas
+- [[Related Rates Formulas]]
+- [[Exponent Quotient rule]]
+- [[Exponent Product rule]]
+- [[Exponent Rule]]
+- 
+
 #### Rules
 	[[Quotient rule]]
 	[[Product rule]]

@@ -4,36 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "676e837989d206d7",
+        "id": "ff7d75c5dac04a1f",
         "type": "tabs",
         "children": [
           {
-            "id": "57e17343d937e317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/Document analysis Independant.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "18adc434c12279b5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c067b96c3c98fbf",
+            "id": "ed3aa41fe1bb90bf",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
+                "file": "Areas/school/Math/solving related rates.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,18 +23,19 @@
             }
           },
           {
-            "id": "2d7156ebbdecc7d8",
+            "id": "c74491b275b70501",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Areas/school/APUSH/DBQ/Unit 3 DBQ/Document analysis Independant.md",
-                "staged": false
+                "file": "Areas/school/Math/Rules-Formulas/Related Rates Formulas.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,22 +49,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d9a2f8aed13fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "pid algo",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f9ab71fc25a436d2",
+            "id": "38d930cc7c142fd3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -100,7 +67,30 @@
             }
           },
           {
-            "id": "7a3707bc446fb6fd",
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "atan2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54289b9de94bd0b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ab6b183351d7339",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -123,40 +113,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703eba2feea725e3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "dab8911558a29618",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "e52e0e0a9e5d8016",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "06a797fa18dc8d51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/school/Math/solving related rates.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85eaf91faea7d71a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Areas/school/Math/solving related rates.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7a7db88ba69a887",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           },
@@ -165,87 +167,80 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "ba2fa59ec56cbd52",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "file": "Areas/school/Math/solving related rates.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "canvas:Create new canvas": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d7156ebbdecc7d8",
+  "active": "ed3aa41fe1bb90bf",
   "lastOpenFiles": [
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
+    "Areas/school/Math/Rules-Formulas/Related Rates Formulas.md",
+    "Areas/school/Math/solving related rates.md",
+    "Archives/A star/A Star algorithm vid notes.md",
+    "Archives/A star/PseudoCode.md",
+    "Archives/A star/implementation.md",
+    "Areas/school/Math/Untitled.md",
+    "Areas/school/Math/Rules-Formulas/Exponent Rule.md",
+    "Areas/school/Math/Rules-Formulas/Untitled.md",
+    "Areas/school/Math/Rules-Formulas/Exponent Product rule.md",
+    "Areas/school/Math/Rules-Formulas/Exponent Quotient rule.md",
+    "Areas/school/Math/Rules-Formulas/Derivative Quotient rule.md",
+    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
+    "Areas/school/School (Index).md",
+    "Areas/school/Math/Formulas",
+    "Areas/school/Math/Rules/Untitled.md",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/Document analysis Independant.md",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/AP® United States History 2002 Scoring Guidelines.pdf",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/Unconfirmed 189134.crdownload",
     "Areas/school/English/Book notes/Chapter 4 The great Gatsby.md",
-    "Areas/school/Math/Factoring with negative exponents..md",
+    "Resources/PDF versions/Chapter 4 The great Gatsby.pdf",
+    "conflict-files-obsidian-git.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Field centric drive explained.md",
     "Resources/Templates/book notes.md",
+    "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
+    "Resources/Templates/Index.md",
+    "Areas/school/TODO lists/11-08-2023.md",
     "Areas/school/TODO lists/October 23/10-24-2023.md",
-    "Areas/school/TODO lists/October 23/10-16-2023.md",
     "Areas/school/TODO lists/October 23/10-02-2023.md",
     "Areas/school/TODO lists/October 23",
-    "Areas/school/TODO lists/11-08-2023.md",
-    "conflict-files-obsidian-git.md",
-    "Areas/school/Math/Finding and graphing critical numbers.md",
-    "Areas/school/Math/Implicit derivatives.md",
-    "Areas/school/Math/solving related rates.md",
-    "Areas/school/School (Index).md",
-    "Areas/school/Math/Rules",
-    "Areas/school/Math/Rules/Exponent Rule.md",
-    "Areas/school/Math/Untitled.md",
-    "Areas/school/Math/Rules/Product rule.md",
-    "Areas/school/Math/Rules/Quotient rule.md",
-    "Resources/Note taking/Mathjax.md",
-    "Untitled.md",
-    "Areas/Physics/Frames of reference.md",
-    "FRC drone competition.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
-    "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
-    "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
+    "Areas/school/TODO lists/september 23/09-23-2023.md",
+    "Areas/school/TODO lists/september 23/09-17-2023.md",
+    "Areas/school/Math/Rules-Formulas",
+    "Areas/school/Math",
     "Areas/school/English/Book notes",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf",
-    "Areas/Physics/Untitled",
     "Areas/Physics",
-    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Kinematic, Dynamic Modelling and Simulation of Quadcopter” by Shaikh Altamash(12ME48), Syed Adnan (12ME62), Padwekar Aamir(13ME133).pdf",
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
+    "Areas/Engineering/Drone Ftc/Kinematics of quadcopter/Mathematical Dynamics, Kinematics Modeling and PID Equation Controller of QuadCopter.pdf",
+    "Areas/Engineering/FTC/Mechanum Sim/Kinematic Model of a Four Mecanum Wheeled Mobile Robot.pdf",
     "Resources/assorted media/Image/2xGraph.png",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Untitled.canvas",
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Resources/assorted media/Image/figure3-6-7.gif",
-    "Resources/assorted media/2xGraph.png",
-    "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
-    "Resources/assorted media/Pasted image 20231023104528.png",
-    "Resources/assorted media/Pasted image 20231023104506.png",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Resources/assorted media/Image/copy-list-in-python.png",
-    "Resources/assorted media/Image/Pasted image 20230804120331.png"
+    "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
+    "Resources/assorted media/Image/Pasted image 20230804120331.png",
+    "Resources/assorted media/Image/Pasted Image 20230613195002_207.png",
+    "Resources/assorted media/Image/Pasted image 20221009214700.png",
+    "Resources/assorted media/Image/Layer~1.Multiply.100.Visible.png"
   ]
 }
