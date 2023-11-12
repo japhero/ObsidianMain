@@ -10,6 +10,9 @@
 - Read the problem several times lol
 - Some times when using [[Pythagoreans Theorem]] to solve for triangles one must first solve for a side as a way to eliminate variables. Of course remember to solve at the target position for example if its asking to find some rate at $y=6$ make sure to only use the result of that calculation at $y = 6$ 
 - make sure that you evenly distribute exponents  according to the [[Exponent Product rule]] for example $\left( \frac 1 3 x \right)^2$ distributed is $\frac 1 9 x^2$.
+- [Shadow](https://youtu.be/ps-r4nti5Go?t=3532) 
+	- Get similar triangles because $\tan = \tan$ so that ratio is the same.
+	- 
 
 
 
