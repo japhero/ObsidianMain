@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/Math/solving related rates.md",
+                "file": "Resources/Github DEBUG.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/Math/solving related rates.md",
+                "file": "Resources/Github DEBUG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/Math/solving related rates.md",
+                "file": "Resources/Github DEBUG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/school/Math/solving related rates.md"
+                "file": "Resources/Github DEBUG.md"
               }
             }
           },
@@ -185,9 +185,9 @@
   },
   "active": "64d81b735cb163ae",
   "lastOpenFiles": [
+    "Areas/school/Math/solving related rates.md",
     "Archives/PID/Wiring And planning.md",
     "Areas/school/Bib/RelatedRatesWorksheet - 1-21  with answer key.pdf",
-    "Areas/school/Math/solving related rates.md",
     "Resources/School Docs/APUSH/1993 DBQ - Two Societies documents.pdf",
     "Archives/PID/PID Code Documentation.md",
     "Archives/Robot arm.md",

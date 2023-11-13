@@ -10,3 +10,9 @@ fatal: unable to access 'https://github.com/Pweder69/REC-Eclipse-2024.git/': The
 
 --- 
 
+## DS_Store
+https://stackoverflow.com/questions/18393498/gitignore-all-the-ds-store-files-in-every-folder-and-subfolder
+
+```python
+find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch
+```
