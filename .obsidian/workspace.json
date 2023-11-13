@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/asyncio/Async.md",
+                "file": "Archives/Python Docs/Documenting.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/asyncio/Async.md",
+                "file": "Archives/Python Docs/Documenting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/asyncio/Async.md",
+                "file": "Archives/Python Docs/Documenting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Engineering/Drone Ftc/asyncio/Async.md"
+                "file": "Archives/Python Docs/Documenting.md"
               }
             }
           },
@@ -214,6 +214,8 @@
   },
   "active": "50e26658b0fe00c8",
   "lastOpenFiles": [
+    "Areas/Engineering/Drone Ftc/asyncio/Async.md",
+    "Archives/Python Docs/Documenting.md",
     "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
     "Areas/Engineering/FTC/Personal notes/Misc notes/The Game.md",
     "Areas/school/Math/Finding and graphing critical numbers.md",
@@ -245,8 +247,6 @@
     "Areas/school/APUSH/DBQ/Unit 2 DBQ/Planning/Paragraph Structure.md",
     "Resources/PDF versions/Chapter 4 The great Gatsby.pdf",
     "Areas/school/APUSH/DBQ/Unit 3 DBQ/Unconfirmed 189134.crdownload",
-    "Resources/Templates/book notes.md",
-    "Areas/school/TODO lists/October 23/10-24-2023.md",
     "Areas/school/TODO lists/October 23",
     "Areas/school/Math/Rules",
     "Areas/school/English/Book notes",
