@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e2e0dd7a84f3d48a",
+        "id": "ff7d75c5dac04a1f",
         "type": "tabs",
         "children": [
           {
-            "id": "41b6fb9d6e3293d6",
+            "id": "c74491b275b70501",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/Math/Rules-Formulas/Trig derivatives.md",
+                "file": "Areas/school/English/Book notes/Chapter 5 The great Gatsby.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "8de56119693fefd0",
+            "id": "629613995375429a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/Math/Antiderivatives-integrals.md",
+                "file": "Areas/school/English/Book notes/Chapter 6 The great Gatsby.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -38,25 +38,27 @@
             }
           },
           {
-            "id": "659aca3e13dfe4c4",
+            "id": "1bc75336de29fe7b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/Math/Rules-Formulas/Trig derivatives.md",
+                "file": "Areas/school/English/Book notes/Chapter 4 The great Gatsby.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "91d1adf67cbf7786",
+            "id": "5022c7eabec911e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/Math/solving related rates.md",
+                "file": "Areas/school/English/Book notes/Chapter 5 The great Gatsby.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,22 +80,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d9a2f8aed13fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "pid algo",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f9ab71fc25a436d2",
+            "id": "38d930cc7c142fd3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -111,7 +98,30 @@
             }
           },
           {
-            "id": "7a3707bc446fb6fd",
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "atan2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54289b9de94bd0b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ab6b183351d7339",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -119,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,12 +144,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703eba2feea725e3",
+            "id": "e52e0e0a9e5d8016",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "06a797fa18dc8d51",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/Math/Rules-Formulas/Trig derivatives.md",
+                "file": "Areas/school/English/Book notes/Chapter 5 The great Gatsby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,25 +172,24 @@
             }
           },
           {
-            "id": "dab8911558a29618",
+            "id": "85eaf91faea7d71a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/Math/Rules-Formulas/Trig derivatives.md",
+                "file": "Areas/school/English/Book notes/Chapter 5 The great Gatsby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e52e0e0a9e5d8016",
+            "id": "f7a7db88ba69a887",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "sortOrder": "frequency"
               }
             }
           },
@@ -179,89 +199,79 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/school/Math/Rules-Formulas/Trig derivatives.md"
-              }
-            }
-          },
-          {
-            "id": "ba2fa59ec56cbd52",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
+                "file": "Areas/school/English/Book notes/Chapter 5 The great Gatsby.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "canvas:Create new canvas": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "659aca3e13dfe4c4",
+  "active": "5022c7eabec911e0",
   "lastOpenFiles": [
-    "Areas/school/Math/Antiderivatives-integrals.md",
-    "Areas/school/Math/Rules-Formulas/Trig derivatives.md",
-    "Areas/school/Math/solving related rates.md",
-    "Resources/Note taking/Mathjax.md",
-    "Resources/Note taking/markdown-cheat-sheet.md",
-    "Areas/school/Math/Rules-Formulas/Related Rates Formulas.md",
-    "Areas/Python Docs/concepts.md",
-    "Areas/school/Bib/RelatedRatesWorksheet - 1-21  with answer key.pdf",
-    "Areas/Python Docs/Circuit python.md",
-    "Archives/PID/Wiring And planning.md",
-    "Resources/Github DEBUG.md",
-    "Resources/School Docs/APUSH/1993 DBQ - Two Societies documents.pdf",
-    "Archives/PID/PID Code Documentation.md",
-    "Archives/Robot arm.md",
-    "Areas/Python Docs/Functions and Operators.md",
-    "Areas/Python Docs/Documenting.md",
-    "Areas/school/School (Index).md",
-    "Areas/school/Math/Factoring negative exponents..md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Road Runner usage.md",
-    "Areas/school/Bib",
-    "Areas/Engineering/Drone Ftc/asyncio/Async.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/The Game.md",
-    "Areas/school/Math/Finding and graphing critical numbers.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/AP® United States History 2002 Scoring Guidelines.pdf",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/Document analysis Independant.md",
+    "Resources/PDF versions/Chapter 5 The great Gatsby.pdf",
+    "Areas/school/English/Book notes/Chapter 6 The great Gatsby.md",
+    "Resources/PDF versions/Chapter 6 The great Gatsby.pdf",
+    "Areas/school/English/Book notes/Chapter 5 The great Gatsby.md",
     "Areas/school/English/Book notes/Chapter 4 The great Gatsby.md",
+    "Areas/Python Docs/Python (index).md",
+    "Areas/Python Docs/concepts.md",
+    "Resources/Templates/book notes.md",
+    "Areas/school/Math/solving related rates.md",
     "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf",
-    "Areas/school/Math/Rules-Formulas",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
-    "Resources/PDF versions/Chapter 4 The great Gatsby.pdf",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/Unconfirmed 189134.crdownload",
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
+    "Areas/school/Math/Rules-Formulas/Trig derivatives.md",
+    "Areas/school/Math/Antiderivatives-integrals.md",
+    "Areas/Python Docs/Circuit python.md",
+    "Areas/school/Math/Rules-Formulas/Related Rates Formulas.md",
+    "Areas/Python Docs/Documenting.md",
+    "Areas/Python Docs/Functions and Operators.md",
+    "Areas/Python Docs",
+    "Areas/school/Math/Factoring negative exponents..md",
+    "Areas/school/Bib/RelatedRatesWorksheet - 1-21  with answer key.pdf",
+    "Areas/school/Bib",
+    "Archives/Projects/LeetCode/Questions/TwoPointers-PalindroneNumbers.md",
+    "Archives/Projects/LeetCode/Questions/Two Sum.md",
+    "Archives/Projects/LeetCode/Questions/74. Search a 2D Matrix.md",
+    "Archives/Projects/LeetCode/Questions/20. Valid Parentheses-Stack data structures.md",
+    "Archives/Projects/LeetCode/Questions/217. Contains Duplicate.md",
+    "Archives/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
+    "Archives/Projects/LeetCode/Questions/12. Integer to Roman.md",
+    "Archives/Projects/LeetCode/Questions/141. Linked List Cycle.md",
+    "Archives/Projects/LeetCode/Data structures/Linked list.md",
+    "Archives/Projects/LeetCode/algorithms/Floyd's tortoise and hare.md",
+    "Archives/Projects/LeetCode/Questions",
+    "Archives/Projects/LeetCode/Data structures",
+    "Archives/Projects/LeetCode/algorithms",
+    "Archives/Projects/Room remodel",
+    "Archives/Projects/LeetCode",
+    "Archives/Projects",
     "Resources/assorted media/Image/2xGraph.png",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Untitled.canvas",
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Resources/assorted media/Image/figure3-6-7.gif",
-    "Resources/assorted media/2xGraph.png",
-    "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
-    "Resources/assorted media/Pasted image 20231023104528.png",
-    "Resources/assorted media/Pasted image 20231023104506.png",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Resources/assorted media/Image/copy-list-in-python.png",
-    "Resources/assorted media/Image/Pasted image 20230804120331.png"
+    "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
+    "Resources/assorted media/Image/Pasted image 20230804120331.png",
+    "Resources/assorted media/Image/Pasted Image 20230613195002_207.png",
+    "Resources/assorted media/Image/Pasted image 20221009214700.png",
+    "Resources/assorted media/Image/Layer~1.Multiply.100.Visible.png"
   ]
 }
