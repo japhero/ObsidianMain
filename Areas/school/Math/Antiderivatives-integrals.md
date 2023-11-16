@@ -15,8 +15,8 @@
 - $V(t) = f^\prime(x)$
 - $A(t) = f^{\prime \prime}(x)$
 - when solving for trig functions make sure to remember that the final goal is that 
-- [[Trig derivatives]] can use for reference to solve but memorise for the quiz  
-- 
+- [[Trig derivatives]] can use for reference to solve but memorize for the quiz  
+- When we have several 
 
 ---
 # Resources
