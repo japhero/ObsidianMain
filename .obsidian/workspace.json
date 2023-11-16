@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "66ed13b97dbcff14",
+        "id": "db72512d6edf1fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "b81cdadc0526b1ab",
+            "id": "9a33a026d929bd46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/PID/Wiring And planning.md",
+                "file": "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "64d81b735cb163ae",
+            "id": "c7d58335b599f06e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Github DEBUG.md",
+                "file": "Areas/Engineering/SMORT/Planning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,24 +44,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e0aa37c5eb419e43",
+        "id": "0185b9d96d38b3e2",
         "type": "tabs",
         "children": [
-          {
-            "id": "0d9a2f8aed13fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "pid algo",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "f9ab71fc25a436d2",
             "type": "leaf",
@@ -81,6 +66,21 @@
             }
           },
           {
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#resource",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "7a3707bc446fb6fd",
             "type": "leaf",
             "state": {
@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,13 +109,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Github DEBUG.md",
+                "file": "Areas/Engineering/SMORT/Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Github DEBUG.md",
+                "file": "Areas/Engineering/SMORT/Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Github DEBUG.md"
+                "file": "Areas/Engineering/SMORT/Planning.md"
               }
             }
           },
@@ -168,68 +168,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "64d81b735cb163ae",
+  "active": "c7d58335b599f06e",
   "lastOpenFiles": [
-    "Areas/school/Math/solving related rates.md",
-    "Archives/PID/Wiring And planning.md",
+    "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
+    "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
+    "Areas/Engineering/SMORT/Planning.md",
+    "Areas/Engineering/SMORT",
+    "Areas/school/Math/Factoring negative exponents..md",
     "Areas/school/Bib/RelatedRatesWorksheet - 1-21  with answer key.pdf",
-    "Resources/School Docs/APUSH/1993 DBQ - Two Societies documents.pdf",
-    "Archives/PID/PID Code Documentation.md",
-    "Archives/Robot arm.md",
+    "Areas/school/Bib",
     "Areas/Python Docs/Functions and Operators.md",
     "Areas/Python Docs/Documenting.md",
-    "Areas/school/School (Index).md",
-    "Areas/school/Math/Factoring negative exponents..md",
-    "Areas/school/Math/Rules-Formulas/Related Rates Formulas.md",
+    "Areas/Python Docs/concepts.md",
+    "Areas/Python Docs",
     "Areas/Engineering/FTC/Personal notes/Roadrunner/Road Runner usage.md",
-    "Areas/school/Bib",
-    "Areas/Engineering/Drone Ftc/asyncio/Async.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/PID algo.md",
-    "Areas/Engineering/FTC/Personal notes/Misc notes/The Game.md",
-    "Areas/school/Math/Finding and graphing critical numbers.md",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay.md",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/DBQ 3 Outline.md",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/AP® United States History 2002 Scoring Guidelines.pdf",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/Document analysis Independant.md",
-    "Areas/school/English/Book notes/Chapter 4 The great Gatsby.md",
-    "Areas/school/English/Book notes/Chapter 3 The great Gatsby Paul Weder.md",
-    "Areas/school/English/Class notes/Chapter 1 The great Gatsby Paul Weder.md",
-    "Areas/school/English/Class notes/Chapter 2 The great Gatsby Paul Weder.md",
-    "Areas/school/Math/Implicit derivatives.md",
-    "Areas/school/English/Class notes/Chapter 4 Class.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Road  Runner directory.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Links.md",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf",
-    "Areas/school/Math/Rules-Formulas",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/Documents.pdf",
-    "Resources/PDF versions/Chapter 4 The great Gatsby.pdf",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/Unconfirmed 189134.crdownload",
+    "Archives/Projects/LeetCode/Questions/TwoPointers-PalindroneNumbers.md",
+    "Archives/Projects/LeetCode/Questions/74. Search a 2D Matrix.md",
+    "Archives/Projects/LeetCode/Questions/Two Sum.md",
+    "Archives/Projects/LeetCode/Questions/217. Contains Duplicate.md",
+    "Archives/Projects/LeetCode/Questions/20. Valid Parentheses-Stack data structures.md",
+    "Archives/Projects/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
+    "Archives/Projects/LeetCode/Questions/141. Linked List Cycle.md",
+    "Archives/Projects/LeetCode/Questions/12. Integer to Roman.md",
+    "Archives/Projects/LeetCode/Data structures/Linked list.md",
+    "Archives/Projects/LeetCode/algorithms/Binary search.md",
+    "Archives/Projects/LeetCode/algorithms/Floyd's tortoise and hare.md",
+    "Archives/Projects/LeetCode/Questions",
+    "Archives/Projects/LeetCode/Data structures",
+    "Archives/Projects/LeetCode/algorithms",
+    "Archives/Projects/Room remodel/Poster list.md",
+    "Archives/Projects/LeetCode",
+    "Archives/Projects/Room remodel",
+    "Archives/Projects",
+    "Areas/school/TODO lists/October 23/10-24-2023.md",
+    "Areas/school/TODO lists/October 23/10-16-2023.md",
+    "Areas/school/TODO lists/October 23/10-02-2023.md",
+    "Resources/Templates/book notes.md",
+    "Areas/school/Math/Rules-Formulas/Related Rates Formulas.md",
+    "Areas/school/Math/Rules-Formulas/Exponent Product rule.md",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Resources/assorted media/Image/2xGraph.png",
     "Untitled.canvas",
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
-    "Resources/assorted media/Image/figure3-6-7.gif",
-    "Resources/assorted media/2xGraph.png",
     "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
-    "Resources/assorted media/Pasted image 20231023104528.png",
-    "Resources/assorted media/Pasted image 20231023104506.png",
+    "Resources/assorted media/Image/figure3-6-7.gif",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
+    "Resources/assorted media/2xGraph.png",
     "Resources/assorted media/Image/copy-list-in-python.png",
-    "Resources/assorted media/Image/Pasted image 20230804120331.png"
+    "Resources/assorted media/Image/Pasted image 20230804120331.png",
+    "Resources/assorted media/Image/Pasted image 20221009214700.png",
+    "Resources/assorted media/Image/Pasted Image 20231006133015_244.png"
   ]
 }
