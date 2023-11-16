@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Engineering/SMORT/Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Engineering/SMORT/Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Engineering/SMORT/Planning.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -184,11 +181,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7d58335b599f06e",
+  "active": "f9ab71fc25a436d2",
   "lastOpenFiles": [
+    "Resources/PDF versions/Chapter 6 The great Gatsby.pdf",
+    "Resources/PDF versions/Chapter 5 The great Gatsby.pdf",
+    "Areas/school/Math/Rules-Formulas/Trig derivatives.md",
+    "Areas/school/Math/Antiderivatives-integrals.md",
+    "Areas/school/English/Book notes/Chapter 6 The great Gatsby.md",
+    "Areas/school/English/Book notes/Chapter 5 The great Gatsby.md",
+    "Areas/Python Docs/Python (index).md",
+    "Areas/Python Docs/Circuit python.md",
+    "Areas/Engineering/SMORT/Planning.md",
+    "conflict-files-obsidian-git.md",
     "Areas/Engineering/FTC/Reasorces/Docs/Mechanum Wheels.md",
     "Areas/Engineering/FTC/Mechanum Sim/Rotating images.md",
-    "Areas/Engineering/SMORT/Planning.md",
     "Areas/Engineering/SMORT",
     "Areas/school/Math/Factoring negative exponents..md",
     "Areas/school/Bib/RelatedRatesWorksheet - 1-21  with answer key.pdf",
@@ -208,20 +214,10 @@
     "Archives/Projects/LeetCode/Questions/12. Integer to Roman.md",
     "Archives/Projects/LeetCode/Data structures/Linked list.md",
     "Archives/Projects/LeetCode/algorithms/Binary search.md",
-    "Archives/Projects/LeetCode/algorithms/Floyd's tortoise and hare.md",
     "Archives/Projects/LeetCode/Questions",
     "Archives/Projects/LeetCode/Data structures",
     "Archives/Projects/LeetCode/algorithms",
-    "Archives/Projects/Room remodel/Poster list.md",
     "Archives/Projects/LeetCode",
-    "Archives/Projects/Room remodel",
-    "Archives/Projects",
-    "Areas/school/TODO lists/October 23/10-24-2023.md",
-    "Areas/school/TODO lists/October 23/10-16-2023.md",
-    "Areas/school/TODO lists/October 23/10-02-2023.md",
-    "Resources/Templates/book notes.md",
-    "Areas/school/Math/Rules-Formulas/Related Rates Formulas.md",
-    "Areas/school/Math/Rules-Formulas/Exponent Product rule.md",
     "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Resources/assorted media/Image/2xGraph.png",
     "Untitled.canvas",

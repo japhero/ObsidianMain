@@ -1,6 +1,6 @@
 # Chapter  Paul Weder
 ### What do you question in this chapter? 
--  Whats the meaning of "old sport"
+-  What's the meaning of "old sport"
 - What does "even Gatsby could happen" Mean?
 - 
 
