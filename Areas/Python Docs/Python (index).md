@@ -7,7 +7,7 @@
 * [[Generators]]
 * [[concepts|Basic Concepts]]
 * [[Enum]]
-* [[Type Casting]]
+* [[Type hinting]]
 * 
 --- 
 # Bibliography 
