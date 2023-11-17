@@ -8,7 +8,7 @@
 * [[concepts|Basic Concepts]]
 * [[Enum]]
 * [[Type hinting]]
-* 
+* [[Publishing to pip]]
 --- 
 # Bibliography 
 ---

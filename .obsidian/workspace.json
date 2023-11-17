@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2e0dd7a84f3d48a",
+        "id": "ff7d75c5dac04a1f",
         "type": "tabs",
         "children": [
           {
-            "id": "8de56119693fefd0",
+            "id": "3d5886b9515fa4c4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,33 +23,34 @@
             }
           },
           {
-            "id": "5cba04c2e7a94d85",
+            "id": "a74c37ed398bff49",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/English/Book notes/Chapter 5 The great Gatsby.md",
+                "file": "Areas/school/Math/Rules-Formulas/Trig derivatives.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "b49c9faad01041e5",
+            "id": "b67c2499dcf71f4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Engineering/FTC/Personal notes/Roadrunner/Trajectories in Roadrunner.md",
+                "file": "Areas/school/TODO lists/11-16-2023.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,22 +64,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d9a2f8aed13fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "pid algo",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f9ab71fc25a436d2",
+            "id": "38d930cc7c142fd3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -96,7 +82,30 @@
             }
           },
           {
-            "id": "7a3707bc446fb6fd",
+            "id": "0d9a2f8aed13fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "atan2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54289b9de94bd0b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ab6b183351d7339",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,12 +128,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703eba2feea725e3",
+            "id": "e52e0e0a9e5d8016",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "06a797fa18dc8d51",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Engineering/FTC/Personal notes/Roadrunner/Trajectories in Roadrunner.md",
+                "file": "Areas/school/Math/Antiderivatives-integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,25 +156,24 @@
             }
           },
           {
-            "id": "dab8911558a29618",
+            "id": "85eaf91faea7d71a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Engineering/FTC/Personal notes/Roadrunner/Trajectories in Roadrunner.md",
+                "file": "Areas/school/Math/Antiderivatives-integrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e52e0e0a9e5d8016",
+            "id": "f7a7db88ba69a887",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "sortOrder": "frequency"
               }
             }
           },
@@ -164,89 +183,79 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Engineering/FTC/Personal notes/Roadrunner/Trajectories in Roadrunner.md"
-              }
-            }
-          },
-          {
-            "id": "ba2fa59ec56cbd52",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
+                "file": "Areas/school/Math/Antiderivatives-integrals.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "canvas:Create new canvas": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b49c9faad01041e5",
+  "active": "67ef5afbee5fb6c8",
   "lastOpenFiles": [
-    "Roadrunner.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Trajectories in Roadrunner.md",
-    "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
-    "Areas/Engineering/FTC/Reasorces/Links.md",
-    "Areas/Engineering/FTC/Personal notes/Notes checklist.md",
-    "Areas/Engineering/FTC/Personal notes/links.md",
-    "Areas/Engineering/FTC/Personal notes/Field-Oriented Drive.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Roadrunner tuning.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Road Runner usage.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Road  Runner directory.md",
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Links.md",
-    "Areas/Python Docs/Type hinting.md",
-    "Areas/Python Docs/Python (index).md",
-    "Type Casting.md",
+    "Areas/school/TODO lists/11-16-2023.md",
     "Areas/school/Math/Antiderivatives-integrals.md",
     "Areas/school/Math/Rules-Formulas/Trig derivatives.md",
+    "Areas/Python Docs/Python (index).md",
+    "Areas/school/English/Vocab/Disillusionment.md",
+    "Areas/school/English/Vocab/Character Foil.md",
+    "Areas/Python Docs/Type hinting.md",
+    "Areas/school/English/Book notes/Chapter 4 The great Gatsby.md",
+    "Areas/school/English/Book notes/Chapter 6 The great Gatsby.md",
     "Areas/school/English/Book notes/Chapter 5 The great Gatsby.md",
     "Areas/Engineering/SMORT/Planning.md",
     "Areas/Engineering/SMORT",
-    "Areas/school/English/Class notes/Chapter 5.md",
-    "Areas/school/English/Book notes/Chapter 6 The great Gatsby.md",
-    "Resources/PDF versions/Chapter 6 The great Gatsby.pdf",
+    "Areas/Engineering/FTC/Personal notes/Roadrunner/Trajectories in Roadrunner.md",
+    "Archives/Room remodel/Poster list.md",
+    "Archives/Room remodel",
+    "Archives/LeetCode/Questions/TwoPointers-PalindroneNumbers.md",
+    "Archives/LeetCode/Questions/Two Sum.md",
+    "Archives/LeetCode/Questions/20. Valid Parentheses-Stack data structures.md",
+    "Archives/LeetCode/Questions/74. Search a 2D Matrix.md",
+    "Archives/LeetCode/Questions/217. Contains Duplicate.md",
+    "Archives/LeetCode/Questions/167. Two Sum II - Input Array Is Sorted.md",
+    "Archives/LeetCode/Questions/141. Linked List Cycle.md",
+    "Archives/LeetCode/Questions/12. Integer to Roman.md",
+    "Archives/LeetCode/Data structures/Linked list.md",
+    "Archives/LeetCode/algorithms/Floyd's tortoise and hare.md",
+    "Archives/LeetCode/algorithms/Binary search.md",
+    "Archives/LeetCode/Questions",
+    "Archives/LeetCode/Data structures",
+    "Archives/LeetCode/algorithms",
+    "Archives/LeetCode",
     "Resources/PDF versions/Chapter 5 The great Gatsby.pdf",
-    "Areas/school/Math/solving related rates.md",
-    "Resources/Note taking/Mathjax.md",
-    "Resources/Note taking/markdown-cheat-sheet.md",
-    "Areas/school/Math/Rules-Formulas/Related Rates Formulas.md",
+    "Resources/PDF versions/Chapter 6 The great Gatsby.pdf",
     "Areas/Python Docs/concepts.md",
+    "Resources/Templates/book notes.md",
+    "Areas/Python Docs",
     "Areas/school/Bib/RelatedRatesWorksheet - 1-21  with answer key.pdf",
-    "Areas/Python Docs/Circuit python.md",
-    "Resources/School Docs/APUSH/1993 DBQ - Two Societies documents.pdf",
-    "Areas/school/Bib",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/AP® United States History 2002 Scoring Guidelines.pdf",
-    "Areas/school/APUSH/DBQ/Unit 3 DBQ/Reform Era DBQ.pdf",
-    "Areas/school/Math/Rules-Formulas",
-    "Areas/school/APUSH/DBQ/Unit 2 DBQ/DBQ Rubric.pdf",
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Resources/assorted media/Image/2xGraph.png",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 10.57.50 AM.png",
     "Untitled.canvas",
-    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Resources/assorted media/Image/figure3-6-7.gif",
-    "Resources/assorted media/2xGraph.png",
-    "Resources/assorted media/Screen Shot 2023-10-23 at 10.57.50 AM.png",
-    "Resources/assorted media/Pasted image 20231023104528.png",
-    "Resources/assorted media/Pasted image 20231023104506.png",
+    "Resources/assorted media/Image/Screen Shot 2023-10-23 at 11.13.34 AM.png",
     "Resources/assorted media/Image/copy-list-in-python.png",
-    "Resources/assorted media/Image/Pasted image 20230804120331.png"
+    "Resources/assorted media/Image/Pasted Image 20231006133015_244.png",
+    "Resources/assorted media/Image/Pasted image 20230804120331.png",
+    "Resources/assorted media/Image/Pasted Image 20230613195002_207.png",
+    "Resources/assorted media/Image/Pasted image 20221009214700.png",
+    "Resources/assorted media/Image/Layer~1.Multiply.100.Visible.png"
   ]
 }

@@ -16,7 +16,8 @@
 - $A(t) = f^{\prime \prime}(x)$
 - when solving for trig functions make sure to remember that the final goal is that 
 - [[Trig derivatives]] can use for reference to solve but memorize for the quiz  
-- When we have several 
+- when we are solving for position and we get an input for $f(x)$ does the result of that input euqal the equation because when we solve for the constant we find whatever val will make that function equal to the result for example when  we have $f^\prime (x) = 2x^2$ and $f(1)= 0$ and its asking for the position given the data wont that position always be $0$ regardless of $f^\prime(x)$.
+- when integrating infinite integrals such as $\int \frac{x^2-1} x$ we have to remove $x$ out of the denominator so $(x^2-1)x^{-1}$ then we can use the power rule
 
 ---
 # Resources

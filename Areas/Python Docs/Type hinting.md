@@ -1,4 +1,4 @@
-Although type hinting isnt required in python its very useful if you want to use you code as a library and generally good practice when making code as it prevents you from passing the wrong type to a variable and then generating errors. 
+Although type hinting isn't required in python its very useful if you want to use you code as a library and generally good practice when making code as it prevents you from passing the wrong type to a variable and then generating errors. 
 
 
 # Hinting  Functions 
