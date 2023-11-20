@@ -39,12 +39,10 @@
             "id": "b49c9faad01041e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Areas/Python Docs/Super.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Areas/Python Docs/Python (index).md",
+                "staged": false
               }
             }
           }
@@ -104,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Python Docs/Super.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Python Docs/Super.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Areas/Python Docs/Super.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,8 +195,10 @@
   },
   "active": "b49c9faad01041e5",
   "lastOpenFiles": [
-    "Areas/Engineering/FTC/Personal notes/Roadrunner/Trajectories in Roadrunner.md",
+    "conflict-files-obsidian-git.md",
     "Areas/Python Docs/Super.md",
+    "Areas/school/TODO lists/11-16-2023.md",
+    "Areas/Engineering/FTC/Personal notes/Roadrunner/Trajectories in Roadrunner.md",
     "Roadrunner.md",
     "Areas/Engineering/FTC/Reasorces/Planned Resources Checklist.md",
     "Areas/Engineering/FTC/Reasorces/Links.md",
@@ -228,8 +224,6 @@
     "Areas/school/Math/solving related rates.md",
     "Resources/Note taking/Mathjax.md",
     "Resources/Note taking/markdown-cheat-sheet.md",
-    "Areas/school/Math/Rules-Formulas/Related Rates Formulas.md",
-    "Areas/Python Docs/concepts.md",
     "Areas/school/Bib/RelatedRatesWorksheet - 1-21  with answer key.pdf",
     "Resources/School Docs/APUSH/1993 DBQ - Two Societies documents.pdf",
     "Areas/school/Bib",

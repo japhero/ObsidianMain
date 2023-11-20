@@ -15,6 +15,9 @@
 [[Related Rates Formulas]]
 [[solving related rates]]
 [[Solving for theta]]
+[[Derivatives using logs]]
+[[Antiderivatives-integrals]]
+
 #### Formulas
 - [[Related Rates Formulas]]
 - [[Exponent Quotient rule]]
