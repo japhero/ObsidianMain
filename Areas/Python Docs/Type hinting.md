@@ -17,3 +17,7 @@ def findIndex(word: str, index: int) -> str:
 	return word[index]
 ```
 > greater example using a whole function hinting at its attributes and its return.
+
+---
+# Resource's
+#python #code
