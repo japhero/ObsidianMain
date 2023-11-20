@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/school/School (Index).md",
+                "file": "Areas/Bf notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/school/School (Index).md",
+                "file": "Areas/Bf notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/school/School (Index).md",
+                "file": "Areas/Bf notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/school/School (Index).md"
+                "file": "Areas/Bf notes.md"
               }
             }
           }
@@ -224,9 +224,12 @@
   },
   "active": "8385059658f1c0ee",
   "lastOpenFiles": [
+    "Areas/school/TODO lists/11-16-2023.md",
+    "P-38G-1.md",
+    "Areas/Bf notes.md",
+    "Areas/school/School (Index).md",
     "Areas/school/Math/Antiderivatives-integrals.md",
     "Areas/school/Math/Rules-Formulas/Trig derivatives.md",
-    "Areas/school/TODO lists/11-16-2023.md",
     "Areas/Python Docs/Python (index).md",
     "Areas/school/English/Vocab/Disillusionment.md",
     "Areas/school/English/Vocab/Character Foil.md",
@@ -249,15 +252,12 @@
     "Archives/LeetCode/Questions/12. Integer to Roman.md",
     "Archives/LeetCode/Data structures/Linked list.md",
     "Archives/LeetCode/algorithms/Floyd's tortoise and hare.md",
-    "Archives/LeetCode/algorithms/Binary search.md",
     "Archives/LeetCode/Questions",
     "Archives/LeetCode/Data structures",
     "Archives/LeetCode/algorithms",
     "Archives/LeetCode",
     "Resources/PDF versions/Chapter 5 The great Gatsby.pdf",
     "Resources/PDF versions/Chapter 6 The great Gatsby.pdf",
-    "Areas/Python Docs/concepts.md",
-    "Resources/Templates/book notes.md",
     "Areas/Python Docs",
     "Areas/school/Bib/RelatedRatesWorksheet - 1-21  with answer key.pdf",
     "Resources/assorted media/Image/2xGraph.png",
