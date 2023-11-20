@@ -16,3 +16,13 @@ https://stackoverflow.com/questions/18393498/gitignore-all-the-ds-store-files-in
 ```python
 find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch
 ```
+
+
+---
+
+# Clear 
+Clear the file from being tracked
+
+```zsh
+git reset name_of_file
+```

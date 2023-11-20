@@ -57,6 +57,10 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# workspace file
+workspace.json
+
+
 # Windows shortcuts
 *.lnk
 
