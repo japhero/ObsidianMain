@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "522fd129bab88d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Github DEBUG.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,8 +199,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cba04c2e7a94d85",
+  "active": "522fd129bab88d68",
   "lastOpenFiles": [
+    "Areas/school/Math/Antiderivatives-integrals.md",
+    "Resources/Github DEBUG.md",
     "Areas/school/English/Book notes/Chapter 5 The great Gatsby.md",
     "Areas/Bf notes.md",
     "conflict-files-obsidian-git.md",
@@ -207,7 +222,6 @@
     "Areas/Python Docs/Type hinting.md",
     "Areas/Python Docs/Python (index).md",
     "Type Casting.md",
-    "Areas/school/Math/Antiderivatives-integrals.md",
     "Areas/school/Math/Rules-Formulas/Trig derivatives.md",
     "Areas/Engineering/SMORT/Planning.md",
     "Areas/Engineering/SMORT",
@@ -216,7 +230,6 @@
     "Resources/PDF versions/Chapter 6 The great Gatsby.pdf",
     "Resources/PDF versions/Chapter 5 The great Gatsby.pdf",
     "Areas/school/Math/solving related rates.md",
-    "Resources/Note taking/Mathjax.md",
     "Areas/school/Bib/RelatedRatesWorksheet - 1-21  with answer key.pdf",
     "Resources/School Docs/APUSH/1993 DBQ - Two Societies documents.pdf",
     "Areas/school/Bib",

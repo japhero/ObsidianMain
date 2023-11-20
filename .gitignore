@@ -58,7 +58,7 @@ $RECYCLE.BIN/
 *.msp
 
 # workspace file
-workspace.json
+.obsidian/workspace.json
 
 
 # Windows shortcuts

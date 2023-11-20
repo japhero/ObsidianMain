@@ -26,3 +26,13 @@ Clear the file from being tracked
 ```zsh
 git reset name_of_file
 ```
+
+
+---
+
+# Github remove 
+removes the file 
+```zsh
+git rm --cached name_of_file
+```
+
