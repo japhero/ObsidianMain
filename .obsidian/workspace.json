@@ -41,7 +41,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Areas/Python Docs/Python (index).md",
+                "file": "Areas/school/Math/Antiderivatives-integrals.md",
                 "staged": false
               }
             }
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
