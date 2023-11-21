@@ -23,6 +23,8 @@
     "e 1 ",
     "MOSFET",
     "SPEEEEED",
-    "platners"
+    "platners",
+    "docstrings",
+    "docstring"
   ]
 }

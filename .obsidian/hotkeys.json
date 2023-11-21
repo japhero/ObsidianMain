@@ -48,5 +48,13 @@
       ],
       "key": "N"
     }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }
