@@ -12,6 +12,10 @@
 - Use as a support fighter
 - Speed up before entering a fight 
 - Doesn't lock up high speed is my friend 
+- How's speed retention?
+- DONT STALL FIGHT
+- Use Universal belt for 7.92 and Air target for 20mm
+- Rip speed is 912.
 
 # Others
 
@@ -39,3 +43,8 @@ P 38
 - Outstanding energy retention
 - Climb: 18.6
 
+[XP-50]()
+
+
+[F4-U]
+- 
