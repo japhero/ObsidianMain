@@ -9,6 +9,10 @@
 * [[Enum]]
 * [[Type hinting]]
 * [[Publishing to pip]]
+* [[Data classes]]
+* [[decorator]]
+* [[Super]] 
+* 
 --- 
 # Bibliography 
 ---

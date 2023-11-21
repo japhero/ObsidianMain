@@ -1,7 +1,11 @@
 
 
+
+# Using Specific of Classes
+When creating classes its always really important to decide what is the purpose of this class and what can I do with it, when asking this question we must decide 
+
 # Using decorators 
-Using decorators can significantly improve the performance of your code and the actual functionality can increase. Some [[decorator|decorators]] establish the structure of the class such as `@dataclass` and others of the method such as `@property`.
+Using decorators can significantly improve the performance of your code and the actual functionality can increase. Some [[decorator|decorators]] establish the structure of the class such as [[Data classes|@dataclass]] and others of the method such as `@property`.
 
 
 # Dependency injection
