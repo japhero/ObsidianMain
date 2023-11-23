@@ -5,7 +5,7 @@
 - Is an antiderivative an integral.
 - We have to add C to the end to represent all constants because when we have a derivative we always know that they could have constants that will never be represented.
 - $\int$ is the symbol for integral
-- Add one to the exponent and divide by that new exponent $$\frac{x^{a+1}}{a+1}$$
+- Add one to the exponent and divide by that new exponent $$\int x^a = \frac{x^{a+1}}{a+1}$$
 	- For example $x$ would have an antiderivative of $\frac 1 2 x^2$
 	-  Or $x^2$ would have an antiderivative of $\frac {x^3} 3$
 - To find $C$ we must have a value for $x$ then we find the anti derivative for the given value then set the equation = 0, substitute in our value and solve for $C$.
