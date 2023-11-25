@@ -1,4 +1,5 @@
 # Functions 
+#python #codeDocs 
 ## len()
 Len is a function that takes an object as an argument and returns the length.
 ```python
@@ -50,5 +51,8 @@ print(errorName(300))
 # This would print out "Failed init" 
 ```
 This is just pythons way of doing switch cases another way to handle large numbers of cases without elif statements for days makes your code more readable.
+> [!todo]- TODO:
+> python has a diffrent reason for implement [[Match statement]] and should do its own note for higher level overview 
+
 
 --- 

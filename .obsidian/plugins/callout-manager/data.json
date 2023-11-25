@@ -11,6 +11,22 @@
             "color": "226, 82, 255"
           }
         }
+      ],
+      "TODO:": [
+        {
+          "changes": {
+            "icon": "lucide-clipboard-check",
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "todo": [
+        {
+          "changes": {
+            "icon": "lucide-clipboard-check",
+            "color": "255, 0, 0"
+          }
+        }
       ]
     }
   },

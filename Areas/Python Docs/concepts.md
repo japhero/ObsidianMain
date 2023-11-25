@@ -49,6 +49,8 @@ Documentation for data types and their uses and features.
 
 ### Dictionaries 
 
+## immutable vs mutable
 
+## Primitive types
 
 
