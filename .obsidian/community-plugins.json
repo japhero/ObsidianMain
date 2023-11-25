@@ -6,5 +6,6 @@
   "templater-obsidian",
   "obsidian-underline",
   "obsidian-pandoc",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "callout-manager"
 ]

@@ -41,14 +41,6 @@
       "key": "P"
     }
   ],
-  "file-explorer:new-file-in-current-tab": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "N"
-    }
-  ],
   "editor:insert-callout": [
     {
       "modifiers": [
@@ -56,5 +48,7 @@
       ],
       "key": "Z"
     }
-  ]
+  ],
+  "obsidian-underline:toggle-link-heading": [],
+  "obsidian-underline:toggle-link-block": []
 }
