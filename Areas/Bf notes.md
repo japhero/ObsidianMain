@@ -1,6 +1,7 @@
 # Mine 
 
 ## [Bf 109 K-4](https://wiki.warthunder.com/Bf_109_K-4)
+[video of me](https://www.youtube.com/live/vmW8zl6epUM?si=Z1RQo1G20Tr1Yiff)
 - Horrible stall 
 - good climb 
 - good cannon 

@@ -13,7 +13,7 @@
 - I believe that whenever nick uses bold and colorful language that he is describing someone he likes a lot he does this with daisy describing how the sound of her voice reverberated across his ears.
 - "Gatsby pale as death" pg(86)
 - Daisy doesn't seem very enthusiastic very "matter of fact" and Gatsby seems obsessed remembering dates and times up to five years in the past. 
-- Nick is being a hype man/wingman for a very nervous Gatsby encouraging him and also kind of pusing him off a clif by leaving which is assumed to mean that hes trying to leave daisy and him alone.
+- Nick is being a hype man/wingman for a very nervous Gatsby encouraging him and also kind of pushing him off a clif by leaving which is assumed to mean that hes trying to leave daisy and him alone.
 - His statement about being serfs vs peasants is ironic considering peasants are of a higher class than serfs.
 - Daisy was in  tears when nick reentered and Gatsby was bright saying "old sport".
 - Although her tears seem of joy and she used Gatsby's first name.
