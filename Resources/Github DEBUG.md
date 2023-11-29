@@ -36,3 +36,15 @@ removes the file
 git rm --cached name_of_file
 ```
 
+---
+# Collaboration guide 
+
+the procedure should be the below:
+
+- pull the file
+- edit it
+- commit it(it commits to your local repository)
+- pull it again (if there are any conflict you will Be notified) in that case you can solve it executing the below command(GitBash on your repository working folder):
+    
+    git mergetool
+https://stackoverflow.com/questions/8508861/two-people-working-on-a-file-at-the-same-time-in-git
