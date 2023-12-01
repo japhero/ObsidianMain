@@ -7,6 +7,8 @@
 	- Velocity
 	- Direction?
 - Physics problems LOL
+- Displacement is the difference between the beginning and the END 
+- Make sure that you decide when to integrate and when to derivative a
 
 ## Class Problems
 > [!EXAMPLE]-  Part A: $s(t)=2t^3 -9t^2+12t-4$

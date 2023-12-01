@@ -37,3 +37,6 @@
 - Gatsby is continued to be described as in an illusion.
 - Gatsby stuck in the past saying that he can repeat his past with daisy.
 - Nice quote at the end of Gatsby and daisy were it originates again?? Maby a book of Gatsby seems just to exert the significance of Gatsby and daisy's history.
+
+---
+Pg(97-113)
