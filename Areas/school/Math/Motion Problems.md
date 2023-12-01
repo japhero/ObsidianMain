@@ -8,7 +8,12 @@
 	- Direction?
 - Physics problems LOL
 - Displacement is the difference between the beginning and the END 
-- Make sure that you decide when to integrate and when to derivative a
+- Make sure that you decide when to integrate and when to derivate. 
+	- Use integration when you are doing down in "primes"/ degrees of derivation 
+		- $f^\prime(x) \rightarrow f(x)$
+	- Use derivation when you want to go down in levels of derivation.   
+		- $f(x) \rightarrow f^\prime(x)$
+
 
 ## Class Problems
 > [!EXAMPLE]-  Part A: $s(t)=2t^3 -9t^2+12t-4$

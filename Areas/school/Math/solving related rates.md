@@ -26,6 +26,11 @@
 	- use the inverse of whatever trig function you are using.
 
 
+# Problem mistakes
+
+## HW 42
+- didint check the problem and inputed the wrong values for $x$ and $\frac{dx}{dt}$
+- 
 
 
 

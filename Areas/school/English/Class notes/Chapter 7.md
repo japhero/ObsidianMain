@@ -25,7 +25,25 @@
 - Myrtle gets run over by Daisy driving Nicks car.
 - Myrtle realizes that Tom is driving into the city and assumes that jordan is daisy and thinks that He is flaunting "Daisy"(but it's not it's Jordan) 
 - She runs out in front of what she thinks is Tom 
-# Myrtle reaction
+- Tom and gatsby atack each other 
+	- Tom calls gatsby a bootlegger.
+	- Attacked his lack of taste and class through his pink suit accusing him of not going to oxford.
+	- in reality he went to oxford because of his service in the war and used his [[GI bill]] to go to oxford but dropped out after 5 months.
+	- Tom also made fun of Gatsby stating that Daisy never loved him and picked Tom over Gatsby
+	- He makes fun of his class saying how did you get in with in a mile of daisy unless you dropped of the groceries 
+- Gatsby attacks tom 
+	- Daisy never loved tom and that daisy loves gatsby 
+		- Daisy refutes this saying that she at some point loved tom.
+	- Tom wants daisy to drive with gabsy as a way to assert that gatsby is not a threat.
+- Nicks 30th birthday is a reflection of the end of the roaring 20's.
+- Parallel in-between myrtle and Gatsby. 
+
+
+
+
+
+
+# Myrtle Pack
 ![[packwatch.gif|500]] 
 
 ---
