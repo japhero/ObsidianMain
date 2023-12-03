@@ -18,6 +18,13 @@ def findIndex(word: str, index: int) -> str:
 ```
 > greater example using a whole function hinting at its attributes and its return.
 
+
+
+
+> [!TODO]- Python 3.12 has new type hinting
+> Sources please
+
+
 ---
 # Resource's
 #python #code

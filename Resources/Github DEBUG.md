@@ -48,3 +48,12 @@ the procedure should be the below:
     
     git mergetool
 https://stackoverflow.com/questions/8508861/two-people-working-on-a-file-at-the-same-time-in-git
+
+
+---
+
+# SSH KEYS
+[somones instructions](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3#step-1)
+[github Docs adding SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=webui)
+[generating ssh keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+[Credentials manager things](https://github.com/git-ecosystem/git-credential-manager/blob/main/docs/multiple-users.md)
