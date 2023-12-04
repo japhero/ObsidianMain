@@ -4,17 +4,21 @@ Default `dict` is very similar to the [[concepts#Dictionaries|dict]] type in Pyt
 2. It adds `.default_factory`, a writable instance variable that needs to be provided at the time of instantiation. 
 
 The instance variable `.default_factory` will hold the first argument passed into [`defaultdict.__init__()`](https://docs.python.org/3/reference/datamodel.html#object.__init__). This argument can take a valid Python callable or `None`. If a callable is provided, then it’ll automatically be called by `defaultdict` whenever you try to access or modify the value associated with a missing key.
-## Correct usage
-```python
->>> # Correct instantiation
->>> def_dict = defaultdict(list)  # Pass list to .default_factory
->>> def_dict['one'] = 1  # Add a key-value pair
->>> def_dict['missing']  # Access a missing key returns an empty list
-[]
->>> def_dict['another_missing'].append(4)  # Modify a missing key
->>> def_dict
-defaultdict(<class 'list'>, {'one': 1, 'missing': [], 'another_missing': [4]})
-```
+
+## Simple terms
+in simple terms the item passed to at initiation of the `default_dict` object will be returned as a **value** when you query a key that doesn't exist they key queried will also then be added to the dictionary with the `.default_factory` as a value. 
+
+> [!Example]-
+> If I have a default dict with initialized with the `list` type as its factory and i create query a value lets say food eaten: `myDefaultDict["food_eaten"]` I would get back a empty list because my factory creates that empty list on that error. 
+> ```python
+> myDefaultDict = defaultdict(list) # dict created with list as the "factory"
+> print(myDefaultDict["food_eaten"])
+> 
+> # Prints []
+> ```
+> 
+> 
+> 
 
 
 > [!TODO]- TODO:

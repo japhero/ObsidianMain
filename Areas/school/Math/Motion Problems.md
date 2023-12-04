@@ -13,7 +13,7 @@
 		- $f^\prime(x) \rightarrow f(x)$
 	- Use derivation when you want to go down in levels of derivation.   
 		- $f(x) \rightarrow f^\prime(x)$
-
+- ![[absolute diffrence motion problem]]
 
 ## Class Problems
 > [!EXAMPLE]-  Part A: $s(t)=2t^3 -9t^2+12t-4$
