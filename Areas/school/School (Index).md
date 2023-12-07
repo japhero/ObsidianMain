@@ -15,7 +15,7 @@
 [[Related Rates Formulas]]
 [[solving related rates]]
 [[Solving for theta]]
-[[Derivatives using logs]]
+[[using Logarithms]]
 [[Antiderivatives-integrals]]
 
 #### Formulas
