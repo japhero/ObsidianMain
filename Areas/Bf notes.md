@@ -7,6 +7,7 @@
 - good cannon 
 - ok turn 19.0
 - Avoid p51 H
+- Rip speed is 790 but can go higher
 
 ## [Fw 190 A-4](https://wiki.warthunder.com/Fw_190_A-4)
 - bad turn 
