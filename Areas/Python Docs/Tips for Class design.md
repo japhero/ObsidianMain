@@ -5,7 +5,7 @@
 When creating classes its always really important to decide what is the purpose of this class and what can I do with it, when asking this question we must decide 
 
 # Using decorators 
-Using decorators can significantly improve the performance of your code and the actual functionality can increase. Some [[decorator|decorators]] establish the structure of the class such as [[Data classes|@dataclass]] and others of the method such as `@property`.
+Using decorators can significantly improve the performance of your code and the actual functionality can increase. Some [[Decorators|decorators]] establish the structure of the class such as [[Data classes|@dataclass]] and others of the method such as `@property`.
 
 
 # Dependency injection
@@ -73,14 +73,14 @@ Type hint everything, this allows for the "user" and your future self to easily 
 	- 
 - Best practices
 	- 
-- What does the `@dataclass` [[decorator|decorator]] do.
+- What does the `@dataclass` [[Decorators|Decorators]] do.
 - Dont we want to define all of our properties in the `__init__`
 - Split up behavior within methods into individual classes.
 - Splitting up makes the reuse of classes easy and makes code less error prone
 
 ## [Make your classes easier to use ](https://youtu.be/lX9UQp2NwTk?t=524)
 - use properties and [[Dunder methods]]
-- [[decorator|decorators]]
+- [[Decorators|decorators]]
 	- `@dataclass`
 	- `@property`
 	- `@cached_property` (`import functools`)

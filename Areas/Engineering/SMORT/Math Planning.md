@@ -8,11 +8,19 @@
 - the mass decreases by $dm$
 - gass exit velocity $(v-u)\hat i$
 - mass decreases by $dm_g$  and velocity decreases by $dv\hat i$ 
-  
+
+
+
   # [wiki Dump](https://en.wikipedia.org/wiki/Projectile_motion)
   - 
   
   
+# Program ideas
+for the final we can use matplot lib for projected path and then use a CSV file to get the actuall path similar to a basic velecity trajectory $\downarrow$
+![[Figure_1.png|400]]
+
+
+- Dont make it to complicated just use it for documentation and to learn the math for the actual calculation
 
 ---
 

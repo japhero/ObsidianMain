@@ -10,9 +10,12 @@
 * [[Type hinting]]
 * [[Publishing to pip]]
 * [[Data classes]]
-* [[decorator]]
+* [[Decorators]]
 * [[Super]] 
 * [[Abstraction]]
+* [[Indexing]]
+* [[string formatting]]
+* [[What does it mean to write "good" code?]]
 --- 
 # Bibliography 
 ---
