@@ -9,10 +9,11 @@
 - gass exit velocity $(v-u)\hat i$
 - mass decreases by $dm_g$  and velocity decreases by $dv\hat i$ 
 
-
+ 
+ 
 
   # [wiki Dump](https://en.wikipedia.org/wiki/Projectile_motion)
-  - 
+-  $$ d = \frac{v^2 \cos(\theta)}{g} \left( v \sin{\theta} +  \sqrt{ v^2 \sin^2({\theta}) +2gy_{0} } \right) $$
   
   
 # Program ideas

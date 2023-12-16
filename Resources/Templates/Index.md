@@ -2,9 +2,6 @@
 ---
 * 
 ---
-# Basic concepts 
-
----
 
 # Bibliography 
 ---

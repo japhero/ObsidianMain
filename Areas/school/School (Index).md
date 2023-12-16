@@ -17,7 +17,7 @@
 [[Solving for theta]]
 [[using Logarithms]]
 [[Antiderivatives-integrals]]
-
+[[Applied max and min-Derivative Aplications]]
 #### Formulas
 - [[Related Rates Formulas]]
 - [[Exponent Quotient rule]]
