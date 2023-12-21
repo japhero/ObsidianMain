@@ -17,6 +17,9 @@
 * [[string formatting]]
 * [[What does it mean to write "good" code?]]
 * [[Pydantic]]
+* [[Callables]]
+* [[Generics]]
+* [[TypeVar]]
 --- 
 # Bibliography 
 ---
