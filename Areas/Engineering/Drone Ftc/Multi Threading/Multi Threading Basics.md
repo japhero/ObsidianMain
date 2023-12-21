@@ -20,7 +20,7 @@ Identifier of each thread contains
 ## Python Threading 
 Python threading isn't real multi threading because of environment lock which means that the 1 python interpreter cant run multiple process on several threads. You have to wrap everything in $\downarrow$
 ```python 
-if __name__ == "main":
+if __name__ == "__main__":
 	# my code
 ```
 
