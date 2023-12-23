@@ -1,3 +1,4 @@
+#dbq
 - A:
 	- Difference between punishment and reform 
 	- Reform reflected moral objectives 

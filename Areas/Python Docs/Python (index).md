@@ -20,6 +20,11 @@
 * [[Callables]]
 * [[Generics]]
 * [[TypeVar]]
+* [[Sytax tips]]
+
+## General Theory
+- [[Heap]]
+- [[Garbage Collection]]
 --- 
 # Bibliography 
 ---
