@@ -1,6 +1,7 @@
 This is the wiring and planning of the [[PID Code Documentation|PID]] project
 
-# Electrical wiring #Engineering
+# Electrical wiring
+#Engineering
 
 The wiring Consists of 3 main circuits  
 

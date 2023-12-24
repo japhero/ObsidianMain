@@ -6,33 +6,8 @@
 	[[Categories-Document summary]]
 [[DBQ 3 Outline|DBQ 3]]
 	[[DBQ 3 Outline]]
-### Calculus
-[[Factoring negative exponents.]]
-[[Finding and graphing critical numbers]]
-[[Implicit derivatives]]
-[[First and second derivative test]]
-[[Factoring polynomials]]
-[[Related Rates Formulas]]
-[[solving related rates]]
-[[Solving for theta]]
-[[using Logarithms]]
-[[Antiderivatives-integrals]]
-[[Applied max and min-Derivative Aplications]]
-#### Formulas
-- [[Related Rates Formulas]]
-- [[Exponent Quotient rule]]
-- [[Exponent Product rule]]
-- [[Exponent Rule]]
-- 
 
-#### Rules
-- [[Quotient rule]]
-- [[Product rule]]
-- [[Exponent Rule]]
-
-
-
-
+## [[Math (index)]]
 ### English
 [[Common Literary Devices]]
 [[Chapter 1 The great Gatsby Paul Weder|Chapter 1]]

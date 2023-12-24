@@ -3,7 +3,7 @@
 - Similar to [[solving related rates|related rates]] in how we apply formulas
 - appliy derivatives to
 
-# HW 44 mistakes/takeaways 
+## HW 44 mistakes/takeaways 
 - setup is very important.
 - Check what steps you need to take [[integration rules|integrate]] or [[Derivative Quotient rule|derivate]] 
 - Sometimes using $f^{''}(x)$ to prove that something is a max is way easier than doing the [[First and second derivative test|first derivative test]]. 
@@ -11,6 +11,8 @@
 - Remeber that the equation with the given value is offten the equation that we uses to get definitions or as a helper function
 - [[Derivative Quotient rule#Constant formula|Quotent rule CONSTANTS]]
 
+## HW 45
+- Had to use old formulas (quotient and product) Maby learn better methods of simplification 
 
 ---
 # Resources 
