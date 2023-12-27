@@ -36,4 +36,14 @@ $LSA = \pi r \sqrt{r^2 + h^2}$
 $SA = \pi r \sqrt{r^2 + h^2} + \pi r^2$
 <img src = "https://i.imgur.com/o70pZkz.png" width = 400>
 
+---
+# Equilateral Triangle 
+
+$A=\frac{\sqrt{ 3 }}{4} a^2$ 
+$P = 3a$
+
+<img src = "https://i.imgur.com/zMJdqQI.png" width =50%>
+
+---
+
  

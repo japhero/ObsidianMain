@@ -14,5 +14,8 @@
 ## HW 45
 - Had to use old formulas (quotient and product) Maby learn better methods of simplification 
 
+## HW 46
+- 
+
 ---
 # Resources 
