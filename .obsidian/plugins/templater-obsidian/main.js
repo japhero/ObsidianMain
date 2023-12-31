@@ -70,7 +70,9 @@ var TemplaterError = class extends Error {
     super(msg);
     this.console_msg = console_msg;
     this.name = this.constructor.name;
-    Error.captureStackTrace(this, this.constructor);
+    if (Error.captureStackTrace) {
+      Error.captureStackTrace(this, this.constructor);
+    }
   }
 };
 async function errorWrapper(fn2, msg) {
