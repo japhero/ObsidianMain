@@ -11,6 +11,8 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Logarithms]]
 [[Antiderivatives-integrals]]
 [[Applied max and min-Derivative Applications]]
+[[Limits]]
+
 
 
 #### Formulas
@@ -24,6 +26,10 @@ This index is sorted into 2 sections the root directory is for topics and explan
 - [[Quotient rule]]
 - [[Product rule]]
 - [[Exponent Rule]]
+- [[L'Hôpital's rule]]
+- [[Derivative Product rule]]
+- [[Derivative Quotient rule]]
+- 
 
 ---
 ## Compression list
