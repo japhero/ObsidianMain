@@ -8,7 +8,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Related Rates Formulas]]
 [[solving related rates]]
 [[Solving for theta]]
-[[using Logarithms]]
+[[Logarithms]]
 [[Antiderivatives-integrals]]
 [[Applied max and min-Derivative Applications]]
 
