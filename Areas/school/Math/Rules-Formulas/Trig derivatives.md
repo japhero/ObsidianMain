@@ -1,5 +1,4 @@
 
-
 ---
 # Cos 
 $\frac d {dx}\cos(x)=-\sin(x)$

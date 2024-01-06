@@ -14,6 +14,10 @@
 
   # [wiki Dump](https://en.wikipedia.org/wiki/Projectile_motion)
 -  $$ d = \frac{v^2 \cos(\theta)}{g} \left( v \sin{\theta} +  \sqrt{ v^2 \sin^2({\theta}) +2gy_{0} } \right) $$
+## horizontal and vertical displacement 
+
+**Vertical**
+$$y =v_{0}t\cos(\theta) - \frac{1}{2}gt^2$$ 
   
   
 # Program ideas

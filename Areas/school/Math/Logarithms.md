@@ -18,7 +18,7 @@ $$\frac{d}{dx}(\log_{a} x) = \frac{1}{x\ln a}$$
 
 ---
 # logarithm question
-The log question is the idea of represent log as a logical expression or a method of thinking through the operation of logs. For example when we think of division we think of basic things such as how many groups of one number do i have. For logarithms this question is ==**what exponent will make my base equal to my argument**==. We can also see this in the formula.
+The log question is the idea of representing log as a logical expression or a method of thinking through the operation of log. We can see this thought process when we think through division, as how many groups of one number do i have. For logarithms this question is ==**what exponent will make my base equal to my argument**==. We can also see this in the formula.
 <img src = "https://i.imgur.com/TxNp3hn.png" width  =70%>
 
 
@@ -31,4 +31,4 @@ The log question is the idea of represent log as a logical expression or a metho
 #math #logarithms  
 
 - [Sciencing](https://sciencing.com/rid-logarithms-8659083.html)
-- - [cueMath](https://www.cuemath.com/calculus/derivative-of-log-x/)
+-  [cueMath](https://www.cuemath.com/calculus/derivative-of-log-x/)
