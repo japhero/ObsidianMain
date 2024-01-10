@@ -10,7 +10,8 @@
 - Remember to look at what your solving for. For example if you want to get area dont try to solve for the x variable in that equation do it in the other systems of equations.
 - Remeber that the equation with the given value is offten the equation that we uses to get definitions or as a helper function
 - [[Derivative Quotient rule#Constant formula|Quotent rule CONSTANTS]]
-## PipeLine question
+
+
 
 
 
@@ -19,6 +20,9 @@
 
 ## HW 47
 - When we have a book problem with page margins **allways foil the printed area formula** to make calculation much easier
+
+
+## PipeLine question
 
 ---
 # Resources 

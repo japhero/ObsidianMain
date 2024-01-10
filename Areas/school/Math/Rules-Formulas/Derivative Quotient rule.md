@@ -13,6 +13,11 @@ $$f(x)=\frac{c}{x} \rightarrow f'(x)= -cx^{-2}, -\frac{c}{x^2}$$
 
 Again the transformation is mainly done through manipulating negative exponents.
 
+
+# Saying to remember 
+"**Lo D-Hi minus Hi D-Lo**"
+
+
 ---
 # Resources
 - [stackoverflow](https://math.stackexchange.com/questions/1253543/quotient-rule-for-derivatives-am-i-making-this-to-complicated)

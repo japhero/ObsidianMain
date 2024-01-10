@@ -8,7 +8,7 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 56
+    "downscalePercent": 78
   },
   "spellcheckDictionary": [
     "deepcopy",
@@ -29,6 +29,7 @@
     "Gatz",
     "Slone",
     "teleop",
-    "TFOD"
+    "TFOD",
+    "orgastic"
   ]
 }
