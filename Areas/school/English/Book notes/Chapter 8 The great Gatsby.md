@@ -5,7 +5,7 @@
 - Why was Daisy so special to Gatsby, the only reason given was that she was the "first nice girl”
 - Why was Tom the answer to Daisy's search because of his status?
 - Did Gatsby leave oxford because of Daisy's letter. Because as he earlier described he left because he didn't like it. But was that actually caused by Daisy's letter.
-- Why is Eckleburg represented as a reference to god.
+- Why is Ecklburg represented as a reference to god.
 ---
 
 ### What do you observe as significant

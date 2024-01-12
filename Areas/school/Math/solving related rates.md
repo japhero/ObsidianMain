@@ -33,7 +33,8 @@
 - 
 
 
-
+---
+# General related rates pattern 
 
 
 ## Resources

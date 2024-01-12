@@ -52,3 +52,4 @@ for the final we can use matplot lib for projected path and then use a CSV file 
 - <a href="https://pressbooks.online.ucf.edu/osuniversityphysics/chapter/9-7-rocket-propulsion/#:~:text=mim).-,%CE%94%20v%20%3D%20u%20ln%20(%20m%20i%20m%20)%20.,m0%20down%20to%20m.">Press Books text</a>
 - [Fourm](https://www.physicsforums.com/threads/how-to-calculate-the-trajectory-of-a-mortar-round.293783/)
 - [Projectile motion wikipedia](https://en.wikipedia.org/wiki/Projectile_motion#Trajectory_of_a_projectile_with_air_resistance)
+- https://docs.endaq.com/en/latest/webinars/Webinar_Intro_Python_Acceleration_CSV_Analysis.html

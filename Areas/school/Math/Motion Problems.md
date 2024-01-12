@@ -32,7 +32,7 @@
 - Quadratics multiply to C and add to B : $ax^2+bx+c$
 ---
 # Resources
-[Wainwright Video]()
+
 
 <iframe width="500" height="300
 		" src="https://www.youtube.com/embed/b4w0xmuOiQo" title="Worked example: Motion problems with derivatives | AP Calculus AB | Khan Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
