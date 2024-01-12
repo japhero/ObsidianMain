@@ -5,7 +5,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Implicit derivatives]]
 [[First and second derivative test]]
 [[Factoring polynomials]]
-[[Related Rates Formulas]]
+[[Shapes Formulas]]
 [[solving related rates]]
 [[Solving for theta]]
 [[Logarithms]]
@@ -16,7 +16,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 
 
 #### Formulas
-- [[Related Rates Formulas]]
+- [[Shapes Formulas]]
 - [[Exponent Quotient rule]]
 - [[Exponent Product rule]]
 - [[Exponent Rule]]
