@@ -13,3 +13,6 @@
 - 160$
 
 [Rtings](https://www.rtings.com/) Review website.  
+
+[Corsair virtuoso](https://www.rtings.com/headphones/reviews/corsair/virtuoso-pro)
+- Good wired gaming performance

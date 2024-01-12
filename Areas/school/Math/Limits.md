@@ -1,3 +1,4 @@
+
 #math #limits
 
 # Dump
@@ -5,6 +6,12 @@
 ## HW 50
 - [[L'Hôpital's rule]]
 - You can use trig definitions to apply [[L'Hôpital's rule]]
+- when finding the limit of infinity divide the by greatest power in the denominator
+
+
+
+- Take the coefficient of the number with the greatest exponent, for example $\frac{{x^2+2x+5}}{4x^2-10x+2} \to \frac{1}{4}$ 
+-  ASK WAINWRIGHT ABOUT QUESTION 83
 
 > [!EXAMPLE]- $\displaystyle \lim_{ x \to 0 } = x\csc(x)$ (question 6 on HW 50)
 > **Step1** 
@@ -12,9 +19,6 @@
 > 
 > **Step2** 
 > Apply [[L'Hôpital's rule]] by taking the derivative of the numorator: $1$ and the denominator $\cos(x)$. Giving the equation $\frac{1}{\cos(x)}$. This is now more friendly to substitution and when done it gives $\frac{1}{1}$ $$\frac{1}{\cos(x)}=1$$ 
-
-- Take the coefficient of the number with the greatest exponent, for example $\frac{{x^2+2x+5}}{4x^2-10x+2} \to \frac{1}{4}$ 
--  ASK WAINWRIGHT ABOUT QUESTION 83
 
 # When are limits undefined $\nexists$
 limits are undefined logically when the left side and the right side don't approach each other, this can be seen in graphs such as $\frac{2}{x}$ as seen below.
