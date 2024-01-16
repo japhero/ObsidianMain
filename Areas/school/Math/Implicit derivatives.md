@@ -13,5 +13,4 @@
 	- Then divide $(a+b)$ on both sides:  $\frac{\frac{dy}{dx}\cancel{(a+b)}}{\cancel{(a+b)}} = \frac{c}{(a+b)}$ to get: $\frac{dy}{dx} = \frac{c}{a+b}$  
 	- The solution is there for  $\frac{dy}{dx} = \frac{c}{a+b}$  
 
-
-# 
+- Do not write $\frac{d}{dx}$ when taking the derivative of $x$ because $y$ is an implicit function of $x$. 

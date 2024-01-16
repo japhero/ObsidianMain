@@ -20,6 +20,15 @@
 > **Step2** 
 > Apply [[L'Hôpital's rule]] by taking the derivative of the numorator: $1$ and the denominator $\cos(x)$. Giving the equation $\frac{1}{\cos(x)}$. This is now more friendly to substitution and when done it gives $\frac{1}{1}$ $$\frac{1}{\cos(x)}=1$$ 
 
+
+# Limits left and right ?
+Of course when notating a limit you evaluate the "left" and "right" limit and if they are the same the limit is real. The notation is 
+
+- **Left-hand Limit** = $\displaystyle \lim_{ x \to c^ {-} }$
+- **Right-hand Limit**  $\displaystyle \lim_{ x \to c^+ }$
+
+The + or - sign indicates what direction the single side limit comes from. Either negative infinity or positive infinity indicated by the (+,-).
+
 # When are limits undefined $\nexists$
 limits are undefined logically when the left side and the right side don't approach each other, this can be seen in graphs such as $\frac{2}{x}$ as seen below.
 <img src = "https://i.imgur.com/bUEAxjS.png" width =400>

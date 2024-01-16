@@ -14,7 +14,10 @@ To cancel a logarithm, raise both sides to the power of the base of the logarith
 ---
 
 # Derivative of log
-$$\frac{d}{dx}(\log_{a} x) = \frac{1}{x\ln a}$$
+$$\frac{d}{dx}(\log_{a} x) = \frac{1}{x'\ln a}$$
+
+## Derivative of $\ln$
+$$\frac{d}{dx}\ln \left[ f(x) \right] =\frac{1}{f(x)} f'(x)$$
 
 ---
 # logarithm question
