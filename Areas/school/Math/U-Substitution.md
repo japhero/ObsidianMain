@@ -1,3 +1,4 @@
+#compress 
 # Dump
 ## Class Notes
 $$\int  \, u^ndu= \frac{u^{n+1}}{n+1}+C $$

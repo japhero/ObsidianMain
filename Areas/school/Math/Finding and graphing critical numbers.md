@@ -1,6 +1,11 @@
 The base of a function $f(x)$ is the x position graph over point y while $f^\prime(x)$ is a function of the slope of $f(x)$ . 
 
 
+
+> [!TODO]- CANDIATE FOR DELETION
+> need to redo notes #refactor  or integrate them into [[First and second derivative test]] these notes are writen badly and not in my prefrered style. 
+
+
 ## Step by step
 
 ### Finding the Critical numbers

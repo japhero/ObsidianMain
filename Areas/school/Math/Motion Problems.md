@@ -1,3 +1,4 @@
+#compress
 # Dump
 - First derivative is velocity 
 - Second derivative is 

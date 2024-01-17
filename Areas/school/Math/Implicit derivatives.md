@@ -1,3 +1,4 @@
+#refactor #compress
 ## vid notes 
 [video link ](https://www.youtube.com/watch?v=xbviQHhU1rA)
 

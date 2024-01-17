@@ -1,4 +1,4 @@
-
+#compress
 # The general related rates pattern 
 
 ## Structure 

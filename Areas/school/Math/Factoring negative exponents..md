@@ -1,5 +1,12 @@
+#refactor
 # Vid Notes dump 
 * Get the smaller Value when factoring this also applies with negative exponents get the **GCF** [00:45](https://www.youtube.com/watch?app=desktop&v=dOuI8pvevcw#t=45.09272695994568)
+
+
+
+> [!TODO]- Candidate for deletion
+> To fringe a topic should be shoved under a header in a rules page
+
 
 # Examples 
 
