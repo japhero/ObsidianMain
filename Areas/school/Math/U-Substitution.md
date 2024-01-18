@@ -11,12 +11,12 @@ $$\int  \, u^ndu= \frac{u^{n+1}}{n+1}+C $$
 - $u$ is an implicit function of the main function of $f(x)$
 - the reason that we have to manipulate $du$ by multiplying or dividing the whole equation is because we want $du$ to be the derivative of $u$ and in a normal chain rule this would be what we are multiplying by. 
 	- simply we want $du$ to be the $g'$ in $f'\left(g(x) \right)g'(x)$ of the [[chain rule#Formula|chain rule formula]].
-	- 
+- $du$ goes away when i take the integral its kindov symbolic and just goes away.
+- $du$ is kindov used as a vessle for geting rid of "products" of taking the derivative
+- $$\int [f(x)+g(x)] \, dx  = \int f(x) \, dx + \int g(x) \, dx  $$
+- The goal with $u$ should allways be to remove x from the equation
+- can use trig definitions to change into a form that we can solve.
 
-## HW 51
-- what happens to $du$ during the power rule 
-- how do i solve for $du$ 
-- Forgot twice to carry the negative over when taking the derivative of u
 
 ## Vid1 notes
 - What we need to do
