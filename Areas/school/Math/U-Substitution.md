@@ -16,6 +16,9 @@ $$\int  \, u^ndu= \frac{u^{n+1}}{n+1}+C $$
 - $$\int [f(x)+g(x)] \, dx  = \int f(x) \, dx + \int g(x) \, dx  $$
 - The goal with $u$ should allways be to remove x from the equation
 - can use trig definitions to change into a form that we can solve.
+- $\frac{dy}{dx}=2e^{x-y} \to \frac{dy}{dx} =\frac{2e^x}{e^y}$
+	- Just a neet usage of [[exponent rules]] 
+- chosing what value you use for u is very important maby when compressing use as example $$\int \frac{\cos\left( (1-3x)^{\frac 1 3} \right)}{(1-3x)^ {\frac{2}{3}}} \, dx$$
 
 
 ## Vid1 notes
