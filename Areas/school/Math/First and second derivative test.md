@@ -1,4 +1,4 @@
-
+#math #derivatives 
 # Dump
 - When putting negative exponents in the denominator remember it's not division its multiplying by the reciprocal
 

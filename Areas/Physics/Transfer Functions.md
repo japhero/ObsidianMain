@@ -1,15 +1,15 @@
-#math #Physics #signalProcessing  #math 
+#math #Physics #signalProcessing  
 # "What are transfer functions?" Dump
-- is a compact way to model the relationship between the input and the output.
+- transfer functions are a compact way to model the relationship between the input and the output.
 - models Linear, time-invariant dynamics (wtf does this mean)
-- its a mathmatical model
+- its a mathematical model
 - can model input and output over time 
-- can convert differential equations into transfer functions using the [[loplace transform]]
+- can convert differential equations into transfer functions using the [[laplace transform]]
 - for linear differential equations when taking the derivative with respect to time, it turns into exponents of the complex variable $s$
-	- $L(y(t))=s^0Y(s)$
-	- $L(\dot{y}(t))=s^1Y(s)$
-	-  $\dot{y}$ means y with the derivatve taken with respect to time. 
-	- $L$ means loplace transform 
+	- $\mathscr{L}(y(t))=s^0Y(s)$
+	- $\mathscr{L}(\dot{y}(t))=s^1Y(s)$
+	-  $\dot{y}$ means y with the derivative taken with respect to time. each dot signals the degree of the derivative.
+	- $\mathscr{L}$ means [laplace transform ](https://en.wikipedia.org/wiki/Laplace_transform)
 	- $s =\sigma + j \omega$
 	- $frequency  =  \omega$
 	- $exponential = \sigma$ 
@@ -21,7 +21,7 @@
 - **gain** is the value of $G(s)$ under steady state conditions or its the value of the transfer function when $s$ is set to zero
 - can use the $s$ domain to determin if the system is stable.
 - We can use transfer functions to design systems as for [[Filtering accelerometer Data]], or [[Applied signal processing]]
-- 
+
 
 
 
