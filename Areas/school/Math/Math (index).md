@@ -12,6 +12,10 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Antiderivatives-integrals]]
 [[Applied max and min-Derivative Applications]]
 [[Limits]]
+[[Differential Equations]]
+[[Mistakes list]]
+[[Solving inverse Derivatives]]
+
 
 
 
@@ -20,7 +24,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 - [[Exponent Quotient rule]]
 - [[Exponent Product rule]]
 - [[Exponent Rule]]
-- 
+- [[Common Derivatives]]
 
 #### Rules
 - [[Quotient rule]]

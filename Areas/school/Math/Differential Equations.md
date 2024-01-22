@@ -1,3 +1,4 @@
+#math #Differential_Equations #compress 
 # 3Blue1Brown Vid Dump
 - differential questions arise when it's easier to express change than it is to express exact amounts
 - **ordinary differential equations or ODE** are equations where the differential equation of set up with one input usually T
@@ -13,7 +14,15 @@
 - you can analyze the similarities and structure in between equations by using [[Phase space|Phase spaces]]
 -  we can approximate differential equations by instead of viewing derivatives as an infinitely small change relative to time we use a time step, and then calculate based on that time step changing add the time step as an interval in between "steps". 
 	- this is called solving a differential equation numerically
-- 
+
+# [intro to multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/introduction-to-multivariable-calculus/v/multivariable-functions) 
+- functions with multiple variables 
+	- $f(x,y)$
+	- can output a vector 
+	- $f(x,y)=[3x,2y]$
+	- 
+
+
 ---
 # Resources
 [video series](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=NuwxTVdvNkKUgk7Q)
