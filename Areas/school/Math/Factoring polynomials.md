@@ -13,7 +13,8 @@ Factoring when $a=1$ simply means as for the basic definition of Trinomials ($ax
 Grab **B** and **C** these values are what we use to find the factors.
 
 **Step 2** 
-List factors of **C**, then evaluate if these factors add up to **B** if so these are your factors of $f(x)$.
+List factors of **C**, then evaluate if these factors add up to **B** if so these are your factors of $f(x)$
+
 
 **Step 3** 
 Multiply your values by $-1$ then put them into Trinomial factored form $\left((x+a)(x+b) \right)$ which is the product of 2 binomials.

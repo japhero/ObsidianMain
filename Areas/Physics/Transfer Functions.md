@@ -15,7 +15,7 @@
 	- $exponential = \sigma$ 
 - if we have an input as a function of $u$ we can **transfer** it through the system by multiplying it times the [[Transfer Functions|Transfer Function]]. 
 - Always in the $s$ domain
-- we dont use [[Differential Equations]] because they dont work well in series.
+- we dont use [[Ordinary Differential Equations]] because they dont work well in series.
 - **Poles** are the values of $s$ that cause $G(s) \to ∞$  
 - **Zeros** are values of $s$ that cause $G(s) \to 0$
 - **gain** is the value of $G(s)$ under steady state conditions or its the value of the transfer function when $s$ is set to zero
