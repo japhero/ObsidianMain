@@ -11,7 +11,7 @@
 - Remember that the equation with the given value is often the equation that we uses to get definitions or as a helper function
 - [[Derivative Quotient rule#Constant formula|Quotent rule CONSTANTS]]
 
-
+[[U-Substitution]]
 
 
 
