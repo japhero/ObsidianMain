@@ -12,7 +12,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Antiderivatives-integrals]]
 [[Applied max and min-Derivative Applications]]
 [[Limits]]
-[[Differential Equations]]
+[[Ordinary Differential Equations]]
 [[Mistakes list]]
 [[Solving inverse Derivatives]]
 

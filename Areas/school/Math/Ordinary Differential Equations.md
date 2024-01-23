@@ -13,7 +13,14 @@
 - you can analyze the similarities and structure in between equations by using [[Phase space|Phase spaces]]
 -  we can approximate differential equations by instead of viewing derivatives as an infinitely small change relative to time we use a time step, and then calculate based on that time step changing add the time step as an interval in between "steps". 
 	- this is called solving a differential equation numerically
-- 
+
+# [intro to multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/introduction-to-multivariable-calculus/v/multivariable-functions) 
+- functions with multiple variables 
+	- $f(x,y)$
+	- can output a vector/ a matrix?
+		- $f(x,y)=[3x,2y]$
+	- 
+
 ---
 # Resources
 [video series](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=NuwxTVdvNkKUgk7Q)

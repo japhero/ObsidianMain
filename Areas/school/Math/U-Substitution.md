@@ -26,6 +26,8 @@ $$\frac{d}{dx} (a^x)=a^x\ln(x)$$
 why cant we operate the integral $\int \frac{1}{u}dx$ as $\int u^{-1} \, dx$.
 I know we cant because of the definition of the common integral 
 $$ common \space Integral = \int \frac{1}{u} \, dx = \ln(u)$$
+**Answer:** because when taking the integral we would have to divide by zero which we cannot do. $$\int \frac{u^{-1+1}}{-1+1} \, dx =\int \frac{u^0}{0} \, dx =\cancel{ \exists}$$
+
 
 
 ## Vid1 notes

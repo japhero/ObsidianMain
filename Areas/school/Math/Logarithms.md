@@ -1,23 +1,28 @@
 
 # Canceling Logarithms  
-To cancel a logarithm, raise both sides to the power of the base of the logarithm. For $\ln$ raise to the power of $e$.
+To rid an equation of logarithms, raise both sides to the same exponent as the base of the logarithms.
+$$\log_{a}(a^x)=x$$
 
-> [!Example]- $\log_{3}(x^2+2) =0$
-> Cube both sides because the left is $\log_{3}$ the 3 indicates the degree that the problem must be raised
-> $\log_{3}(x^2+2)^3 =0^3$
-> $x^2+2 = 0$
-> Then solve for x by moving the 2 and $\sqrt {x^2}$
-> $$x=\sqrt{ 2 }$$
+> [!EXAMPLE]- $\ln(3x^2-2)=0$
+> 
+> **Step 1**
+> First raise both sides to the quantity inside of the natural log.
+> $\ln(3x^2-2)^{(3x^2-2)}=0^{(3x^2-2)} \to 3x^2-2=0^{(3x^2-2)}$
+> 
+> **Step 2** 
 
 
 
 ---
 
-# Derivative of log
+## Derivative of log
 $$\frac{d}{dx}(\log_{a} x) = \frac{1}{x'\ln a}$$
 
 ## Derivative of $\ln$
 $$\frac{d}{dx}\ln \left[ f(x) \right] =\frac{1}{f(x)} f'(x)$$
+## $Ln$ of 1
+$$\ln(1)=0$$
+
 
 ---
 # logarithm question
