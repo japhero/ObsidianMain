@@ -5,6 +5,9 @@ the filter has a cirtain cuttoff value
 
 [butterworth filter implemented](https://github.com/curiores/ArduinoTutorials/blob/main/BasicFilters/Design/LowPass/ButterworthFilter.ipynb)
 
+apply coefficients based on [[Bilinear transform]] in a [[linear time-invariant system]]. 
+
+- uses a Discrete time system 
 
 
 ---

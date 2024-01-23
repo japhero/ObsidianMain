@@ -12,11 +12,15 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Antiderivatives-integrals]]
 [[Applied max and min-Derivative Applications]]
 [[Limits]]
-[[Ordinary Differential Equations]]
 [[Mistakes list]]
 [[Solving inverse Derivatives]]
+[[notation]]
 
-
+### Signal processing 
+[[Bilinear transform]]
+[[linear time-invariant system]]
+[[Ordinary Differential Equations]]
+[[Partial Differential Equation]]
 
 
 #### Formulas
