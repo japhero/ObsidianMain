@@ -9,6 +9,22 @@ apply coefficients based on [[Bilinear transform]] in a [[linear time-invariant 
 
 - uses a Discrete time system 
 
+apply [this](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.butter.html) Spicy function and use the coefficients from that with  [this](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.sosfilt.html#scipy.signal.sosfilt) function to plot the data
+
+## Info Mpu
+- what is the frequency that i want to cutoff to allow me to get the right changes.
+- at what frequency does the mpu collect data. 
+
+
+# Relevant notes
+[[Filtering accelerometer Data]]
+[[Ordinary Differential Equations]]
+[[Laplace Transform]]
+[[linear time-invariant system]]
+[[Bilinear transform]]
+[[Transfer Functions]]
+[[Applied signal processing]]
+
 
 ---
 

@@ -1,6 +1,6 @@
 
 # Dump
-- Similar to [[solving related rates|related rates]] in how we apply formulas
+- Similar to [[Related Rates|related rates]] in how we apply formulas
 - appliy derivatives to
 
 ## HW 44 mistakes/takeaways 

@@ -6,7 +6,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[First and second derivative test]]
 [[Factoring polynomials]]
 [[Shapes Formulas]]
-[[solving related rates]]
+[[Related Rates]]
 [[Solving for theta]]
 [[Logarithms]]
 [[Antiderivatives-integrals]]
@@ -41,7 +41,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 
 ---
 ## Compression list
-- [ ] [[solving related rates]]
+- [ ] [[Related Rates]]
 - [ ] [[Antiderivatives-integrals]]
 - [ ] [[Applied max and min-Derivative Applications]]
 - [ ] [[Antiderivatives-integrals]]
