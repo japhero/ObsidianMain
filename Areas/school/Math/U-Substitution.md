@@ -94,5 +94,7 @@ $$ common \space Integral = \int \frac{1}{u} \, dx = \ln(u)$$
 # Resources 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sdYdnpYn-1o?si=LHiJk4MHJec5TkA6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r5XXDSOh5Nk?si=DQvb_0d33bamkXD-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-- [Kahn academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-9/a/review-applying-u-substitution)
  <iframe width="560" height="315" src="https://www.youtube.com/embed/rsBALP8QNns" title="_-substitution: defining _ (more examples) | AP Calculus AB | Khan Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+[Kahn academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-9/a/review-applying-u-substitution)
