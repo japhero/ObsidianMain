@@ -12,7 +12,11 @@ This is a laundry list of SPECIFIC FACTS!  You are NOT EXPLAINING ANYTHING HERE
 - rockofeller
 - carnagie 
 - child labor
-- 
+- prue food and drug act
+- the jungle 
+- theodore Roosevelt
+- Meat inspection act
+- 17th amendment.
 
 
 # 3. Categorize your prior knowledge.  
@@ -25,6 +29,7 @@ Workers rights
 - Anti-Trust.
 - Child labor 
 - Unions 
+- 
 
 
 
@@ -40,15 +45,27 @@ Workers rights
 
 **Doc E:** Laws were passed to legally regulate and prosecute monopolies.
 
-**Doc F:** 
+**Doc F:** Laws arent enough to change peoples minds.
 
-**Doc G:** in somes opinion federal regulation on labor through the restriction of interstate commerce goes against the constitution.
+**Doc G:** in somes opinion federal regulation on labor through the restriction of interstate commerce goes against the constitution. **(FEDERAL LIMITATION)** 
 
-**Doc H:** Progressives pushed for womens rights.
+**Doc H:** Progressives pushed for womens rights. **(TIE THIS TO THE 19th AMENDMENT)**
 
-**Doc I:** The right of african Americans to fight in a WW1 showed that america could move past previous racial violence.
+**Doc I:** African americans still experience large amounts of racial violence 
 
-**Doc J:** Voters voted less over the progresive error.
+**Doc J:** Even though it seems that voting decrease it actually increased because in 1920 women added 
+
+
+## Topics 
+
+**Workplace regulations:**
+
+**Political Changes:**
+
+**Labor regulations:** 
+
+
+
 # 5.  Final thesis 
 
 

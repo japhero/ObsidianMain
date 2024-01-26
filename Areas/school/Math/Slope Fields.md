@@ -6,6 +6,7 @@
 - substitute in values for $x,y$ and then solve for $\frac{dy}{dx}$
 - why does a slope of zero have a flat line as its slope
 	- Because we are visualizing the tangent line of a slope and when the slope is zero on any graph we have a flat line.
+- SImilar to [[vector field]] almost exactly the same in the sense that they allows us to have an idea of how to solve [[Ordinary Differential Equations]] and in the case of slope fields the function given is a differential equation.
 
 ---
 

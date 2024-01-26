@@ -1,4 +1,46 @@
-#compress 
+ #compress 
+U-Substitution is a method for taking the integral of a function specifically we can think of it as taking the inverse chain rule.
+
+# Steps 
+Given the principled equation $\int f(g(x)) \, dx$ these are the steps of [[U-Substitution]].
+
+**Step 1:** 
+Find $u$: $u = g(x)$ this will typically be the "inside" function/equation. Generally this is the most important step in using [[U-Substitution]]. One good rule to use when trying to chose $u$ is that our goal should always be to make the function a function of $u$ and not of $x$ so try to find whatever value of $du$ that removes $x$.
+
+**Step 3:** 
+Find $du$. Finding $du$ means taking the derivative of $u$ or in this case $g'(x)$. In general we want $du$ to be the inverse of $g'$ in $f'\left(g(x) \right)g'(x)$ of the [[chain rule#Formula|chain rule formula]] this is again because [[U-Substitution]] is the inverse chain rule or undoing the chain rule.
+
+**Step 4:**
+Solve for $dx$. After we take the derivative of $u$ we are given the equation $du=g'(x)dx$ to be able to plug this into our current equation of $f(g(x))dx$ we need to solve for $dx$. So divide out $g'$ and get: $du \, \frac{1}{g'(x)}$ 
+
+**Step 5:**
+Plug in $dx$ and make our equation relative to $u$. Simply substitute the previously solved version of $du$, this gives us $\frac{1}{g'(x)} \int f(u)du$. This equation is also misleading as it still has a function of $x$, in [[U-Substitution]] we want this to basically never be the case and is only allowed in this case because we assume its a constant which it should be when taken properly.   
+
+**Step 6:**
+Integrate $u$ normally. This process again shows one of the goals of [[U-Substitution]] its to "prepare" our equation so that we can integrate it "normally" or using a variety of other methods that dont work unless we have an equation in the terms of $u$. In our equation we will apply the formula $\int  \, u^ndu= \frac{u^{n+1}}{n+1}+C$ to integrate giving the result $\downarrow$
+$$ \int f(g(x)) \, dx =\frac{f(g(x))^2}{2 g'(x)}$$
+
+
+
+> [!EXAMPLE]- EXAMPLE:  $\int{10x\cos(10x^2-2)}\, dx$
+> 
+> **Step 1:**
+> The first step of the problem is to find $u$ and intern $du$. We will do this by setting $u = 5x^2-2$.
+> 
+> **Step 2:** 
+> Find $du$ by taking the derivative of $u$, $u',du= 20x\,dx$ 
+> 
+> **Step 3:**
+> Solve for $dx$ to then substitute it in so we can make the equation a factor of $u$.
+> Solve by just dividing out $20x$ to make $\frac{1}{20x}du=dx$.
+> 
+> **Step 4:**
+> substitute in $\frac{1}{20x}$ for $dx$ and solve. $\frac{10x}{20x}\cos(u)$. Note that we can always take out constants out of integrals so after we we cancel $x$: $\frac{10\cancel{x}}{20\cancel x}\cos (u)$ we can rewrite the integral as $\frac{1}{2}\int \cos (u) \, dx$.
+> 
+> **Step 5:**
+> we can use the basic trig definitions to rewrite $\cos dx=\sin$. Then substitute $u$ back in and apply the constant meaning that the answer is $$\int{10x\cos(10x^2-2)}\, dx = \frac{1}{2}\sin(10x^2-2) + C$$
+> 
+
 # Dump
 ## Class Notes
 $$\int  \, u^ndu= \frac{u^{n+1}}{n+1}+C $$
@@ -12,7 +54,8 @@ $$\int  \, u^ndu= \frac{u^{n+1}}{n+1}+C $$
 - the reason that we have to manipulate $du$ by multiplying or dividing the whole equation is because we want $du$ to be the derivative of $u$ and in a normal chain rule this would be what we are multiplying by. 
 	- simply we want $du$ to be the $g'$ in $f'\left(g(x) \right)g'(x)$ of the [[chain rule#Formula|chain rule formula]].
 - $du$ goes away when i take the integral its kindov symbolic and just goes away.
-- $du$ is kindov used as a vessle for geting rid of "products" of taking the derivative
+- $du$ is kindov used as a vessel for geting rid of "products" of taking the derivative
+- Integral rules $\downarrow$
 - $$\int [f(x)+g(x)] \, dx  = \int f(x) \, dx + \int g(x) \, dx  $$
 - The goal with $u$ should allways be to remove x from the equation
 - can use trig definitions to change into a form that we can solve.
