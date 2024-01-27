@@ -15,6 +15,9 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Mistakes list]]
 [[Solving inverse Derivatives]]
 [[notation]]
+[[U-Substitution]]
+[[Motion Problems]]
+
 
 ### Signal processing 
 [[Bilinear transform]]
@@ -29,6 +32,9 @@ This index is sorted into 2 sections the root directory is for topics and explan
 - [[Exponent Product rule]]
 - [[Exponent Rule]]
 - [[Common Derivatives]]
+- [[integration rules]]
+- [[Trig derivatives]]
+- [[Derivatives of inverse functions]]
 
 #### Rules
 - [[Quotient rule]]

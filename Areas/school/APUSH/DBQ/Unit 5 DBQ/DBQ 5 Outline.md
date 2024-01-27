@@ -67,5 +67,6 @@ Workers rights
 
 
 # 5.  Final thesis 
+ From 1900 to 1920 progresive reformers and the federal govermemt we effectively reformed workplace regulations, Politics and Labor regulations. 
 
 

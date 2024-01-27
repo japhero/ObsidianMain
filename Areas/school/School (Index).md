@@ -1,7 +1,7 @@
 # Index
 ---
 ### APUSH
-[[Final Essay|DBQ 2]]
+[[Areas/school/APUSH/DBQ/Unit 2 DBQ/Final Essay|DBQ 2]]
 	[[Paragraph Structure]]
 	[[Categories-Document summary]]
 [[DBQ 3 Outline|DBQ 3]]
