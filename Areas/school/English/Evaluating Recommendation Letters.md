@@ -1,0 +1,6 @@
+
+In class, you will [read three college letters of recommendationLinks to an external site.](https://docs.google.com/document/d/1J-d606G1NMYmML5B-KIZjhaXsYdNHrIZUvyFTWjJIJE/copy?usp=sharing) I have written for former students. You will evaluate each of the three letters, annotating for examples of logical appeals, emotional appeals, and appeals to my own credibility as a recommender. You will submit your annotations in class. After reviewing all three, you should describe in a thoughtful paragraph which of the following letters you found to be the most effective/ persuasive. Explain your position with specifics.
+
+---
+
+For me personally, i think that the most persuasive letter was the one about jay Gatsby. I feel that the emotions induced by his description made me feel as if he was truly unique, this was evident as he is someone who "**I can sincerely say that you would be lucky to have him**". This perspective is also developed though logical appeal, listing the challenges that he goes through because he is "**[someone] who is intrinsically motivated.**" I think this letter most effectively conveys the perspective from the writer that although the writer writes many letters of recommendation this one is for someone who is truly special.

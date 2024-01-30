@@ -1,10 +1,10 @@
 
 # Dump
 - local linearity is using the tangent line to approximate the value 
-- figure out the tangent line use local "linearization" to aproximate the value.
+- figure out the tangent line, use local "linearization" to approximate the value.
 - $l(x)=f(a)+f'(a)(x-a)$
 	- This formula is built under the assumption that the change in slope between x and a is minimal.
-	- It works becuase it applies the imediate change so the derivative of x for the difference  between x and a or $(x-a)$
+	- It works because it applies the immediate change so the derivative of x for the difference  between x and a or $(x-a)$
 	- Basically we follow the tangent line until the given point.
 <img src="https://i.imgur.com/csENEw1.png" width =400>
 

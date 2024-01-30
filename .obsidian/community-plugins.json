@@ -5,8 +5,8 @@
   "media-extended",
   "templater-obsidian",
   "obsidian-underline",
-  "obsidian-pandoc",
   "obsidian-languagetool-plugin",
   "callout-manager",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-pandoc"
 ]
