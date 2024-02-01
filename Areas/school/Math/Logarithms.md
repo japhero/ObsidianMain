@@ -2,14 +2,12 @@
 # Canceling Logarithms  
 To rid an equation of logarithms, raise both sides to the same exponent as the base of the logarithms.
 $$\log_{a}(a^x)=x$$
+remember that when doing this to $\ln$ we use the base of $e$.
 
-> [!EXAMPLE]- $\ln(3x^2-2)=0$
-> 
-> **Step 1**
-> First raise both sides to the quantity inside of the natural log.
-> $\ln(3x^2-2)^{(3x^2-2)}=0^{(3x^2-2)} \to 3x^2-2=0^{(3x^2-2)}$
-> 
-> **Step 2** 
+
+# Finding $e^C$ when solving for integrals .
+Sometimes when try to cancel logarithms we end up with a sinario where we to remove $\ln$ we raised $e$ to the power of $C$. Because this makes it incredibly hard to solve for $C$ we can replace $C$ with $K$ and just realize that we are still representing a constant therefore its. But note when pluging it in we still have to treat it as what it is an exponent of $e$.
+
 
 
 
@@ -30,8 +28,6 @@ The log question is the idea of representing log as a logical expression or a me
 <img src = "https://i.imgur.com/TxNp3hn.png" width  =70%>
 
 
-
-# [[logarithm rules]]
 
 ---
 # Resources
