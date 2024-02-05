@@ -1,4 +1,4 @@
- #compress 
+
 U-Substitution is a method for taking the integral of a function specifically we can think of it as taking the inverse chain rule.
 
 # Steps 

@@ -34,3 +34,7 @@ basically just normal [[Trig derivatives]] but applied inversely
 # Trig rule (cos)
 
 $$\int  \, \cos(x)dx = \sin(x) +C$$
+
+---
+# Special exponent Integral
+$$\int a^x \, dx = \frac{a^x}{\ln(a)}$$

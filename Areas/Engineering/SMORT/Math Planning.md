@@ -74,6 +74,11 @@ when creating a filter we have to remember that our goal is to remove the "frequ
 
 
 
+# Designing filters [Notes](https://en.wikipedia.org/wiki/Filter_design)
+
+
+
+
 
 
 
