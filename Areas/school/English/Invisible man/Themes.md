@@ -1,7 +1,7 @@
 
 Motifs                   
 - Invisibility 
-- Vison and blindness (and reflections, and shadows, ect...)
+- Vison and blindness (and reflections, and shadows, …)
 - Darkness and light 
 - Veils and Masks 
 - Music (jazz/blues)
@@ -15,9 +15,9 @@ Themes
 - Racism
 - How identity is shaped 
 - The limitations for of ideology
-- Power and self intrest
+- Power and self interest
 - The quest for self acceptance 
-- Literal and metephorical enslavement
+- Literal and metaphorical enslavement
 - Idealism versus disillusionment
 - Divisions and divisiveness in society
 - Social responsibility

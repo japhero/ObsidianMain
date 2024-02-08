@@ -6,6 +6,6 @@
     "dashboard-ReadLineLength",
     "Dark PDF export"
   ],
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "theme": "obsidian"
 }
