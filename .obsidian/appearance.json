@@ -3,8 +3,7 @@
   "enabledCssSnippets": [
     "snippet",
     "dashboard",
-    "dashboard-ReadLineLength",
-    "Dark PDF export"
+    "dashboard-ReadLineLength"
   ],
   "baseFontSize": 18,
   "theme": "obsidian"

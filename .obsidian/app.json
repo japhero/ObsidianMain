@@ -8,7 +8,7 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 77
+    "downscalePercent": 70
   },
   "spellcheckDictionary": [
     "deepcopy",
@@ -35,6 +35,7 @@
     "incel",
     "incell",
     "AWSA",
-    "MPU"
+    "MPU",
+    "Trueblood"
   ]
 }
