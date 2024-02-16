@@ -31,15 +31,23 @@ The values given out of the mpu 6050 are acceleration ($m/s^2$) values to conver
 <img src = "https://upload.wikimedia.org/wikipedia/commons/1/10/WikiTrap.gif" width =500>
 On the code side of things, this is already done nicely through the `numpy` package with the `scipy.cumtrapz()` function. All we have to do is input our array of y's into the method and iterate. Note that `cumtrapz` stands for cumulative trapezoidal rule.
 
+## Custom integration
+$$\int^b_{a}f(x) \, dx  
+\approx \sum_{k=1}^N 
+\frac{f(x_{k-1}+f(x_{k}))}{2} 
+\Delta x_{k}$$
+written  in python by
+
 ```python
-order = 300
-x = np.linspace(start= 0, stop= 20,num= order)
-y = x**2 #(integration for f(x) = x^2)
-
-integrated = scipy.cumtrapz(x, y, initial=0)
-
-
+def integrate(x,y):
+    r_array = np.zeros(len(x))
+    for i in range(1, len(x)):
+        r_array[i] =   y[i-1] +  (y[i-1] + y[i])/2 * (x[i] - x[i-1])
+    return r_array
+        
+	
 ```
+
 
 
 
