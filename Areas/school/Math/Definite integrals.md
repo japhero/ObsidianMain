@@ -44,6 +44,7 @@ $$ \int^b_{a} f(x) \, dx \approx \frac{b-a}{2n}[f(x_{0})+2f(x_{1}) +2f(x_{3})\do
 - Subtract the lower limit from the upper limit when evaluating. 
 - limits of integration are the points were the functions intersect.
 - In situations are were we are in terms of y we are just evaluating the area to the y axis not the x axis. Meaning that we integrate in terms of y.
+- ![[x to y conversion graph definite integrals|1000]]
 
 ## Area Between Two Curves (D)
 - set the functions equal to each other to find the x intersection points as we are solving for x.
