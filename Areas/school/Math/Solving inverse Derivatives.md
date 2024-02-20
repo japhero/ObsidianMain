@@ -1,4 +1,4 @@
-**#math #derivatives #inverseFuctions #compress 
+#math #derivatives #inverseFuctions #compress 
 # Dump 
 - Set $f(x)$ equal to its inverse value (a constant) and then solve for x to find $f^{-1}(x)$
 - spam [[Derivatives of inverse functions#Identity]]

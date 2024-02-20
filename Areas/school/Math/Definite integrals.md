@@ -29,11 +29,29 @@ $$ \int^b_{a} f(x) \, dx \approx \frac{b-a}{2n}[f(x_{0})+2f(x_{1}) +2f(x_{3})\do
  \frac{f(x_{N})+f(x_{0})}{2} +
   \sum^{N-1}_{k=1} f(x_{k}) 
   \right)$$
-  - Desmos solver = https://www.desmos.com/calculator/yufquxovaz
+  - Desmos solver = https://www.desmos.com/calculator/vw5l9nkjgx
+  - Remember that the "point's" are the number of open even intervals. In simpler terms this means that the points are the number of spaces that we take between input values not the actual amount of input values. 
 
 
 # Finding Definite integral with several functions.
 - Take the integral of both functions and subtract with the absolute value
 - $\bigg| \int f(x) \, dx -\int g(x) \, dx \bigg|$
-- ![[Definite integral with several fractions|700]]
+- Practically its hard for us to evaluate this function by hand with the absolute value sign because we cant assume that 
+- ![[Definite integral with several fractions|1000]]
+## Finding the Area Between Two Curves by (D)
+- Subtract the smaller area from the "total" area.
+- We know that the difference of 2 integrals over the same interval is the same as the difference of the two functions.
+- Subtract the lower limit from the upper limit when evaluating. 
+- limits of integration are the points were the functions intersect.
+- In situations are were we are in terms of y we are just evaluating the area to the y axis not the x axis. Meaning that we integrate in terms of y.
+
+## Area Between Two Curves (D)
+- set the functions equal to each other to find the x intersection points as we are solving for x.
 - 
+
+
+# Resources 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xec6HTcn2M8?si=-Z3TpS2OzCx9T6Kt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kgg5Rspf1Js?si=zDLf0yQyviTFhf1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

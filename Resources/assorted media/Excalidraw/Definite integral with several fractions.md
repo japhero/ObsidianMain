@@ -21,6 +21,8 @@ c ^JWNInGQD
 
 Adding the flipped integrals. ^EiimfjuM
 
+(can also be written as) ^kD0FHTKJ
+
 
 # Embedded files
 788f0e97f94e5ea4f9d2dd5e99c75621ae33bfe6: $$\color{white} y = 4 - x^2$$
@@ -28,6 +30,7 @@ d83444a9dbce54d783f8f2db5d647aa04ee3e741: $$g(x) = 4-x^2$$
 8609bca5ef0597536ffadc098cbb621af3c22c99: $$f(x)=-x+2$$
 9ee792431b30686814e8750aa0f40e6bb9b2fe24: $$\int_a^b =  \left( \int^c_a f(x) \space dx - \int_a^c g(x) \space dx \right) + 
 \left (  \int^b_c g(x) \space dx - \int_c^b f(x) \space dx  \right)$$
+e9d189d39271cfb4b5215a06e0fe1db527a4d58e: $$\int_a^c  \left(  f(x) - g(x) \right) dx$$
 
 %%
 # Drawing
@@ -1347,6 +1350,76 @@ d83444a9dbce54d783f8f2db5d647aa04ee3e741: $$g(x) = 4-x^2$$
 			"originalText": "Adding the flipped integrals.",
 			"lineHeight": 1.25,
 			"baseline": 14
+		},
+		{
+			"type": "image",
+			"version": 607,
+			"versionNonce": 515658666,
+			"isDeleted": false,
+			"id": "1fMCLJRr",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -284.99581232601196,
+			"y": -342.57665845269986,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 84.40065417617001,
+			"height": 22.961942680281545,
+			"seed": 13855,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708113711628,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "e9d189d39271cfb4b5215a06e0fe1db527a4d58e",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "text",
+			"version": 228,
+			"versionNonce": 1179330602,
+			"isDeleted": false,
+			"id": "kD0FHTKJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -369.82053436821286,
+			"y": -333.995200125242,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 83.17881986078294,
+			"height": 8.612096485484669,
+			"seed": 734332790,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708377678111,
+			"link": null,
+			"locked": false,
+			"fontSize": 6.889677188387737,
+			"fontFamily": 1,
+			"text": "(can also be written as)",
+			"rawText": "(can also be written as)",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "(can also be written as)",
+			"lineHeight": 1.25,
+			"baseline": 5.999999999999998
 		}
 	],
 	"appState": {
@@ -1364,8 +1437,8 @@ d83444a9dbce54d783f8f2db5d647aa04ee3e741: $$g(x) = 4-x^2$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 504.267586370166,
-		"scrollY": 424.7774572053201,
+		"scrollX": 474.8858725029785,
+		"scrollY": 429.7774572053201,
 		"zoom": {
 			"value": 2
 		},

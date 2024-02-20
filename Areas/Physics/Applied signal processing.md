@@ -30,7 +30,7 @@
 - $$f_{s} > 2 * f_{max}$$
 - Nyquist criterion $\uparrow$
 - for any sampled sinosiod there will be an infinite number of higher fequency sinosiods that fit the sample.
-- its called aliasing becuase the thing that is shown instead of the real thing is an alias of the real thing. Thats why aliasing is when the wrong thing is rebulit from the sample.
+	- its called aliasing becuase the thing that is shown instead of the real thing is an alias of the real thing. Thats why aliasing is when the wrong thing is rebulit from the sample.
 - 
 <img src = "https://i.imgur.com/yPT4gZ1.png" width = 50%>
 
