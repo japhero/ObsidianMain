@@ -8,7 +8,7 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 85
+    "downscalePercent": 79
   },
   "spellcheckDictionary": [
     "deepcopy",
