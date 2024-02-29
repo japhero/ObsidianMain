@@ -1,3 +1,4 @@
+#compress #math #calculus #Numeric_methods
 
 # Riemann sums
 ## Left/right Riemann sums
