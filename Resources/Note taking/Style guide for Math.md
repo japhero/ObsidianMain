@@ -8,3 +8,6 @@ use a style similar the quizlet answers for [precalc](https://quizlet.com/explan
 > **Step2**
 > The second step is to do somthing
 > ...
+
+maybe investigate this style 
+https://quizlet.com/explanations/textbook-solutions/single-variable-calculus-early-transcendentals-with-vector-functions-ap-edition-7th-edition-9780840049322/chapter-6-exercises-25-9ec9d77d-876e-4277-a0a9-1f54a5948ac9

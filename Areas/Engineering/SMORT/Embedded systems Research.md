@@ -14,6 +14,10 @@
 - Bit is a single value in a byte
 
 
+![](https://i.imgur.com/lSnxo8a.png)
+
+
+
 
 ---
 
