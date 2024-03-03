@@ -14,6 +14,9 @@
 	- Practically we wont apply the absolute value similarly to [[Definite integrals]] because its impossible to assume that state for a whole function so we will differentiate in between $[D-f(x)]$ and $[f(x)-D]$ not $[f(x)-\mid D \mid \,]$
 	- when using washer method we must remember that for rotating across functions an axis of x or y the function must be in terms of the transfer fucntion for example if rotating across $x=1$ it has to be a function of $x$. 
 	- "For the disk/washer method we integrate along the axis parallel to the axis of rotation."
+	- $$
+2\pi\int_{a}^b (\mid r -d \mid)(f(x)-g(x)) \, dx 
+$$
 ![](https://i.imgur.com/380T6xz.png)
 
 	
