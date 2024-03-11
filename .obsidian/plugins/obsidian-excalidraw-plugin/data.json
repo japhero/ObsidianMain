@@ -88,7 +88,7 @@
   "previousRelease": "2.0.16",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
-  "latexBoilerplate": "\\color{blue}",
+  "latexBoilerplate": "\\color{white}",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],

@@ -1,0 +1,21 @@
+
+# General Notes
+- Warning about it being a world built for white people (like norton)
+	- Maby a refrence to brother jack?
+- Brother Tarp
+	- Worked in a chain gang
+	- Enamored by the brotherhood. 
+- White man wants the narrator to get rid of the chain can be symbolic of the white mans wish to be part of the black mans struggle for his own satisfaction. The white man wants to remove the chain because he doesnt want the slavery esque item to seperate the men.
+- The accusations against the narrator seem to show that in the end the white man is the one who has power over him. Brother jacks response also coats his relationship with the narrator.
+- In the case of wrestrum this is the only time that the sentance "the accusation is a confession" is applicable.
+- Does the specific accusation of being a "dictaor" have any meaning.
+	- used logicaly to try to convince that the narrator is working against the "democratic" principals of the brotherhood in a rehtorical strategy sense.
+- Reassignment shows that the brotherhood doesn't acctually value the narrator although he seems disillusioned by that fact. 
+- Narrators speech for the womens devision shows his comitment to every facet of the brotherhood.
+- Language from the narrator shows seduction? "soft hands".
+	- Whats the woman's purpose in seducing the narrator
+	- Maby some kind of manipulation at power as it seems a common trope for white people in this novel although it is a woman so paralles between the 2 movements could separate that difference making the reason an immediate  superficial one?
+- How come the husband doesn't do anything $\uparrow$ ?
+- Brotherhood atitude towards him shifted first it was constant awe and gawking at the fact that the narrator  would be the next big thing althogh that never came into fruition and seems to have been a manipulation tactic.
+- Why would the brotherhood need the narrator for the disapearence of brother clifton.
+	- Maby to replace him?
