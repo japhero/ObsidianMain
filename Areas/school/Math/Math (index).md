@@ -17,6 +17,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[notation]]
 [[U-Substitution]]
 [[Motion Problems]]
+[[Solids of Revolution]]
 
 
 ### Signal processing 

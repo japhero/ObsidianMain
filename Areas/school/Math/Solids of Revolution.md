@@ -17,16 +17,24 @@
 	- $$
 2\pi\int_{a}^b (\mid r -d \mid)(f(x)-g(x)) \, dx 
 $$
-- When you have a function of a line treat plug in that value not the total area of that function as its found when taking the integral.
+remember that its really representing
+$$
+2\pi \int_{a}^b (radius)(height) \, dx 
+$$
+
+- When you have a function of a line plug in that value not the total area of that function as its found when taking the integral.
 	- For example if you have $-x^2+2$ bound by $y=1$ and $x=0$ remember that to represent the "square" of the function dont use  the area ($1*1$) use the value of that function so $1$. This is because we need to remember that in this case we get the area when we integrate and the limits of integration decide the "width" in this case of the function (because its the line value * x) theoretically you could calculate the area and separate it out but that would be the same as doing $\int_{a}^b a-b \, dx = \int^b_{a} a \, dx -\int^b_{a} b \, dx$
 
 ![[relative offsets|1000]]
 
-
-
 ![](https://i.imgur.com/380T6xz.png)
+## Cross section notes
+- 
+
 
 
 ---
 # Resources 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qMXPnfx2MQM?si=hvHmwXltx2PXmEuL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R-Qu3QWOEiA?si=H8CsfzignPzpSYfi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
