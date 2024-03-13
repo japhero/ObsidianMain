@@ -55,7 +55,10 @@ Both revolve 1around the y axis but they do so in different orientations
 ### Semi circle
 - use the formula $\frac{\pi r^2}{2}$
 - remember that 
-### Iso right Triangle 
+ $$
+\frac{\pi}{8}\int_{a}^b (f(x)-g(x))^2   \, dx 
+$$
+### Isosceles right Triangle 
 <img src = "https://i.imgur.com/aNT6eQu.png" width = 60% align = "right">
 
 - the sides of the triangle in respect to the hypotenuse can be written as $\frac{\sqrt{ 2 }}{2}h$.
@@ -66,10 +69,16 @@ $$
 Area =\frac{\sqrt{ 2 }h}{2} \cdot \frac{\sqrt{ 2 }h}{2} \cdot \frac{1}{2} 
 = \color{yellow} \frac{1}{4}h^2
 $$
-This means we can write a general formula for iso right triangles of 
+This means we can write a general formula for iso right triangles **when the hypotenuse is the base**
 $$ \color{orange}
 Volume = \int_{a}^b \frac{1}{4}(f(x)-g(x))^2 \, dx 
+
 $$
+when a leg of the triangle is the base the coefficients change.
+$$
+Volume =  \frac{1}{2}\int_{a}^b (f(x)-g(x))^2  \, dx 
+$$
+
 
 > [! Example]- proof for a $x=\frac{\sqrt{ 2 }}{2}h$ 
 > 
@@ -77,7 +86,7 @@ $$
 > $x^2+x^2=h^2$
 > $= 2x^2 =h^2$
 > $=x^2=\frac{h^2}{2}$
-> $=a=\frac{h}{\sqrt{ 2 }}=\frac{\sqrt{ 2 }h}{2}$
+> $=x=\frac{h}{\sqrt{ 2 }}=\frac{\sqrt{ 2 }h}{2}$
 > $$=
 > \frac{\sqrt{ 2 }h}{2}
 > $$
