@@ -3,7 +3,8 @@
   "enabledCssSnippets": [
     "snippet",
     "dashboard",
-    "dashboard-ReadLineLength"
+    "dashboard-ReadLineLength",
+    "align Right"
   ],
   "baseFontSize": 20,
   "theme": "obsidian"

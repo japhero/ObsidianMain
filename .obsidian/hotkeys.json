@@ -50,5 +50,23 @@
     }
   ],
   "obsidian-underline:toggle-link-heading": [],
-  "obsidian-underline:toggle-link-block": []
+  "obsidian-underline:toggle-link-block": [],
+  "templater-obsidian:Resources/Templates/Empty space.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:Resources/Templates/Empty space template.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ]
 }

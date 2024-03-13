@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "Resources/Templates",
   "templates_pairs": [
     [
       "",
@@ -20,8 +20,10 @@
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Resources/Templates/Checkmark.md"
+    "Resources/Templates/Checkmark.md",
+    "Resources/Templates/Empty space template.md"
   ],
   "startup_templates": [
     ""

@@ -1,0 +1,7 @@
+img[alt*="right"] {
+    float:right;
+    clear:right;
+    margin-top: 1rem;
+    /*margin-bottom: 4px;*/
+    margin-left: 1rem;
+    }

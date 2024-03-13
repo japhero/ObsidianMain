@@ -22,7 +22,7 @@
 
 
 # Limits left and right ?
-Of course when notating a limit you evaluate the "left" and "right" limit and if they are the same the limit is real. The notation is 
+If the "lefthand" and "righthand" limits are euqal then the limit exists. The notation is 
 
 - **Left-hand Limit** = $\displaystyle \lim_{ x \to c^ {-} }$
 - **Right-hand Limit**  $\displaystyle \lim_{ x \to c^+ }$
