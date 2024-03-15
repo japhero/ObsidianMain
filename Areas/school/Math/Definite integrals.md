@@ -68,7 +68,9 @@ $$ \int^b_{a} f(x) \, dx \approx \frac{b-a}{2n}[f(x_{0})+2f(x_{1}) +2f(x_{3})\do
 
 ## Area Between Two Curves (D)
 - set the functions equal to each other to find the x intersection points as we are solving for x.
-- 
+
+
+
 
 ---
 # Resources 

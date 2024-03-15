@@ -84,11 +84,23 @@ $$ common \space Integral = \int \frac{1}{u} \, dx = \ln(u)$$
 - we want all x variables to in the form of $u$
 -    [current TImestamp](https://youtu.be/sdYdnpYn-1o?t=146)
 
-## Finding U notes
-- finding u is really 
-- Do we just put everything thats not U as in the function solving fro $du$
-- 
+## Change of variables 
+- When we are asked for a integral in the form of $u$ we simply solve for $u$ as usual but set the limits of integration by pluging in the old values into the function of u.
 
+
+
+> [!Example]- $\int^3_{1} \frac{x}{x+1}  \, dx$
+> 
+> $u =x^2+1$
+> $du =2x \,dx$
+> $dx = \frac{du}{2x}$
+> $=\int^3_{1} \frac{\frac{x}{u}}{2x}  \, dx$
+> $= \frac{1}{2}\int^3_{1} u^{-1}  \, dx$
+> plug in limits of integration into $u$ 
+> = $\int^{3^2+1}_{1^2+1} u^{-1} \, dx$
+> $=\frac{1}{2} \int^{10}_{2} u^-1 \, dx$
+> $$\frac{1}{2}(\ln(10)-\ln(2))$$
+> 
 
 ---
 # Resources 

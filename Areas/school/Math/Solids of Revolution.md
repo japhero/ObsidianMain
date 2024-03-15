@@ -1,4 +1,32 @@
 #math #calculus 
+
+
+# Disk/washer method 
+<img src ="https://i.imgur.com/q99P827.png" align = "right" width ="400" height = 180>
+The disk method is a technique that one can use to get the are of a shape revolved around an axis. The area is attained by creating "disks" using the properties of the original function.
+
+&emsp;
+## Disk Method Formula
+The formula is a [[Definite integrals|definite integral]] that multiplies the "hight" of the function times the area of a circle ($\pi r^2$). **The result of multiplying the height times the circle practically gives a function of the area of a  single "disk"**; which when put in the terms of the larger integral will give the volume. It is very important to remember that in the setup of the equation we are trying to find the area of a single disk and then integrating that will give volume. Note that the relationship between area and volume is a product of integration.
+$$ 
+Disk \space  Method \space Volume= \pi \int_{a}^b [f(x)]^2\, dx
+$$
+
+&emsp;
+
+
+## Washer Method 
+The washer method is a combination of the [[Solids of Revolution#Disk Method Formula|disk method]], similarly to when finding the [[Definite integrals#Finding Definite integral with several functions.|definite integral with several functions]] we are in principal subtracting one area from another thats why its called the washer method because when we subtract 2 disks it usually results in a washer like shape.
+
+
+## Washer method formula
+<img src = "https://i.imgur.com/Liqsgzs.png" align = "right" width =250>
+The washer method formula is unique because uniquely it relies on the principal of "outer" - "inner". This means that we are subtracting the function closest away from the line of rotation from the function farthest. This can be confusing because one has to remember the relativity to line of rotation not to the axis.
+
+
+
+
+
 # Dump
 
 ## Class stuff copied
@@ -30,12 +58,6 @@ $$
 
 ![[relative offsets|right|1000]]
 
-
-
-
-
- 
-
 Both revolve 1around the y axis but they do so in different orientations 
 
 
@@ -49,7 +71,7 @@ Both revolve 1around the y axis but they do so in different orientations
 - Fundamentally we always try to find a function of the "slice"
 - pay attention when it gives you a function of the height.
 - Cross sections have 3 parts 
-	1. The Original function usually this means what is the height/distance between the 2 functions given. This is similar to a normal definite integral.
+	1. **The Original function** usually this means what is the height/distance between the 2 functions given. This is similar to a normal definite integral.
 	2. Another part is what is the function that gives the "3d" area of a that function for example for a square this means simply squaring the height but for other functions such as a rectangle or semi circle it can mean manipulating the height. **Remember that the setup function should be a function of the area of "slice" of the volume.**
 	3. The third part is coefficients this can change depending what "shape" we are finding for example for an  equilateral triangle this would be $\frac{\sqrt{ 3 }}{4}$ and then to create a function of the entire volume it would be $\frac{\sqrt{ 3 }}{4} \int^b_{a} a^2 \, dx$ because we are transposing the area function into a volume function by taking the integral of area and coefficients can always be extracted when taking the integral. 
 ### Semi circle
