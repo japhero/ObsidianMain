@@ -73,6 +73,7 @@ $$
 > 
 
 
+&emsp;
 
 
 ### Isosceles right Triangle 
