@@ -40,15 +40,17 @@ $$\pi \int_{a}^b (\mid [\mid f(x)-  D \mid \,]^2 -[\mid g(x)-  D\mid] \, \mid]^2
 Cross sections similarly to [[Solids of Revolution#Disk/washer method|the disk and washer method]] are at their core the summation of a infinite number of "slices", this is why the formula before integration is a formula of whatever shape the cross section represents with again the "height" of the given function as the parameter.
 
 ## The different parts of a cross section
+In my opinion cross sections are made of 2 different parts. 
+
+
 ![|right](https://i.imgur.com/xe8ZZOa.png)
 
-![|right|](https://i.imgur.com/HsBHPug.png)
+![|right](https://i.imgur.com/HsBHPug.png)
 
 
-
-In my opinion cross sections are made of 2 different parts. 
-1. **The Original function,** as with all other volume problems you are given a shape that you then take the cross section of this shape or function is half of the equation literally and figuratively. 
-2. **The 3 dimensional shape,** the 3d shape expands on the original function to fill the given shape weather that's an equilateral triangle, semicircle or square it usually is the other half of the equation. This component is usually represented by applying the formula for its area to the original function.
+1. **The Original function,** as with all other volume problems you are given a original area, with cross sections the "height" is used as the "base" for the 3d dimensional slice while the area would be used in 3d space to determine the other parameters usually radius or height depending on what 3d shape is used        
+2. **The 3 dimensional shape,** the 3d shape expands on the original function to fill the given shape weather that's an equilateral triangle, semicircle or square it usually is the other half of the equation. This component is usually represented by applying 
+the formula for its area to the original function.
 
 ## Formulas 
 Cross sections are unique because they have several formula depending on what shape is applied and although you can apply a generic formula of the given 3d shape in some cases in other cases its easier to use a proxy or a representation of that function in the terms of the height usually a coefficient. 
@@ -110,6 +112,7 @@ $$
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R-Qu3QWOEiA?si=H8CsfzignPzpSYfi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[Math24](https://math24.net/volume-solid-with-known-cross-section.html)
 
 ---
 
