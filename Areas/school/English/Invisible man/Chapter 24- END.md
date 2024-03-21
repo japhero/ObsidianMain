@@ -1,0 +1,34 @@
+- "My task was to deny the unpredictable human element of harlem". The quote seems to tear at the essence of his strategy and philosophy concerning the humanity in harlem makes it a a "volatile" system and therefore can not be controlled by the scientists of the brotherhood.
+- Has the main character become a sort of scientist when calculating how to dismantle the brotherhood. $\rightarrow$ hes picking which misstress to use to extract information from BH.
+- Im asks "what would Reinheart do" what significance does this pose?
+	- His perspective is one focused on maintaining his invisibility
+	- Because of the dangerous nature of the afair and the strategic decisions he needs to make to elevate his position to destroy, he wants to take the perspective of a man with several identities because that is the role that he must play.
+- ironic that she has to develop and "iron dicipline" when she is sharing secrets with IM.
+- The introspection is strange as the dialogue doesn't fully follow or at least it seems to indicate that he has convinced himself to be what he was preconceived to be, an entertainer, a womanizer. (its even weirder in the context of what Sybal wants.)
+- why does he use the german word for gas "benzine"
+- Sybal seems so infantilized with the way that she engages with IM only seeing him as a tool for her pleasure its almost frustrating how much she acts like a child.  
+	- **I think the language used like "boo'ful" is purpace infantilizing her along with hugging him in an "old fashioned" way.**
+	- You almost feel bad for her when IM leaves her shes getting used just like im was used by jack and she feels so atached to whatever power she can wether "gorgie" or "booo'ful" its again **Infantilising** and her character is complex because of her bliss and blindess for desire.
+- Funny "a game stud" driver w
+- Hes running from the pigeons/birds definitely a callback to "they gon keep you running" but what is the pourpace in this context. 
+	- Maby symbolic that his chase to destroy the brotherhood is bold and worthy but that in the end hes still at some behest. Maby a prelude to the state IM is in in the beginning of the book.
+- The drunkness is a form of blindness and maby it is a blindess of his own desire??? although a strech
+- He dumps all of his stuff from the briefcase into a box??
+- why is it "a holdiay for clifton"?
+- Is the building that they are going to light on fire the building that he then lives in?
+- Is the voice thats talking to him, while buring down the building Clifton.
+- Hes vindicating his efforts to the destruction of the brotherhood though the physical destruction of Harlem.
+- IM describes the event as  "a black river running though a dark land"
+- The white helmets of the police are indicative of the race differences and harkens back to Supercargo.
+- IM thinks that the brotherhood planned a race riot as to kill the people in harlem.
+- The dummies hung represents what the brotherhood is doing to the people of harlem?
+- Ras saying lets burst the armory reminds me of john brown.
+- The brotherhood wants the race riot becasue they see it as a sacrifice, a sacrifice that will enable them to gain more political power.
+- He makes revelation that he is running from the nortons and bledsos becasue of their confustion of the american identity confusing it to be exclusive and not inclusive.
+- "I knew that it was better to live out ones own absurdity than to die for that of another."
+- this moment is a rebirth for IM as i think he enters his final stage of disillusionment
+- Ras seems almost like a mystical figure the way that hes described "charging" into battle.
+- Hes burning everything in his briefcase
+- **Ending scene**
+	- He seems to finally reach is final state of "enlightenment"
+	- its a bit confusing what his realization is or what makes him free but i think its that hes free to do whatever he wants and he doesnt have to be afraid of anyone anymore. 

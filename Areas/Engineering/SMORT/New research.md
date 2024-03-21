@@ -1,0 +1,2 @@
+- [dead reckoning reddit](https://www.reddit.com/r/robotics/comments/14p839t/have_anyone_tinkered_with_mpu_6050/)
+- 

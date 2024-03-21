@@ -97,3 +97,4 @@ when creating a filter we have to remember that our goal is to remove the "frequ
 - [Fourm](https://www.physicsforums.com/threads/how-to-calculate-the-trajectory-of-a-mortar-round.293783/)
 - [Projectile motion wikipedia](https://en.wikipedia.org/wiki/Projectile_motion#Trajectory_of_a_projectile_with_air_resistance)
 - https://docs.endaq.com/en/latest/webinars/Webinar_Intro_Python_Acceleration_CSV_Analysis.html
+- 
