@@ -25,6 +25,8 @@ $$
 	- This makes sense becasue the points coll vectors x,y are part of the set used to then calculate the ocean flow.
 - if a fluid is "incompressable" the velocity vector feild must have a divergence of 0 everywhere. 
 	- Is this what divergent free means?
+- ==How can you model the ocean==
+- **This study combines the data gathered with the boeys and extrapolates that data to a vector field this vector feild can then be represent in fluid flow as with the curl effecting the actually fluid while the vector feild represents the overall velocity.**
 
 ### Curl
 - Curl is also is expressed because of the fluid flow around it but it is "tendancy" that something has to rotate because as in divergence its neighbors.  
@@ -33,6 +35,8 @@ $$
 - true curl is 3d.
 - $\text{curl F}= \nabla \times F$
 - for GP study[^5] $ζ$ is the curl.
+- ==How can you model the ocean==
+- **The Curl is used in the the context of the vector field to create the "Ocean Flow" Formula and is an element of the final model**
 
 ### Maxwells equations 
 $$
@@ -44,16 +48,19 @@ $$
 div \space B =0
 $$
 - Means that there is 0 divergence everywhere and that the "fluid" is incompressible. 
-- This is relative to[^5] because this is the situation that the oecan takes a divergent free felid. 
-$$
-curl \space E
-$$
+- This is relative to[^5] because this is the situation that the oecan takes a divergent free felid.
+- ==How can you model the ocean (incorporate this section)==
+- **Although these are equations to represent Electricity one is applicable $div \space B =0$ is a representation for the water used in the ocean becasue its incompressible its divergent free in the context of the rotational equation**
 
 
 
+### The Helmholtz Decomposition. 
+The motion of a volume element of a fluid, such as the ocean, can be decomposed into a divergent velocity and a rotational velocity.
+==How can you model the ocean (incorporate this section)==
+**The decomposition is the main math equation used in the paper as listed above its the fundemental part of how the model is represented in velocity and rotation $\underbrace{F}_{ocean \space flow} = \underbrace{grad\, Φ}_{divergent \space velocity} + \underbrace{rot \, Ψ }_{rotational \space velocity}$**
 
-. Helmholtz decomposition
-- Operation in vector calculus that states that a vector field in 3 dimensions can be represented as a tge sum of a divergence free vector field. 
+
+
 
 ### Divergence 
 - Vector fields are planes were each point in space has a vector
@@ -67,6 +74,8 @@ $$
 - the output of a divergence function depends on the "neighbors" thats what makes it similar to [[derivative|derivatives]] 
 - $div \space F=  \nabla \cdot F$ (dot product of the derivatives)
 - for GP[^5] study the divergence is $δ$.
+- ==How can you model the ocean (incorporate this section)==
+- **Divergence in the context of modeling is used to find the divergent velocity again similarly to curl its an element of the "Stream" Function**
 
 
 ### New vocab
@@ -80,13 +89,39 @@ $$
 
 ![](https://i.imgur.com/qusPOUo.png)
 > Figure 1. First column: ground truth predictions (upper) and divergence (lower). Second column: current predictions. Third column: divergence estimates. Fourth column: posterior divergence z-values.
+
+**This resources is usefull to show how the different data points collected extrapolate data.**
 - 
+
+
+
+
+
+# Global heat transfer[^Nat_geoGraphic] 
+- Currents "play a key role in determining how the ocean distributes heat energy throughout the planet, thereby regulating and stabilizing climate patterns."
+- "The movement of this heat through local and global ocean currents affects the regulation of local weather conditions and temperature extremes, stabilization of global climate patterns, cycling of gases, and delivery of nutrients and larva to marine ecosystems."
+- Deeper currents are driven by the temperature as well as the density is effected
+==Ecological effects of ocean currents.==
+**The ocean can effect the climate because it transfers heat thought the globe this effects the movement of the water underneath the surface because the density of water effected by heat **
+
+
+# Ecology[^Ocean_Currents_and_marine_life ] 
+- Traditionally ocean currents have not been used for marine biology 
+- Some models are not accurate enough to predict the traversal of marine biology  "lacked resolution"
+	- "Nowadays, higher resolution models provide a far more realistic view of currents"
+- plankton drifts with currents
+- We can mesure the connectivity of 2 different ecological places with the newer current models. Basicaly how much marine biology is connected from one physical site to another because of the ocean currents and. how independant are different sites
+- "transforming our understanding of how insects travel large distances."
+- we can also mesure the currents backwards from data collected from animals.
+
+==How is modeling important and what are the effects.==
+**Marine biology is effected by currents and the as the currents move around animals such as plankton which intern are nutrients for other animals this is important because it shows the importance of modeling of ocean currents.  Overall this study shows how different physical places can be connected though the ocean currents.**
+
+
+&emsp;
+
 # Resources 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rB83DpBJQsE?si=Louow-fSMQeYor0J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-# Environmental effects on the currents.
 
 
 
@@ -98,5 +133,7 @@ $$
 [^5]: [Gaussian Processes at the Helm(holtz): A More Fluid Model for Ocean Currents](https://arxiv.org/pdf/2302.10364.pdf)
 [^Helmholtz_Wiki]: [Helmholtz Wikipedia ](https://en.wikipedia.org/wiki/Helmholtz_decomposition)
 
+[^Nat_geoGraphic]: [Ocean Currents and Climate National Geographic](https://education.nationalgeographic.org/resource/ocean-currents-and-climate/)
 
+[^Ocean_Currents_and_marine_life ]: [Hays, Graeme C. “Ocean currents and marine life.” _Current biology : CB_ vol. 27,11 (2017): R470-R473. ](doi:10.1016/j.cub.2017.01.044)
 
