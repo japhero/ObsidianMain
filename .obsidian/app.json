@@ -6,9 +6,9 @@
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
-    "landscape": false,
+    "landscape": true,
     "margin": "0",
-    "downscalePercent": 62
+    "downscalePercent": 100
   },
   "spellcheckDictionary": [
     "deepcopy",

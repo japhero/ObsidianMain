@@ -21,7 +21,9 @@ $$
 - "our goal is to reconstruct the vector field from sparse observations."
 - "Our primary goals are (1) prediction of the field F at new locations, not observed in the training data, and (2) estimation of the divergence, itself a function of location and which we define next as part of the Helmholtz decomposition. Secondarily, we are interested in recovering vorticity, another functional of F described below."
 - The Helmholtz Decomposition is used to extrapolate the data used in the training of the boueys to a model and to have a high covariance inbetween those 2.
-- $(x_{m}^{(1)},y_{m}^{(2)})^T ∈ \mathbb{R}^2$ represnt the location of a bouey and $x_{m}$ is represented as a collum vector usually latitude and longitude  
+- $(x_{m}^{(1)},y_{m}^{(2)})^T ∈ \mathbb{R}^2$ represnt the location of a bouey and $x_{m}$ is represented
+- $T$ represents as a collum vector
+- as a collum vector usually latitude and longitude  
 	- This makes sense becasue the points coll vectors x,y are part of the set used to then calculate the ocean flow.
 - if a fluid is "incompressable" the velocity vector feild must have a divergence of 0 everywhere. 
 	- Is this what divergent free means?
@@ -57,7 +59,7 @@ $$
 ### The Helmholtz Decomposition. 
 The motion of a volume element of a fluid, such as the ocean, can be decomposed into a divergent velocity and a rotational velocity.
 ==How can you model the ocean (incorporate this section)==
-**The decomposition is the main math equation used in the paper as listed above its the fundemental part of how the model is represented in velocity and rotation $\underbrace{F}_{ocean \space flow} = \underbrace{grad\, Φ}_{divergent \space velocity} + \underbrace{rot \, Ψ }_{rotational \space velocity}$**
+**The decomposition is the main math equation used in the paper as listed above its the fundamental part of how the model is represented in velocity and rotation $\underbrace{F}_{ocean \space flow} = \underbrace{grad\, Φ}_{divergent \space velocity} + \underbrace{rot \, Ψ }_{rotational \space velocity}$**
 
 
 
@@ -105,17 +107,21 @@ The motion of a volume element of a fluid, such as the ocean, can be decomposed 
 **The ocean can effect the climate because it transfers heat thought the globe this effects the movement of the water underneath the surface because the density of water effected by heat **
 
 
+
+
 # Ecology[^Ocean_Currents_and_marine_life ] 
 - Traditionally ocean currents have not been used for marine biology 
 - Some models are not accurate enough to predict the traversal of marine biology  "lacked resolution"
 	- "Nowadays, higher resolution models provide a far more realistic view of currents"
 - plankton drifts with currents
-- We can mesure the connectivity of 2 different ecological places with the newer current models. Basicaly how much marine biology is connected from one physical site to another because of the ocean currents and. how independant are different sites
+- We can measure the connectivity of 2 different ecological places with the newer current models. Basically how much marine biology is connected from one physical site to another because of the ocean currents and. how independent are different sites
 - "transforming our understanding of how insects travel large distances."
-- we can also mesure the currents backwards from data collected from animals.
+- we can also measure the currents backwards from data collected from animals.
 
 ==How is modeling important and what are the effects.==
 **Marine biology is effected by currents and the as the currents move around animals such as plankton which intern are nutrients for other animals this is important because it shows the importance of modeling of ocean currents.  Overall this study shows how different physical places can be connected though the ocean currents.**
+
+
 
 
 &emsp;
@@ -135,5 +141,5 @@ The motion of a volume element of a fluid, such as the ocean, can be decomposed 
 
 [^Nat_geoGraphic]: [Ocean Currents and Climate National Geographic](https://education.nationalgeographic.org/resource/ocean-currents-and-climate/)
 
-[^Ocean_Currents_and_marine_life ]: [Hays, Graeme C. “Ocean currents and marine life.” _Current biology : CB_ vol. 27,11 (2017): R470-R473. ](doi:10.1016/j.cub.2017.01.044)
+[^Ocean_Currents_and_marine_life ]: [Hays, Graeme C. “Ocean currents and marine life.” _Current biology : CB_ vol. 27,11 (2017): R470-R473. ](https://www.cell.com/current-biology/pdf/S0960-9822(17)30077-5.pdf)
 

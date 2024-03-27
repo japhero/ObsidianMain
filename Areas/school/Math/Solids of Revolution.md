@@ -63,7 +63,7 @@ Cross sections are unique because they have several formula depending on what sh
 A semi circle is just as it seems a circle transposed with the area of the function as the radius of the circle. The formula is adapted to solve for $f(x)$ and gives a coefficient of $\frac{\pi}{8}$. 
 
 $$
-\frac{\pi}{8}\int^b_{b} f(x)^2 \, dx 
+\frac{\pi}{8}\int^b_{a} f(x)^2 \, dx 
 $$
 > [!EXAMPLE]- Proof that semi circle coefficient is $\frac{\pi}{8}$
 > The area of a circle is $\pi r^2$ but because its a half circle we have to divide by 2. (note that we substitute $f(x)$ for $r$ because the input we are given is $f(x)$)
