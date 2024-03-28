@@ -52,6 +52,8 @@ In my opinion cross sections are made of 2 different parts.
 2. **The 3 dimensional shape,** the 3d shape expands on the original function to fill the given shape weather that's an equilateral triangle, semicircle or square it usually is the other half of the equation. This component is usually represented by applying 
 the formula for its area to the original function.
 
+![[Cross section formula example|300]]
+
 ## Formulas 
 Cross sections are unique because they have several formula depending on what shape is applied and although you can apply a generic formula of the given 3d shape in some cases in other cases its easier to use a proxy or a representation of that function in the terms of the height usually a coefficient. 
 

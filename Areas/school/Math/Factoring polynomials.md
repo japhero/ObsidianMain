@@ -31,10 +31,15 @@ This article has written better than i can write it
 
 
 
+
 ---
 # Resources 
 
 - [MashupMath](https://www.mashupmath.com/blog/how-to-factor-polynomials)
 - [Kahn academy](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/a/factoring-by-grouping)
 - [Kahn academy 2](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/a/factoring-quadratics-leading-coefficient-not-1)
-- 
+
+
+# Dump
+## completing the square
+-  
