@@ -20,6 +20,12 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Solids of Revolution]]
 
 
+### Linear Algebra
+[[Vectors]]
+[[matricies]]
+
+
+
 ### Signal processing 
 [[Bilinear transform]]
 [[linear time-invariant system]]

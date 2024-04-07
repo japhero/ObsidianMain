@@ -79,7 +79,7 @@ Type hint everything, this allows for the "user" and your future self to easily 
 - Splitting up makes the reuse of classes easy and makes code less error prone
 
 ## [Make your classes easier to use ](https://youtu.be/lX9UQp2NwTk?t=524)
-- use properties and [[Dunder methods]]
+- use properties and [[Dunder Methods]]
 - [[Decorators|decorators]]
 	- `@dataclass`
 	- `@property`
@@ -88,7 +88,7 @@ Type hint everything, this allows for the "user" and your future self to easily 
 	- `@lru_cache`
 		- uses the **least recently used** cached
 - Use [[Type hinting]]
-- [[Dunder methods|Dunder]] 
+- [[Dunder Methods|Dunder]] 
 	- `__str__` 
 
 
