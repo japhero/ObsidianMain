@@ -10,8 +10,8 @@
 	- first the **compile pass** happens which is a process that takes the code and turns it into objects (obj)
 	- The **linker** faze takes all the object files and outputs and executable file.
 		- the linker faze as in the name links all the dependancies together so all of the compiled object files
-- when compiling if we have an undefined function the object file will depend on the refrence to the function
-- again if we have an undefined function the linker will not be able to find the refernce for that file and therefore compiling will fail.
+- when compiling if we have an undefined function the object file will depend on the reference to the function
+- again if we have an undefined function the linker will not be able to find the reference for that file and therefore compiling will fail.
 - The header acts as a API and exposes the header of each function defined in the c++ file  that corresponds with the .h file.
 - although the header only declares the functions and doesnt define the function.
 

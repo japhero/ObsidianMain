@@ -38,3 +38,19 @@ $$\int  \, \cos(x)dx = \sin(x) +C$$
 ---
 # Special exponent Integral
 $$\int a^x \, dx = \frac{a^x}{\ln(a)}$$
+
+---
+# Roots trig identity
+**1.**
+$$
+\int \frac{du}{a^2+u^2} \,  =\frac{1}{a} \tan^{-1}\left( \frac{u}{a} \right)+C
+$$
+**2.**
+$$
+\int \frac{du}{\sqrt{ a^2-u^2 }} \,  = \frac{1}{a}\sin^{
+}\left( \frac{u}{a} \right) +C
+$$
+**3.**
+$$
+\int \frac{du}{u\sqrt{ u^2-a^2 }} \,  = \frac{\frac{1}{a}\sec^{-1}{\mid u\mid}}{a}+C
+$$

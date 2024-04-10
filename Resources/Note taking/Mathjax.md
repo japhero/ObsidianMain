@@ -18,3 +18,6 @@ https://detexify.kirelabs.org/classify.html
 # DOCS FOR PLUGIN
 https://github.com/artisticat1/obsidian-latex-suite
 
+
+
+# [Long devison](https://opentextbc.ca/pressbooks/chapter/how-do-i-write-long-division/)
