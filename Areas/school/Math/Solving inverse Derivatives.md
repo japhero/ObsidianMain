@@ -26,7 +26,7 @@
 > 
 
 # Using the  "[[Derivatives of inverse functions#Identity|identity]]"
-The identity is the formula $[f^{-1}(x)]^{'}=\frac{1}{f'(f^{-1}(x))}$ it allows us to solve for derivatives of inverse functions because we can solve without having to find the function of $^{'}[f^{-1}(x)]$. Instead, you can just find $f^{-1}(x)$ as seen in the [[Derivatives of inverse functions#Identity|formula]].
+The identity is the formula $[f^{-1}(x)]^{'}=\frac{1}{f'(f^{-1}(x))}$ it allows us to solve for derivatives of inverse functions because we can solve without having to find the actual derivative of the inverse function  $^{'}[f^{-1}(x)]$ Instead, you can just find $f^{-1}(x)$ as seen in the [[Derivatives of inverse functions#Identity|formula]]. 
 
 
 ---

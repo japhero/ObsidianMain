@@ -102,6 +102,8 @@ Volume =  \frac{1}{2}\int_{a}^b (f(x)-g(x))^2  \, dx
 $$
 &emsp;
 
+## Calculator tricks 
+in a calculator instead of figuring out the outer vs inner we can just write the absolute value $\int ( \mid f(x)-g(x) \mid) \, dx =\int ( \mid g(x) -f(x) )\, dx$
 
 
 
@@ -206,4 +208,8 @@ $$
 > \frac{\sqrt{ 2 }h}{2}
 > $$
 > 
- 
+
+
+## Calculator tricks 
+in a calculator instead of figuring out the outer vs inner we can just write the absolute value $\int ( \mid f(x)-g(x) \mid) \, dx =\int ( \mid g(x) -f(x) )\, dx$
+

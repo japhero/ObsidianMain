@@ -25,7 +25,7 @@ This basically means that i can reverse the logic here and input different value
 
 ---
 # Identity
-$$[f^{-1}(x)]^{'}=\frac{1}{f'(f^{-1}(x))}$$
+$$[f^{-1}(x)]^{'}=\frac{1}{g'(f^{-1}(x))}$$
 
 ---
  

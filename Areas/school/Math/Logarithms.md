@@ -1,12 +1,16 @@
 
-# Canceling Logarithms  
-To rid an equation of logarithms, raise both sides to the same exponent as the base of the logarithms.
-$$\log_{a}(a^x)=x$$
-remember that when doing this to $\ln$ we use the base of $e$.
+&emsp;
 
+# Canceling Logarithms  
+To rid an equation of logarithms, raise the base of the logarithm to the logarithm. 
+$$a^{\log_{a}(x)}=x$$
+remember that when doing this to $\ln$ we use $e$ as the base. ($e^{\ln(x)}$)
+
+
+&emsp;
 
 # Finding $e^C$ when solving for integrals .
-Sometimes when try to cancel logarithms we end up with a sinario where we to remove $\ln$ we raised $e$ to the power of $C$. Because this makes it incredibly hard to solve for $C$ we can replace $C$ with $K$ and just realize that we are still representing a constant therefore its. But note when pluging it in we still have to treat it as what it is an exponent of $e$.
+Sometimes when try to cancel logarithms we end up with a scenario where we to remove $\ln$ we raised $e$ to the power of $C$. Because this makes it incredibly hard to solve for $C$ we can replace $C$ with $K$ and just realize that we are still representing a constant therefore its. But note when plugging it in we still have to treat it as what it is an exponent of $e$.
 
 
 

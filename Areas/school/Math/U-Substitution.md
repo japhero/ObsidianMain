@@ -86,7 +86,7 @@ $$ common \space Integral = \int \frac{1}{u} \, dx = \ln(u)$$
 
 ## Change of variables 
 - When we are asked for a integral in the form of $u$ we simply solve for $u$ as usual but set the limits of integration by pluging in the old values into the function of u.
-	- Then take the integral as normal but remember to use the limits of integration set  by the original function.
+	- Then take the integral as normal but remember to use the limits of integration set  by the function of u
 	- 
 
 
