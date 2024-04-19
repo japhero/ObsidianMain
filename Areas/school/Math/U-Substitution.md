@@ -41,6 +41,48 @@ $$ \int f(g(x)) \, dx =\frac{f(g(x))^2}{2 g'(x)}$$
 > we can use the basic trig definitions to rewrite $\cos dx=\sin$. Then substitute $u$ back in and apply the constant meaning that the answer is $$\int{10x\cos(10x^2-2)}\, dx = \frac{1}{2}\sin(10x^2-2) + C$$
 > 
 
+&emsp;
+
+&emsp;
+
+
+# Change of variables with U-Sub
+
+![right|200](https://i.imgur.com/dNk5Yjb.png)
+
+Change of variables allows one to solve an integral without having to plug the function of $u$ back into the equation although this means that the limits of integration change because we are adopting a new function as the integrand. This is done by plugging in the limits of integration into the function of $u$.
+$$\int_{a}^b f(x) \, dx \to  \int_{u(a)}^{u(b)} u(x)  \, dx$$
+
+&emsp;
+> [!Example]- EXAMPLE:$\int^3_{1} \frac{x}{x+1}  \, dx$
+> 
+> $u =x^2+1$
+> $du =2x \,dx$
+> $dx = \frac{du}{2x}$
+> $=\int^3_{1} \frac{\frac{x}{u}}{2x}  \, dx$
+> $= \frac{1}{2}\int^3_{1} u^{-1}  \, dx$
+> plug in limits of integration into $u$ 
+> = $\int^{3^2+1}_{1^2+1} u^{-1} \, dx$
+> $=\frac{1}{2} \int^{10}_{2} u^-1 \, dx$
+> $$\frac{1}{2}(\ln(10)-\ln(2))$$
+> 
+
+&emsp;
+
+&emsp;
+
+---
+# Resources 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sdYdnpYn-1o?si=LHiJk4MHJec5TkA6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r5XXDSOh5Nk?si=DQvb_0d33bamkXD-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/rsBALP8QNns" title="_-substitution: defining _ (more examples) | AP Calculus AB | Khan Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+[Kahn academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-9/a/review-applying-u-substitution)
+[definite integral article KA](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-9/a/u-substitution-definite-integrals)
+
+
+
 # Dump
 ## Class Notes
 $$\int  \, u^ndu= \frac{u^{n+1}}{n+1}+C $$
@@ -88,27 +130,3 @@ $$ common \space Integral = \int \frac{1}{u} \, dx = \ln(u)$$
 - When we are asked for a integral in the form of $u$ we simply solve for $u$ as usual but set the limits of integration by pluging in the old values into the function of u.
 	- Then take the integral as normal but remember to use the limits of integration set  by the function of u
 	- 
-
-
-
-> [!Example]- $\int^3_{1} \frac{x}{x+1}  \, dx$
-> 
-> $u =x^2+1$
-> $du =2x \,dx$
-> $dx = \frac{du}{2x}$
-> $=\int^3_{1} \frac{\frac{x}{u}}{2x}  \, dx$
-> $= \frac{1}{2}\int^3_{1} u^{-1}  \, dx$
-> plug in limits of integration into $u$ 
-> = $\int^{3^2+1}_{1^2+1} u^{-1} \, dx$
-> $=\frac{1}{2} \int^{10}_{2} u^-1 \, dx$
-> $$\frac{1}{2}(\ln(10)-\ln(2))$$
-> 
-
----
-# Resources 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sdYdnpYn-1o?si=LHiJk4MHJec5TkA6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r5XXDSOh5Nk?si=DQvb_0d33bamkXD-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/rsBALP8QNns" title="_-substitution: defining _ (more examples) | AP Calculus AB | Khan Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-[Kahn academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-9/a/review-applying-u-substitution)

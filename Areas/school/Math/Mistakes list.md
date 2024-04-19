@@ -18,4 +18,7 @@ list of all mistakes made in a certain homework to allow me to evaluate what i n
 # Hw 52
 - need to learn [[Factoring polynomials#Factor by grouping]] 
 - factored the polynomial wrong
-- 
+
+
+# HW 87
+to aproximate a slope between 2 points its $\frac{{y_{2}-y_{1}}}{x_{1}-x_{2}}$.

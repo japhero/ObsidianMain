@@ -38,6 +38,8 @@ $$ \int^b_{a} f(x) \, dx \approx \frac{b-a}{2n}[f(x_{0})+2f(x_{1}) +2f(x_{3})\do
 ## Finding limits of integration 
 - to find the limits of integration we need to find the intersection points of our functions because this is were the parts of our functions start "enclosed".
 
+## Calculator tricks 
+in a calculator instead of figuring out the outer vs inner we can just write the absolute value $\int ( \mid f(x)-g(x) \mid) \, dx =\int ( \mid g(x) -f(x) )\, dx$
 
 ---
 # DUMP
