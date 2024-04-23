@@ -22,3 +22,30 @@ list of all mistakes made in a certain homework to allow me to evaluate what i n
 
 # HW 87
 to aproximate a slope between 2 points its $\frac{{y_{2}-y_{1}}}{x_{1}-x_{2}}$.
+
+
+
+# AP 2015 question 4 d
+- $y= mx+b$
+- $\frac{dy}{dx}= m$
+	- Is an identity when just taking the first normal derivative with normal rules following [[Implicit derivatives]] principals
+- using the identity of the second derivative $\frac{d^2y}{dx^2}=2-\frac{dy}{dx}$ we can just plug in our identities found to get $0=2-m$  because $\frac{dy}{dx}=m$ and $\frac{d^2y}{dx^2} =0$. so that means that $m$ is 2. 
+- Then we can plug in the identity of m for $\frac{dy}{dx}$and plug it in as 2 meaning we get $2-2x+y$ then solve for y and get $y=2x-2$ giving us b because $y=mx +b$.
+- One solving trick for difficult equations is to write down everything we know and then look for answers.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n3BtxJkEuUU?si=jxD9TM3rukagHgDm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## [MCQ 85](https://youtu.be/JhvuaIOABuU?t=587)
+![](https://i.imgur.com/zGphiCK.png)
+
+![right|200](https://i.imgur.com/HTlxkfG.png)
+If the tangent line is always greater than the function of $f$ it means that $f$ must be concave down because if the line was concave up then the function would be above the tangent line.
+
+&emsp;
+
+&emsp;
+
+&emsp;
+
+&emsp;
+

@@ -16,12 +16,14 @@
 
 [Rtings](https://www.rtings.com/) Review website.  
 
-[Corsair virtuoso](https://www.rtings.com/headphones/reviews/corsair/virtuoso-pro)
+- [ ] [Corsair virtuoso](https://www.rtings.com/headphones/reviews/corsair/virtuoso-pro)
 - Good wired gaming performance
 
----
+# Random
+- [ ] [jack and jones crew neck i lost](https://www.jackjones.com/en-us/product/12240188_2161/relaxed-fit-crew-neck-sweatshirt)
+
 # Gloves
-[Carhart's](https://www.amazon.com/Carhartt-Insulated-Synthetic-Leather-Glove/dp/B08V6J3PJJ?th=1&psc=1)
+- [x] [Carhart's](https://www.amazon.com/Carhartt-Insulated-Synthetic-Leather-Glove/dp/B08V6J3PJJ?th=1&psc=1)
 	- [website](https://www.carhartt.com/product/802020/insulated-ducksynthetic-leather-knit-cuff-glove?categoryCode=)
 
 ---

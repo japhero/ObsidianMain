@@ -6,9 +6,15 @@ Sometimes when given an equation one must ask why should i find concavity, what'
 ![[First and second derivative example|600]]
 
 
+&emsp;
+
+&emsp;
+
 # When do “spikes” exist 
 Spikes in the context of the [[First and second derivative test]] are what are mathematically different and involve different have different “types”. Honestly, the word spikes simplifies many complicated mathematical concepts and should be described in unique scenarios.   
 
+
+&emsp;
 ## Why don't spikes exists as a derivative
 when looking at spikes and why the derivative doesn't exist we have to remember the basic definition of a [[derivative]] $L =\lim_{ h \to 0 } {\frac{f(a+h)-f(a)}{h}}$ **it's a [[Limits|limit]]** therefore as it is a limit we have to remember that to be a valid [[Limits|limit]] the left hand and right hand have to evaluate to the same number. In basic terms, in all scenarios where the derivative doesn't exist while inside the domain and continuous it's because the limit doesn't evaluate as true. 
 
@@ -19,6 +25,13 @@ A function were at the point given the slope is infinite are not differentiable 
 ## Cusps
 cusps are a another place were "spikes" exist and the again the concept of evaluating the limit again is applied. In the case of Cusps the lefthand and righthand limit evaluate to $\infty$ and $-\infty$.
 ![[cusps Example]]
+
+&emsp;
+# Points of inflection 
+Points of inflection is when the concavity of a problem changes sign. When you have a function of $f(x)$ this means looking for the cup like shape up or down up being concave up while down being concave down. This follows intuitively as the shapes represent the corresponding positive or negative acceleration of the value. On the other hand this gets more confusing if we are looking at the function of $f'(x)$ because then we would look for the increasing slope to decreasing slope. All this really means is that we are trying to determine the change in the second derivative but how we determine that sign change can vary from the derivative of the function given.
+
+![](https://i.imgur.com/1B7EYjD.png)
+
 
 
 ---
@@ -31,3 +44,4 @@ cusps are a another place were "spikes" exist and the again the concept of evalu
 ---
 # Dump
 - When putting negative exponents in the denominator remember it's not division its multiplying by the reciprocal
+

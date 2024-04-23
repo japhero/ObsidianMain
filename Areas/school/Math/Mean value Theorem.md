@@ -14,3 +14,5 @@ $$
 ## Application
 - how do you find the point C?
 - Its hard to remember to do the devison after taking the integral becasue u dont touch it untill the end so write it as a combined with the orrigonal integral to act as a reminder.
+## Trick 
+if you have the find the average rate of change of a graph you can draw a line in between the 2 endpoints and the slope of that line will be the slope of the average rate of change. 

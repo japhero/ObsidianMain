@@ -53,7 +53,7 @@
 - "hippies" = counterculture
 - hippies oposed
 	- Vietnam
-	- comecialism 
+	- commercialism 
 	- established society
 - Hippies liked
 	- LSD
