@@ -25,7 +25,8 @@ to aproximate a slope between 2 points its $\frac{{y_{2}-y_{1}}}{x_{1}-x_{2}}$.
 
 
 
-# AP 2015 question 4 d
+# AP 2015 MCQ 
+**question 4 d**
 - $y= mx+b$
 - $\frac{dy}{dx}= m$
 	- Is an identity when just taking the first normal derivative with normal rules following [[Implicit derivatives]] principals

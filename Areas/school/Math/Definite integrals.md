@@ -1,5 +1,10 @@
 #compress #math #calculus #Numeric_methods
 
+
+
+> [!INFO]- REWRITE
+> candidate for rewrite becasue hard to understand without examples
+
 # Riemann sums
 ## Left/right Riemann sums
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Riemann_sum_%28leftbox%29.gif/120px-Riemann_sum_%28leftbox%29.gif" width =150><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Riemann_sum_%28rightbox%29.gif/120px-Riemann_sum_%28rightbox%29.gif" width =150>
