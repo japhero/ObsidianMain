@@ -50,3 +50,11 @@ If the tangent line is always greater than the function of $f$ it means that $f$
 
 &emsp;
 
+
+
+# HW 90
+- asymptotes
+$\frac{x^n}{x^m}$
+1. If n < m, the horizontal asymptote is y = 0.
+2. If n = m, the horizontal asymptote is y = a/b.
+3. If n > m, there is no horizontal asymptote.

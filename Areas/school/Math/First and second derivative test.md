@@ -34,6 +34,9 @@ Points of inflection is when the concavity of a problem changes sign. When you h
 
 
 
+
+
+
 ---
 # Resources 
 [quora](https://www.quora.com/What-do-you-mean-by-derivative-does-not-exist-at-a-point#:~:text=If%20there%20is%20a%20discontinuity,the%20derivative%20does%20not%20exist.)
