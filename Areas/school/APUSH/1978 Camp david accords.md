@@ -1,1 +1,2 @@
+#APUSH
 The 1978 camp david accords are a then secret agreement between the Israeli  prime minister Menachem Begin and the Egyptian President Anwar Sadat. This was a historic bilateral peace agreement between previously conflicting nations. This was a huge foreign policy win for then president [[Jimmy Carter]] and one of the largest achievements of his presidency. 

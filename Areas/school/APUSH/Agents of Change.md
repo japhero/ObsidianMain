@@ -1,4 +1,4 @@
-
+#APUSH
 # [The New Left](https://www.ushistory.org/us/57g.asp)
 - Huron statement 
 	- STUDENTS FOR A DEMOCRATIC SOCIETY (SDS) ratified

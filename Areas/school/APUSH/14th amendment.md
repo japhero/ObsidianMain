@@ -1,1 +1,2 @@
+#APUSH
 The civil liberties amendment it gives citizenship to all people who are born or naturalized in the united states. This amendment was especiallly important in the context of slavery as it allowed former slaves to become citizens. It also grants all citizens equal protection under the law and says that the state cant infringe on your life liberty or property.

@@ -13,7 +13,7 @@ Factoring when $a=1$ simply means as for the basic definition of Trinomials ($ax
 Grab **B** and **C** these values are what we use to find the factors.
 
 **Step 2** 
-List factors of **C**, then evaluate if these factors add up to **B** if so these are your factors of $f(x)$
+List factors of **C**, then evaluate if these factors add up to **B** if so these are your factors of $f(x)$ **(multiply to C add to B)**.
 
 
 **Step 3** 

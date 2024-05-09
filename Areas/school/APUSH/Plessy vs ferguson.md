@@ -1,1 +1,2 @@
+#APUSH
 Landmark case that was the foundation for segregation creating the "seperate but equal doctrine". This basically says that people have the right to discriminate. This represented the legal foundation for segreation and set back civil rights as the legal framwork that was supposed to protect them from discrimination after the civil war failed. This case is an example of the supreme court favoring in the souths favor similarly to [[Dred Scott vs Sandford]].

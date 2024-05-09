@@ -1,1 +1,2 @@
+#APUSH
 The stamp act was an act of the British government on the colonies to try to repay British debts from the 7 year war. The act also taxed newspapers, almanacs, pamphlets, broadsides, dice, and playing cards. The act went into effect on November 1, 1765
