@@ -10,7 +10,7 @@ $\frac d {dx} \sin(x) = \cos(x)$
 $\frac d {dx} \tan(x) = \sec^2(x)$
 
 # Cot
-$\frac d {dx} \cot(x) = \csc^2(x)$
+$\frac d {dx} \cot(x) = - \csc^2(x)$
 
 # Sec
 $\frac d {dx} \sec(x) = \sec(x)\tan(x)$

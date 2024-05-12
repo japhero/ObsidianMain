@@ -64,17 +64,10 @@ in a calculator instead of figuring out the outer vs inner we can just write the
 ### Middle Riemann sums
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Riemann_sum_%28middlebox%29.gif/120px-Riemann_sum_%28middlebox%29.gif" width =150>
 
+## Reiman sums as limits
+- Reiman sums usually suffer accuracy because space in between rectangles $(dx)$  
+. 
 
-## Finding the Area Between Two Curves by (D)
-- Subtract the smaller area from the "total" area.
-- We know that the difference of 2 integrals over the same interval is the same as the difference of the two functions.
-- Subtract the lower limit from the upper limit when evaluating. 
-- limits of integration are the points were the functions intersect.
-- In situations are were we are in terms of y we are just evaluating the area to the y axis not the x axis. Meaning that we integrate in terms of y.
-- 
-
-## Area Between Two Curves (D)
-- set the functions equal to each other to find the x intersection points as we are solving for x.
 
 
 
@@ -85,3 +78,4 @@ in a calculator instead of figuring out the outer vs inner we can just write the
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xec6HTcn2M8?si=-Z3TpS2OzCx9T6Kt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kgg5Rspf1Js?si=zDLf0yQyviTFhf1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Reiman sums as limits to ∞](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-3/a/definite-integral-as-the-limit-of-a-riemann-sum) 

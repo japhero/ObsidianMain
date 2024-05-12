@@ -12,16 +12,16 @@ the steps are to
 	- Subtract the result of the multiplication from the dividend and then repeat the steps on the result untill the degree of the result is equal or lower to the divisor.
 $$
 \begin{array}{r} \\
-\text{Remainder} \\
+\text{Quotent} \\
 \text{Devisor}\enclose{longdiv}{\text{Dividend}} \\
-\hline \text{Quotent}
+\hline \text{Remainder}
 \end{array}
 $$
 
 $$
 \begin{array}{rl} 
- x+2 & \text{get remainder by dividing } \frac{Div_{i}}{Dev_{i}}\\
-x+2{\enclose{longdiv}{x^2+5x+6}} & \text{multiply the divisor by the partial remainder} \\
+ x+2 & \text{get quotent by dividing } \frac{Div_{i}}{Dev_{i}}\\
+x+2{\enclose{longdiv}{x^2+5x+6}} & \text{multiply the divisor to match the dividend} \\
 \underline{-(x^2+2x)}  & \text{subtract the result} \\
 3x+6 \\
 \underline{\phantom{-1}-(3x+6)}   \\ 
@@ -46,7 +46,7 @@ $$
 > $\begin{array}{r} -\frac{1}{2} \\ -2x+2\enclose{longdiv}{x-5}\\   {-(x-1)}\\ \hline  -4\end{array}$
 > 
 > **Step 2**
-> rewrite the integral using the result of the the long devision taking the remainder out
+> rewrite the integral using the result of the the long devision taking the quotent out
 > $\int {-\frac{1}{2}-\frac{4}{2x+2}} \,dx$
 > 
 > **Step 3 **
