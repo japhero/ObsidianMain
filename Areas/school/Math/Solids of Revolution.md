@@ -25,11 +25,33 @@ The washer method is a combination of the [[Solids of Revolution#Disk Method For
 <img src = "https://i.imgur.com/f7PLXh9.png" align = "right" width =250>
 The washer method formula is different than the disk in part because it relies on the principal of "outer" - "inner". This means that we are subtracting the function closest away from the line of rotation from the function farthest. This can be confusing because one has to remember the relativity to line of rotation not to the axis of rotation.
 
-$$\pi \int_{a}^b (\mid [\mid f(x)-  D \mid \,]^2 -[\mid g(x)-  D\mid] \, \mid]^2)\, dx $$
+$$
+\pi \int_{a}^b  
+\left( 
+\mid (\mid f(x) - D\mid)^2 -
+(\mid g(x)-D\mid)^2 \mid  
+\right) 
+\, dx 
+$$
+
 >Note that the absolute value signs represent the "outer - inner" relationship.
 
 &emsp;
 
+
+
+## Shell Method
+![|right|300](https://i.imgur.com/YjxY0AL.png)
+The shell method is another way to get the area of a solid revolved. The real use of this function is that you can take the area of a shape that is parallel to the $y$ axis but is still a function of $x$. This is because it finds the area of the function with "shells" or an infinitely small group of rectangles which is then projected across the $y$ axis as a circle or a "shell". This works because each shell has a height ($y$ value) that is still a function of $x$ and the distance to the y axis (the radius) is just x for each respective shell.
+
+$$
+2\pi\int_{a}^b \underbrace{( x )}_{Radius} \underbrace{(\mid f(x)-g(x) \mid)}_{Height} \, dx 
+$$
+
+
+&emsp;
+
+&emsp;
 
 # Cross sections
 
@@ -137,7 +159,8 @@ in a calculator instead of figuring out the outer vs inner we can just write the
 	- Practically we wont apply the absolute value similarly to [[Definite integrals]] because its impossible to assume that state for a whole function so we will differentiate in between $[D-f(x)]$ and $[f(x)-D]$ not $[\mid f(x)- D \mid \,]$
 	- when using washer method we must remember that for rotating across functions an axis of x or y the function must be in terms of the transfer fucntion for example if rotating across $x=1$ it has to be a function of $x$. 
 	- "For the disk/washer method we integrate along the axis parallel to the axis of rotation."
-	- $$
+	- 
+$$
 2\pi\int_{a}^b (\mid r -d \mid)(f(x)-g(x)) \, dx 
 $$
 remember that its really representing
