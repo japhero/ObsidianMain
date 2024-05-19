@@ -1,4 +1,4 @@
-#math #tangent #derivatives 
+x#math #tangent #derivatives 
 Local linearity is simply the concept of using tangent lines to approximate unknown values. This theorem assumes that the slope of the tangent line is similar to the slope of the target value. For example you could approximate the value of $f(2.1)$ using the tangent line at $f(2)$.
 
 &emsp;

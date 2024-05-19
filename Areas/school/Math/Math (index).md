@@ -18,6 +18,10 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[U-Substitution]]
 [[Motion Problems]]
 [[Solids of Revolution]]
+[[Local Linearity]]
+[[Trigonometric Functions]]
+[[Vectors]]
+[[Slope Fields]]
 
 
 ### Linear Algebra

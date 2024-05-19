@@ -20,7 +20,7 @@ $\frac d {dx} \csc(x) = -\csc(x)\cot(x)$
 
 ---
 # Constants 
-$$\sin(ax)=a\cos(5x)$$
+$$\sin(ax)=a'\cos(ax)$$
 The rule of multiplying the constant and also keeping the value in the parentheses is adherence to the  [[chain rule]].  This also functions for all trig derivatives $\sin(x)$ was just taken as an example 
 
 ---

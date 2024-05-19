@@ -48,6 +48,7 @@
 		{"id":"8bf06a325219e9b1","type":"text","text":"[Spanish American war](https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War)","x":4000,"y":366,"width":302,"height":63}
 	],
 	"edges":[
+		{"id":"e8d7a3bc246ba01c","fromNode":"2cbea44840145d40","fromSide":"right","toNode":"21f9c5619033feaf","toSide":"left"},
 		{"id":"d97d2c9358fda97d","fromNode":"e257dd1a0fa4acda","fromSide":"bottom","toNode":"edf4eeb0da5680d3","toSide":"top"},
 		{"id":"3d384e0dad1cf914","fromNode":"4857f3e76ca549fe","fromSide":"top","toNode":"449835de1ee131ff","toSide":"bottom"},
 		{"id":"8839c798a9c2a2d3","fromNode":"834b936bf001bf63","fromSide":"bottom","toNode":"6febf566ac042385","toSide":"top"},
@@ -66,7 +67,6 @@
 		{"id":"73727f12f3900054","fromNode":"f77fd128981950d3","fromSide":"top","toNode":"2235fbf41bdde16b","toSide":"bottom"},
 		{"id":"7fbf709e4b0ad460","fromNode":"8aa44f7b81a9d1c0","fromSide":"top","toNode":"83ed058850f4935e","toSide":"bottom"},
 		{"id":"a75ac57234a13b97","fromNode":"1b3f959da7fb5e74","fromSide":"bottom","toNode":"5b983d7cc1bbc7e4","toSide":"top","label":"Passed"},
-		{"id":"e8d7a3bc246ba01c","fromNode":"2cbea44840145d40","fromSide":"right","toNode":"21f9c5619033feaf","toSide":"left"},
 		{"id":"d478d5b4011ec9d1","fromNode":"5016aad7e45157b8","fromSide":"bottom","toNode":"8bf06a325219e9b1","toSide":"top"}
 	]
 }
