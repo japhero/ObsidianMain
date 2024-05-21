@@ -5,7 +5,7 @@
 
 ## Expansion
 - Write the fraction as a expression as the sum of 2 rational expressions with a lower degree in the denominator.
-- Again we want a lower degree in the denominator
+- Again we want a higher degree in the original denominator
 - factor the denominator of the original rational expression 
 - Expand it for each factor?
 - after expanding for each factor we want to multiply the numerator by the common denominator 
