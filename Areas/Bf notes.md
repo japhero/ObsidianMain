@@ -19,6 +19,10 @@
 - Use Universal belt for 7.92 and Air target for 20mm
 - Rip speed is 912.
 
+## [Ta 154](https://wiki.warthunder.com/Ta_152_H-1)
+- flaps are amazing 
+- force low speed turn
+
 # Others
 
 F2G
