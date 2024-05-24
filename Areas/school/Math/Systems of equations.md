@@ -17,7 +17,7 @@
 ### Methods for Solving Linear systems  
 
 #### Substitution 
-- Substitution is when we express one of the variables in terms of another variable, substituite that variable and then solve for the singular variable.
+- Substitution is when we express one of the variables in terms of another variable, substitute that variable and then solve for the singular variable.
 
 
 > [!EXAMPLE]- $\text{Example 1:} \left(\begin{array}{r} 3x-y=23 \\4x+3y=48  \end{array}\right ) \text{using Substitution.}$

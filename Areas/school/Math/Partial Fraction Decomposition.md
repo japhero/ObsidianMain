@@ -14,11 +14,11 @@
 - First expand by each factor 
 - Then multiply by the denominator of the original function which should be the common denominator.
 - when the factor has a heigher degree than 1 we set the numorator of that compositon to $Ax+B$ so if we had factors of $\frac{1}{(x-1)(x^2+2x-7)}$ we would decompose those as $\frac{A}{(x-1)}+\frac{{Bx-C}}{x^2+2x-7}$
-- Make sure to look for difference of squares when solving 
+- Make sure to look for difference of squares when solving, but also remember that difference of squares is $(a^2-b^2)$ not $(a^2+b^2)$
 
 [PFD CALCULATOR](https://www.emathhelp.net/en/calculators/algebra-2/partial-fraction-decomposition-calculator/?numer=6x-11&denom=%28x-1%29%5E2)
 **Integration**
-- Just do normal decomposition and then take the integral of the seperated rational expressions
+- Just do normal decomposition and then take the integral of the separated rational expressions
 - $\int \frac{a}{x}+\frac{b}{x+2} \, dx =\int \frac{a}{x} \, dx +\int \frac{b}{x+2} \, dx$
 
 
