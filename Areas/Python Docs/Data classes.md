@@ -5,9 +5,9 @@
 -  Instance Variables vs Class variables
 	- Changes made to the **class variable** affect all instances.
 	- Changes made to the **instance variable** does not affect all instances.
-
+	- automatically generates an innit method for the class and asigns the variables.
 ## Decorator 
-- 
+- `@dataclass`
 
 ---
 # Resources
