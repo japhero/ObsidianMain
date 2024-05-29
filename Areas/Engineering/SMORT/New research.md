@@ -47,9 +47,9 @@ state if_s <<choice>>
 beg -->  quest 
 quest --> if_s 
 if_s --> False 
-True -->  mount
+False -->  mount
 if_s --> True
-False --> nth
+True --> nth
 True --> r
 isM: is mounted
 r --> isM
