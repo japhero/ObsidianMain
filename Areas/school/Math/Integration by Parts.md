@@ -4,6 +4,11 @@ The table method is a simplification tool for taking the integral using [[Integr
 
 &emsp;
 
+
+> [!TODO]- CORRECTION
+> take the integral of $v$. FIX THAT IN THIS NOTE
+
+
 ## Application
 To use the method set up a table and take the variables $u$ and $v$ normally but make sure that $u$ "shrinks" meaning eventually taking the derivative will give zero. This has to be true because every new $u$ will act as a coefficient for every new $v$.
 
@@ -18,10 +23,10 @@ $$
 
 To enact the formula all you have to do is 
 **First:**
-list out the derivatives of both functions of $v$ and $u$ until $u=0$. This is because they will be coefficients if $u=0$ that part will always $=0$ as to the reason why we dont take the derivative of either function past $u=0$. 
+list out the derivatives of $u$ until $u=0$. Also take the integral of $v$. We go untill $u=0$ because they will be coefficients and if $u=0$ that part will always $=0$ as to the reason why we dont take the derivative or integral of either function past $u=0$. 
 
 **Second:**
-Take each $u$ that has been found and multiply it times the corresponding $v$ which has had the derivative taken 1 more time than $u$. 
+Take each $u$ that has been found and multiply it times the corresponding $v$ which has had the integral taken 1 more time than $u$ has had the derivative taken.
 
 **Third:**
 Summate all of the combined functions together but make sure to alternate with adding and subtracting them as the first should be added then subtracted then added again and so on until all of the tabled values (except for $v$) have been incorporated.

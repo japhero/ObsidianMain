@@ -99,6 +99,19 @@ Embedded [register](https://en.wikipedia.org/wiki/Processor_register) configurat
 # Wiring 
 
 
+
+
+## Damage After launch 
+After the first launch 
+
+
+
+![[SMORT damage after launch|1000]]
+
+
+
+
+
 ## Diagram
 
 &emsp;
@@ -110,3 +123,6 @@ This project started with an [MPU 6050](https://www.adafruit.com/product/3886) b
 > Take this data with a grain of salt as the [LSM6DSOX](https://www.adafruit.com/product/4438)  data might be inaccurate due to method of integration.
 
 **Bonus meme** Mr Miller often says that the astronauts who landed on the moon had less computing power than us and still managed land on the moon i mean yea but thats like saying Einstein didn't have a calculator i am no Einstein trust me.
+
+
+
