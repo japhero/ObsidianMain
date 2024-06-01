@@ -1,25 +1,45 @@
+&emsp;
+
+# Table of contents
+- [[#Early planning and Goals]]
+	- [[#Personal Goals of the project]]
+- [[#Code overview|Code]]
+	- [[#Data Logging]]
+	- [[#Polling/writing]]
+	- [[#Dead Reckoning]]
+		- [[#Translating Acceleration to Position]]
+		- [[#Data filtering]]
+			- [[#What is a Low pass filter]]
+			- [[#Why Signal Processing Failed]]
+- [[#Wiring]]
+	- [[#Wiring Design|Design]]
+	- [[#Launch Results]]
+	- [[#IMU choice]]
 
 
 # Early planning and Goals
 Starting this very ambitious project the code was meant to do 2 things log the data and approximate an firing angle for the launcher. As a team we decided that this goal was going to be auxiliary to producing and testing the launched projectile as time showed that even the basics required work forcing us to remove some of the scope of the project. In tern the team shifted goals to first completing the projectile rather than the launcher and an integrated firing mechanism. 
 
 ## Personal Goals of the project
-After the scope of the project was shifted to the projectile one of the main goals for me Paul as the programmer was to try new things and push the code and me into learning. The approach i took to this was to incorporate an advanced system for approximating the position of the projectile and to heavily incorporate mathematical modeling into the project as I had some previous experience doing that writing a [mechanum wheel drivetrain simulator](https://github.com/japhero/FTC-mechanum-drivtrain-simulator) and wanted to keep doing that. 
+After the scope of the project was shifted to the projectile one of the main goals for me Paul as the programmer was to try new things and push the code and me into learning. The approach I took to this was to incorporate an advanced system for approximating the position of the projectile and to heavily incorporate mathematical modeling into the project as I had some previous experience doing that writing a [mechanum wheel drivetrain simulator](https://github.com/japhero/FTC-mechanum-drivtrain-simulator) and wanted to keep doing that. 
 
 
+&emsp;
+
+
+&emsp;
+
+&emsp;
+
+
+&emsp;
 # Code overview 
 
-
-
-> [!TODO]- REDO THIS SHIT 
-> Contents
-
-
 ![|right|200](https://i.imgur.com/Vns21p1.png)
-The code was supposed to be in 2 parts 
-1. [[#Data Logging]]
-2. [[#Data Analysis]] 
-These run in different parts because one is circuit python and one is regular Python. The program on the board is supposed to simply log data at a set rate usually $1\text{hz}$ while the Analysis parses the data and processes it. 
+The goal of the project was to separate the code into 2 distinct parts
+1. Data Logging
+2. Data Analysis 
+These run in different parts because one is circuit python and one is regular Python. This allows one program to use more complex library's such as numpy or SCIPY while the other runs all the hardware specific code.  
 
 &emsp;
 
@@ -43,8 +63,13 @@ Because the onboard storage is relatively large the original goal was to write t
 
 &emsp;
 
+&emsp;
+
+&emsp;
+
+&emsp;
 ## Dead Reckoning 
-As stated previously one of the wished goals of this project was to push myself and dead reckoning was the way to do it, dead reckoning is a technique for approximating the positing of an object using its previous positions. In this context this means taking the acceleration values out of the [IMU](https://en.wikipedia.org/wiki/Inertial_measurement_unit).
+As stated previously one of the wished goals of this project was to push myself and dead reckoning was the way to do it, dead reckoning is a technique for approximating the positing of an object using its previous positions. In this context this means taking the acceleration values out of the [IMU](https://en.wikipedia.org/wiki/Inertial_measurement_unit) and using those to approximate the real position of the SMORT in flight.
 
 ### Translating Acceleration to Position
 Translating acceleration to position is pretty straight forward as all we have to do is sum all of the previous acceleration values to get the velocity and then sum them again to get the position. Mathematically we can just take the integral using a numeric method.
@@ -65,6 +90,10 @@ def dbl_cumtrapz(x,y):
 
 ```
 
+
+&emsp;
+
+&emsp;
 
 &emsp;
 ### Data filtering 
@@ -96,13 +125,21 @@ Embedded [register](https://en.wikipedia.org/wiki/Processor_register) configurat
 
 &emsp;
 
+---
+
 # Wiring 
 
+&emsp;
 
 
+### Wiring Design
+The main goals of the wiring design where to be easy to assemble and compact. We had to shift from the traditional breadboard design for this exact reason as we didn't have the space to fit such a large surface. Another factor is the fact that we didn't need any complex wiring as we aren't using control surfaces or anything that requires large batteries or electronics this means we theoretically just need a power source and an $I^2C$ connection which means we only need 4 wires per component. This 4 wire system Taylors perfectly to the [Stemma QT](https://learn.adafruit.com/introducing-adafruit-stemma-qt/what-is-stemma) wires and headers as they contain the only the wires we need. This also creates a problem as the stemma QT headers aren't found on the Pico and normally using something like a [feather](https://www.adafruit.com/product/4884) would have been more practical. The solution was to use a PY cowbell a prototyping shield which has the Stemma header and for us functions basically as an adapter. With the components sorted all we need to do is power the board which can be done using the [lipo battery](https://www.adafruit.com/product/258) and attaching a [JST](https://www.adafruit.com/product/1863) header to the cowbell.
 
-## Damage After launch 
-After the first launch 
+
+![](https://i.imgur.com/smKoDkW.png)
+
+### Launch Results 
+The main data collection launches were done twice in consecutively and at first seemed to go well as on the first launch we had no hardware break as the spring seemed to do its job of taking the brunt of the impact although the tail did snap off (bottom left image below). The second launch however didn't go as planned as the SMORT started to tumble due to the fact that it no longer had stabilizing fins thus causing it to take the brunt of the impact on insides damaging the electronics as seen in the images below.
 
 
 
@@ -110,19 +147,15 @@ After the first launch
 
 
 
-
-
-## Diagram
-
 &emsp;
 
 ### IMU choice 
 This project started with an [MPU 6050](https://www.adafruit.com/product/3886) but this [IMU](https://en.wikipedia.org/wiki/Inertial_measurement_unit) revealed itself to be too inaccurate to be used for [[#Dead Reckoning]] as the data even when still was so inaccurate that it would be hundreds of meters off. Therefore I switched over to the [LSM6DSOX](https://www.adafruit.com/product/4438) as it was supposed to be more accurate and less error prone. This switch turned out to be a good choice as the [LSM6DSOX](https://www.adafruit.com/product/4438)  was much more accurate.
 
 ![[SMORT COMPARISON|900]]
-> Take this data with a grain of salt as the [LSM6DSOX](https://www.adafruit.com/product/4438)  data might be inaccurate due to method of integration.
+>Take this data with a grain of salt as the [LSM6DSOX](https://www.adafruit.com/product/4438)  data might be inaccurate due to method of integration.
 
-**Bonus meme** Mr Miller often says that the astronauts who landed on the moon had less computing power than us and still managed land on the moon i mean yea but thats like saying Einstein didn't have a calculator i am no Einstein trust me.
+**Bonus meme** Mr. Miller often says that the astronauts who landed on the moon had less computing power than us and still managed land on the moon I mean yea but that's like saying Einstein didn't have a calculator I am no Einstein trust me.
 
 
 
