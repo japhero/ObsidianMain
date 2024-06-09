@@ -1,7 +1,8 @@
 {
   "callouts": {
     "custom": [
-      "code"
+      "code",
+      "TODO:"
     ],
     "settings": {
       "code": [
@@ -31,7 +32,6 @@
     }
   },
   "calloutDetection": {
-    "obsidianFallbackForced": false,
     "obsidian": true,
     "theme": true,
     "snippet": true

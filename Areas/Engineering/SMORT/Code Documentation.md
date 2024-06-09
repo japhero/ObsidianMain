@@ -11,6 +11,9 @@
 		- [[#Data filtering]]
 			- [[#What is a Low pass filter]]
 			- [[#Why Signal Processing Failed]]
+- [[#Post launch Results]]
+	- [[#Altitude data Issues]]
+	- [[#Mechanical Failures]]
 - [[#Wiring]]
 	- [[#Wiring Design|Design]]
 	- [[#Launch Results]]
@@ -118,12 +121,51 @@ Signal processing is a complicated and very advanced mathematical realm for some
 
 &emsp;
 ## Embedded register configuration 
+
+![|right|300](https://i.imgur.com/EaLGAi5.png)
+
 Embedded [register](https://en.wikipedia.org/wiki/Processor_register) configuration is when you change the [CPU registers](https://en.wikipedia.org/wiki/Processor_register) on embedded devices through a certain serial interface usually through $I^2C$ . In my case the LSM6DOX had a cup register which would have allowed me to use built in [[#What is a Low pass filter|low pass filtering]] on the actual hardware removing my need for any external signal processing and only requiring me to integrate the result which in theory I could just do on the pico anyways.
-![](https://i.imgur.com/EaLGAi5.png)
+
 > Accelerometer block diagram (if anyone understands what this means contact [me](https://pweder3.dev/) 🙏)
 
 
 &emsp;
+
+&emsp;
+
+
+&emsp;
+
+&emsp;
+# Post launch Results 
+The team only ended up having 1 opportunity to do a launch with data collection.  This limitation was a product of a lengthy data logging code development cycle. 
+
+
+Sadly data was only collected on the first launch presumptively because the damage of the first launch caused damage extensive enough to stop logging     ([[#Mechanical Failures|see below]]). This although doesn't discount the results of the first launch as although the cycle rate of the data wasn't high enough to effectively use the [[#Dead Reckoning]] aspect of the project.
+![[Drawing 2024-06-03 13.33.39.excalidraw.svg|700]]
+
+
+&emsp;
+
+## Altitude data Issues
+
+![[Altitude over time.svg|right|350]]
+sadly the altitude data wasn't accurate and showed no variation, basically saying that the projectile didn't move at all as seen in the range. Although we dont really know why this happened it most likely was the fact that the inside of the projectile was pressurized in the sense that the barometer on the [Altimeter](https://www.adafruit.com/product/1893) couldnt detect the outside pressure because the pressure wasn't changing.
+
+&emsp;
+
+
+### Mechanical Failures
+The main data collection launches were done twice in consecutively and at first seemed to go well as on the first launch we had no hardware break as the spring seemed to do its job of taking the brunt of the impact although the tail did snap off (bottom left image below). The second launch however didn't go as planned as the SMORT started to tumble due to the fact that it no longer had stabilizing fins thus causing it to take the brunt of the impact on insides damaging the electronics as seen in the images below.
+
+
+
+![[SMORT damage after launch|1000]]
+
+
+
+
+
 
 ---
 
@@ -136,14 +178,8 @@ Embedded [register](https://en.wikipedia.org/wiki/Processor_register) configurat
 The main goals of the wiring design where to be easy to assemble and compact. We had to shift from the traditional breadboard design for this exact reason as we didn't have the space to fit such a large surface. Another factor is the fact that we didn't need any complex wiring as we aren't using control surfaces or anything that requires large batteries or electronics this means we theoretically just need a power source and an $I^2C$ connection which means we only need 4 wires per component. This 4 wire system Taylors perfectly to the [Stemma QT](https://learn.adafruit.com/introducing-adafruit-stemma-qt/what-is-stemma) wires and headers as they contain the only the wires we need. This also creates a problem as the stemma QT headers aren't found on the Pico and normally using something like a [feather](https://www.adafruit.com/product/4884) would have been more practical. The solution was to use a PY cowbell a prototyping shield which has the Stemma header and for us functions basically as an adapter. With the components sorted all we need to do is power the board which can be done using the [lipo battery](https://www.adafruit.com/product/258) and attaching a [JST](https://www.adafruit.com/product/1863) header to the cowbell.
 
 
-![](https://i.imgur.com/smKoDkW.png)
+![|600](https://i.imgur.com/smKoDkW.png)
 
-### Launch Results 
-The main data collection launches were done twice in consecutively and at first seemed to go well as on the first launch we had no hardware break as the spring seemed to do its job of taking the brunt of the impact although the tail did snap off (bottom left image below). The second launch however didn't go as planned as the SMORT started to tumble due to the fact that it no longer had stabilizing fins thus causing it to take the brunt of the impact on insides damaging the electronics as seen in the images below.
-
-
-
-![[SMORT damage after launch|1000]]
 
 
 

@@ -21,7 +21,41 @@ Pronoun-antecedent agreement is a convention of Standard English that requires a
 	- the noun a pronoun is standing in for
 - Check the subject of the [[English Concept definitons#Pronouns|pronouns]] and make sure that the section that is changing has the correct [[English Concept definitons#Number of a word|number]] 
 
+# Punctuation
 
+### Commas
+
+Commas can:
+- List items
+- Seperate non essentials
+- link dependent clauses to independant clauses 
+- link independant clauses with FANBOYS conjunction
+Cant:
+- Split a subject and a verb
+- Come before prepositions
+- cant punctuate a 2 item list
+
+### Semi Colons ;
+
+can
+- link independant clauses without a conjunction
+- Seperate items in a complex list
+
+
+### Colons :
+
+can:
+- Only follow independant clauses
+- can introduce extra information and info
+- introduce lists
+
+### Dashes --
+- set off nonessential information
+
+
+## Strategies
+- Check what type of clause or phrase the sentances before and after are.
+- eliminate choices that result in errors
 
 
 
