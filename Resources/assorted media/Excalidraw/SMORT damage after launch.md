@@ -101,8 +101,8 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 		},
 		{
 			"type": "text",
-			"version": 289,
-			"versionNonce": 2134347097,
+			"version": 290,
+			"versionNonce": 66455035,
 			"isDeleted": false,
 			"id": "zrF8g927",
 			"fillStyle": "hachure",
@@ -115,14 +115,14 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 			"y": 0.2743307894974123,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 281.75885009765625,
+			"width": 247.8133544921875,
 			"height": 33.710267221299894,
 			"seed": 1441275351,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717180155764,
+			"updated": 1717721151966,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.968213777039914,
@@ -134,7 +134,7 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 			"containerId": null,
 			"originalText": "Damage after launch",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 27
 		},
 		{
 			"type": "image",
@@ -253,8 +253,8 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 		},
 		{
 			"type": "text",
-			"version": 50,
-			"versionNonce": 1003465079,
+			"version": 51,
+			"versionNonce": 1657908021,
 			"isDeleted": false,
 			"id": "IRQBvSdH",
 			"fillStyle": "hachure",
@@ -267,14 +267,14 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 			"y": -631.3870558120179,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 319.619873046875,
+			"width": 272.15234375,
 			"height": 35,
 			"seed": 2030181817,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717179779813,
+			"updated": 1717721151966,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -286,7 +286,7 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 			"containerId": null,
 			"originalText": "The base snapped off ",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 29
 		},
 		{
 			"type": "ellipse",
@@ -376,8 +376,8 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 		},
 		{
 			"type": "text",
-			"version": 279,
-			"versionNonce": 909377113,
+			"version": 280,
+			"versionNonce": 752455323,
 			"isDeleted": false,
 			"id": "x1kiAyDU",
 			"fillStyle": "hachure",
@@ -390,7 +390,7 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 			"y": -591.6118621380823,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 515.0317993164062,
+			"width": 459.375,
 			"height": 105,
 			"seed": 684872471,
 			"groupIds": [],
@@ -402,7 +402,7 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1717179886295,
+			"updated": 1717721151966,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -414,7 +414,7 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 			"containerId": null,
 			"originalText": "The PY QT connecter snapped out \nof the Py cowbell port damaging the \nLSMDOX port.",
 			"lineHeight": 1.25,
-			"baseline": 95
+			"baseline": 99
 		},
 		{
 			"type": "ellipse",
@@ -476,8 +476,8 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 		},
 		{
 			"type": "text",
-			"version": 162,
-			"versionNonce": 900119383,
+			"version": 163,
+			"versionNonce": 1379957909,
 			"isDeleted": false,
 			"id": "PHy7sxga",
 			"fillStyle": "hachure",
@@ -490,7 +490,7 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 			"y": -681.7189369977651,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 486.9197998046875,
+			"width": 442.654296875,
 			"height": 70,
 			"seed": 27099319,
 			"groupIds": [],
@@ -506,7 +506,7 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1717179997039,
+			"updated": 1717721151966,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -518,7 +518,7 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 			"containerId": null,
 			"originalText": "The PY cowbell headers jumped out\nof the pins for the pico.",
 			"lineHeight": 1.25,
-			"baseline": 60
+			"baseline": 64
 		},
 		{
 			"type": "arrow",
@@ -640,10 +640,10 @@ d6fba016e7741e4c99437f71387482fc3ac1e90e: [[Pasted Image 20240531142114_156.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 711.1375507352625,
-		"scrollY": 1010.0497533978082,
+		"scrollX": 778.9463206703028,
+		"scrollY": 873.930503030223,
 		"zoom": {
-			"value": 0.7570337523910545
+			"value": 0.8500000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

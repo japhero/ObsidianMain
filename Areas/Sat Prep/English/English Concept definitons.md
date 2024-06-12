@@ -12,6 +12,18 @@ An adverb is a word that changes the meaning of a verb, adjective, other adverbs
 **Examples**
 - "he _spoke_ quietly"
 - "she is _very_ clever"
+
+
+---
+&emsp;
+# Antecedent
+the noun a pronoun is standing in for
+
+**Examples** (==antecedent==, ***subject***)
+- "The ***record playe**r* largely fell out of style in the 1980s and 90s, but there has since been a revival in ==its== popularity."
+
+
+
 ---
 &emsp;
 # Conjunction

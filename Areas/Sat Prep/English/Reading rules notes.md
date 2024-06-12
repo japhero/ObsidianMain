@@ -10,17 +10,31 @@
 - The main subject of a sentence must have a "main verb".
 - "ing" and "to" verbs cant be the "main" verb.
 
-## KA 
-## Subject verb agreement 
+---
+
+&emsp;
+# Subject verb agreement 
 - How can you identify the weather or not a subject or verb is singular or plural in a concrete fashion not using personal intuition?
 	- By identifying weather it describes singular things or several things 
 
-## [Pronoun-antecedent agreement](https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:digital-sat-grammar-practice/x0d47bcec73eb6c4b:fss-pronoun-antecedent-agreement/a/fss-grammar-guide-pronoun-antecedent-agreement) 
-Pronoun-antecedent agreement is a convention of Standard English that requires a [[English Concept definitons#Pronouns|pronouns]] and [[English Concept definitons#antecendt|antecedent]] to agree in person and number.
-- Whats antecedent
-	- the noun a pronoun is standing in for
-- Check the subject of the [[English Concept definitons#Pronouns|pronouns]] and make sure that the section that is changing has the correct [[English Concept definitons#Number of a word|number]] 
 
+---
+&emsp;
+# [Pronoun-antecedent agreement](https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:digital-sat-grammar-practice/x0d47bcec73eb6c4b:fss-pronoun-antecedent-agreement/a/fss-grammar-guide-pronoun-antecedent-agreement) 
+Pronoun-antecedent agreement is a convention of Standard English that requires a [[English Concept definitons#Pronouns|pronouns]] and [[English Concept definitons#antecendt|antecedent]] to agree in person and number.
+- Makes sure that the pronoun so he, she, they or them matches up with the noun.
+- You know its looking for [Pronoun-antecedent agreement](https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:digital-sat-grammar-practice/x0d47bcec73eb6c4b:fss-pronoun-antecedent-agreement/a/fss-grammar-guide-pronoun-antecedent-agreement)  when it changes the number of the pronoun. This for instance would be true if one pronoun is singular such as "it" and another was plural like "they"
+- a pronoun outside the blank refers to a noun contained within the choices
+- **What makes them dificult to spot**
+	- When they are using complex sentances therefore when observing large distance between pronoun and antecedent use caution.
+	- Sometimes ironically the antecedent can be found before the noun making it difficult to spot what noun the antecedent is referring to  
+
+**Tips**
+- Find the antecedent.
+- You can also plug in the antecedent for the pronoun to check if it makes sense also checking the validity of the antecedent.
+	
+---
+&emsp;
 # Punctuation
 
 ### Commas
