@@ -72,8 +72,16 @@ can:
 - eliminate choices that result in errors
 
 
-
+---
 &emsp;
+# Plurals and Possessives
+**Plurals** are nouns and pronouns that refer to more than one thing.
+
+**Possessives** are nouns and pronouns that show possession.
+
+Plurals and possives can be similar and offten cause confustion esspecially when using apostrophys
+
+
 
 ---
 # Resources
