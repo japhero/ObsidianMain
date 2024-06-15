@@ -21,7 +21,7 @@
 ---
 &emsp;
 # [Pronoun-antecedent agreement](https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:digital-sat-grammar-practice/x0d47bcec73eb6c4b:fss-pronoun-antecedent-agreement/a/fss-grammar-guide-pronoun-antecedent-agreement) 
-Pronoun-antecedent agreement is a convention of Standard English that requires a [[English Concept definitons#Pronouns|pronouns]] and [[English Concept definitons#antecendt|antecedent]] to agree in person and number.
+Pronoun-antecedent agreement is a convention of Standard English that requires a [[English Concept definitons#Pronouns|pronouns]] and [[English Concept definitons#Antecedent|antecedent]] to agree in person and number.
 - Makes sure that the pronoun so he, she, they or them matches up with the noun.
 - You know its looking for [Pronoun-antecedent agreement](https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:digital-sat-grammar-practice/x0d47bcec73eb6c4b:fss-pronoun-antecedent-agreement/a/fss-grammar-guide-pronoun-antecedent-agreement)  when it changes the number of the pronoun. This for instance would be true if one pronoun is singular such as "it" and another was plural like "they"
 - a pronoun outside the blank refers to a noun contained within the choices
@@ -79,9 +79,40 @@ can:
 
 **Possessives** are nouns and pronouns that show possession.
 
-Plurals and possives can be similar and offten cause confustion esspecially when using apostrophys
+- Plurals and Possessives can be similar and often cause confusion especially when choosing to use apostrophes.
+
+**Things to remember** 
+- **Plural nouns** don't use apostrophes. (Ex The **Plants** in the greenhouse are thriving.)
+- **Singular possessive** nouns require an apostrophe followed by an s. (Ex The **Company's** most popular products include shampoo and moisturizer) 
+- **Plural possessive nouns** that end in "s" require an apostrophe after the "s". (Ex On many superhero teams, the **heroes'** costumes are each a different color.) if it doesn't end in s the s comes before the apostrophe.  
+- **Pronouns** never use apostrophes. (Ex **his** favorite food is the same as **hers**)
 
 
+- **Look for errors with genitives and plurals if** 
+	- the choices add or remove apostrophes 
+	- the choices change the placement of apostrophes 
+
+Difference between possessive and non possessive nouns 
+- possessive nouns are the same as normal nouns just they use an apostrophe to indicate possestion
+- Note that possesive nouns indicate that that noun is the owner for example **Jeremy's** car, the apostrophe after jeremy indicates that he is the owner of the car. 
+
+
+### When is it a plural or possessives question? 
+Plurals and possessives questions can be identified most commonly when you see the answer choices change the use of an apostrophe. 
+
+
+![[Plurals and possessives example|700]]
+
+
+**Examples**
+
+> [!EXAMPLE]-  Slam poet Elizabeth Acevedo’s debut novel The Poet X, winner of the 2018 National Book Award for Young People’s Literature, is composed of ----- protagonist, fifteen-year-old Xiomara Batista.
+> a. poem’s putatively written by the novel’s
+> b. poem’s putatively written by the novels’
+> c. poems putatively written by the novels’
+> d. ==poems putatively written by the novel’s==
+> D is the correct answer because as seen in the sentence the plural noun poems doesn't have possession over anything although the singular noun novel has possession therefore requiring it to have an apostrophe "s".
+> 
 
 ---
 # Resources
