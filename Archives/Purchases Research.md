@@ -26,5 +26,9 @@
 - [x] [Carhart's](https://www.amazon.com/Carhartt-Insulated-Synthetic-Leather-Glove/dp/B08V6J3PJJ?th=1&psc=1)
 	- [website](https://www.carhartt.com/product/802020/insulated-ducksynthetic-leather-knit-cuff-glove?categoryCode=)
 
+# T- shirts
+[Carhart WIP $55 (if i was rich)](https://us.carhartt-wip.com/products/s-s-carhartt-wip-usa-t-shirt-white-43)
+
+
 ---
 

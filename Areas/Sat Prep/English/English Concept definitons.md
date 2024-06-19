@@ -75,7 +75,23 @@ Agreement is when 2 elements in a [[#Clause]] have the same grammatical [person]
 
 
 ---
+&emsp;
 
+# Modifier
+Modifiers are words, phrases, and clauses that affect and often enhance the meaning of a sentence. Modifiers offer detail that can make a sentence more engaging, clearer, or specific. The simplest form of a modifier would be an adjective or adverb. But again, modifiers can come in the form of phrases and clauses that act like adjectives and adverbs. 
+
+Note that modifiers 
+
+**Examples**
+- "My sister, **who is an engineer**, works next door."
+	- In this sentence "who is an engineer" is the modifier as it expands on the subject sister 
+
+
+[University of louiville](https://louisville.edu/writingcenter/for-students-1/handouts-and-resources/handouts-1/modifiers#:~:text=Modifiers%20are%20words%2C%20phrases%2C%20and,be%20an%20adjective%20or%20adverb.)
+
+---
+
+&emsp;
 # Noun
 A **noun** is a word which can function as the [[#Subject]] or [[#Object]] of a [[#Verb]], or as the [[#Object|object]] of a [[#Preposition]] , and which typically denotes a person, place, or thing.
 
