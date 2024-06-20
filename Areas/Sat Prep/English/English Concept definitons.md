@@ -43,7 +43,7 @@ A [[#Clause]] is a grammatical unit or container that contains a [[#Verb]] or [[
 - the sentence ‘I like folk music’ consists of one clause, while the sentence ‘I like folk music, but I’m not keen on jazz’ consists of two clauses linked by _but_.
 
 ## Dependent vs Independent clauses
-The main difference between a dependent clause and an independent clause is whether the clause can stand on its own as a distinct sentence. Although independent clauses don't always have to be a by themselves as all that matters is that they **can** be independent. Note that Dependent clauses are often called subordinate clauses.
+The main difference between a dependent clause and an independent clause is whether the clause can stand on its own as a distinct sentence. Although independent clauses don't always have to be a by themselves, they only have to be independent. Note that Dependent clauses are often called subordinate clauses.
 
 **Examples**
 The _italicized_ clauses in the following are subordinate clauses and everything **bolded** is a Main clause

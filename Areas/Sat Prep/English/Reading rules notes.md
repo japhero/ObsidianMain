@@ -157,6 +157,35 @@ How to identify
 > 
 > B is the correct answer because the subject that is placed after the modifier is the adult salmon logically connecting the modifier to the subject. 
 
+---
+# Linking Clauses
+
+- Sat focuses on how the clauses are linked together (or separated).
+- End punctuation is the easiest way to separate clause's.
+
+
+## Ending punctuation
+
+Ending punctuation has 2 rules
+
+> [!INFO]- **1.** The punctuation must match the function of the sentence.
+>  This means that the sentence cant function differently from the punctuation, for example it wouldn't make sense for me to say "Your bike looks nice?" because I'm not asking a question so i don't need a question mark. 
+
+> [!info]- **2.** End punctuation can only be used to separate two independent clauses.
+> This rule is pretty straight forward punctuation can only separate distinct sentences. 
+
+
+## Coordination 
+
+- Coordination is linking 2 independent clauses using a comma (,) or a coordinating conjunction/FANBOYS.
+
+- Coordinating conjunction are for, and, nor, but, or, yet, so or FANBOYS
+
+## Subordination
+- Subordination means linking 2 clauses by making one of them dependent.
+- 
+
+
 
 ---
 # Resources
