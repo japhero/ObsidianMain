@@ -60,6 +60,15 @@ The _italicized_ clauses in the following are subordinate clauses and everything
 
 
 
+
+---
+
+&emsp;
+
+# FANBOYS
+simply an acronym for coordinating conjunctions or (for, and, nor, but, or, yet, so). 
+
+
 ---
 &emsp;
 

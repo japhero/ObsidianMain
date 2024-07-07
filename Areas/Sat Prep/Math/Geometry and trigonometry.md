@@ -1,0 +1,6 @@
+
+
+# Dump 
+
+## Systems 
+[[Quadratic Formula]]
