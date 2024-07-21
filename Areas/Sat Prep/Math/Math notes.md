@@ -59,11 +59,54 @@ the mode of an equation is the value with the most occurrences.
 1. calculate the sum of values by multiplying the mean by the number of values 
 2. Subtract all know values from the sum of values.
 
+# Polynomials
+- Zeros = x values that make the polynomial equal to zero.
+- The y intercept of polynomials is always determined by the constant term (or $c$ in standard form) because when x is zero all of the terms with coefficients go away.
+	- $x^3+2x-5x-6$ has a y intercept of 6
+- Highest power term tells us end behavior. For the term $ax^n$
 
-# [[Factoring polynomials]]
+
+| $a>0$ (positive)                 | y aproaches positive infinity                |
+| -------------------------------- | -------------------------------------------- |
+| $a < 0$ (negative)               | y aproaches negative infinity                |
+| $n \in 2\mathbb Z$ ($n$ is even) | the graph ends point in the same direction   |
+| $n \in \mathbb{Z}$ ($n$ is odd)  | the graph ends point in different directions |
+
+
+### Polynomial remainder theorem 
+- Polynomial remainder theorem says that if we take a polynomial and divide it by $(x-a)$ then the remainder is going to be $f(a)$
+
+> [!EXAMPLE]- Proof using an example: ${{3x^2-4x+7}}$ and $({x-1})$ as $(a-1)$
+> As the [[Polynomial Remainder theorem|theorem]] says if we take the equation and divide it by $(x-1)$ then it should be the same as plugging in 1 into the equation. So to start we have to take long devision of $\frac{{3x^2-4x+7}}{x-1}$.
+> $$
+> \begin{array}{rr}   
+> x-1\enclose{longdiv}{3x^2-4x+7} \\
+> \underline{-(3x^2-3x)} \\
+> {-x+7} \\
+> {-(x+1)} \\
+> \hline {6}
+> \end{array}
+> $$
+> Now we just check by actually plugging it in.
+> $3(1)^2-4(1)+7=6$
+> this proves that the theroum is correct as we got 6 both times
+
+
+> [!TODO]- Candidate for Full note [[Polynomial Remainder theorem]]
+> Conains a formula/method but idk if it should go in the subfolder
+
+
+
+
+## [[Factoring polynomials]]
 
 ### Formulas 
 $a^2+2ab+b^2=(a+b)^2$
 $a^2-2ab+b^2=(a-b)^2$
 $a^2-b^2=(a+b)(a-b)$
 
+
+
+
+# Quadratic graphs 
+- Questions asking if you can find the coeficcent in the euqation are asking

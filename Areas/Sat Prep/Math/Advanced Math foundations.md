@@ -65,3 +65,6 @@ you can use the determinant in the [[Quadratic Formula]] to see how many solutio
 | Zero             | One real solution |
 | Imaginary number | No solutions      |
 $\text{Discrimant} = \sqrt{ b^2-4ac }$ 
+
+
+
