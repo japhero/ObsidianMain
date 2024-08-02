@@ -96,4 +96,22 @@ $$\frac{\text{arc length}}{\text{circumference}} = \frac{\text{central angle}}{3
 $$\frac{\text{Area of Sector}}{\text{Total circle area}} = \frac{\text{central angle}}{360 \degree}$$
 
 <img src = "https://i.imgur.com/lNNR1zm.png" width =300>
+- When solving for circles have triangles instead of arcs the same rules apply to find the central angle although you have to use other rules such as the isosceles triangle rule to find the other 2 angles.
 
+
+
+> [!EXAMPLE]- EXAMPLE: The circle below with center $O$ has a circumference of $12\pi$. What is the length of minor arc $\stackrel\frown{AC}$ ?             
+> ![[Pasted image 20240802170158.png|left|400]] 
+> 
+> 
+> 
+> 
+> Because we are given the central angle and circumference we can solve for the arc using the ratio of angle to $360\degree$ and arc to circumference. This relationship can be represented with the equation:
+> $$\frac{\text{arc length}}{\text{circumference}} = \frac{\text{central angle}}{360 \degree}$$
+> This can be then used simply by plugging in what was given:
+> $$
+> \frac{x}{12\pi}= \frac{120\degree}{360 \degree}
+> $$
+> Now all we have to do is solve.
+> $$x=\frac{120}{360} \cdot 12\pi=\color{yellow} 4\pi$$
+> 
