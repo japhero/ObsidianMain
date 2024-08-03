@@ -87,7 +87,6 @@ Or **SOCATOA**
 
 
 ### Arc lengths and sector areas
-<!--⚠️Imgur upload failed, check dev console-->
 
 - Ratio of the arc length to the entire **circumference** should be the same as the ratio of the central angle and $360 \degree$ 
 $$\frac{\text{arc length}}{\text{circumference}} = \frac{\text{central angle}}{360 \degree}$$
@@ -115,3 +114,40 @@ $$\frac{\text{Area of Sector}}{\text{Total circle area}} = \frac{\text{central a
 > Now all we have to do is solve.
 > $$x=\frac{120}{360} \cdot 12\pi=\color{yellow} 4\pi$$
 > 
+
+## Unit Circle Trig
+1. Convert between radians and degrees
+2. Use our knowledge of special right triangles to find radian measures
+3. Identify the sine, cosine, and tangent of common radian measures
+
+
+**Formulas to convert to and from Radians and Degrees**
+$$\text{Degrees} =\text{Radians} \cdot \frac{180}{\pi}$$
+$$\text{Radians}=\text{Degrees} \cdot \frac{\pi}{180}$$
+$$
+\frac{\text{Radians}}{\pi}=\frac{\text{Degrees}}{180}
+$$
+- Unit circle means that the radius is 1
+- $\sin$ is the y cordinate
+- $\cos$ is the x cordinate
+- We can use special right triangles (especially 30,60,90) to manually figure out the trig definitions for an angle. 
+	![[Trig definitions using special triangles]]
+
+
+> [!EXAMPLE]- EXAMPLE: In the  $xy$-plane below, $O$ is the center of the circle, and the measure of $\angle AOB$ is $\dfrac{\pi}{a}$. What is the value of $a$ ?
+> 
+> <img src = "https://i.imgur.com/BPKWtY2.png" width =300>
+> We know we are looking for an angle in radians which is a fraction of $\pi$. To start we are going to represent the point with a right triangle using the point to represent the lengths of the triangle's sides.
+> 
+> <img src = "https://i.imgur.com/ogfVjgg.png" width = 300> 
+> 
+> To complete the triangle we are going to solve for the hypotenuse using [[Pythagoras theorem]]:  $\left ( \sqrt{ (\sqrt{ 3 })^2 +1^2} \right ) =2$ 
+> 
+> Now that we have the hypotenuse some keen people might have noticed that these numbers look very familiar to a special right triangle and it is!! Knowing this we can infer that the angle we are is $60 \degree$ because the corresponding special triangle is a $30,60,90$ triangle.
+> 
+> Now that we have the degree all we have to do is convert it to radians which simply requires multiplying it by $\frac{\pi}{180}$ : 
+> 
+> $$60 \cdot \frac{\pi}{180} =\frac{\pi}{\color{yellow} 3}$$
+
+
+Maintenance

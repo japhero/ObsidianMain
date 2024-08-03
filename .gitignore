@@ -59,7 +59,7 @@ $RECYCLE.BIN/
 
 # workspace file
 .obsidian/workspace.json
-
+.obsidian
 
 # Windows shortcuts
 *.lnk

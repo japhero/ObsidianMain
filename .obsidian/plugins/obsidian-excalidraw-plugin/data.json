@@ -28597,7 +28597,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "defaultTrayMode": false,
+  "defaultTrayMode": true,
   "previousRelease": "2.2.4",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
