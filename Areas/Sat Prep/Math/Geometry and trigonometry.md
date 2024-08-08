@@ -43,7 +43,8 @@ if you have corresponding triangles $\overline {ABC}$ and $\overline{DEF}$  then
 - **Congruent** angels are angles that have the exact same measurement
 - **Corresponding** angles are always equal but indicate that because of some symmetry such as parallel lines they correspond to be equal.
 
-
+**Solving**
+- If you are given the side lengths use them to see what angles corrospond as the side opposite from corrosponding angles is allways the same length at least for similar triangles.
 
 ## Right triangles
 - [[Pythagoras theorem]] 
@@ -149,5 +150,25 @@ $$
 > 
 > $$60 \cdot \frac{\pi}{180} =\frac{\pi}{\color{yellow} 3}$$
 
+- We only use sin and cos to represent x and y when solving in a unit circle 
 
-Maintenance
+## Circle Equations
+
+**Circle Formula**
+
+Standard form in which the circle has a center $(h,k)$ and radius $r$
+$$
+(x-h)^2+(y-k)^2=r^2
+$$
+
+### [[Factoring polynomials#Completing the square|Completing the square]]
+- we want to make both squares perfect squaes we do this by manipulaiting the $c$ component.
+- Works for any quadratic 
+- means making the quadratic a perfect square
+- relies on the formula $x^2-2ax+a^2=(x-a)^2$
+- this doesn't give the root so what is the purpose 
+	- Can give the root by solving after factoring
+- remember when taking the square root that the constants will be $\pm$.
+$$\text{distance} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+
+

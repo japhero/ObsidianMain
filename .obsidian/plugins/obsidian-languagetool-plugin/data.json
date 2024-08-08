@@ -5,5 +5,7 @@
   "shouldAutoCheck": false,
   "autoCheckDelay": 3000,
   "pickyMode": true,
-  "staticLanguage": "en-US"
+  "staticLanguage": "auto",
+  "germanVeriety": "de-DE",
+  "englishVeriety": "en-US"
 }

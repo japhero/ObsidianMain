@@ -52,8 +52,55 @@ $$
 $$\frac{{-b \pm \sqrt{ b^2 -4ac}}}{2a}$$
 
 
+## Completing the square 
+Completing the square is a technique for rewriting factoring and solving quadratics. It works on the principal that we try to change a binomial into a perfect square by manipulating the constant or $c$. The relationship between the variables is represented by the formula 
+$$x^2+2ax+a^2$$
 
+Usually we are given a trinomial which we have to manipulate, for example $x^2+10x+24$. To start we want to remove the current constant and separate out the binomial:
+$$
+\begin{array}{ll}
+x^2+10x+24 \\
+\underbrace {x^2+10x}_{\text{binomial}} = \underbrace {-24}_{  \text{const}}
+\end{array}
+$$
+Now that we have the binomial separated we need to add a constant to make the equation a perfect square. To do this we use the relationship previously established $(x^2+2ax+a^2 = (x+a)^2)$. Use this to find $a^2$ and make the binomial into a perfect square by adding it to both sides
 
+$$
+\begin{array}{ll}
+\frac{10}{2}=a \\
+\left( \frac{10}{2} \right)^2 =a^2 \\
+x^2+2ax+a^2 \to \color{orange} x^2+10x+25 =-24 +25
+\end{array}
+$$
+
+Now that we have a perfect square factor the quadratic into its root.
+$$
+(x+a)^2= \color{yellow} (x+5)^2=-24+25
+$$
+To get the solution to the quadratic solve for $x$
+
+$$
+\begin{array}{ll}
+(x+5)^2=-24+25 \\
+(x+5)^2=1 \\
+\sqrt{ (x+5)^2 }=\sqrt{ 1 } \\
+x+5= \pm \space 1 \\
+\color{green} \large x=-5\pm 1
+\end{array}
+$$
+
+> [!NOTE]+ 
+> Remember though that if you are completing the square and have factored out a GCF  you have to multiply what you are adding to both sides by the GCF. For example if you have the binomial
+> $$2(x^2+2x)=-3$$
+> looking at this binomial we can see that to complete the square we need to add 1 to the binomial $\left( \left( \frac{2}{2} \right)^2=1 \right)$ but to even out the equation as previously stated we need to multiply 1 by the coefficient, so we need to add 2 $(1*2)$ eventually we get 
+> $$
+> 2(x^2+2x \color{yellow} +1 \color{white}  ) = -3 \color{yellow} +2 \color{white}
+> $$
+> then after completing the square we are left with
+> $$
+> 2(x+1)^2=-1
+> $$
+> 
 
 ---
 # Resources 
@@ -64,6 +111,3 @@ $$\frac{{-b \pm \sqrt{ b^2 -4ac}}}{2a}$$
 - [Kahn academy 3](https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:advanced-math-easier/x0fcc98a58ba3bea7:factoring-quadratic-and-polynomial-expressions-easier/a/v2-sat-lesson-factoring-quadratic-and-polynomial-expressions) 
 
 
-# Dump
-## completing the square
--  
