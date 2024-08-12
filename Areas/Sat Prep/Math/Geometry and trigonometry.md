@@ -1,4 +1,39 @@
 
+&emsp;
+
+# Triangles
+
+
+&emsp;
+
+
+# Area and Volume
+
+## Linear Dimensions  
+Linear dimensions are  factors in equations that effect the outcome of that equation  in a linear fashion. For example $h$ in the equation  of  a Cylinder $(\pi r^2h)$. 
+
+### Solving for total change in an equation 
+If you are given an equation and scaling factors for elements of that equation and asked how these factors scale the result of the entire equation you can solve by substituting in the coefficients with the variables  and factor a "new coefficient" for the entire equation.
+
+For example if $ab^2 = v$ what is the total change to $v$ if $a$ is twice as large and $b$ is three times. Start by substituting:
+$$
+(2a)(3b)^2
+$$
+Then distribute:
+$$
+2a \cdot 9b^2
+$$
+Finally combine to see that we get a new coefficient of 16 meaning that if a is tiwce as large and b is 3 times as large the entire equation is 16 times as large.
+$$
+16ab^2 > (1)ab^2
+$$
+---
+
+&emsp;
+
+
+
+
 
 # Dump 
 
@@ -13,6 +48,10 @@
 	- Plug in 
 	- Solve
 - you may be tasked to find length or other factors after being given a formula and the volume.
+
+
+
+
 - Linear dimensions (factors of volume equations that are to the first power) effect the volume of solids in a linear fashion. For example $h$ (height) in the equation of a Cylinder $(\pi r^2h)$ 
 	- Maybe you can solve by writing the "changes" to the formulas as coefficients to the base and then figure out the total coefficient change to all of the variables. Simply if my formula is made up of variables with varying degrees for example $(ab^2)$ and the question says that the new volume is twice $a$ and 3 times $b$ write those as coefficients $((2a)(3b)^2)$ extract a total coefficient by extrapolating. $2*3^2*ab^2$ and now we get a total coefficient of $18$ because $9*2$ where as  before the coefficient was $1$.  Basically we substitue in coefficients and see what we are scaling by.
 	- Note that this only works when the formula is not a summation
@@ -73,6 +112,12 @@ Or **SOCATOA**
 
 - The sin cos and tan of corrosponding angles in similar triangles will allways be the same.
 
+**Using trig functions to find missing degrees**
+ - If the question is asking you for an angle and gives you 2  sides its always important to remember that we can use trig functions to figure out a ratio and then undo the trig functions by using the inverse of that same trig function giving the angle. 
+ - For example if you are looking for an angle and you are given the side lengths of the hypotenuse and the opposite side we know that the $\sin$ of that angle would be the $\frac{opposite}{hypotenuse}$ knowing this we just apply the inverse sin to then find the angle $\sin^{-1}(\frac{opposite}{hypotenuse})=\text{target angle}\degree$ 
+
+> [!LESSON]- MAKE LESON
+
 ### Special right triangles
 
 ![[Screenshot 2024-08-02 at 2.25.51 PM.png|200]]
@@ -116,7 +161,13 @@ $$\frac{\text{Area of Sector}}{\text{Total circle area}} = \frac{\text{central a
 > $$x=\frac{120}{360} \cdot 12\pi=\color{yellow} 4\pi$$
 > 
 
+
+> [!LESSON]- MAKE LESON
+
 ## Unit Circle Trig
+In the Sat we will be asked how to convert between
+
+
 1. Convert between radians and degrees
 2. Use our knowledge of special right triangles to find radian measures
 3. Identify the sine, cosine, and tangent of common radian measures
@@ -151,7 +202,7 @@ $$
 > $$60 \cdot \frac{\pi}{180} =\frac{\pi}{\color{yellow} 3}$$
 
 - We only use sin and cos to represent x and y when solving in a unit circle 
-
+> [!LESSON]- MAKE LESON
 ## Circle Equations
 
 **Circle Formula**
@@ -170,5 +221,6 @@ $$
 	- Can give the root by solving after factoring
 - remember when taking the square root that the constants will be $\pm$.
 $$\text{distance} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
-
+> [!LESSON]+ MAKE LESON
+> - using distance formula to find equation given points 
 

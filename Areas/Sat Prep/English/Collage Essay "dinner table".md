@@ -104,9 +104,9 @@
 
 - How is my perspective unique
 - how will i make my perspectively descriptively unique 
+	- Use economic comparisons????
 
 - write about being face to face in a digital age 
-
 
 
 
@@ -125,11 +125,38 @@
 	- Connection to my values 
 	- Hammer home/finisher
 
+
+## Intro
+
+- Do i want to start with an example that is me arguing about somthing stupid or important 
+	- Stupid
+		- Alows me to add nuance to the fact that not all ideas are important or that we dont allways need to be talking about seruous ideas
+	- Serious
+		- Lets me make my point in an obviously direct way 
+		- more corny and cliche 
+
+**Possible Anecdotes**
+- Arguing about my brother not cleaning
+- Going to my brother to argue with him
+- Online politics 
+
+
 1. 
-That doesn't make any sense I yelled while reaching for the rice my Brother grimacing in my direction appearing annoyed as I continued my tirade lecturing him on how he should have been more timely with his efforts to clean up after himself. My other brother clearly only interested with the food in his mouth although similarly annoyed interrupted me to tell me how dumb i sounded 
+That doesn't make any sense I yelled while reaching for the rice my Brother grimacing in my direction appearing annoyed as I continued my tirade lecturing him on how he should have been more timely with his efforts to clean up after himself. My other brother clearly only interested with the food in his mouth although similarly annoyed interrupted me to tell me how dumb I sounded. 
+
+After dinner i continued rambling although not as i had before, walking up the stairs flipping my phone in my hand and the thoughts in my head, was i right?, maybe what i said was unfair. 
+
+At the top of the stairs i had allready made up my mind it was irrelevant. 
 
 2. 
-That doesn't make any sense I yelled only chowing down on my food after i had finished "explaining" to my brother how 
+That doesn't make any sense I yelled chowing down on my food after  "explaining" to my brother why our education system was in a horrble place 
 
 
 ## Connection 
+
+Growing up this combative dining experience was all to common as my parents had taken a lassie fair approach to our conversations and tried to have us find the "right ideas" rather than spoon feed them to us. The "invisible hand" can take you anywhere but really made me thirsty for more.
+
+
+## Hammer
+
+I want collage to help me quench my thirst, i hope that a new table brings new ideas and i hope that i can 

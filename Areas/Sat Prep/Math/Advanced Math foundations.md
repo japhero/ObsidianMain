@@ -1,4 +1,27 @@
 
+&emsp;
+
+## Using the Discriminant to find out how many solutions there are to a given Quadratic 
+The discriminant is part of the quadratic formula, it using the standard form of the quadratic equation $(ax^2+bx+c)$ lets us determine how many solutions there are to a given Quadratic. 
+
+The discriminant is although still an equation that being 
+$$\large{ b^2-4ac }$$ To determine how many solutions there are we simply take the coefficients of a quadratic in its standard form and solve; the value we get represents how many real solutions we have. To figure it out consult the table below ^2a6bc0
+
+| Discriminant    | `#` of solutions  |
+| --------------- | ----------------- |
+| Positive Number | Two solutions     |
+| Zero            | One real solution |
+| Negative number | No solutions      |
+
+### Solving for certain outcomes
+Sometimes we are asked to solve for the coefficients of a Quadratic so that they give us a certain outcome. For example you could be given the equation $kx^2+5x+7$  and asked to solve for $k$ so that the quadratic has one solution.
+We can do this by taking the discriminant and plugging in $k$ for $a$ and solving for $k$ after we set the equation equal to zero, we can do this as we know when the [[#^2a6bc0|Discriminant]] is equal to zero we have 1 solution. 
+
+
+---
+&emsp;
+
+
 # Dump
 
 
@@ -58,13 +81,4 @@ $$
 if k is a positive constant what is the value of k
 
 you can use the determinant in the [[Quadratic Formula]] to see how many solutions it will have 
-
-| Discriminant     | `#` of solutions  |
-| ---------------- | ----------------- |
-| Real Number      | Two solutions     |
-| Zero             | One real solution |
-| Imaginary number | No solutions      |
-$\text{Discrimant} = \sqrt{ b^2-4ac }$ 
-
-
 

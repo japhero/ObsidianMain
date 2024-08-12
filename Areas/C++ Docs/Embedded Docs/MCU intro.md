@@ -10,7 +10,7 @@
 -  How do we assign pointers?
 	- When we assign pointers we assign the location in memory that pointer represents EG: `int* var = 0x24`
 		- Note that for `int* var1,var2` only `var1` is a pointer
-- using the and symbol in front of a variable forces the variable to return its address instead of its value. Eg: `int* var1 = &var2` var1 would be "pointing" at var2
+- using the and (`&`) symbol in front of a variable forces the variable to return its address instead of its value. Eg: `int* var1 = &var2` var1 would be "pointing" at var2
 - Null pointers are pointers that are initialized with `NULL` as the address
 	- C++ has the keyword `nullptr`
 - when using pointers you have to put `volitile` infront because the compiler will optimize it away if you dont.
