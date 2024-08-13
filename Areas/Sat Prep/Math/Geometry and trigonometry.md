@@ -1,4 +1,12 @@
 
+
+
+
+# 3d shapes and their formulas
+![[3d shapes and their formulas|800]]
+
+
+
 &emsp;
 
 # Triangles
@@ -223,4 +231,5 @@ $$
 $$\text{distance} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
 > [!LESSON]+ MAKE LESON
 > - using distance formula to find equation given points 
+
 

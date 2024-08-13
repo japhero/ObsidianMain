@@ -114,4 +114,41 @@ $$
 ## Probability and relative frequency
 - When looking at data tables the key to solving the question is always to hone in on what the question is asking. To do this try and figure out the parts of the problem
 
+> [!NOTE]- Example Table
+> ![](https://i.imgur.com/JuIk5HQ.png)
 
+
+
+---
+## Data inferences 
+Data inferencing is about
+1. Make generalizations about a population based on sampling data
+2. Use margin of error to describe the uncertainty of sampling
+
+- To have accurate data we need large and representative samples.
+
+$$
+\text{estimate}=\text{sample proportion} \cdot \text{population}
+$$
+
+**Margin of Error**
+$$
+\text{range}=\text{estimate}\pm \text{margin of error}
+$$
+
+- what does confidence level mean in the context of margin of error?
+	- A confidence level indicates the thought percentage of success therefore if i have the same dataset a closer "guess" or margin of error will have a lower confidence range as we can be less sure that the true value will fall in a closer range.
+	- Think of it like this if i have an election i am going to be more confident that $30\%-60\%$  of the population will vote for me than that exactly $51\%-53\%$ will vote for me.
+
+# Statistical claims and evidence
+
+- A surveys claims can only be made about the constituents of the survey. For example if i survey white collage students in Virginia i can only make assumptions for that demographic 
+- The Sat asks fairly long questions and then requires us to use that to make logical reasoning 
+- We need to learn to   
+	1. Recognize good and bas sampling methods
+	2. Draw valid conclusions from the results of surveys and experiments
+- ==A good sample is **representative** and **random**== 
+
+**Defintions**
+- **Correlation** means there is a relationship or pattern between the values of two variables.
+- **Causation** means that one event causes another event to occur.
