@@ -28,7 +28,7 @@ $$\ln(1)=0$$
 
 ---
 # logarithm question (intuition)
-The log question is the idea of representing log as a logical expression or a method of thinking through the operation of log. We can see this thought process when we think through division, as how many groups of one number do i have. For logarithms this question is ==**what exponent will make my base equal to my argument**==. We can also see this in the formula.
+The log question is the idea of representing log as a logical expression or a method of thinking through the operation of log. We do this when we think through division, the question being "how many groups of x number do i have?". For logarithms this question is ==**what exponent will make my base equal to my argument**==. We can also see this in the formula.
 <img src = "https://i.imgur.com/TxNp3hn.png" width  =70%>
 
 

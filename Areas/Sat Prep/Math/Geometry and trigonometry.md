@@ -1,9 +1,8 @@
 
 
-
-
 # 3d shapes and their formulas
-![[3d shapes and their formulas|800]]
+
+![[3d shapes and their formulas.svg]]
 
 
 

@@ -49,12 +49,13 @@ $$
 \int (u \, dv )=uv -\int (v \, du ) 
 $$
 chose $u$ to be whatever variable will "shrink". This is because whatever will shrink be part of the next integral.
+- One trick you can use is simply make the whole integrand $u$ and make $dv=dx$. This can help rearrange your integral but doesn't necessarily simplify it. 
 
 **Steps**
 - Chose a $u$ and take it out.
 - take the integral of the rest or $dv$ to find $v$ and then plug into the equation
 
-
+-  make the whole function u and solve if stuck
 
 
 ---
