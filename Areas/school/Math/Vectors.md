@@ -1,5 +1,13 @@
 &emsp;
 &emsp;
+
+
+#  DUMP
+
+## Vector notation 
+
+$\vec{F}$ Arrow is the combined vector while a hat $(\hat{x})$ denotes the unit vector
+
 # 3b1b DUMP
 
 ## EP 1: Vectors
@@ -56,7 +64,7 @@
 ==**The basis of Vector space is a set of linearly independent vectors that span the full space.**==
 
 ## EP 3: Linear transformations and [[matricies]]
-.
+
 
 
 

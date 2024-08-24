@@ -160,3 +160,8 @@ Growing up this combative dining experience was all to common as my parents had 
 ## Hammer
 
 I want collage to help me quench my thirst, i hope that a new table brings new ideas and i hope that i can 
+
+
+## complete essay 2
+
+It tasted kinof dry as i swallowed, my dinner hadent "gelungen" as my mom would say. As the chicken entered my stomach my mind drifted back on topic I got back to the main course so to say although it being the  discussion me and my brother my brother, he 

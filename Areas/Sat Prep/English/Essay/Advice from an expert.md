@@ -1,0 +1,6 @@
+- Mc essay is an essy thats not genuine 
+- Make sure to show not tell
+- Essays that are very good at describing things are effective.
+	- "she opens with a sound , that coughing, and then creates a visual scene that we can see clearly." using emotions isnt cliche its just how you implement them.
+- "He or she is more concerned about demonstrating the ability to be abstract then the ability to be precise."
+- precision is power.

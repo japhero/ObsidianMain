@@ -1,19 +1,21 @@
 Date:  {{date}}
 # List
 
-## Calculus
+## Calculus BC
 - [ ] 
-## APUSH
+## GOV
 - [ ] 
 ## Band 
 - [ ] 
-## English
+## English LIT
 - [ ] 
-## Computer science
+## Bio
 - [ ] 
 ## Physics 
 - [ ] 
 ## Engineering
+- [ ]  
+## Econ
 - [ ] 
 
 #todo
