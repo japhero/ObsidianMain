@@ -19,7 +19,7 @@ Creating an equation out of the given information can be a complex system, but i
 # DUMP
 - make a formula solving for what you know
 - take the derivative of that with respect to time $\frac{dx}{dt}$
-- kind of similar to [[Implicit derivatives]] because we need to handle the relationships of different derivatives. It's like handling ][[Implicit derivatives]] but in the form of [[systems of equations]]
+- kind of similar to [[Implicit derivatives]] because we need to handle the relationships of different derivatives. It's like handling ][[Implicit derivatives]] but in the form of [[Systems of equations]]
 - Use $\tan(\theta)$ when a relationship between $\frac y x$ on a triangle because $\tan(\theta)$ is that relationship represented relative to $\theta$   
 - [Conical tank](https://youtu.be/ps-r4nti5Go?t=3022) [[Shapes Formulas#Right Circular Cone|formula]]
 	- use a ratio based on the original inputs when trying to formulate in terms of h 

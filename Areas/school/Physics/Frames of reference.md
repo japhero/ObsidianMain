@@ -9,7 +9,7 @@ A frame of reference is a set of coordinates that can be used to determine posit
 # Math 
 We can transform from one frame to another by adding or subtracting their relative velocity, depending on the relative direction of the relative motion. Therefore to make our frame relative to a certain velocity we must subtract all other velocities by the original to make it relative 
 ![](https://i.imgur.com/1qrezv4.png)
-To make it relative to frame $U_A$ we just subtract $U_A$ from all [[vectors|vectors]] meaning:
+To make it relative to frame $U_A$ we just subtract $U_A$ from all [[Vectors|Vectors]] meaning:
 $U_A = 5m/s, U_B = 3m/s$ 
 $U_A - U_A = 0$
 $U_B-U_A = -2$

@@ -4,7 +4,7 @@
 - models Linear, time-invariant dynamics (wtf does this mean)
 - its a mathematical model
 - can model input and output over time 
-- can convert differential equations into transfer functions using the [[laplace transform]]
+- can convert differential equations into transfer functions using the [[Laplace Transform]]
 - for linear differential equations when taking the derivative with respect to time, it turns into exponents of the complex variable $s$
 	- $\mathscr{L}(y(t))=s^0Y(s)$
 	- $\mathscr{L}(\dot{y}(t))=s^1Y(s)$

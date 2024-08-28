@@ -1,4 +1,4 @@
-
+	
 # Derivatives of inverse trig functions
 # $\sin^{-1}(u) = \frac{1}{{\sqrt{ 1-u^2 }}} \frac{du}{dx}$
 ---
