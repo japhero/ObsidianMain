@@ -4,13 +4,13 @@
 The formulas of Trigonometric Substitution are substitutes because they do the same action as the trig function making them equal. The formulas are often similar to solving for a side of a triangle and can be derived from [[Pythagoras theorem]] $(a^2+b^2=c^2)$. [Further explanation](https://youtu.be/EV5dhv0A2wU?t=14)
 ## Formulas 
 $$
-\int \sqrt{ a^2-x^2 } \, dx  \to x= a\sin(\theta)
+\int { a^2-x^2 } \, dx  \to x= a\sec(\theta)
 $$
 $$
-\int \sqrt{a^2+x^2 } \, dx  \to x = a\tan(\theta)
+\int {a^2+x^2 } \, dx  \to x = a\tan(\theta)
 $$
 $$
-\int \sqrt{ x^2 -a^2} \, dx \to x= a\sec(\theta)
+\int { x^2 -a^2} \, dx \to x= a\sin(\theta)
 $$
 &emsp;
 &emsp;
@@ -65,8 +65,7 @@ $$
 $$
 Therefore we know that 
 $$
- \int \frac{1}{\sqrt{1- x^2 }} \,dx = \sin^-1
-(x)$$
+ \int \frac{1}{\sqrt{1- x^2 }} \,dx = \sin^{-1}(x)$$
 
 
 

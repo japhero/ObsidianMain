@@ -9,8 +9,7 @@
 - Covalent bonds result can in polarity
 ![|150](https://i.imgur.com/Tojk5Bl.png)
 
-- When two of the same molecules form hydrogen bonds we call this cohesion  
-![|350](https://i.imgur.com/u5JbozW.png)
+- 
 
 - When different molecules form hydrogen bonds we call this adhesion 
 ![|350](https://i.imgur.com/o6hO8M7.png)
@@ -41,12 +40,34 @@
 - Number of nutrons changes resultinging in  isotopes
 - **Atomic mass** is  the mean mass for its naturally occurring isotopes
 - Bohr model
-	- Electrons fill orbitals in a consistnt order they start witht the orbitals closest to the nucleaus and and fill each orbial coninually
+	- Electrons fill orbitals in a consistnt order they start witht the orbitals closest to the nucleaus and and fill each orbial continually
 	- THe innermost shell has a max of two electrons but the next two electron shells  can have 8, this is known as the octet rule.
 	- the elctrons in the outermost level determin the stability of the atom
 	- What are valence shells?
 	- All elements are the most stable when the outermost shell  is filled with electrons according to the octet rule. This is because it is energetically favorable for atoms to be in that configuration and it makes them stable. However, since not all elements have enough electrons to fill their outermost shells, atoms form chemical bonds basically taking the electrons they need to  stay stable and taking them from  another causing a bond.
 
 ## [Textbook 2.2](https://openstax.org/books/biology-ap-courses/pages/2-2-water)
-- hydrophilic means you love having bonds with water this  usually happnes  with  polar molecules. On  the otherhand hydrophobic substances are things  such as  oil which dont bond  very well with water
+- hydrophilic means you love having bonds with water this  usually happnes  with  polar molecules. On the otherhand hydrophobic substances are things  such as  oil which dont bond very well with water
 - Water is a solvent because  it  disolves a lot of stuff adding not water shit to  water is called the sphere of hydrogen
+- Ice is formed when crystals in water harden creating the  ice
+	- Ice is less dense than water
+==Special properties of water are its high heat capacity and heat of vaporization, its ability to dissolve polar molecules, its cohesive and adhesive properties, and its dissociation into ions that leads to the generation of pH.==
+
+**Heat of vaporization** is the amount  of energy required to change one gram of liquid to gass
+
+**Evaporation** is when individual molecules change into gases
+
+**Solvent's** are  substances that are capable of dissolving other polar molecules
+
+The **Sphere of hydration** is a sphere of oxygen molecules that surround the charged molecules
+![](https://i.imgur.com/C1uY7wJ.png)
+
+Ionic compounds reacting with polar regions of water molecules and then disrupting the ionic bonds is called **dissociation.**
+
+When two of the same molecules form hydrogen bonds we call this **cohesion**  
+![|350](https://i.imgur.com/u5JbozW.png)
+
+Covalent bonds between the oxygen of one water molecule and the hydrogen of another water molecule are responsible for the adhesive properties of water or the fact that water sticks to itself.
+
+
+**What are hydroxyl groups?**
