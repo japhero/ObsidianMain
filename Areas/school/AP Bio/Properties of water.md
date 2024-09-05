@@ -24,10 +24,10 @@
 
 ## [Summary lesson #2 8/26](https://virtualvirginia.instructure.com/courses/18058/pages/m1-library-summary-videos-and-resources-8-slash-22-9-slash-15?module_item_id=5157179) 
 
-- Water is a polar molecule agian because the electrons are shared unequally giving it a positive and a negative end.
-- These properties allow it to bond with other molecules that are polar as opposites atract.
+- Water is a polar molecule again because the electrons are shared unequally giving it a positive and a negative end.
+- These properties allow it to bond with other molecules that are polar as opposites attract.
 - Water can bond to itself and this bond because the molecule is the same is called a cohesive bond.
-	- These bonds are relativly weak 
+	- These bonds are relatively weak 
 	- Thats where the lattice structure comes from the bonding 
 - You get more hydrogen bonds on the top of  the water thats why you have surface tension
 
@@ -42,7 +42,7 @@
 - Bohr model
 	- Electrons fill orbitals in a consistnt order they start witht the orbitals closest to the nucleaus and and fill each orbial continually
 	- THe innermost shell has a max of two electrons but the next two electron shells  can have 8, this is known as the octet rule.
-	- the elctrons in the outermost level determin the stability of the atom
+	- the electrons  in the outermost level determin the stability of the atom
 	- What are valence shells?
 	- All elements are the most stable when the outermost shell  is filled with electrons according to the octet rule. This is because it is energetically favorable for atoms to be in that configuration and it makes them stable. However, since not all elements have enough electrons to fill their outermost shells, atoms form chemical bonds basically taking the electrons they need to  stay stable and taking them from  another causing a bond.
 
