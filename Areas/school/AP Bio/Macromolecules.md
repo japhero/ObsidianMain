@@ -1,5 +1,29 @@
-[WORD KEY](https://openstax.org/books/biology-ap-courses/pages/3-key-terms)
 
+
+## [[#**Dehydration Synthesis** (Put tother while losing water)|Dehydration Synthesis]] And [[#**Hydrolysis Reactions** (Split with water)|Hydrolysis]] 
+
+![](https://i.imgur.com/jNWAWbs.png)
+
+
+
+
+### **Dehydration Synthesis** (Put tother while losing water)
+-  its a type of reaction that creates macromolecules
+- The byproduct is **Water.**
+
+1. The subcomponents of water disconnect ($H$ and $OH$)
+2. The monomers bond through a covalent bond 
+3. The Water molecule$(H_{2}O)$ rejoins the two already connected monomers
+
+### **Hydrolysis Reactions** (Split with water)
+ - Polymers are hydrolyzed/broken down into monomers
+ - A water molecule is also broken down into its components and distributed among the different monomers.
+
+
+
+
+----
+[WORD KEY](https://openstax.org/books/biology-ap-courses/pages/3-key-terms)
 
 
 
@@ -18,18 +42,8 @@
 - Covalent bonds are what connects monomers in polymers
 - Monomers have specific chemical properties and the **Polymers** are specfic to the monomer.
 
-### **Dehydration Synthesis** (Put tother while losing water)
--  its a type of reaction that creates macromolecules
-- The byproduct is **Water.**
 
-1. The subcomponents of water disconnect ($H$ and $OH$)
-2. The monomers bond through a covalent bond 
-3. The Water molecule$(H_{2}O)$ rejoins the two already connected monomers
 
-### **Hydrolysis Reactions** (Split with water)
- - Polymers are hydrolyzed/broken down into monomers
- - A water molecule is also broken down into its components and distributed among the different monomers.
-![|400](https://i.imgur.com/P5GDETS.png)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZMTeqZLXBSo?si=PFkoOQJZMrH8RzrP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -43,16 +57,7 @@
 	- Is a polymer composed of nucleotide monomers
 ![|200](https://i.imgur.com/2rTvr1P.png)
 - DNA and RNA are examples of nucleic acids
-**Proteins**
-- Proteins have monomers called Amino acids 
-- Amino acids have directionality with a $(NH2)$ end and a $(COOH)$ end
-![|200](https://i.imgur.com/GXF83ox.png)
-- A polypeptide is the primary structure of a protein considiting of an order of amino acids and determines the overall shape of the protein 
-![|400](https://i.imgur.com/QoLv2Hj.png)
-> both polypeptieds will have different shapes because of the  configuration of their monomers
 
-- **R** group are a group of atoms at the center of an amino acid  attached to the central carbon it can be hydrophobic, hydrophilic or ionic
-	- This group decides the chemical properties of that protein.
 
 
 # [AP Daily  1.5 video 1-3](https://apclassroom.collegeboard.org/6/home?apd=m1h1phx4h0&unitId=1)

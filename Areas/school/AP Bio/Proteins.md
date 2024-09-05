@@ -3,6 +3,11 @@
 - Can you use models to predict and justify how changes in subcomponents (and bonds) of a biological polymer (enzyme) can affect the functionality of the molecule?
 
 
+# 8/29 Lesson Macromolecules-Protiens
+
+
+
+
 # 8/30 Lesson
 - Enzymes speed up chemical relations
 - Act as a facilitator to guide chemical reactions
@@ -18,6 +23,19 @@
 ![](https://i.imgur.com/bhaY9i6.png)
 - An enzyme can denature or change shape if it finds itself in environments with a suboptimal temperature or PH.
 - 
+
+# Ap Daily 1.4
+**Proteins**
+- Proteins have monomers called Amino acids 
+- Amino acids have directionality with a $(NH2)$ end and a $(COOH)$ end
+![|200](https://i.imgur.com/GXF83ox.png)
+- A polypeptide is the primary structure of a protein considiting of an order of amino acids and determines the overall shape of the protein 
+![|400](https://i.imgur.com/QoLv2Hj.png)
+> both polypeptieds will have different shapes because of the  configuration of their monomers
+
+- **R** group are a group of atoms at the center of an amino acid  attached to the central carbon it can be hydrophobic, hydrophilic or ionic
+	- This group decides the chemical properties of that protein.
+
 
 
 ---
