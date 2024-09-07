@@ -8,4 +8,6 @@
 - for tangent use $\tan^2=\sec^2-1$
 - $\tan$ and $\sec$ are the same curve with a different $C$
 - [[Double and half angle identities]]
-- 
+
+
+

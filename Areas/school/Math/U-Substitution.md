@@ -130,3 +130,7 @@ $$ common \space Integral = \int \frac{1}{u} \, dx = \ln(u)$$
 - When we are asked for a integral in the form of $u$ we simply solve for $u$ as usual but set the limits of integration by pluging in the old values into the function of u.
 	- Then take the integral as normal but remember to use the limits of integration set  by the function of u
 	- 
+## Rational functions tricks
+- When you have your $u$ function in the denominator and $du$ doesn't match your top function, such as in the equation $\int \frac{{x+4}}{x^2+2x+5}  \, dx$ because your $du$ is $2x+2$.  Therefore you can multiply by the coefficient need on the inside of the integral and on the outside of you can divide out  the same quantity to make  it equal. In our example this would look like  $\frac{1}{2}\int \frac{{2x+8}}{x^2+2x+5}  \, dx$. but now we still have a wrong constant and to fix  that we can separate our constant into the quantities we need being $6$ and $2$ giving $$\frac{1}{2}\int \frac{{2x+2}}{x^2+2x+5} + \frac{6}{x^2+2x+5} \, dx$$
+- You can then use the defintion of inverse tangent 
+- $$ \int  (x^2+a^2) \, dx  = \frac{1}{a}\tan^{-1}\left( \frac{x}{a} \right)$$
