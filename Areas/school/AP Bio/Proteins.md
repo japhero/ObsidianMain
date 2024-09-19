@@ -29,13 +29,27 @@
 - Proteins have monomers called Amino acids 
 - Amino acids have directionality with a $(NH2)$ end and a $(COOH)$ end
 ![|200](https://i.imgur.com/GXF83ox.png)
-- A polypeptide is the primary structure of a protein considiting of an order of amino acids and determines the overall shape of the protein 
+- A polypeptide is the primary structure of a protein considering of an order of amino acids and determines the overall shape of the protein 
 ![|400](https://i.imgur.com/QoLv2Hj.png)
-> both polypeptieds will have different shapes because of the  configuration of their monomers
+> both polypeptides will have different shapes because of the  configuration of their monomers
 
 - **R** group are a group of atoms at the center of an amino acid  attached to the central carbon it can be hydrophobic, hydrophilic or ionic
 	- This group decides the chemical properties of that protein.
+![400](https://i.imgur.com/MWcfl4L.png)
 
+
+## **video 2**
+- Proteins start and end with either an amino group or a carboxyl group.
+	- This gives the amino acid directionality
+- Amino acids are connected by the formation of covalent bonds at the carboxyl end of the now growing peptide chain.
+- 4 elements of protein structure
+	1.  Primary structure is determined by the sequence of amino acids held together by the covalent bonds called peptide bonds
+	2. Secondary structure arises through local folding of the amino acid chain into elements such as alpha-helices and beta-sheets
+	3. Tertiary structure is the overall 3D shape of the protein and often minimizes free energy; Various types of bonds and interactions stabilize the protein at this level. Happens particularly through bonds found with R groups.
+	4. Quaternary structure arises from the interactions between multiple polypeptide units. 
+![](https://i.imgur.com/XbYI2lw.png)
+- Receptor proteins are responsible for receiving signals.
+-  remember that polar R groups are hydrophilic and non-polar R groups are hydrophobic 
 
 
 ---

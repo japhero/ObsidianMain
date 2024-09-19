@@ -78,18 +78,7 @@
 - Any change to the sequence changes the encoded information.
 - During synthesis nucleotides can only be added to the 3' end.
 	- Covalent bonds are used
-## **video 2**
-- Proteins start and end with either an amino group or a carboxyl group.
-	- This gives the amino acid directionality
-- Amino acids are connected by the formation of covalent bonds at the carboxyl end of the now growing peptide chain.
-- 4 elements of protein structure
-	1.  Primary structure is determined by the sequence of amino acids held together by the covalent bonds called peptide bonds
-	2. Secondary structure arises through local folding of the amino acid chain into elements such as alpha-helices and beta-sheets
-	3. Tertiary structure is the overall 3D shape of the protein and often minimizes free energy; Various types of bonds and interactions stabilize the protein at this level. Happens particularly through bonds found with R groups.
-	4. Quaternary structure arises from the interactions between multiple polypeptide units. 
-![](https://i.imgur.com/XbYI2lw.png)
-- Receptor proteins are responsible for receiving signals.
--  remember that polar R groups are hydrophilic and non-polar R groups are hydrophobic 
+
 
 ## **Video 3**
 Topic

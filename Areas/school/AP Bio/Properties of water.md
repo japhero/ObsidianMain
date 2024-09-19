@@ -9,9 +9,9 @@
 - Covalent bonds result can in polarity
 ![|150](https://i.imgur.com/Tojk5Bl.png)
 
-- 
 
 - When different molecules form hydrogen bonds we call this adhesion 
+	- These hydrogen bonds are between a $O$ atom and a $H$ atom.
 ![|350](https://i.imgur.com/o6hO8M7.png)
 
 - Surface tension is the result if increased hydrogen bonding forces between water and molecules at the surface
@@ -20,7 +20,6 @@
 	- Waters cohesive bonds allow water to change its density throught the  hydrogen  bonds making the ice float.
 	- Water can maintain a lot of heat energy before changing chemical states.
 	- Capillary action is the result  of adhesive and cohesive bonds of water allowing it to move
-	- 
 
 ## [Summary lesson #2 8/26](https://virtualvirginia.instructure.com/courses/18058/pages/m1-library-summary-videos-and-resources-8-slash-22-9-slash-15?module_item_id=5157179) 
 

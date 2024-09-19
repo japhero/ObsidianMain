@@ -5,7 +5,7 @@
 
 ## Actions 
 - seems like a class containing the individual actions of action Class
-- `runBlocking()` is whats called to run the actions 
+- `runBlocking()` is whats called to run the actions is called run blocking because it runs a loop that blocks although it can be shut down.
 ```java
 runBlocking(new SequentialAction(
     drive.turn(Math.PI / 2),
@@ -71,7 +71,28 @@ Main/runBlocking
 > 
 
 
+## [Example OpMode](https://learnroadrunner.com/trajectories.html#building-a-trajectory)
+- [ ] [Builder Pattern](https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/) 
+- the builder patern seeks to fix telescoping constructors or in other words the fact that given a cirtain amount of properties that are not all mandatory we dont  want to have to create an infinite amount of  constructors for all the properties.
+- [ ] [method chain](https://www.geeksforgeeks.org/method-chaining-in-java-with-examples/) 
+	- chain methods together inline by having all the methods return the used object and then calling a subsequent methon instead
+``` java
+new Example()
+.thingone()
+.thingtwo();
+```
+
 --- 
 # Resources
 [Actions docs](https://rr.brott.dev/docs/v1-0/actions/)
 [javaDOc](https://rr.brott.dev/docs/v1-0-0-beta1/actions/javadoc/)
+
+
+
+
+$$
+\begin{array}{l} \\
+\int_{-1}^1 \frac{e^{\tan^{-1}}}{1+y^2} \, dx  \\
+
+\end{array}
+$$
