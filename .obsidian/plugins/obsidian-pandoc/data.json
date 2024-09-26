@@ -7,9 +7,9 @@
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "link",
   "highDPIDiagrams": true,
-  "pandoc": "/usr/local/bin/pandoc",
+  "pandoc": "",
   "pdflatex": null,
-  "outputFolder": "/Users/Pweder/Downloads",
+  "outputFolder": "",
   "extraArguments": "",
   "exportFrom": "html"
 }
