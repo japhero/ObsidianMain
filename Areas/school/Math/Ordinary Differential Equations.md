@@ -1,3 +1,6 @@
+
+
+
 # 3Blue1Brown Vid Dump
 - differential questions arise when it's easier to express change than it is to express exact amounts
 - **ordinary differential equations or ODE** are equations where the differential equation of set up with one input usually T
