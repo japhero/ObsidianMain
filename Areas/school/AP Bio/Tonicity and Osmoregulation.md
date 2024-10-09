@@ -18,7 +18,7 @@
 - Isotonic
 	- Equal concentrations of both
 	- Flaccid condition
-- Hypertonic 
+- Hypotonic 
 	- Less solute and more solvent
 	- Turgid
 	- water -> cell

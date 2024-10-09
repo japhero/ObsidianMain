@@ -1,5 +1,22 @@
-
 #math #limits
+
+# Limits left and right ?
+If the "lefthand" and "righthand" limits are equal then the limit exists. The notation is 
+
+- **Left-hand Limit** = $\displaystyle \lim_{ x \to c^ {-} }$
+- **Right-hand Limit**  $\displaystyle \lim_{ x \to c^+ }$
+
+The + or - sign indicates what direction the single side limit comes from. Either negative infinity or positive infinity indicated by the (+,-).
+
+# When are limits undefined $\nexists$
+limits are undefined logically when the left side and the right side don't approach each other, this can be seen in graphs such as $\frac{2}{x}$ as seen below.
+<img src = "https://i.imgur.com/bUEAxjS.png" width =400>
+ Limits don't exists at asymptotes,  that's why as a general rule if you plug in a value and get a constant over 0 ($\frac{c}{0} = \nexists$). 
+
+ 
+
+
+
 
 # Dump
 
@@ -21,18 +38,5 @@
 > Apply [[L'Hôpital's rule]] by taking the derivative of the numorator: $1$ and the denominator $\cos(x)$. Giving the equation $\frac{1}{\cos(x)}$. This is now more friendly to substitution and when done it gives $\frac{1}{1}$ $$\frac{1}{\cos(x)}=1$$ 
 
 
-# Limits left and right ?
-If the "lefthand" and "righthand" limits are euqal then the limit exists. The notation is 
-
-- **Left-hand Limit** = $\displaystyle \lim_{ x \to c^ {-} }$
-- **Right-hand Limit**  $\displaystyle \lim_{ x \to c^+ }$
-
-The + or - sign indicates what direction the single side limit comes from. Either negative infinity or positive infinity indicated by the (+,-).
-
-# When are limits undefined $\nexists$
-limits are undefined logically when the left side and the right side don't approach each other, this can be seen in graphs such as $\frac{2}{x}$ as seen below.
-<img src = "https://i.imgur.com/bUEAxjS.png" width =400>
- Limits don't exists at asymptotes,  that's why as a general rule if you plug in a value and get a constant over 0 ($\frac{c}{0} = \nexists$). 
-
- 
+## Indeterminant/$\infty$
 
