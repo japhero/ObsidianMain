@@ -18,10 +18,14 @@
 	- Do i qualify for graduating from a virginia high school even though i havent graduated yet?
 	- Did i file a tax return this year or last year?
 		- If i am self employed does that count as employment and would my office be my house
+		- Yes
 - Parents questions
 	- Since when have we lived in this adress?
+		- Septermber 1 2010
 	- Date of issuance of Utas drivers licence 
+		- 
 	- Does uta own the cars and if so when was it registered
+		- October 2008
 	- Will you or your parent have lived outside Virginia, been employed full-time in Virginia and paid non-resident Virginia income taxes on all taxable income earned for at least one year immediately prior to the term for which in-state privileges are sought?
 
 # Virginia Tech
@@ -38,5 +42,7 @@
 		- Probably not 
 - Residency 
 	- When did i move into my current adress? 
+		- October 2008
+		- 15 years 11 months
 - Pearent legal guardian 
 	- When did max move into our current adress?

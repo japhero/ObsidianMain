@@ -40,9 +40,16 @@ $$
 
 
 
+
+
+
 ## Shell Method
-![|right|300](https://i.imgur.com/YjxY0AL.png)
-The shell method is another way to get the area of a solid revolved. The real use of this function is that you can take the area of a shape that is parallel to the $y$ axis but is still a function of $x$. This is because it finds the area of the function with "shells" or an infinitely small group of rectangles which is then projected across the $y$ axis as a circle or a "shell". This works because each shell has a height ($y$ value) that is still a function of $x$ and the distance to the y axis (the radius) is just x for each respective shell.
+
+
+
+<img src = "https://i.imgur.com/YjxY0AL.png" width =300 align =right>
+
+The shell method is another way to get the area of a solid revolved. The real use of this function is that you can take the area of a shape that is parallel to the $y$ axis but is still a function of $x$. This is because it finds the area of the function with "shells" or an infinitely small group of rectangles which is then projected across the $y$ axis as a circle or a "shell". This works because each shell has a height ($y$ value) that is still a function of $x$ and the distance to the $y$ axis (the radius) is just $x$ for each respective shell.
 
 $$
 2\pi\int_{a}^b \underbrace{( x )}_{Radius} \underbrace{(\mid f(x)-g(x) \mid)}_{Height} \, dx 

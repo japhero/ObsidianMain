@@ -6,6 +6,8 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Finding and graphing critical numbers]]
 [[First and second derivative test]]
 [[Implicit derivatives]]
+[[Improper integrals]]
+[[Integration by Parts]]
 [[Limits]]
 [[Local Linearity]]
 [[Mean value Theorem]]
@@ -22,6 +24,8 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[U-Substitution]]
 [[Vectors]]
 [[notation]]
+
+
 
 ### Algebra
 [[Systems of equations]]
@@ -51,6 +55,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 - [[integration rules]]
 - [[Trig derivatives]]
 - [[Derivatives of inverse functions]]
+- [[Logistic Growth Formulas]]
 
 #### Rules
 - [[Quotient rule]]
