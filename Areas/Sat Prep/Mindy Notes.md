@@ -11,3 +11,7 @@ ED Doesnt give advantage  because its binding for the school and they dont know 
 - [x] Miller recommend
 - [x] Finish common app questions by the end of the weekend
 - [ ] Start suplemental essays buy the week 
+
+
+ - [ ] Change what classes i am reporting for this year
+ - [ ] Talk with my counsoler about whats in my transcript
