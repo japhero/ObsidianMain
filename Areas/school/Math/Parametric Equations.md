@@ -10,3 +10,10 @@
 $$
 \sqrt{ (\Delta x)^2 +(\Delta y)^2} \to \int_{a}^b \sqrt{\left( \frac{dx}{dt} \right)^2 + \left( \frac{dy}{dt} \right)^2 }  \, dt 
 $$
+
+
+### Concavity
+$$
+\frac{d^2y}{dx^2}=\frac{\frac{d}{dt}\left( \frac{dy}{dx} \right)}{\frac{dx}{dt}}
+$$
+- note that $\frac{dy}{dx}=\frac{\frac{dy}{dt}}{\frac{dx}{dt}}$
