@@ -17,3 +17,10 @@ $$
 \frac{d^2y}{dx^2}=\frac{\frac{d}{dt}\left( \frac{dy}{dx} \right)}{\frac{dx}{dt}}
 $$
 - note that $\frac{dy}{dx}=\frac{\frac{dy}{dt}}{\frac{dx}{dt}}$
+
+
+### Parabola
+
+$$
+x=
+$$

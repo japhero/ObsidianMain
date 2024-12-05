@@ -70,6 +70,17 @@ $\vec{F}$ Arrow is the combined vector while a hat $(\hat{x})$ denotes the unit 
 
 
 
+
+## Dot product and cross product
+
+![](https://i.imgur.com/l53WRSM.png)
+
+![](https://i.imgur.com/KhyRmQY.png)
+
+
+
+
+
 &emsp;
 &emsp;
 
