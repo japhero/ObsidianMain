@@ -4,8 +4,9 @@
     "snippet",
     "dashboard",
     "dashboard-ReadLineLength",
-    "align Right"
+    "align Right",
+    "align"
   ],
   "baseFontSize": 20,
-  "theme": "obsidian"
+  "theme": "moonstone"
 }
