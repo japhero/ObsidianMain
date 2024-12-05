@@ -65,10 +65,20 @@ $$
 ![300](https://i.imgur.com/AK8JEUD.png)
 
 $$
-\Phi = \vec B\cdot A\hat n = |\vec{B}| |A| \cos \theta 
+\Phi = \vec B\cdot A\hat n = |\vec{B}| |\vec{A}| \cos \theta 
 
 $$
+This change in flux induces an **Electromotive** force or **emf** ($\varepsilon$). This **emf** can be represented using the formula 
+$$
+\varepsilon= B\ell v
+$$
+> Note $v$ is for velocity not voltage
 
+This formula stems from faradays law or 
+
+$$
+\text{emf}=-N \frac{\Delta \Phi}{\Delta t}
+$$
 
 
 
@@ -78,3 +88,5 @@ $$
 [Openstax College Physics for AP courses 22.5](https://openstax.org/books/college-physics-ap-courses-2e/pages/22-5-force-on-a-moving-charge-in-a-magnetic-field-examples-and-applications)
 [Kahn Academy right hand rule](https://www.khanacademy.org/test-prep/mcat/physical-processes/magnetism-mcat/a/using-the-right-hand-rule)
 [Libre Texts: Magnetic Induction](https://phys.libretexts.org/Courses/University_of_California_Davis/UCD%3A_Physics_7C_-_General_Physics/11%3A_Electromagnetism/11.9%3A_Magnetic_Induction)
+[Kahn Academy, Emf induced in rod traveling through magnetic field Video](https://www.khanacademy.org/science/ap-physics-2/ap-magnetic-forces-and-magnetic-fields/ap-magnetic-flux-faradays-law/v/emf-induced-in-rod-traveling-through-magnetic-field)
+
