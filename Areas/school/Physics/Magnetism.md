@@ -47,9 +47,13 @@ $$
 
 ## Right and left hand rule
 ![|200](https://i.imgur.com/RxqEPrn.png)
-- The right hand rule is a way for us to represent the directional relationship between different forces.  ![](https://openstax.org/apps/archive/20241024.164013/resources/90afb9f16575fafb8a6ac18aca7d51aebdc9860d)
+- The right hand rule is a way for us to represent the directional relationship between different forces.  
+![|300](https://cdn.kastatic.org/ka-perseus-images/73e3a6b05947364a0128ba9285151daf9dfd18d0.svg)
+
+- 
+- ![](https://openstax.org/apps/archive/20241024.164013/resources/90afb9f16575fafb8a6ac18aca7d51aebdc9860d)
 - the force on a wire can be represented by a hand curling in facing the direction  of the current.
-- Note that the right hand rule represents a proton while your lefthand represents and electron 
+
 
 ## Induced current 
 

@@ -1,5 +1,32 @@
-> [!INFO] 
-> These notes include the ap videos along with notes on the lesson summaries 
+
+## Forms of signaling
+As stated previously there are many ways for a "sending cell" to send signals to other cells. The main difference between the different ways that cells signal to each other are the distance of the signaling. 
+
+<img src = "https://i.imgur.com/Kye7vpm.png" alt = "center" height =400> 
+
+### Paracrine Signaling
+An often rare form of signaling, paracrine signaling is a very close range form of signaling that operates through the release of chemical messengers called **ligands** that can diffuse through the space between the cells.
+
+&emsp;
+&emsp;
+
+
+**Synaptic signaling**![right|300](https://i.imgur.com/8DR8ghM.png)
+Synaptic signaling is a form of paracrine signaling in which nerve cells transmit signals. This starts with a nuron firing an electrical impulse through the cell traveling through a long fiber like cord called an **axon** until it reaches the synapse. This then triggers the release of a **ligand** called a neurotransmitter which when it reaches the cell binds to receptors and cause a chemical change inside of the cell (often, opening ion channels and changing the electrical potential across the membrane).
+
+### Autocrine Signaling
+Autocrine signaling is when a cell sends signals to itself releasing a **ligand** that either binds internally or on its own surface. This is important for many different processes ensuring that a cell certifies its own role/identity.
+
+### Endocrine Signaling 
+Endocrine signaling is really the long distance form of signaling, using the blood stream to carry its signals. Note that because of their complexity these signals must be created using specialized cells. Signals that are produced and travel far in the body are called **hormones**. 
+![|700](https://i.imgur.com/zXRTVRb.png)
+
+
+
+**Terms Bank**
+
+**Ligand:** general term for molecules that bind specifically to other  molecules (such as receptors).
+
 # Dump
 ## Signal Transduction
 
@@ -103,4 +130,19 @@
 
 1. **Homeostasis:** The ability to maintain dynamic equilibrium around a set point
 
+---
 
+## KA 
+
+- sending cell always as implied sends the cell they although can take different shapes such as proteins
+- Not all cells can be target cells as the cell must have the right receptor ligand for it to work
+
+![](https://i.imgur.com/la9dOgS.png)
+
+
+
+
+
+
+# Resources
+[Kahn academy AP biology intro into cell signaling](https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/cell-communication/a/introduction-to-cell-signaling)
