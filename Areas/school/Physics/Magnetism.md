@@ -1,12 +1,17 @@
-
+	
 # DUMP
 
+**Magnetic force on a wire**
 $$
 F_{b}=I \ell B\sin (\theta)
 
 $$
+> Magnetic force on a wire with length $\ell$ and current  $I$
+
+
 - The centripetal force on an electron will always be in opposition to the electric charge 
 
+**Magnetic force on  a particle**
 $$
 \vec{F}=q \vec{v} \times  \vec{B}
 $$
@@ -19,6 +24,8 @@ $$
 
 - Units are a Tesla
 - $\theta$ is the angle between the directions $v$ and $B$
+
+---
 
 - There is no magnetic force on static charges because only charges that are moving produce magnetic fields which intern now can react to other magnetic fields.
 	- **moving charges function as magnets**
