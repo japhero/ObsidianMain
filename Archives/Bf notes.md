@@ -22,6 +22,8 @@
 ## [Ta 154](https://wiki.warthunder.com/Ta_152_H-1)
 - flaps are amazing 
 - force low speed turn
+- airspawn
+- B&Z fighter with much better sustained turn although it doesnt have quite as strong of an engine as the [[#[Bf 109 K-4](https //wiki.warthunder.com/Bf_109_K-4)|BF 109 K-4]]
 
 # Others
 
