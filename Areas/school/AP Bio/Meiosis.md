@@ -27,6 +27,42 @@
 
 
 
+--- 
+
+## AP video 5.1 
+1. what is the difference between  diploid and haploid?
+	-  Diploid  means there are 2 full sets of chromosomes
+		- =2n
+		- 4 sex cells
+	- Haploid cells contain 1 set of chromosomes
+		- =n
+2. What is the purpose of meiosis?
+	-  To create genetic variation
+3. What happens in the series of steps that make up meiosis?
+	- very similar things to mitosis
+4. What similarities and differences are there between mitosis and meiosis?
+	- Mitosis doesn't cross chromosomes
+	- Similar in the way genetic information is passed
+	- number of resulting cells and genetic  content
+---
+- 2 rounds of  devision (meiosis I and meiosis II )
+- 
+
+
+
+## Ap video 5.2
+1. What is crossing over, and how does it increase gentic diversity?
+	-  Occurs in prophase 1 of miosis 1 
+	- Results in recombinant chromosomes
+	- is when chromosomes exchange information 
+1. When does random assortment of chromosomes in meiosis increase gentic diversity
+	- The order during metaphase 1 causes genetic diversity
+1. How does fertilization increase genetic diversity?
+	- Variation in gametes is what can cause some more genetic variation.
+---
+- homologous chromosomes contain the same information
+
+
 &emsp;
 # Resources
 [Britannica: Gamete ](https://www.britannica.com/science/gamete)

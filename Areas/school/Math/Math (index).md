@@ -14,16 +14,19 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Mistakes list]]
 [[Motion Problems]]
 [[Partial Fraction Decomposition]]
+[[Polar Shapes]]
 [[Related Rates]]
 [[Shapes Formulas]]
 [[Slope Fields]]
 [[Solids of Revolution]]
 [[Solving for theta]]
 [[Solving inverse Derivatives]]
+[[Series]]
 [[Trigonometric Functions]]
 [[U-Substitution]]
 [[Vectors]]
 [[notation]]
+
 
 
 
@@ -72,6 +75,14 @@ This index is sorted into 2 sections the root directory is for topics and explan
 - [ ] [[Antiderivatives-integrals]]
 - [ ] [[Applied max and min-Derivative Applications]]
 - [ ] [[Antiderivatives-integrals]]
+
+
+#  Learning Math plan/Information 
+- I think that reading books would really take my understanding to the next level and I should look into the recommendations from [3Blue1Brown](https://www.3blue1brown.com/blog/book-recommendations)
+
+
+
+
 
 
 ---

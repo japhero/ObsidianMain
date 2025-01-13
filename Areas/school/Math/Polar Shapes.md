@@ -76,7 +76,7 @@ $r=a \pm b \cos \theta$
 > $$
 > \begin{array}{l} 
 > \frac{dx}{d\theta}=\frac{dr}{d\theta}\cos \theta-r\sin \theta \\
-> \frac{dy}{d\theta}=\frac{dr}{dt\theta} \cos \theta - r\sin \theta
+> \frac{dy}{d\theta}=\frac{dr}{d\theta} \cos \theta - r\sin \theta
 > \end{array}
 > $$
 > 3. Now we simply substitute that in for the basic slope formula $\frac{dy}{dx}$
@@ -99,9 +99,9 @@ $$
 \frac{1}{2}\int_{a}^b r(\theta)^2\, d\theta
 $$
 > area of function
+![](https://i.imgur.com/UuUFBTn.png)
 
-
-- The reason the are formula is $\frac{1}{2}\int_{a}^b r(\theta)^2\, d\theta$ is becasue 
+- The area formula is found through the fact that each $d\theta$ in the integral to find the area
 
 
 

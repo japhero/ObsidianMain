@@ -125,6 +125,16 @@ $$
 
 - just [[Improper integrals]]
 
+
+### Root test
+
+
+### Alternating Series test
+
+
+### Ratio Test
+
+
 ---
 ## Types
 
@@ -149,5 +159,7 @@ $$\text{if } r<| 1 | \text{ then } \sum f_{n} \text{ converges to } \frac{A}{1-r
 
 ### Telescoping 
 
-- Telescoping is when the series cancels out values over time leaving only a few values 
+- Telescoping is when the series cancels out values over time leaving only a few values. 
+- This happens because each successive interval on the series cancels out the last. 
+
 
