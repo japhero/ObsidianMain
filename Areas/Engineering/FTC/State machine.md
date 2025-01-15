@@ -8,7 +8,6 @@ Linear slides down with claw closed facing away from the central part of the rob
 ### **Upper bucket deposit** 
 
 - linear slides are up to nearly max height 
-- 
 
 ### **high chamber deposit**
 
