@@ -1,0 +1,3 @@
+
+
+As a  team we have been moving towards a more transferable codebase, pushing us to use parts of our code over several seasons. For example the code we use for our field orented drive is completely reused from the previous season and this season we have tried doing something similar with the main body/arm controller. This helps us become a more sustainable team as we dont need to teach new members how to create certain features and can just have them reuse what we have already created.  

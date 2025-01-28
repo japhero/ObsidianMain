@@ -1,17 +1,17 @@
 
-###  **Neutral** 
+###  **Neutral**  (B)
 Linear slides down with claw closed facing away from the central part of the robot 
 - Neutral is the sample cary state 
 - Specimen will also be held in a natural state 
 
 
-### **Upper bucket deposit** 
+### **Upper bucket deposit** (Y)
 
 - linear slides are up to nearly max height 
 
-### **high chamber deposit**
+### **high chamber deposit** (X)
 
-### **Ground intake** 
+### **Ground intake** (A)
 - Would be intake for submersible 
 - wrist needs to be up when entering sub 
 

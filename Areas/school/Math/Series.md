@@ -130,9 +130,31 @@ $$
 
 
 ### Alternating Series test
+If we have a Series in the form $\sum a_{n}$ and either $a_{n}=(-1)^n b_{n}$ or $a_{n}=(-1)^{n+1}b_{n}$ where $b_{n}>0$. Then if 
+
+$$
+\quad 1. \lim_{ n \to \infty } b_{n}=0 \text{ and,}
+$$
+$$
+2. \{b_{n}\}   
+$$
+the series $\sum a_{n}$ is convergent
 
 
 ### Ratio Test
+If we have a series in the form $\sum a_{n}$ and 
+$$
+L=\lim_{ n \to \infty } \left |\frac{a_{n+1}}{a_{n}} \right|
+$$
+Then,
+$$
+\begin{array}{l}  
+1. \text{If } L < 1, \text{ the series is absolutely convergent.} \\  \\
+2. \text{If } L = 1, \text{ the series is divergent.}  \\ \\
+3. \text{If } L > 1, \text{ the series may be divergent, conditionally convergent, or absolutely convergent.}  \\ \\
+
+\end{array}
+$$
 
 
 ---

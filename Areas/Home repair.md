@@ -52,3 +52,10 @@ Model = KRMF706ESS00
 | Low    | 1-5       | Every 4 months        |
 | Normal | 6-10      | Every 2 months        |
 | Heavy  | >10       | Every month           |
+
+---
+
+## Internet
+
+my Chromebook mac adress is 
+f8:fe:5e:1d:82:88
