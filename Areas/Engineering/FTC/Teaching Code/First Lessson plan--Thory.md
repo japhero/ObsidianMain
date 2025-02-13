@@ -17,11 +17,12 @@ The idea of the course is to introduce 20342's coders into coding with FTC
 - HW: 
 	- Make the students create a object oriented desgin for their robot and the interfaces 
 
-## Second Lecture: 7080's FTC codebase 
-
-- Talk about the different type of op-modes 
 
 
-**Material Planning**
-- create a class diagram 
-- Create an interface diagram
+
+
+
+## Make your own Week 
+- Separate the group we have 
+
+ - Have the auto and teleop people structure the code together 

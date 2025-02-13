@@ -111,6 +111,8 @@ $$
 - Although if the limit does equal $0$ then it doesn't necessarily mean that the limit converges.
 - The test is only conclusive if the limit equals doesn't equal 0 this means that if the limit does we must use another method to find convergence or divergence.
 
+---
+&emsp;
 ### Integral Test
 
 $$
@@ -125,6 +127,8 @@ $$
 
 - just [[Improper integrals]]
 
+---
+&emsp;
 
 ### Root test
 
@@ -132,14 +136,21 @@ $$
 ### Alternating Series test
 If we have a Series in the form $\sum a_{n}$ and either $a_{n}=(-1)^n b_{n}$ or $a_{n}=(-1)^{n+1}b_{n}$ where $b_{n}>0$. Then if 
 
+
 $$
-\quad 1. \lim_{ n \to \infty } b_{n}=0 \text{ and,}
-$$
-$$
-2. \{b_{n}\}   
+\begin{array}{\l}
+1. \displaystyle \lim_{ n \to \infty } b_{n}=0 \text{ and,}  \\ \\
+
+2. \{b_{n}\}  \text{ is a decreasing sequence}
+\end{array}
+
+
 $$
 the series $\sum a_{n}$ is convergent
 
+---
+
+&emsp;
 
 ### Ratio Test
 If we have a series in the form $\sum a_{n}$ and 
@@ -185,3 +196,33 @@ $$\text{if } r<| 1 | \text{ then } \sum f_{n} \text{ converges to } \frac{A}{1-r
 - This happens because each successive interval on the series cancels out the last. 
 
 
+
+## Definitions 
+
+$$
+\begin{array} {l}
+ \text{1. } \sin(x)= \displaystyle \sum_{n=0}^\infty (-1)^n \frac{x^{2n+1}}{(2n+1)!} \\
+ \\
+\text{2. }  \cos = \displaystyle \sum_{n=0}^\infty (-1)^n \frac{x^{2n}}{(2n)!} \\
+ \\
+\text{3. } e^x =\displaystyle \sum_{n=0}^\infty \frac{x^n}{n!} \\
+ \\
+\text{4. } e^x = \displaystyle \lim_{ n \to \infty } \left( 1+\frac{1}{n} \right)^n
+\end{array}
+
+
+
+$$
+
+
+
+
+
+
+&emsp;
+
+---
+# Resources
+[Pauls Online Notes Alternating  Series test](https://tutorial.math.lamar.edu/classes/calcii/AlternatingSeries.aspx)
+[Pauls Online Notes Ratio Test](https://tutorial.math.lamar.edu/classes/calcii/ratiotest.aspx)
+[Pauls online notes Root test](https://tutorial.math.lamar.edu/classes/calcii/roottest.aspx)

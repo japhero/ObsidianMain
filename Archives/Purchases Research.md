@@ -30,5 +30,14 @@
 [Carhart WIP $55 (if i was rich)](https://us.carhartt-wip.com/products/s-s-carhartt-wip-usa-t-shirt-white-43)
 
 
+
+# Guitar  
+[Yamaha Acoustic APX600](https://www.amazon.com/dp/B078WYJ3HR?ref=cm_sw_r_cso_cp_apin_dp_ZKSKW55CJ0S5CT9P8CR1&ref_=cm_sw_r_cso_cp_apin_dp_ZKSKW55CJ0S5CT9P8CR1&social_share=cm_sw_r_cso_cp_apin_dp_ZKSKW55CJ0S5CT9P8CR1&peakEvent=4&starsLeft=1&skipTwisterOG=1)
+[Yamaha Acoustic FS830](https://shop.usa.yamaha.com/en/p/instruments/guitars-basses-amps/guitar-type/travel-guitars/fs830-acoustic-guitar)
+
 ---
+
+
+
+
 
