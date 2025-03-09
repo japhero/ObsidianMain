@@ -35,6 +35,30 @@
 [Yamaha Acoustic APX600](https://www.amazon.com/dp/B078WYJ3HR?ref=cm_sw_r_cso_cp_apin_dp_ZKSKW55CJ0S5CT9P8CR1&ref_=cm_sw_r_cso_cp_apin_dp_ZKSKW55CJ0S5CT9P8CR1&social_share=cm_sw_r_cso_cp_apin_dp_ZKSKW55CJ0S5CT9P8CR1&peakEvent=4&starsLeft=1&skipTwisterOG=1)
 [Yamaha Acoustic FS830](https://shop.usa.yamaha.com/en/p/instruments/guitars-basses-amps/guitar-type/travel-guitars/fs830-acoustic-guitar)
 
+
+## Cleats
+- **Nike tiempo**
+
+# Clothing 
+
+## Hoodies 
+
+
+[Overview Redit post](https://www.reddit.com/r/malefashionadvice/comments/vtkuhl/i_spent_1500_on_hoodies_and_here_is_what_i_learned/)
+
+[Champion Hoodie](https://www.champion.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSk40MTlYQzZLRVJaNlJCNllBQ0tYNVJK?auto_redirect=false&edge_redirect=true&locale=en-US&skip_shop_pay=true)
+
+Pistol lake
+
+
+## Pants
+
+[Green pants i have i like](https://www.dickies.com/carpenter-pants/relaxed-fit-heavyweight-duck-carpenter-pants/1939RMS++32+32.html) 
+
+
+
+
+
 ---
 
 

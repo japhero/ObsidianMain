@@ -18,7 +18,7 @@
 	2. prokaryotes use operators and promoters
 5. Cell specialization
 	1. this is largly about how genes are regulated into creating specialized versions of themselves. 
-6. Mutations 
+6. [[Gene Mutations]] 
 	1. external factors do mutation aswell as internal errors
 	2. point  mutation  vs frameshift
 	
