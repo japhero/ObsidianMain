@@ -21,7 +21,7 @@ The washer method is a combination of the [[Solids of Revolution#Disk Method For
 
 &emsp;
 
-## Washer method formula
+### Washer method formula
 <img src = "https://i.imgur.com/f7PLXh9.png" align = "right" width =250>
 The washer method formula is different than the disk in part because it relies on the principal of "outer" - "inner". This means that we are subtracting the function closest away from the line of rotation from the function farthest. This can be confusing because one has to remember the relativity to line of rotation not to the axis of rotation.
 
