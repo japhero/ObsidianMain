@@ -12,7 +12,7 @@
 **Circles formula with negative Coefficients**
 - If we have the circle formula $x^2+y^2=r^2$ but $x$ or $y$ has a negative coefficient lets say $-x^2+y^2=r^2$ this formula now inverts giving 2 parabola like shapes eg.
 ![200](https://i.imgur.com/P5G1Hao.png)
-
+X
 
 
 ## Different shapes 
