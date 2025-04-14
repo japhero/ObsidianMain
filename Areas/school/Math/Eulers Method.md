@@ -9,7 +9,7 @@ $dx=\text{constant}$
 2. $x:$ $x$ value
 3. $y:$ $y$ value
 4. $\frac{dy}{dx}:$ slope of section
-5. $dy:$  difference  
+5. $dy:$  difference  (multiply given $dx$ by $\frac{dy}{dx}$)
 
 
 

@@ -85,6 +85,20 @@ Pistol lake
 ---
 
 
+# Laptop 
+
+### **Requirements**
+- 32gb RAM
+- Discrete graphics with at least 4gb VRAM
+- CPU
+	- Intel Core i5/i7/i9 or Core Ultra 5/7/9 **or higher**  
+	- AMD Ryzen 5/7/9 **or higher  
+	- **Processor manufactured 2023 or later [(how to find)](https://eng.vt.edu/admissions/computer-requirement/processor-launch-date.html)  
+	-  [SnapDragon, ARM Processors not recommended](https://eng.vt.edu/admissions/computer-requirement/computer-requirement-frequently-asked-questions.html#q12)
+
+### **Options**
+
+- **[HP Envy Laptop 17](https://www.hp.com/us-en/shop/pdp/hp-envy-laptop-17-da0097nr)**
 
 
 

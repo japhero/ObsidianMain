@@ -69,7 +69,7 @@ $$
 
 
 
-![[Trig sub triangle cos(theta).svg|140|right]]eNote that in other trig sub's we cant just take take the inverse trig we have to take the function of theta and use the fact that its a trig function to solve get an identity. For example if we had ended up with $\cos(\theta)$ instead of $\theta$ would have to  take the $\frac{\text{adjacent}}{\text{hypotenuse}}$. 
+![[Trig sub triangle cos(theta).svg|140|right]]Note that in other trig sub's we cant just take take the inverse trig we have to take the function of theta and use the fact that its a trig function to solve to get an identity. For example if we had ended up with $\cos(\theta)$ instead of $\theta$ would have to  take the $\frac{\text{adjacent}}{\text{hypotenuse}}$. 
 
 
 &emsp;
