@@ -32,3 +32,68 @@ Signals consist of
 - How does a net gain in energy or net loss of energy impact and organism?
 	- Net gain results in storage or growth 
 	- Net loss can result in loss of mass and possibly death
+
+
+
+
+## [AP Daily Video 8.4](https://apclassroom.collegeboard.org/6/assignments?apd=dh1d3mkez8&status=assigned)
+- what would cause the population to produce a density of individuals that exceeds the system's resource availability?
+	- An abundance of food could cause breif overproduction 
+- what causes a population to display a logistic growth model?
+	- S-shaped curve
+	- Is caused by exponential growth, so it requires that a population experience a massive increase in resource availability 
+
+---
+- Density dependent factors: abiotic or biotic factors that affect population size
+$$
+\frac{dN}{dt}=r_{\text{max}}N\left( \frac{K-N}{K} \right)
+$$
+
+
+## [AP Daily Video 8.5 ](https://apclassroom.collegeboard.org/6/assignments?apd=losj8aw8zf&status=assigned)
+- how is the structure of a community measured?
+	- The **Simpsons Diversity index**
+$$
+\text{Diversity Index }= 1- \sum \left( \frac{n}{N} \right)^2
+$$
+- what determines whether communities change overtime?
+	- The geological and resource conditions 
+	- Depending upon interactions between species things like competition matter a lot.
+- how do populations access energy and matter in the community?
+	- Through their physical interactions eg eating food
+- how are relationships between populations characterized?
+- what types of interactions drive population dynamics?
+	- competition
+	- Types of species interactions Below
+- how is community structure related to energy availability in the environment?
+	- Limiting factors along with species interactions often determine the energy availability of one species when compared to another 
+---
+- A **community** is a group of species living together in the same location and interacting with one another
+- **Species composition** is the identity of each species in the group
+- Types of speices interactions
+	- **Mutualism:** both species benifit
+	- **Commensalism:** one benifits the other doesnt 
+	- **Parasites**
+	- **Predatory pray**
+
+
+## [AP daily video 8.6](https://apclassroom.collegeboard.org/6/assignments?apd=007a5d41k5&status=assigned)
+- what types of ecosystem influence the organization of the ecosystem?
+	- The diversity?
+- how does the diversity of species within an ecosystem influence the organization of the ecosystem?
+	- The way that the populations interact for example producers vs consumers affect the long-term structure of that ecosystem
+- what contributes to maintaining the diversity of an ecosystem?
+	- Environmental factors
+	- Abiotic and biotic factors 
+	- Abiotic factors help maintain diversity 
+		- Light 
+		- water
+		- Climate
+	- Producers help maintain diversity
+	- Predators help maintain other populations
+- how does the addition or removal of any component of an ecosystem affect its overall short term and long term structure?
+	- 
+---
+- Diversity is related to resilience
+- **Keystone species** effect on the ecosystem have a disproportional effect on the environment 
+
