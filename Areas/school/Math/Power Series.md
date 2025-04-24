@@ -10,9 +10,9 @@ $$
 > $c_{n}$'s are called the coefficients of the series.
 > **$a$** is just a number
 
-This is sometimes called the series about $a$ this is because the series is literally centered at $a$. Example 
+This is sometimes called the series about $a$ this is because the series is literally centered at $a$. Example:
 
-![|righ|300](https://i.imgur.com/7CTx8JP.png)
+![|right|300](https://i.imgur.com/7CTx8JP.png)
 
 $$
 \begin{array}{l}
@@ -21,12 +21,16 @@ g(x)= \frac{1}{1+x^3} \\
 =\displaystyle{\sum_{n=0}^\infty (-1)^n x^{3n}}, |-x^3|<1
 \end{array}
 $$
-&emsp;
+
+
 
 &emsp;
 
 &emsp;
 
+&emsp;
+
+&emsp;
 
 > [!EXAMPLE]- Explanation for power series of $\frac{1}{1+x^3}$ around 0  
 > Because the function is in the same form as the known geometric series equation
@@ -38,11 +42,17 @@ $$
 > simplifying this gives  our answer
 > $\displaystyle{g(x)=\sum_{n=0}^\infty(-1)^nx^{3n}}$
 
+&emsp;
+
+## Convergence and divergence  
+Power series as seen previously are different because because they are a [[Series]] that "builds" a function, this means that I will get a function of $x$ and therefore this will converge or diverge. The Interval over which the [[Power Series]] is convergent is called the **Interval of convergence**. Half of the distance between the 2 interval points is called the **radius of convergence.**
+
+![[Radius and interval of convergence diagram|600]]
+Typically we use the [[Series#Ratio Test|ratio test]] or the [[Series#Root test|root test]] to find the interval of convergence. This is possible because  the ratio and root test give a conditional for their result. For example the ratio test is conditioned on its result being convergent when the result (or $L$) is less than 1. $(L<1)$ working from this  result  then gives us the interval of convergence and therefore the ratio.
 
 
 
-
-
+&emsp;
 # Dump
 &emsp;
 ## Power Series
