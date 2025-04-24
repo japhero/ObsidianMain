@@ -86,6 +86,7 @@ Pistol lake
 
 
 # Laptop 
+> [Laptop finder Newegg](https://www.newegg.com/tools/laptop-finder?N=600566986%20601394668%20600337010%20601388267%20601331008%20601349624%20601107729%20601423770%20601274231%20601400071%20601296059%20601400076%20600335670%20600487994%20600487991%20601193584%20601184390%20601352308&Order=1&page=2)
 
 ### **Requirements**
 - 32gb RAM
@@ -99,6 +100,7 @@ Pistol lake
 ### **Options**
 
 - **[HP Envy Laptop 17](https://www.hp.com/us-en/shop/pdp/hp-envy-laptop-17-da0097nr)**
+	- [On newegg but cheaper](https://www.newegg.com/hp-envy-17-3-touchscreen-intel-core-ultra-7-155u-32gb-memory-1-tb-pcie-ssd-geforce-rtx-3050-laptop-gpu-moonstone-gray/p/N82E16834818019?Item=N82E16834818019)
 
 
 

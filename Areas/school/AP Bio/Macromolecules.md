@@ -1,4 +1,4 @@
-
+				
 
 ## [[#**Dehydration Synthesis** (Put tother while losing water)|Dehydration Synthesis]] And [[#**Hydrolysis Reactions** (Split with water)|Hydrolysis]] 
 
