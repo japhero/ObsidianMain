@@ -1,6 +1,47 @@
 &emsp;
 
 
+## Overview 
+A [[Power Series]] is a way to represent/approximate existing functions by combining [[Series]] $\left( \sum_{n=0}^\infty \right)$ with functions, note that the functions within the series are not the same as the functions that the series represents.  Any Power Series can be written in the form. 
+
+$$
+\sum_{n=0}^\infty c_{n}(x-a)^n\
+$$
+> $c_{n}$'s are called the coefficients of the series.
+> **$a$** is just a number
+
+This is sometimes called the series about $a$ this is because the series is literally centered at $a$. Example 
+
+![|righ|300](https://i.imgur.com/7CTx8JP.png)
+
+$$
+\begin{array}{l}
+g(x)= \frac{1}{1+x^3} \\
+ \\
+=\displaystyle{\sum_{n=0}^\infty (-1)^n x^{3n}}, |-x^3|<1
+\end{array}
+$$
+&emsp;
+
+&emsp;
+
+&emsp;
+
+
+> [!EXAMPLE]- Explanation for power series of $\frac{1}{1+x^3}$ around 0  
+> Because the function is in the same form as the known geometric series equation
+> $\frac{1}{1-x}=\sum_{n=0}^\infty x^n)$ 
+> Therefore we can simply substitute in the correct equation 
+> $\left( \frac{1}{1-(-x^3)} \right)$
+> To get the initial series of
+> $\sum_{n=0}^\infty (-x^3)^n$
+> simplifying this gives  our answer
+> $\displaystyle{g(x)=\sum_{n=0}^\infty(-1)^nx^{3n}}$
+
+
+
+
+
 
 # Dump
 &emsp;
