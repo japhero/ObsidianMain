@@ -8,7 +8,7 @@ $$
 \sum_{n=0}^\infty c_{n}(x-a)^n\
 $$
 > $c_{n}$'s are called the coefficients of the series.
-> **$a$** is just a number
+> **$a$** is just the number that the series is centered around
 
 This is sometimes called the series about $a$ this is because the series is literally centered at $a$. Example:
 
@@ -34,9 +34,9 @@ $$
 
 > [!EXAMPLE]- Explanation for power series of $\frac{1}{1+x^3}$ around 0  
 > Because the function is in the same form as the known geometric series equation
-> $\frac{1}{1-x}=\sum_{n=0}^\infty x^n)$ 
+> $\frac{1}{1-x}=\sum_{n=0}^\infty x^n$ 
 > Therefore we can simply substitute in the correct equation 
-> $\left( \frac{1}{1-(-x^3)} \right)$
+> $\frac{1}{1-(-x^3)}$
 > To get the initial series of
 > $\sum_{n=0}^\infty (-x^3)^n$
 > simplifying this gives  our answer
@@ -48,7 +48,7 @@ $$
 Power series as seen previously are different because because they are a [[Series]] that "builds" a function, this means that I will get a function of $x$ and therefore this will converge or diverge. The Interval over which the [[Power Series]] is convergent is called the **Interval of convergence**. Half of the distance between the 2 interval points is called the **radius of convergence.**
 
 ![[Radius and interval of convergence diagram|600]]
-Typically we use the [[Series#Ratio Test|ratio test]] or the [[Series#Root test|root test]] to find the interval of convergence. This is possible because  the ratio and root test give a conditional for their result. For example the ratio test is conditioned on its result being convergent when the result (or $L$) is less than 1. $(L<1)$ working from this  result  then gives us the interval of convergence and therefore the ratio.
+Typically we use the [[Series#Ratio Test|ratio test]] or the [[Series#Root test|root test]] to find the interval of convergence. This is possible because  the ratio and root test give a conditional as their result. For example the ratio test is conditioned on its result being convergent when the result (or $L$) is less than 1 $(L<1)$. Working backwards from this relationship then would give the correct **interval of convergence**.
 
 
 
@@ -140,7 +140,7 @@ f(x)=\sum_{n=0}^\infty \frac{f^{(n)}(a)}{n!}(x-a)^n \\
 =f(a)+f'(a)(x-a)+\frac{f''(a)}{2!}
 \end{array}
 $$
-
+- Taking the derivative doest change the radius of convergence
 
 
 ---

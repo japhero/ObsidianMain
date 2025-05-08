@@ -84,7 +84,7 @@ Pistol lake
 
 ---
 
-
+&emsp;
 # Laptop 
 > [Laptop finder Newegg](https://www.newegg.com/tools/laptop-finder?N=600566986%20601394668%20600337010%20601388267%20601331008%20601349624%20601107729%20601423770%20601274231%20601400071%20601296059%20601400076%20600335670%20600487994%20600487991%20601193584%20601184390%20601352308&Order=1&page=2)
 
@@ -102,5 +102,24 @@ Pistol lake
 - **[HP Envy Laptop 17](https://www.hp.com/us-en/shop/pdp/hp-envy-laptop-17-da0097nr)**
 	- [On newegg but cheaper](https://www.newegg.com/hp-envy-17-3-touchscreen-intel-core-ultra-7-155u-32gb-memory-1-tb-pcie-ssd-geforce-rtx-3050-laptop-gpu-moonstone-gray/p/N82E16834818019?Item=N82E16834818019)
 
+---
+
+&emsp;
+# HOTAS system 
+- [Redit post](https://www.reddit.com/r/hotas/comments/l7gcql/considering_your_first_hotas_more_comprehensive/)
 
 
+### Stick
+- [Gladiator NXT EVO](https://www.vkbcontrollers.com/products/gladiator-nxt-evo-space-combat-edition-right-hand?variant=39887803580534)
+	- 130$
+- **Thrustmaster T16000m**
+	- Cheap under 100
+	- reports of failure 
+- [Logitech Extreme 3d  Pro Joystick](https://www.logitechg.com/en-us/products/space/extreme-3d-pro-joystick.html)
+	- 35$
+
+### Throttle 
+- [CH PRO Throttle ](https://www.amazon.com/CH-Products-Pro-Throttle-USB/dp/B00006B84Z?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A30I8KTV4DUTWQ&gQT=1)
+	- 115$
+- [TWCS Throttle ](https://www.thrustmaster.com/en-us/products/twcs-throttle/)
+	- 130$

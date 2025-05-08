@@ -4,7 +4,7 @@
 
 &emsp;
 ## Limit Comparison 
-Limit comparison is a test we can use to figure out if 2 [[Series]] behave in the same way. Behavior in this case means we can figure out if the terms diverge or converge. This test operates similarly  to the and operator in CS.
+Limit comparison is a test we can use to figure out if 2 [[Series]] behave in the same way. Behavior in this case means we can figure out if the terms diverge or converge. This test operates similarly to the and operator in CS.
 
 Suppose that $\sum a_{n}$ and $\sum b_{n}$ are series with positive terms.
 $$
