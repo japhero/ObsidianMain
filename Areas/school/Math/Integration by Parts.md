@@ -1,4 +1,4 @@
-&emsp;
+	&emsp;
 # Table Method 
 The table method is a simplification tool for taking the integral using [[Integration by Parts]] because it breaks down the method into repeatable steps. This method is useful when you know that you are going to have to take integral [[recursion|recursively]] and dont want to have to track all the different integrals. 
 

@@ -87,6 +87,7 @@ Pistol lake
 &emsp;
 # Laptop 
 > [Laptop finder Newegg](https://www.newegg.com/tools/laptop-finder?N=600566986%20601394668%20600337010%20601388267%20601331008%20601349624%20601107729%20601423770%20601274231%20601400071%20601296059%20601400076%20600335670%20600487994%20600487991%20601193584%20601184390%20601352308&Order=1&page=2)
+> [Toms Hardware Review](https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptops)
 
 ### **Requirements**
 - 32gb RAM
@@ -101,6 +102,7 @@ Pistol lake
 
 - **[HP Envy Laptop 17](https://www.hp.com/us-en/shop/pdp/hp-envy-laptop-17-da0097nr)**
 	- [On newegg but cheaper](https://www.newegg.com/hp-envy-17-3-touchscreen-intel-core-ultra-7-155u-32gb-memory-1-tb-pcie-ssd-geforce-rtx-3050-laptop-gpu-moonstone-gray/p/N82E16834818019?Item=N82E16834818019)
+- [OMEN Transcend Laptop 16](https://www.hp.com/us-en/shop/pdp/omen-transcend-laptop-16-u1047nr?jumpid=ma_weekly-deals_product-tile_laptops_3_9p999ua_omen-transcend-lapto#techSpecs)
 
 ---
 
@@ -123,3 +125,12 @@ Pistol lake
 	- 115$
 - [TWCS Throttle ](https://www.thrustmaster.com/en-us/products/twcs-throttle/)
 	- 130$
+
+
+---
+# Gym Bag 
+-  [Overview Article NYT](https://www.nytimes.com/wirecutter/reviews/best-gym-bag/)
+
+
+- [Nike Bag](https://www.nike.com/t/utility-power-training-duffel-bag-medium-51l-cWmT7h?_android_redirect=https%3A%2F%2Fwww.nike.com%2Ft%2Futility-power-training-duffel-bag-medium-51l-cWmT7h&_fallback_redirect=https%3A%2F%2Fwww.nike.com%2Ft%2Futility-power-training-duffel-bag-medium-51l-cWmT7h&_ios_redirect=https%3A%2F%2Fwww.nike.com%2Ft%2Futility-power-training-duffel-bag-medium-51l-cWmT7h&cid=4942550&cjevent=2d78c2f7352e11f0838e00200a82b838&cl=2d78c2f7352e11f0838e00200a82b838&cp=usns_aff_nike_content_PID_5513721_Wirecutter+Inc.&pcn=cj_mobile_inactivity-0d&pcrid=17049705&pcrn=CJ&psid=5513721&psn=Wirecutter+Inc.&referrer=singular_click_id%3Df4aeb9cf-4717-4e92-a749-22b7ae360b62&sl_id=jjo0)
+- 
