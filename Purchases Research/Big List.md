@@ -47,40 +47,6 @@ Most likely candidate: [# 1533CL Swivel flag set](https://officialsports.com/153
 [Official Sports PRO short sleve ](https://officialsports.com/mens-ussf-pro-ss-shirt/)
 
 
----
-&emsp;
-# Clothing 
-
-
-#### Jerseys 
-
-[HSV 2021-2022 Season Home kit](https://www.mmsports.com/hsv-home-jersey-2021-22)
-
-#### **Hoodies**
-[jack and jones crew neck i lost](https://www.jackjones.com/en-us/product/12240188_2161/relaxed-fit-crew-neck-sweatshirt)
-
-[Overview Redit post](https://www.reddit.com/r/malefashionadvice/comments/vtkuhl/i_spent_1500_on_hoodies_and_here_is_what_i_learned/)
-
-[Champion Hoodie](https://www.champion.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSk40MTlYQzZLRVJaNlJCNllBQ0tYNVJK?auto_redirect=false&edge_redirect=true&locale=en-US&skip_shop_pay=true)
-
-Pistol lake
-
-#### **T-shirts**
-[Carhart WIP $55 (if i was rich)](https://us.carhartt-wip.com/products/s-s-carhartt-wip-usa-t-shirt-white-43)
-
-
-#### **Gloves**
-- [x] [Carhart's](https://www.amazon.com/Carhartt-Insulated-Synthetic-Leather-Glove/dp/B08V6J3PJJ?th=1&psc=1)
-	- [website](https://www.carhartt.com/product/802020/insulated-ducksynthetic-leather-knit-cuff-glove?categoryCode=)
-
-
-#### **Pants**
-
-[Green pants i have i like](https://www.dickies.com/carpenter-pants/relaxed-fit-heavyweight-duck-carpenter-pants/1939RMS++32+32.html) 
-
-
-
-
 
 ---
 
@@ -133,4 +99,14 @@ Pistol lake
 
 
 - [Nike Bag](https://www.nike.com/t/utility-power-training-duffel-bag-medium-51l-cWmT7h?_android_redirect=https%3A%2F%2Fwww.nike.com%2Ft%2Futility-power-training-duffel-bag-medium-51l-cWmT7h&_fallback_redirect=https%3A%2F%2Fwww.nike.com%2Ft%2Futility-power-training-duffel-bag-medium-51l-cWmT7h&_ios_redirect=https%3A%2F%2Fwww.nike.com%2Ft%2Futility-power-training-duffel-bag-medium-51l-cWmT7h&cid=4942550&cjevent=2d78c2f7352e11f0838e00200a82b838&cl=2d78c2f7352e11f0838e00200a82b838&cp=usns_aff_nike_content_PID_5513721_Wirecutter+Inc.&pcn=cj_mobile_inactivity-0d&pcrid=17049705&pcrn=CJ&psid=5513721&psn=Wirecutter+Inc.&referrer=singular_click_id%3Df4aeb9cf-4717-4e92-a749-22b7ae360b62&sl_id=jjo0)
+
+
+---
+&emsp;
+# Cologne 
+
+- Blue de Chanel
+	- [Clone 1](https://www.fragrancenet.com/cologne/armaf/armaf-club-de-nuit-iconic/eau-de-parfum?mv_pc=fragrantica&utm_campaign=475315&utm_medium=affiliate&utm_source=fragrantica#499617)
+- [ Drakkar Noir](https://www.amazon.com/dp/B000VXRMBQ?_encoding=UTF8&th=1#averageCustomerReviewsAnchor)
+- [YCZ club gents](https://www.amazon.com/Ycz-Nightclub-Essential-Fragrance-Occasions/dp/B0DNMZ2MLG?crid=13JGPUZ2RLYI8&dib=eyJ2IjoiMSJ9.fpmTm8rf-wnbyXt90n7AUwijg-tAj0y7-Kj9PRgwRt8aQO1jJCI9yVMvCLR47QBVP-GGLzbcHgnzxaubgGqefmbI6912O6eIjMJtGL8JWcfvuVS1m3UJy9FQhSEIle7jfAm0zNmtUMjViiZ_EoVawBWfbEM1ks09jwEM5KAFZ7-6k0a4enW6aFSGnPbz7MZdclL0R8rdRPiWqso3vSdtzfhA_588WiuDSgXthMBiVFqVsIYEbsDVeOIkgBQgWbzacTh6vt4LPb7I242uO0QWgdUgK4hLvf-wx_CLqCIrmOo.4Z9RniWo2c3ZFJGqy-DtNb0GD3yM7r-375rt5MmudB0&dib_tag=se&keywords=ycz%2Bclub%2Bgent%27s%2Baroma&qid=1750800415&sprefix=ycz%2Bclub%2B%2Caps%2C105&sr=8-1&th=1)
 - 
