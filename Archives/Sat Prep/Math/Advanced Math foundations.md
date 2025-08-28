@@ -54,7 +54,7 @@ $$
 \end{array}
 $$
 **Linear and quadratic systems**
-- [[Systems of equations]] for linear equations 
+- [[Systems of linear equations]] for linear equations 
 
 ## Word problems 
 - Exponential functions 

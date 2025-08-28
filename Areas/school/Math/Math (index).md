@@ -31,7 +31,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 
 
 ### Algebra
-[[Systems of equations]]
+[[Systems of linear equations]]
 [[Factoring polynomials]]
 [[Factoring negative exponents.]]
 [[Logarithms]]

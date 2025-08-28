@@ -4,9 +4,58 @@
 
 #  DUMP
 
+
+
+## [Kahn A linear combination and span](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span)
+- Linear combination is any combination of 2 vectors using constants to manipulate both vectors 
+- Linear combinations are called linear combinations because the only manipulation we do is using a scalar 
+- a potential question to be asked with linear combinations is what is a set of all of the combinations of linear combinations 
+	- You can represent any vector within $\mathbb R^2$ using linear combinations of 2 vectors that are not 0 vectors or a multiples of one another.
+
+- **SPAN** is a set of the possible "end" locations of the total combinations
 ## Vector notation 
 
 $\vec{F}$ Arrow is the combined vector while a hat $(\hat{x})$ denotes the unit vector
+
+### Colum vectors 
+These vectors are simply a different format for the vectors that we all know and love. 
+
+$\text{Vector}(x,y) =\begin{bmatrix} x \\y\end{bmatrix}$
+
+
+# Math 2114 VT DUMP
+- Vectors carry multiplication like with a normal brackets
+$$
+\vec{v}=4[1,1,1]=[4,4,4]  
+$$
+
+#### Vector addition 
+- When we add vectors we simply add its respective values together. 
+	- in $\mathbb{R}^2$ with vector $u$ and $v$ we would get an expression that looks like 
+$$
+u+v=[u_{1}+v_{1},u_{2}+v_{2}]
+$$
+
+#### Vector Subtraction
+- This rule is very similar to vector addition in the sense that the way we do the operation is the same but obviously the actual operation is different 
+
+$$
+u-v=[u_{1}-v_{1},u_{2}-v_{2}]
+$$
+
+#### Head-to-tail Rule
+given 2 vectors $u$ and $v$ the vector $\vec{s}=u+v$ the new vector $s$ gives the the vector from the tail of $u$ to the head of $v$.
+![[Pasted image 20250826231125.png]]
+
+This also works with [[#Vector Subtraction]] but is inverted.
+For example if given the 2 vectors $a$ and $b$ the vector $b-a$ would go from the head of $a$ to the tail of $b$
+![[Pasted image 20250826231918.png]]
+
+
+
+
+
+
 
 # 3b1b DUMP
 
@@ -84,8 +133,11 @@ $\vec{F}$ Arrow is the combined vector while a hat $(\hat{x})$ denotes the unit 
 &emsp;
 &emsp;
 
+
 ---
+
 # Resources 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fNk_zzaMoSs?si=2T9HyD7MNYrdAtlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k7RM-ot2NWY?si=tT_GbTdc7-8Bz9VW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[Linear Algebra: A Modern Introduction, 4th Edition](https://ng.cengage.com/static/nb/ui/evo/index.html?eISBN=9780357038963&id=524237692&snapshotId=1251407&)

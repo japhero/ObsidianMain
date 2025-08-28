@@ -1,21 +1,23 @@
 Date:  {{date}}
 # List
 
-## Calculus BC
+## Linear algebra
 - [ ] 
-## GOV
+## Intro to ECE
 - [ ] 
-## Band 
+## English 
 - [ ] 
-## English LIT
+
+## Physics lecture  
 - [ ] 
-## Bio
+
+## Physics Lab 
 - [ ] 
-## Physics 
+
+## PSCI
 - [ ] 
-## Engineering
-- [ ]  
-## Econ
+
+## General TODO
 - [ ] 
 
 #todo

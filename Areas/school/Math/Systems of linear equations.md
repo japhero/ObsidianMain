@@ -52,10 +52,7 @@
 > **Solution** The solution to this system is $x=9,y=4$. This means that the two linear functions intersect at $(9,4).$ 
 
 
-## Linear Systems with 3 unknowns
-- 
-
-&emsp;
+## 
 
 ---
 

@@ -1,0 +1,13 @@
+
+# Lecture Dump 
+
+
+
+
+
+
+
+ &emsp;
+
+---
+# Resources 
