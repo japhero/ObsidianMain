@@ -42,6 +42,40 @@ $$
 $$
 
 
+#### Velocity and speed 
+
+avg Speed = $\frac{\text{distance}}{\Delta t}$
+
+$\vec v_{\text{avg}}= \frac{\Delta \vec r}{\Delta t}$
+
+$\vec{a}_{\text{avg}}=  \frac{\Delta\vec{v}}{\Delta t}$
+
+- This difference is obviously just a result of derivative 
+- Within motion diagrams an acceleration vectors relative motion to its affected velocity proportionally changes the velocity of the effected object.
+	- in simpler terms if the acceleration vector is facing the same direction as the velocity vector and is half of the size of the velocity vector it will increase the velocity by the size of the acceleration vector. This gets increasingly complicated if the velocity vector and the acceleration vector are facing in different directions because this also changes the direction.
+
+- The translation from words to symbols is the heart of problem solving in physics. 
+
+
+- The book uses 4 representations of knowlege 
+1. Verbal
+2. Pictoral 
+3. Graphical
+4. Mathematical
+
+- Problem solving approach is:
+  1. Model
+  2. Visualize 
+  3. Solve 
+  4. Review 
+
+#### Sig figs 
+- a significant figure is a figure which can be "reliably known"
+![[Pasted image 20250831162021.png]]
+
+- The $\sim$ is an order of magnitude estimate indicating much less confidence and precision than $\approx$ 
+- 
+
 
 ## Definitions 
 1. **Kinematics:** the mathematical description of motion
@@ -49,4 +83,24 @@ $$
 3. **Position vector:** A vector pointing from the origin to the position of the prescribed object, often represented as $\vec{r}$
 4. **Scalar:** $\mathbb R$
 5. **Vector:** A quantity having both a magnitude and a direction. EG a car going 50mph SW
-6. 
+6. **Time interval:** the amount of time between 2 arbitrary points in time $( \Delta t =t_{2}-t_{1})$
+
+
+| Prefix   | Power of 10 | Abbreviation |
+|----------|-------------|--------------|
+| giga-    | 10⁹         | G            |
+| mega-    | 10⁶         | M            |
+| kilo-    | 10³         | k            |
+| centi-   | 10⁻²        | c            |
+| milli-   | 10⁻³        | m            |
+| micro-   | 10⁻⁶        | µ            |
+| nano-    | 10⁻⁹        | n            |
+
+
+
+
+
+
+**Q3**
+The reading quizzes and "Problem-solving Studio" questions are found:  
+**Please select all applicable answers.**

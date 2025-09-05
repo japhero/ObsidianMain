@@ -39,6 +39,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 ### Linear Algebra
 [[Vectors]]
 [[matricies]]
+[[linear combination]]
 
 
 
