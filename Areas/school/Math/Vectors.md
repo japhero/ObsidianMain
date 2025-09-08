@@ -52,7 +52,47 @@ For example if given the 2 vectors $a$ and $b$ the vector $b-a$ would go from th
 ![[Pasted image 20250826231918.png]]
 
 
+#### Vector magnitude 
 
+
+$$
+\vec{v}= 
+\left[\begin{array}{ll}
+v_{1} \\
+v_{2} \\
+v_{3} \\
+ \space\vdots \\
+v_{n}
+\end{array} \right]
+$$
+$$
+||\vec{v}|| =\sqrt{ v^2_{1}+v^2_{2}+\dots +v^2_{n} }
+$$
+
+
+#### Vector distance 
+Distance is like Cartesian distance for 2 vectors in $\mathbb R^2$ this would simply be 
+$$
+d= |a-b|
+$$
+> vectors $\vec{a}$ and $\vec{b}$ 
+
+if we want a more general form we simply rewrite the absolute value 
+
+$$
+d= \sqrt{ (a_{1}-b_{1})^2 +(a_{2}-b_{2})^2}
+$$
+
+
+#### The Cauchy-Schwarz Inequality
+For all vectors $u$ and $v$ in $\mathbb{R^n}$
+$$
+|u\cdot v| \leq |u| |v|
+$$
+
+ 
+**More identities**
+- $||u+v||^2 = (u + v) \cdot (u+v)$
 
 
 
@@ -108,7 +148,7 @@ For example if given the 2 vectors $a$ and $b$ the vector $b-a$ would go from th
 	- This usual occurs when 2 vectors in 3d space fall on the same span or in 2d space when 2 vectors have the same "angle" in polar coordinates.
 - ==**Linear independence**== 
 	- $\vec{w}\neq a\vec{v}$
-	- when one vector cannot be represented by scaling the other [[Vectors|vector]] they are linearly independent.
+	- when one vector cannot be represented by scaling the other [[Areas/school/Math/Vectors|vector]] they are linearly independent.
 **Basis formal definition**
 ==**The basis of Vector space is a set of linearly independent vectors that span the full space.**==
 

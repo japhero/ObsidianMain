@@ -1,5 +1,16 @@
 This index is sorted into 2 sections the root directory is for topics and explanations about "systems" of math. Components of math such as formulas/rules are separated into their own directory.
-### Calculus
+
+
+
+### Linear Algebra
+[[Areas/school/Math/Vectors]]
+[[matricies]]
+[[linear combination]]
+[[Solving Linear Systems using matrices]]
+
+
+
+### Calculus (Retired to archive)
 [[Antiderivatives-integrals]]
 [[Applied max and min-Derivative Applications]]
 [[Definite integrals]]
@@ -24,7 +35,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Series]]
 [[Trigonometric Functions]]
 [[U-Substitution]]
-[[Vectors]]
+[[Areas/school/Math/Vectors]]
 [[notation]]
 
 
@@ -36,11 +47,6 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Factoring negative exponents.]]
 [[Logarithms]]
 [[Long division]]
-### Linear Algebra
-[[Vectors]]
-[[matricies]]
-[[linear combination]]
-
 
 
 ### Signal processing 

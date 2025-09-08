@@ -9,7 +9,7 @@
 	- Continuing the lerp creates smother lines cubic Bezier curve
 	- Recursively Lerping is called [DeCasteljaus Algorithm](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm)
 		-  ![DeCasteljaus Algorithm](https://i.imgur.com/Q6cW52k.png)
-	- Bernstein format is when the line is represented as a factor of each point. This is taking the [[Vectors]] of each point scaling them by each of their own cubic polynomial and adding them together. [Time Stamp](https://youtu.be/jvPPXbo87ds?t=332)
+	- Bernstein format is when the line is represented as a factor of each point. This is taking the [[Areas/school/Math/Vectors]] of each point scaling them by each of their own cubic polynomial and adding them together. [Time Stamp](https://youtu.be/jvPPXbo87ds?t=332)
 	- We can also write the Bezier lines as factors of Powers of $t$ [6:12](https://youtu.be/jvPPXbo87ds?t=372)
 		- Is a more computationally efficient way of calculating the curves
 	- Finally there is the matrix form
