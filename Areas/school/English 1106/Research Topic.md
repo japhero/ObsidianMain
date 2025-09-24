@@ -14,6 +14,7 @@
 - (could be more specific to gut health or strength)**
 
 ****
-==**How does entering your freshmen year at Virginia Tech affect students study habits in terms of type of studying, the amount of studying and the quality of their studies**==
+==**How does entering your freshmen year at Virginia Tech affect students study habits in terms of type of studying, the amount of studying and the quality of their studies.**==
 
 ---
+

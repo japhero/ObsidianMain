@@ -46,6 +46,57 @@ $$
 - $\omega$ is positive for counter clockwise rotation and negative for clockwise rotation 
 
 
+## Centripetal Acceleration 
+- The acceleration of uniform circular motion is called **centripetal acceleration**.
+	- This is not different from other types of motion its just a name for this specific motion. 
+- Magnitude of acceleration for centripetal acceleration is:
+$$
+a=|\vec{a}|=\frac{|d \vec{v}|}{dt}=\frac{v\space d\theta}{r \space d\theta/v_{t}}=\frac{v_{t}^2}{r}
+$$
+this also would give $a= \omega^2r$
+
+
+### Uniform circular motion model 
+- This model applies to a particle moving along a circular trajectory at constant speed or to points on a solid object rotating at a steady rate. 
+- Mathmatically
+	- tangential velocity is $v_{t}=\omega r$
+	- Centripetal acceleration is $v_{t^2}/r$ or $\omega^2r$
+	- $\omega$ and $v_{t}$ are positive for ccw rotation negative for cw rotation.
+- Model fails if motion isnt steady 
+
+
+### Non Uniform circular motion 
+- for linear systems acceleration is $ax=\frac{dv_{x}}{dt}$
+- Angular acceleration is denoted by $\alpha$ (alpha)
+$$
+\alpha \equiv \frac{d \omega}{dt}
+$$
+- in $rad/s^2$
+
+![[Pasted image 20250914202930.png|500]]
+
+
+### Tangential Acceleration
+- We offten make acceleration components relative to the tangent line of the circle of which the point is at. 
+**Arc Length**
+$$
+\begin{array}
+s_{f}=s_{i}+v_{it}\Delta t +\frac{1}{2}a_{t}(\Delta t)^2 \\
+v_{ft}=v_{it} +a_{t}\Delta t
+\end{array}
+$$
+
+
+
+
+
+
+
+
+
+
+
+
 ****
 ## Definitions 
 - Coordinate systems that move relative to each other are called [[Frames of reference|reference frames]] 

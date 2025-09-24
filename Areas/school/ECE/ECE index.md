@@ -6,6 +6,7 @@ This Section is divided into the dump folders ([[#Lecture Notes]] and [[#Book no
 # Content 
 - [[Electrical Fundamentals]]
 - [[Circuit Fundamentals]]
+- [[Mesh and Nodal Analysis]]
 
 
 ### Compression List
@@ -19,7 +20,8 @@ This Section is divided into the dump folders ([[#Lecture Notes]] and [[#Book no
 ## Lecture Notes
 - [[8_29_2025 ECE]]
 - [[9_3_2025 ECE]]
-- [[9_5_2025 ECE]]
+- [[9_15_2025 ECE]]
+- [[9_19_2025 ECE]]
 
 
 ## Book notes
