@@ -1,0 +1,6 @@
+
+“U.S. Restrictions on Huawei Technologies: National Security, Foreign Policy, and Economic Interests.” n.d. Legislation. Accessed October 14, 2025. [https://www.congress.gov/crs-product/R47012](https://www.congress.gov/crs-product/R47012).
+
+
+
+Market analysts say that placing SMIC on the Entity List could "choke China's semiconductor supply chain," affect its ability to develop and produce advanced (5G) semiconductors used in smartphones and network equipment, and affect Huawei's smartphone business.[215](https://www.congress.gov/crs-product/R47012#fn215 "Xiuxi Zhu, \"Potential US Ban on SMIC Could Choke China's Semiconductor Supply Chain,\" Standard and Poor's Global Market Intelligence , September 20, 2020, at https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/potential-us-ban-on-smic-could-choke-china-s-semiconductor-supply-chain-60375095 .") Some analysts contend that restricting SMIC's access to U.S. technologies and equipment could accelerate Chinese efforts to develop its chip-making capabilities

@@ -95,5 +95,14 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "editor:context-menu": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
   ]
 }

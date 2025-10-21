@@ -188,7 +188,7 @@ The main goals of the wiring design where to be easy to assemble and compact. We
 ### IMU choice 
 This project started with an [MPU 6050](https://www.adafruit.com/product/3886) but this [IMU](https://en.wikipedia.org/wiki/Inertial_measurement_unit) revealed itself to be too inaccurate to be used for [[#Dead Reckoning]] as the data even when still was so inaccurate that it would be hundreds of meters off. Therefore I switched over to the [LSM6DSOX](https://www.adafruit.com/product/4438) as it was supposed to be more accurate and less error prone. This switch turned out to be a good choice as the [LSM6DSOX](https://www.adafruit.com/product/4438)  was much more accurate.
 
-![[SMORT COMPARISON|900]]
+![[SMORT COMPARISON|800]]
 >Take this data with a grain of salt as the [LSM6DSOX](https://www.adafruit.com/product/4438)  data might be inaccurate due to method of integration.
 
 **Bonus meme** Mr. Miller often says that the astronauts who landed on the moon had less computing power than us and still managed land on the moon I mean yea but that's like saying Einstein didn't have a calculator I am no Einstein trust me.
