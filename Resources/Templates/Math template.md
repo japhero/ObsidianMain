@@ -1,4 +1,4 @@
-#math #LinearAlgebra #notes 
+#math #LinearAlgebra #notes #Lecture 
 
 # Lecture Notes
 - 

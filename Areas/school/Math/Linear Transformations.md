@@ -1,4 +1,4 @@
-
+#LinearAlgebra #math 
 
 &emsp;
 # Intro 
@@ -12,7 +12,14 @@ A **transformation** or **mapping** or **function** $T$ from $\mathbb{R}^n$ to $
 $$
 T:\mathbb{R}^n \to \mathbb{R}^m
 $$
-Were $\mathbb{R}^n$ is the **Domain** of the function $T$ and $\mathbb{R}^m$ is the **codomain/target space** of the function $T$. Note that for the function $T$ the **range** of the function is a **subspace** of **codomain**.
+Were $\mathbb{R}^n$ is the **Domain** of the function $T$ and $\mathbb{R}^m$ is the **codomain/target space** of the function $T$. Note that for the function $T$ the **range** of the function is a **subspace** of the **codomain**.
+
+
+> [!Note]- Output matrix Size
+> Remember that the output given by the linear transformation must be a matrix of size 
+> $$A_{\text{output}}=m\times n$$ 
+> with $m$ rows and $n$ columns.
+
 
 &emsp;
 ### Conditions of being a [[Linear Transformations|Linear Transformation]]. 
@@ -204,8 +211,23 @@ $$
 [S \circ T]=[S][T]
 $$
 
+---
+
+&emsp;
+
 
 ## Further Formulas/Relationships
+
+&emsp;
+### Inverse Linear Transformations
+Let $S$ and $T$ be linear transformations from $\mathbb{R}^n$ to $\mathbb{R}^n$. Then $S$ and $T$ are **inverse transformations** if 
+$$S \circ T =I_{n} \text{ and } T \circ S =I_{n}$$
+
+### Inverse standard matrices
+Let $T:\mathbb{R}^n \to \mathbb{R}^n$ be an invertible linear transformation. Then its standard matrix $[T]$ is an invertible matrix, and 
+$$
+[T^{-1}] = [T]^{-1}
+$$
 
 
 

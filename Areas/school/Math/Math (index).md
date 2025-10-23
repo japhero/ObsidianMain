@@ -4,9 +4,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 
 ### Linear Algebra
 [[Areas/school/Math/Vectors]]
-[[matricies]]
-[[linear combination]]
-[[Solving Linear Systems using matrices]]
+[[Linear Transformations]]
 
 
 

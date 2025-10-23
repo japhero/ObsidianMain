@@ -1,4 +1,4 @@
-
+#physics #Physics_Book_Notes 
 
 # Dump 
 -  This chapter is basically [[Areas/school/Math/Vectors]]
