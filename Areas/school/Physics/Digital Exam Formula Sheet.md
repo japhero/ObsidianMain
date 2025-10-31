@@ -17,7 +17,7 @@ $$
 
 
 ## Uniform Motion Kinematic Equations
-
+	
 $$
 \begin{array}{ll}
 v_{s} = \Delta s/ \Delta t \\
@@ -96,6 +96,26 @@ U_{s}=\frac{1}{2}k(\Delta s)^2
 $$
 > Where $\Delta s$ is the distance between the spring equilibrium and its "stretched position"
 
+**Hooke's Law**
+$$
+F=-k \Delta x
+$$
+> $k$ is in the opposite direction because the spring pulls against the forces that displace it. $\Delta x$ is the displacement from the springs equilibrium.  
+
+****
+
+**Spring constant for springs in parallel**
+$$
+k_{eq}= k_{1}+k_{2}\dots +k_{n}
+$$
+**Spring constant for springs in series**
+$$
+k_{eq}^{-1}=k_{1}^{-1}+k_{2}^{-1}\dots +k_{n} ^{-1}
+$$
+
+
+
+
 ****
 
 &emsp;
@@ -112,7 +132,7 @@ $$
 
 ## Third
 
-![||right|200](https://stickmanphysics.com/wp-content/uploads/2020/10/Newtons-3rd-wall.jpg)
+![||Right|200](https://stickmanphysics.com/wp-content/uploads/2020/10/Newtons-3rd-wall.jpg)
 
 For every action, there is an equal and opposite reaction.  When one object exerts a force on a second object, the second object exerts a force of equal magnitude and opposite direction on the first object.
 
@@ -120,6 +140,81 @@ $F_{1}=F_{2}$
 ****
 
 &emsp;
+
+# Gravity
+
+$$
+g=\frac{F_{\text{M on m}}}{m} = \frac{GM}{r^2}
+$$
+
+****
+&emsp;
+# Energy
+
+**Definition of Work**
+$$
+\Delta E_{\text{sys}}=W_{ext}
+$$
+> where $W_{\text{ext}}$ is the amount of energy leaving
+****
+
+**Kinetic Energy**
+$$
+K=\frac{1}{2}mv^2
+$$
+
+****
+
+**Gravitational Potential Energy**
+
+$$
+U_{g}=mgh
+$$
+> where $h$ is the hight from an arbitrary position
+
+
+****
+**Work for non constant force**
+$$
+W=\int_{s_{i}}^{s_{f}} F_{s} \, ds 
+$$
+> work done by for $\vec{F}$ as a particle is displaced from $s_{i}$ to $s_{f}$ 
+>$F_{s}$ is the component of $\vec{F}$ in the $s$ direction 
+
+****
+
+**Work Done with constant force**
+$$
+\begin{array}{l}
+W=F(\Delta r)\cos \theta \\
+W= \vec{F} \cdot \Delta  \vec{r}
+\end{array}
+$$
+> (work is done by a constant force) where $\theta$ is the angle between the force and the particles displacement $\Delta  \vec{r}$ 
+
+****
+
+**Total system work equation**
+$$
+\Delta E_{\text{sys}} = \Delta K + \Delta E_{th} = W_{ext}
+$$
+****
+
+**Power Definition**
+$$
+P = \frac{dE_{sys}}{dt}
+$$
+****
+**Power relative to a constant force and velocity**
+$$
+P= \vec{F} \cdot  \vec{v} = Fv \cos \theta
+$$
+
+****
+&emsp;
+
+
+
 # Vector Equations 
 
 $$

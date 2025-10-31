@@ -5,6 +5,12 @@
       "ctime": 1726790144906,
       "path": "Areas/school/Math",
       "title": "Math"
+    },
+    {
+      "type": "folder",
+      "ctime": 1761256171747,
+      "path": "Areas/school/Physics",
+      "title": "Physics"
     }
   ]
 }

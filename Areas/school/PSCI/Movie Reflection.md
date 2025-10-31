@@ -1,0 +1,7 @@
+
+**Prompt (1)**
+
+The movie was really eye opening within several aspects and underlines several interesting themes about war power and politics within not only Venezuela but other countries in similar situations. More specifically it was interesting to me how much power and control leaders of industry have specifically those leading the oil and gas industries in Venezuela. The movie doesn't really connect this to war but the conclusions are very evident, natural resources such as the oil industry in Venezuela are vital and important to the global economy. This dependence gives the people within the governments/companies that control that resource immense power and in the case of Venezuela this was super clear in the effective control that the oil barons had over the "free press". 
+
+This revelation also brings about an interesting contradiction within a common narrative within the west that the free and "independent" media (private media corporations) are more effective at creating truthful stories because they are not controlled by the government. This narrative blows in the face of the Venezuela example where according to the movie there was a almost top down approach within media companies to control the narrative in favor of the opposition, something largely responsible for the coup show in the documentary. This is relevant to media companies in the US, where TV/news stations such as Fox News and others spew a partisan message 24/7 showing that although these companies are free from the government this doesn't insure accuracy.
+

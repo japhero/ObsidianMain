@@ -4,10 +4,9 @@ This Section is divided into the dump folders ([[#Lecture Notes]] and [[#Book no
 
 
 # Content 
-- [[Electrical Fundamentals]]
-- [[Circuit Fundamentals]]
-- [[Mesh and Nodal Analysis]]
-
+- [[Kirchhoff's Laws]]
+- [[Numerical Base Conversions and Calculations]]
+- [[Areas/school/ECE/Capacitors|Capacitors]]
 
 ### Compression List
 - [ ] 
@@ -22,6 +21,16 @@ This Section is divided into the dump folders ([[#Lecture Notes]] and [[#Book no
 - [[9_3_2025 ECE]]
 - [[9_15_2025 ECE]]
 - [[9_19_2025 ECE]]
+- [[9_22_2025 ECE]]
+- [[9_24_2025 ECE]]
+- [[9_26_2025 ECE]]
+- [[10_3_2025 ECE]]
+- [[10_8_2025 ECE]]
+- [[10_13_2025 ECE]]
+- [[10_15_2025 ECE]]
+- [[10_20_2025 ECE]]
+- [[10_22_2025 ECE]]
+- 
 
 
 ## Book notes

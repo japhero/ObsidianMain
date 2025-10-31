@@ -87,6 +87,14 @@ $$
 \end{array}
 $$
 
+# Rank Theorem 
+The **Rank Theorem** gives us a way to describe the "number of useful equations" and allows us to assign properties to certain matrices based on their relative Rank. 
+
+$$
+\text{\# of free var} + \text{Rank(A)}  \text{ = \# of variables}
+$$
+
+
 &emsp;
 ****
 
