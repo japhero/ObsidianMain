@@ -22,10 +22,10 @@
 [[9_16_2025 PHSY 2305]]
 
 ## Book Notes
-[[Chapter 1PHSY 2305]]
-[[Chapter 2 PHSY 2305]]
-[[Chapter 3 PHSY 2305]]
-[[Chapter 4 PHSY 2305]]
+[[Chapter 1 PHYS 2305]]
+[[Chapter 2 PHYS 2305]]
+[[Chapter 3 PHYS 2305]]
+[[Chapter 4 PHYS 2305]]
 
 &emsp;
 

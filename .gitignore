@@ -66,5 +66,11 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos
 
-appResources/
+appResources/** 
 appResources.dmg
+
+
+# Removes my reading notes from uploads 
+Areas/Casual\ Reading\ Notes/
+
+

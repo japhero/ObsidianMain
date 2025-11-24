@@ -31,7 +31,7 @@ $$
 
 
 
-## Solving integrals with long devision
+## Solving integrals with long division
 - do it until the degree of the numerator is less than the degree of the denominator.
 - when the numerator is >= the denominator
 

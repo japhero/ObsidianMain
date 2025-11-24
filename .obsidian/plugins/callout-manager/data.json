@@ -2,7 +2,8 @@
   "callouts": {
     "custom": [
       "code",
-      "TODO:"
+      "TODO:",
+      "definition"
     ],
     "settings": {
       "code": [
@@ -26,6 +27,27 @@
           "changes": {
             "icon": "lucide-clipboard-check",
             "color": "255, 0, 0"
+          }
+        }
+      ],
+      "definition": [
+        {
+          "changes": {
+            "icon": "math"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "158, 158, 158"
           }
         }
       ]
