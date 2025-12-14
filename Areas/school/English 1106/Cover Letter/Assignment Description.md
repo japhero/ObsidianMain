@@ -1,0 +1,14 @@
+
+You will write a 1000-1200 word reflective essay that chronicles your experience in ENGL 1106 in _direct relationship_ to the five course outcomes and goals. That is, you should reflect on the course and discuss as concretely as you can how each of the course goals is manifest in the activities and artifacts of the semester. Again, here are the course goals for you to review:
+
+- **Rhetorical Performance:** You will have **enacted** rhetoric by consciously constructing persuasive texts tailored to matters of audience, purpose, context, and timing.
+- **Research Processes:** You have **practiced** different research methods, which includes analyzing and using sources and developing primary research.  
+- **Style Conventions:** You will have **developed** awareness of conventions of academic research processes, including documentation systems and their purposes.
+- **Multimodal Design:** You will have **composed** written, oral, and digital texts, gaining awareness of the possibilities and constraints of oral presentations, visual literacy, and electronic environments.
+- **Reflective Interaction:** You will have **shared** your work with your instructor, peers, and/or the university community and accounted for such interaction on composition.
+
+Next, review the work you have done this semester. Re-read your notes, Sustained Research, and Research Proposal projects, revisit the invention writings and think about which of the course goals are manifest in the work you have done. You can organize the reflection either by writing a bit about each of the course goals or by listing the major assignments of ENGL 1106 and writing about how each does _or does not_ link up in your view selected objectives. Remember to be as specific as possible when writing about linkages between objectives and specific moments you would identify as moments of learning or clicks of comprehension this semester.
+
+In effect, this reflective essay will offer an introduction and overview of the work you have done and function as a reflective essay that re-examines your writing and what you have learned in direct relationship to the stated objectives of ENGL 1106. You may also address what you believe to be areas in which this course could improve for future semesters, but this should not take precedent over the aspects of the reflective essay identified above. 
+
+This document, along with your other major projects in the course, will appear in your Google Folder/Canvas Files, and, as such, will constitute your Portfolio and Reflection assignment for the semester. If you want an email confirmation from me acknowledging receipt of your work, please send me a request via email.

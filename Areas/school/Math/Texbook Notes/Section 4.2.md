@@ -13,3 +13,7 @@ Let  and  be square matrices.
 2. When $B$ is obtained from $A$ by adding a multiple of a row of  to another row of ,  $\det(B)= \det(A)$
 3. When $B$ is obtained from $A$ by multiplying a row of  by a nonzero constant ,  $\det(B)=c\det(A)$
 
+
+
+
+

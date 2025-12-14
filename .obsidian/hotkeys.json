@@ -41,14 +41,6 @@
       "key": "P"
     }
   ],
-  "editor:insert-callout": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Z"
-    }
-  ],
   "obsidian-underline:toggle-link-heading": [],
   "obsidian-underline:toggle-link-block": [],
   "templater-obsidian:Resources/Templates/Empty space.md": [
@@ -103,6 +95,15 @@
         "Mod"
       ],
       "key": "W"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Z"
     }
   ]
 }

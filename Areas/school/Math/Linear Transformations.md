@@ -8,7 +8,7 @@ Linear transformations are practically a way to apply functions to matrices. Thi
 &emsp;
 
 ## Definition
-A **transformation** or **mapping** or **function** $T$ from $\mathbb{R}^n$ to $\mathbb{R}^m$ is a rule that assigns to each vector $v$ in $\mathbb{R}^n$ a <u>unique</u> vector $T(v)$ in $\mathbb{R}^m$. 
+A **transformation** or **mapping** **function** $T$ from $\mathbb{R}^n$ to $\mathbb{R}^m$ is a rule that assigns to each vector $v$ in $\mathbb{R}^n$ a <u>unique</u> vector $T(v)$ in $\mathbb{R}^m$. 
 $$
 T:\mathbb{R}^n \to \mathbb{R}^m
 $$
