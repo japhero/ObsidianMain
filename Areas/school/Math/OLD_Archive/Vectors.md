@@ -148,7 +148,7 @@ $$
 	- This usual occurs when 2 vectors in 3d space fall on the same span or in 2d space when 2 vectors have the same "angle" in polar coordinates.
 - ==**Linear independence**== 
 	- $\vec{w}\neq a\vec{v}$
-	- when one vector cannot be represented by scaling the other [[Areas/school/Math/Vectors|vector]] they are linearly independent.
+	- when one vector cannot be represented by scaling the other [[Vectors|vector]] they are linearly independent.
 **Basis formal definition**
 ==**The basis of Vector space is a set of linearly independent vectors that span the full space.**==
 

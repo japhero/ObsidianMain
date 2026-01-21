@@ -3,7 +3,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 
 
 ### Linear Algebra
-[[Areas/school/Math/Vectors]]
+[[Vectors]]
 [[Linear Transformations]]
 
 
@@ -33,7 +33,7 @@ This index is sorted into 2 sections the root directory is for topics and explan
 [[Series]]
 [[Trigonometric Functions]]
 [[U-Substitution]]
-[[Areas/school/Math/Vectors]]
+[[Vectors]]
 [[notation]]
 
 

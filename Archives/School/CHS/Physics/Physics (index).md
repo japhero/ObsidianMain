@@ -7,7 +7,7 @@
 * [[Matrices in Physics]]
 * [[symbols i dont understand]]
 * [[Frames of reference]]
-* [[Areas/school/Math/Vectors]]
+* [[Vectors]]
 * [[unit Vectors]]
 ---
 # Basic concepts 

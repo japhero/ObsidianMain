@@ -34,7 +34,7 @@ This Section is divided into the dump folders ([[#Lecture Notes]] and [[#Book no
 
 
 ## Book notes
-- [[Chapter 1]]
+- [[Archives/School/Virginia Tech/ECE 1004/Book Notes/Chapter 1]]
 
 
 ****

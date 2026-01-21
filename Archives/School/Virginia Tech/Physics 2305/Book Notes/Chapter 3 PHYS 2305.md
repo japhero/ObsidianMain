@@ -1,7 +1,7 @@
 #physics #Physics_Book_Notes 
 
 # Dump 
--  This chapter is basically [[Areas/school/Math/Vectors]]
+-  This chapter is basically [[Vectors]]
 - when solving for displacement $\Delta \vec r$  and given a time and speed $\Delta \vec r =\Delta t(\vec{v})$ 
 - In physics we separate out component vectors from directional vectors. 
 	- $\vec{A}_{x}$ is a component vector 

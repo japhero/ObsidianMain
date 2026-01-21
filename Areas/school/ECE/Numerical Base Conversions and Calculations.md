@@ -1,4 +1,4 @@
-#ECE #ComputerEngineering #Binary #Hexadecimal #BaseConversions
+ECE #ComputerEngineering #Binary #Hexadecimal #BaseConversions
 
 &emsp;
 
@@ -119,6 +119,8 @@ $$
 2. Take the remainder and convert it into the correct representation for that base. Exe for hex $14 \to E$
 3. Repeat process $1.$ and $2.$ recursively on the originally number until the quotient is 0 (after rounding)
 4. Flip the set of remainders to get the proper representation
+
+
 
 
 
