@@ -113,7 +113,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.20.0",
     "libraryItems": [
       {
         "status": "published",
@@ -146,7 +146,8 @@
             "boundElements": [],
             "updated": 1718305886063,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -217,7 +218,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -274,7 +277,9 @@
                 111.3913987331523,
                 47.11228886951426
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -317,7 +322,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -364,7 +370,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -417,7 +424,9 @@
                 44.123863465948375,
                 42.458812014403065
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -470,7 +479,9 @@
                 -24.143246047405682,
                 44.9563891917212
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -521,7 +532,9 @@
                 14.972940635571945,
                 6.225599131801346
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -576,7 +589,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -638,7 +653,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -684,7 +701,9 @@
                 -5.105489037532529,
                 -57.18147722036477
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -715,7 +734,8 @@
             "boundElements": [],
             "updated": 1718305886063,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "rectangle",
@@ -746,7 +766,8 @@
             "boundElements": [],
             "updated": 1718305886063,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -795,7 +816,9 @@
                 59.167483359269454,
                 -56.28906524989952
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -878,7 +901,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -910,7 +935,8 @@
             "boundElements": [],
             "updated": 1718305886063,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "rectangle",
@@ -942,7 +968,8 @@
             "boundElements": [],
             "updated": 1718305886063,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -989,7 +1016,9 @@
                 23.817039319957246,
                 3.6641598953779067
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1036,7 +1065,9 @@
                 19.54218610868287,
                 18.320799476889988
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1083,7 +1114,9 @@
                 -9.160399738445108,
                 3.0534665794816647
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -1115,7 +1148,8 @@
             "boundElements": [],
             "updated": 1718305886063,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "ellipse",
@@ -1147,7 +1181,8 @@
             "boundElements": [],
             "updated": 1718305886063,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "ellipse",
@@ -1179,7 +1214,8 @@
             "boundElements": [],
             "updated": 1718305886063,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "ellipse",
@@ -1211,7 +1247,8 @@
             "boundElements": [],
             "updated": 1718305886063,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           }
         ],
         "id": "tOnUsqCrcLU3fwBFQVJsI",
@@ -1268,7 +1305,9 @@
                 -44.485556699040174,
                 37.95271270827216
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1317,7 +1356,9 @@
                 -43.55229327178764,
                 34.21965899926174
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1424,7 +1465,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1551,7 +1594,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1600,7 +1645,9 @@
                 -43.55229327178764,
                 82.7493572163966
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1649,7 +1696,9 @@
                 -43.55229327178764,
                 82.7493572163966
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -1842,7 +1891,9 @@
                 293.16137408572126,
                 258.0473376353424
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2013,7 +2064,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2104,7 +2157,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -2147,7 +2202,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -2190,7 +2246,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -2237,7 +2294,9 @@
                 56.19462565404194,
                 1.2216222968272632
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2300,7 +2359,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2363,7 +2424,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2418,7 +2481,9 @@
                 111.4743860370088,
                 42.56294739594864
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2465,7 +2530,9 @@
                 20.26807018854697,
                 56.75059652793152
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2512,7 +2579,9 @@
                 -6.0804210565640915,
                 46.616561433658035
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2575,7 +2644,9 @@
                 -101.34035094273531,
                 -8.107228075418789
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2646,7 +2717,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2693,7 +2766,9 @@
                 -2.026807018854697,
                 -28.375298263965988
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "sKUw_T4iWLSwK2NOMHZpH",
@@ -2748,7 +2823,9 @@
                 -3.958702065034755,
                 166.26548673145973
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2795,7 +2872,9 @@
                 38.00353982433366,
                 22.96047197720158
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2842,7 +2921,9 @@
                 49.08790560643096,
                 -32.461356933284996
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2893,7 +2974,9 @@
                 -3.1669616520278043,
                 159.1398230143971
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2944,7 +3027,9 @@
                 1.583480826013902,
                 159.93156342740411
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -2991,7 +3076,9 @@
                 52.02865571188536,
                 19.90661609846045
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3038,7 +3125,9 @@
                 45.69473240782975,
                 -20.811462284754075
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3089,7 +3178,9 @@
                 -13.5726927944049,
                 156.53839022880294
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3140,7 +3231,9 @@
                 36.193847451746336,
                 16.739654446432876
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3191,7 +3284,9 @@
                 -52.933501898179045,
                 31.21719342713111
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3238,7 +3333,9 @@
                 39.360809103774145,
                 17.6445006327265
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3285,7 +3382,9 @@
                 45.694732407829775,
                 -27.14538558880968
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3332,7 +3431,9 @@
                 -12.215423514964403,
                 149.29962073845374
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3379,7 +3480,9 @@
                 46.59957859412343,
                 25.78811630936936
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3430,7 +3533,9 @@
                 -4.071807838321487,
                 148.84719764530678
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3481,7 +3586,9 @@
                 54.7431942707663,
                 26.692962495662982
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -3513,7 +3620,8 @@
             "boundElements": [],
             "updated": 1718305886065,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -3560,7 +3668,9 @@
                 2.7145385588809914,
                 -36.64627054489309
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3607,7 +3717,9 @@
                 37.098693638040025,
                 2.7145385588808764
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3742,7 +3854,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -3921,7 +4035,9 @@
                 197.25646861201753,
                 80.53131058013567
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4017,7 +4133,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4089,7 +4207,9 @@
                 -0.2551136066686366,
                 27.55226952021287
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4185,7 +4305,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4257,7 +4379,9 @@
                 -0.2551136066686366,
                 27.55226952021287
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4353,7 +4477,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4425,7 +4551,9 @@
                 -0.2551136066686366,
                 27.55226952021287
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4509,7 +4637,9 @@
                 9.567579379575095,
                 -18.533066830460527
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4561,7 +4691,9 @@
                 14.343489819338764,
                 4.098139948382307
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4613,7 +4745,9 @@
                 14.343489819338764,
                 4.098139948382307
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4665,7 +4799,9 @@
                 12.35265785126285,
                 2.8660788564853803
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4717,7 +4853,9 @@
                 14.343489819338764,
                 4.098139948382307
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4769,7 +4907,9 @@
                 9.93976549252514,
                 1.6119675543101242
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4853,7 +4993,9 @@
                 9.567579379575095,
                 -18.533066830460527
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4905,7 +5047,9 @@
                 14.343489819338764,
                 4.098139948382307
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -4957,7 +5101,9 @@
                 14.343489819338764,
                 4.098139948382307
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5009,7 +5155,9 @@
                 12.35265785126285,
                 2.8660788564853803
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5061,7 +5209,9 @@
                 14.343489819338764,
                 4.098139948382307
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5113,7 +5263,9 @@
                 9.93976549252514,
                 1.6119675543101242
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5197,7 +5349,9 @@
                 9.567579379575095,
                 -18.533066830460527
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5249,7 +5403,9 @@
                 14.343489819338764,
                 4.098139948382307
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5301,7 +5457,9 @@
                 14.343489819338764,
                 4.098139948382307
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5353,7 +5511,9 @@
                 12.35265785126285,
                 2.8660788564853803
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5405,7 +5565,9 @@
                 14.343489819338764,
                 4.098139948382307
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5457,7 +5619,9 @@
                 9.93976549252514,
                 1.6119675543101242
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "4R6W2qyXe6VMieSwbJ-lM",
@@ -5636,7 +5800,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5727,7 +5893,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -5759,7 +5927,8 @@
             "boundElements": [],
             "updated": 1718305886065,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "ellipse",
@@ -5791,7 +5960,8 @@
             "boundElements": [],
             "updated": 1718305886065,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -5850,7 +6020,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -5917,7 +6089,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -5949,7 +6123,8 @@
             "boundElements": [],
             "updated": 1718305886065,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "ellipse",
@@ -5981,7 +6156,8 @@
             "boundElements": [],
             "updated": 1718305886065,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           }
         ],
         "id": "hcCfeSoaZwvXhzxcPwreE",
@@ -6019,7 +6195,8 @@
             "boundElements": [],
             "updated": 1718305886065,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -6090,7 +6267,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -6139,7 +6318,9 @@
                 -30.771527372418404,
                 76.92881843104715
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -6188,7 +6369,9 @@
                 23.933410178547547,
                 66.10179954075102
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -6241,7 +6424,9 @@
                 -0.5191349675183119,
                 67.87048832651817
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -6292,7 +6477,9 @@
                 76.17343482493334,
                 -61.904129613984594
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -6343,7 +6530,9 @@
                 2.6281998790254875,
                 -14.89313264781049
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -6386,7 +6575,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -6433,7 +6623,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -6484,7 +6675,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -6545,7 +6738,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -6616,7 +6811,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -6663,7 +6860,9 @@
                 42.86500279162101,
                 -20.003667969423077
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -6710,7 +6909,9 @@
                 20.00366796942319,
                 -27.624112910155645
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "saYOCIq0j91Om3cYE8wPD",
@@ -6748,7 +6949,8 @@
             "boundElements": [],
             "updated": 1718305886065,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -6819,7 +7021,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -6862,7 +7066,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -6909,7 +7114,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -6960,7 +7166,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7035,7 +7243,9 @@
                 -1.247299673913517,
                 1.403212133152806
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7110,7 +7320,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -7142,7 +7354,8 @@
             "boundElements": [],
             "updated": 1718305886065,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -7191,7 +7404,9 @@
                 -43.607075722185286,
                 79.06496887180982
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7240,7 +7455,9 @@
                 46.628887990490284,
                 86.37944245367095
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7295,7 +7512,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7350,7 +7569,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7403,7 +7624,9 @@
                 65.68999694966271,
                 11.152368200000069
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7456,7 +7679,9 @@
                 54.33170609255069,
                 -28.572974875059913
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7503,7 +7728,9 @@
                 16.710385019718842,
                 -3.9738889649319162
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7550,7 +7777,9 @@
                 -11.87590188467766,
                 -2.6469178788549925
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7597,7 +7826,9 @@
                 12.415302634632212,
                 -9.395364155937898
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7657,7 +7888,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -7690,7 +7923,8 @@
             "boundElements": [],
             "updated": 1718305886065,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           }
         ],
         "id": "xpWSQO09KYfUvxFFCLcPn",
@@ -7729,7 +7963,8 @@
             "boundElements": [],
             "updated": 1718305886066,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -7801,7 +8036,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7854,7 +8091,9 @@
                 -21.511998240628465,
                 57.74273211958137
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7903,7 +8142,9 @@
                 51.515574734136415,
                 9.057683469738118
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -7954,7 +8195,9 @@
                 15.850946072041705,
                 -10.189893903455381
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8005,7 +8248,9 @@
                 26.606945192356587,
                 0.5661052168586324
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8056,7 +8301,9 @@
                 26.04083997549796,
                 9.057683469738118
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8107,7 +8354,9 @@
                 18.681472156335303,
                 12.454314770889912
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8156,7 +8405,9 @@
                 -23.776419108062992,
                 84.91578252879573
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8205,7 +8456,9 @@
                 23.776419108062996,
                 90.57683469738204
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8262,7 +8515,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8319,7 +8574,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8396,7 +8653,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8453,7 +8712,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "rectangle",
@@ -8483,7 +8744,8 @@
             "boundElements": [],
             "updated": 1718305886066,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "ellipse",
@@ -8513,7 +8775,8 @@
             "boundElements": [],
             "updated": 1718305886066,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -8648,7 +8911,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -8691,7 +8956,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -8734,7 +9000,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -8786,7 +9053,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8833,7 +9102,9 @@
                 11.580146232712991,
                 -3.8600487442377016
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -8880,7 +9151,9 @@
                 10.61513404665368,
                 7.076756031102377
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "wEQ3wG_hsvODMEPGO8328",
@@ -8919,7 +9192,8 @@
             "boundElements": [],
             "updated": 1718305886066,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -8991,7 +9265,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9040,7 +9316,9 @@
                 -29.707570902078306,
                 66.5449588206565
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9089,7 +9367,9 @@
                 29.707570902078782,
                 71.89232158303072
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9134,7 +9414,9 @@
                 -19.20832711874265,
                 -15.05416579523302
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9183,7 +9465,9 @@
                 70.2280146005695,
                 26.336662981519215
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -9226,7 +9510,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -9273,7 +9558,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -9324,7 +9610,9 @@
                 -12.628641960469412,
                 7.015912200261312
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9411,7 +9699,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9458,7 +9748,9 @@
                 9.312193335500167,
                 -9.670354617634787
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9505,7 +9797,9 @@
                 5.014257949884705,
                 5.730580514154008
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9552,7 +9846,9 @@
                 9.670354617634787,
                 -1.790806410673109
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9599,7 +9895,9 @@
                 -16.436756622611625,
                 51.08721652973894
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9646,7 +9944,9 @@
                 -12.882863298803683,
                 45.756376544027056
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9733,7 +10033,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9791,7 +10093,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9841,7 +10145,9 @@
                 1.790306407622561,
                 2.0885760755708316
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -9908,7 +10214,9 @@
                 6.208870233293955,
                 -47.84482356244141
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "Wq2juMq3egsi40nylyOA3",
@@ -10015,7 +10323,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -10046,7 +10356,8 @@
             "boundElements": [],
             "updated": 1718305886066,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -10118,7 +10429,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -10162,7 +10475,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -10210,7 +10524,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -10262,7 +10577,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10312,7 +10629,9 @@
                 -14.966189348661771,
                 57.80246000761821
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10362,7 +10681,9 @@
                 10.12647197851885,
                 66.08949474434468
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -10393,7 +10714,8 @@
             "boundElements": [],
             "updated": 1718305886066,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -10449,7 +10771,9 @@
                 24.155888303119696,
                 -87.880724171687
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10497,7 +10821,9 @@
                 -0.5698430994893897,
                 -16.5254498851873
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10545,7 +10871,9 @@
                 3.9889016964243638,
                 -22.793723979569222
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10593,7 +10921,9 @@
                 15.38576368620943,
                 -17.66513608416608
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10645,7 +10975,9 @@
                 -48.95064238992833,
                 -37.44410536170756
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10753,7 +11085,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "diamond",
@@ -10786,7 +11120,8 @@
             "boundElements": [],
             "updated": 1718305886066,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "diamond",
@@ -10819,7 +11154,8 @@
             "boundElements": [],
             "updated": 1718305886066,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "diamond",
@@ -10852,7 +11188,8 @@
             "boundElements": [],
             "updated": 1718305886066,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -10904,7 +11241,9 @@
                 27.746761801932166,
                 11.459443834509244
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -10956,7 +11295,9 @@
                 27.746761801932166,
                 11.459443834509244
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "text",
@@ -10997,7 +11338,8 @@
             "containerId": null,
             "originalText": "M1",
             "autoResize": true,
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "hasTextLink": false
           },
           {
             "type": "text",
@@ -11038,7 +11380,8 @@
             "containerId": null,
             "originalText": "M2",
             "autoResize": true,
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "hasTextLink": false
           },
           {
             "type": "text",
@@ -11079,7 +11422,8 @@
             "containerId": null,
             "originalText": "CC",
             "autoResize": true,
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -11127,7 +11471,9 @@
                 -0.5698430994893897,
                 -16.5254498851873
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11175,7 +11521,9 @@
                 3.9889016964243638,
                 -22.793723979569222
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11223,7 +11571,9 @@
                 -0.5698430994893897,
                 -16.5254498851873
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11271,7 +11621,9 @@
                 3.9889016964243638,
                 -22.793723979569222
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "nCa9Ts39TXjQ03q6DTdNp",
@@ -11354,7 +11706,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11417,7 +11771,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -11448,7 +11804,8 @@
             "boundElements": [],
             "updated": 1718305886067,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -11520,7 +11877,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11569,7 +11928,9 @@
                 -18.783720285187712,
                 81.15690582253501
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11618,7 +11979,9 @@
                 20.120388183314276,
                 82.3387960174282
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11675,7 +12038,9 @@
                 -11.150523422547337,
                 87.03819108151083
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11728,7 +12093,9 @@
                 11.24208428655021,
                 81.6702391817621
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11775,7 +12142,9 @@
                 30.381165710407913,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -11818,7 +12187,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -11861,7 +12231,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -11908,7 +12279,9 @@
                 11.057745708265884,
                 1.359226666953873
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -11992,7 +12365,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -12025,7 +12400,8 @@
             "boundElements": [],
             "updated": 1718305886067,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "ellipse",
@@ -12058,7 +12434,8 @@
             "boundElements": [],
             "updated": 1718305886067,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -12106,7 +12483,9 @@
                 -1.3890767727215558,
                 -8.797486227236474
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12154,7 +12533,9 @@
                 -2.3151279545359036,
                 -9.260511818143614
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12202,7 +12583,9 @@
                 0.4630255909072082,
                 4.167230318164599
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "7cqCrwQxGcGz9OO8AbUJe",
@@ -12242,7 +12625,8 @@
             "boundElements": [],
             "updated": 1718305886068,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "ellipse",
@@ -12272,7 +12656,8 @@
             "boundElements": [],
             "updated": 1718305886068,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -12329,7 +12714,9 @@
                 6.268334213196245,
                 -58.9223416040464
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12378,7 +12765,9 @@
                 -67.69800950252105,
                 83.99567845683139
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12423,7 +12812,9 @@
                 1.2536668426389812,
                 13.790335269032365
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12468,7 +12859,9 @@
                 -17.551335796949754,
                 8.775667898474653
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12513,7 +12906,9 @@
                 11.283001583753508,
                 1.2536668426389812
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12584,7 +12979,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -12627,7 +13024,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -12670,7 +13068,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -12721,7 +13120,9 @@
                 12.98622003587288,
                 -1.0821850029889233
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12796,7 +13197,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12855,7 +13258,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12914,7 +13319,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -12973,7 +13380,9 @@
                 -1.1462619542382129,
                 4.871613305512469
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13032,7 +13441,9 @@
                 -6.591006236869816,
                 -3.152220374155121
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13085,7 +13496,9 @@
                 31.391084523936627,
                 57.28288089159716
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13131,7 +13544,9 @@
                 85.82195498937278,
                 -40.500248421951255
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13195,7 +13610,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13248,7 +13665,9 @@
                 -12.607886645010637,
                 98.81292386307462
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "74_CGwBUbSQePxxsyAQPx",
@@ -13286,7 +13705,8 @@
             "boundElements": [],
             "updated": 1718305886068,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -13361,7 +13781,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13414,7 +13836,9 @@
                 27.39734789606598,
                 -108.52909232076252
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13459,7 +13883,9 @@
                 25.642939477015716,
                 -12.536548188762936
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13504,7 +13930,9 @@
                 31.341370471907794,
                 -5.128587895403143
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13549,7 +13977,9 @@
                 30.77152737241886,
                 5.698430994892078
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13602,7 +14032,9 @@
                 -65.30628982701995,
                 -76.00009726104474
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -13645,7 +14077,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -13688,7 +14121,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -13733,7 +14167,9 @@
                 25.642939477015716,
                 -12.536548188762936
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13778,7 +14214,9 @@
                 31.341370471907794,
                 -5.128587895403143
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13823,7 +14261,9 @@
                 30.77152737241886,
                 5.698430994892078
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13878,7 +14318,9 @@
                 -7.222626353275473,
                 -1.354242441239137
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13931,7 +14373,9 @@
                 6.245935155693132,
                 69.13737525661679
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -13984,7 +14428,9 @@
                 -9.340294838260036,
                 86.48936340478679
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14031,7 +14477,9 @@
                 21.095110295234633,
                 2.220537925814142
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14078,7 +14526,9 @@
                 -6.66161377744254,
                 26.646455109770045
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14125,7 +14575,9 @@
                 12.212958591977895,
                 1.110268962907071
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -14157,7 +14609,8 @@
             "boundElements": [],
             "updated": 1718305886068,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           }
         ],
         "id": "TDx54DhE9YcuIvveT0DE6",
@@ -14197,7 +14650,8 @@
             "boundElements": [],
             "updated": 1718305886068,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -14270,7 +14724,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14326,7 +14782,9 @@
                 -16.00470506479769,
                 50.97794946565136
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14382,7 +14840,9 @@
                 16.00470506479769,
                 50.385182611399614
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14432,7 +14892,9 @@
                 -8.298735959524947,
                 76.46692419847659
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14482,7 +14944,9 @@
                 32.009410129594926,
                 72.9103230729661
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14533,7 +14997,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -14576,7 +15042,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -14619,7 +15086,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -14747,7 +15215,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14813,7 +15283,9 @@
                 6.618316525091927,
                 -1.7265173543718215
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14858,7 +15330,9 @@
                 1.45488463121427,
                 257.5145797249238
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14903,7 +15377,9 @@
                 1.45488463121427,
                 124.6351167406882
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14948,7 +15424,9 @@
                 -0.48496154373810896,
                 119.78550130330734
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -14993,7 +15471,9 @@
                 -0.4849615437380521,
                 69.34950075454634
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15038,7 +15518,9 @@
                 0.9699230874761611,
                 25.21800027438053
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15083,7 +15565,9 @@
                 0.4849615437380521,
                 43.64653893642776
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15128,7 +15612,9 @@
                 -1.4548846312142132,
                 35.402192692880305
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15173,7 +15659,9 @@
                 0.9699230874762179,
                 33.46234651792798
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15218,7 +15706,9 @@
                 0.48496154373810896,
                 40.25180813026111
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15263,7 +15753,9 @@
                 5.819538524856966,
                 116.39077049714075
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15308,7 +15800,9 @@
                 2.424807718690431,
                 119.30053975956923
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15353,7 +15847,9 @@
                 8.72930778728562,
                 244.9055795877336
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15398,7 +15894,9 @@
                 3.879692349904758,
                 -2.9097692624284828
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15443,7 +15941,9 @@
                 4.849615437380862,
                 -2.424807718690431
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15488,7 +15988,9 @@
                 -4.849615437380862,
                 -4.849615437380862
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15533,7 +16035,9 @@
                 -2.90976926242854,
                 4.364653893642753
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15582,7 +16086,9 @@
                 8.729307787285563,
                 -2.909769262428483
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15627,7 +16133,9 @@
                 2.90976926242854,
                 6.304500068595132
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15672,7 +16180,9 @@
                 3.879692349904701,
                 4.849615437380862
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "L3SZDp70DWtrD7jM3U7ys",
@@ -15713,7 +16223,8 @@
             "boundElements": [],
             "updated": 1718305886068,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -15787,7 +16298,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15864,7 +16377,9 @@
                 -9.669941904316147,
                 -51.40337538610129
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15925,7 +16440,9 @@
                 41.22448917103202,
                 -14.250440701097432
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -15976,7 +16493,9 @@
                 -31.04560295596184,
                 73.79692505925414
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16029,7 +16548,9 @@
                 6.616276039795139,
                 -20.35777243013945
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16082,7 +16603,9 @@
                 -11.196774836576878,
                 -20.35777243013945
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16135,7 +16658,9 @@
                 -21.375661051646148,
                 -11.705719147329546
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16186,7 +16711,9 @@
                 30.02771433445514,
                 70.74325919473267
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16238,7 +16765,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -16282,7 +16811,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -16326,7 +16856,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -16374,7 +16905,9 @@
                 7.624842196104055,
                 -4.066582504588041
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16422,7 +16955,9 @@
                 -5.591550943810034,
                 -4.0665825045889505
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "arrow",
@@ -16505,7 +17040,8 @@
                 -12.25404767435652,
                 -107.22291715061897
               ]
-            ]
+            ],
+            "hasTextLink": false
           },
           {
             "type": "arrow",
@@ -16592,7 +17128,8 @@
                 148.58032805157194,
                 85.77833372049564
               ]
-            ]
+            ],
+            "hasTextLink": false
           },
           {
             "type": "arrow",
@@ -16683,7 +17220,8 @@
                 -146.757784100378,
                 67.71199358541293
               ]
-            ]
+            ],
+            "hasTextLink": false
           },
           {
             "type": "arrow",
@@ -16754,7 +17292,8 @@
                 40.733933994187055,
                 -9.82598435480935
               ]
-            ]
+            ],
+            "hasTextLink": false
           }
         ],
         "id": "1YrW3pkzHBa0lNcqbPxC0",
@@ -16794,7 +17333,8 @@
             "boundElements": [],
             "updated": 1718305886068,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -16867,7 +17407,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16917,7 +17459,9 @@
                 -8.298735959524947,
                 76.46692419847659
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -16967,7 +17511,9 @@
                 32.009410129594926,
                 72.9103230729661
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17027,7 +17573,9 @@
                 -19.86540875484161,
                 -111.09913785115259
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17087,7 +17635,9 @@
                 5.15029115866264,
                 -111.09913785115168
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17149,7 +17699,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17199,7 +17751,9 @@
                 5.886047038471588,
                 -64.74651742318747
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17249,7 +17803,9 @@
                 -7.357558798089485,
                 -66.21802918280537
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17299,7 +17855,9 @@
                 0,
                 -66.95378506261477
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17345,7 +17903,9 @@
                 15.450873475987919,
                 -9.564826437516786
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17391,7 +17951,9 @@
                 5.150291158662185,
                 -13.243605836561073
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17437,7 +17999,9 @@
                 -2.2072676394268456,
                 -16.186629355796867
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17483,7 +18047,9 @@
                 -12.507849956752125,
                 -11.036338197133773
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17529,7 +18095,9 @@
                 -18.393896995223713,
                 4.414535278853691
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17575,7 +18143,9 @@
                 15.450873475987919,
                 9.564826437516786
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -17618,7 +18188,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -17661,7 +18232,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -17704,7 +18276,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           }
         ],
         "id": "vdJODevMlwA126JjefGQi",
@@ -17745,7 +18318,8 @@
             "boundElements": [],
             "updated": 1718305886069,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -17819,7 +18393,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17870,7 +18446,9 @@
                 -30.771527372418404,
                 76.92881843104715
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17921,7 +18499,9 @@
                 23.933410178547547,
                 66.10179954075102
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -17976,7 +18556,9 @@
                 -17.665136084166534,
                 47.866820357095094
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18029,7 +18611,9 @@
                 43.80333131708903,
                 -126.15359419321612
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18082,7 +18666,9 @@
                 2.6281998790254875,
                 -14.89313264781049
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18178,7 +18764,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18230,7 +18818,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18282,7 +18872,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18358,7 +18950,9 @@
                 13.043567437266013,
                 -0.5351556824421166
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18406,7 +19000,9 @@
                 6.185949483376589,
                 -11.753304018414383
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18454,7 +19050,9 @@
                 -8.041734328388884,
                 -17.939253501791427
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18502,7 +19100,9 @@
                 14.227683811765473,
                 -6.185949483376135
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18550,7 +19150,9 @@
                 -17.320658553453086,
                 -4.330164638363385
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -18593,7 +19195,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -18640,7 +19243,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -18691,7 +19295,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "PKRfcutfowjRS_H-u9NX-",
@@ -18757,7 +19363,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18803,7 +19411,9 @@
                 3.8427292331217027,
                 55.71957388026506
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18849,7 +19459,9 @@
                 56.36002875245216,
                 -1.280909744374038
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -18939,7 +19551,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19029,7 +19643,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -19061,7 +19677,8 @@
             "boundElements": [],
             "updated": 1718305886069,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -19134,7 +19751,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19188,7 +19807,9 @@
                 -22.525140461566934,
                 60.462219133679355
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19238,7 +19859,9 @@
                 53.94178373691011,
                 9.484269668027991
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19290,7 +19913,9 @@
                 27.860042149833134,
                 0.5927668542517495
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19342,7 +19967,9 @@
                 27.267275295581385,
                 9.484269668027991
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19394,7 +20021,9 @@
                 19.561306190308187,
                 13.040870793538488
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19444,7 +20073,9 @@
                 -24.896207878573932,
                 88.91502813776333
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19494,7 +20125,9 @@
                 24.896207878573932,
                 94.84269668028082
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -19537,7 +20170,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -19584,7 +20218,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -19635,7 +20270,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "6HMAEZT1zZqfHimFo-j6g",
@@ -19673,7 +20310,8 @@
             "boundElements": [],
             "updated": 1718305886069,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -19744,7 +20382,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -19787,7 +20427,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -19834,7 +20475,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -19885,7 +20527,9 @@
                 13.68582521109829,
                 -2.035403151537139
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19934,7 +20578,9 @@
                 38.70658763183519,
                 54.16808177595067
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -19983,7 +20629,9 @@
                 57.904230013865345,
                 43.43538685155545
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20030,7 +20678,9 @@
                 14.80524793163113,
                 13.063454057320996
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20077,7 +20727,9 @@
                 14.80524793163113,
                 1.741793874310133
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20138,7 +20790,9 @@
                 2.2612786944930576,
                 0.3230398134983259
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20199,7 +20853,9 @@
                 2.2612786944930576,
                 0.3230398134983259
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20256,7 +20912,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20307,7 +20965,9 @@
                 39.97830331632326,
                 33.428067900686074
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20362,7 +21022,9 @@
                 62.2702115653758,
                 66.22748400254022
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "Zet99eaIY50T0bfuXTt83",
@@ -20400,7 +21062,8 @@
             "boundElements": [],
             "updated": 1718305886069,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -20475,7 +21138,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20528,7 +21193,9 @@
                 55.274780650455796,
                 -91.17489591827689
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20573,7 +21240,9 @@
                 25.642939477015716,
                 -12.536548188762936
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20618,7 +21287,9 @@
                 31.341370471907794,
                 -5.128587895403143
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20663,7 +21334,9 @@
                 30.77152737241886,
                 5.698430994892078
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20716,7 +21389,9 @@
                 15.38576368620943,
                 4.558744795914208
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20761,7 +21436,9 @@
                 9.687332691316897,
                 -16.52544988518821
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20806,7 +21483,9 @@
                 10.827018890295676,
                 -9.117489591827507
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20851,7 +21530,9 @@
                 13.106391288252325,
                 -0.569843099488935
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20900,7 +21581,9 @@
                 -52.99540825249869,
                 86.04630802287465
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -20949,7 +21632,9 @@
                 10.827018890295676,
                 68.9510150381966
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -20992,7 +21677,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -21035,7 +21721,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -21078,7 +21765,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           }
         ],
         "id": "1qnyLOVSuedTwQmTaKpV9",
@@ -21117,7 +21805,8 @@
             "boundElements": [],
             "updated": 1718305886069,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -21189,7 +21878,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21238,7 +21929,9 @@
                 -22.793723979569222,
                 78.06850463002502
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21287,7 +21980,9 @@
                 24.503253278036937,
                 72.93991673462187
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21338,7 +22033,9 @@
                 -12.536548188762936,
                 99.72254241061637
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21385,7 +22082,9 @@
                 12.53654818876339,
                 8.547646492338572
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21440,7 +22139,9 @@
                 19.944508482123183,
                 -96.30348381368003
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21487,7 +22188,9 @@
                 -0.5698430994893897,
                 -16.5254498851873
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21534,7 +22237,9 @@
                 3.9889016964243638,
                 -22.793723979569222
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21581,7 +22286,9 @@
                 15.38576368620943,
                 -17.66513608416608
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -21624,7 +22331,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -21667,7 +22375,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -21718,7 +22427,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "Q6JxCkmSU9rlbI7ixzOZW",
@@ -21757,7 +22468,8 @@
             "boundElements": [],
             "updated": 1718305886069,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -21807,7 +22519,9 @@
                 19.945586937493772,
                 68.65034504336836
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21857,7 +22571,9 @@
                 -35.771997249017204,
                 81.7645651406101
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21915,7 +22631,9 @@
                 31.27765041283328,
                 -23.417421555004694
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -21965,7 +22683,9 @@
                 -74.51904673806393,
                 82.27916219117196
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22011,7 +22731,9 @@
                 1.2775713303217344,
                 14.053284633542717
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22057,7 +22779,9 @@
                 -17.885998624508375,
                 8.94299931225396
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22103,7 +22827,9 @@
                 11.498141972898338,
                 1.2775713303217344
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22175,7 +22901,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22235,7 +22963,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22291,7 +23021,9 @@
                 7.241718375059918,
                 19.496934086699184
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22347,7 +23079,9 @@
                 11.698160452019692,
                 -2.2282210384801147
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22395,7 +23129,9 @@
                 8.91288415391955,
                 18.939878827079156
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22447,7 +23183,9 @@
                 31.75214979833936,
                 41.22208921187939
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22499,7 +23237,9 @@
                 37.879757654159675,
                 56.819636481238376
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -22542,7 +23282,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -22585,7 +23326,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -22628,7 +23370,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           }
         ],
         "id": "pqW0xM1ROFTkIsAvdWw7T",
@@ -22668,7 +23411,8 @@
             "boundElements": [],
             "updated": 1718305886070,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -22741,7 +23485,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22791,7 +23537,9 @@
                 -27.922311874972365,
                 74.07960293360065
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22841,7 +23589,9 @@
                 29.63184117344008,
                 72.93991673462187
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22897,7 +23647,9 @@
                 -5.256399758050975,
                 90.23486251320264
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -22945,7 +23697,9 @@
                 7.008533010734482,
                 14.89313264781049
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23001,7 +23755,9 @@
                 27.15806541659458,
                 25.40593216391153
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23053,7 +23809,9 @@
                 10.51279951610195,
                 -14.89313264781049
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -23096,7 +23854,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -23143,7 +23902,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -23194,7 +23954,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "06wMudWzh5Gy5jZQgqg7k",
@@ -23234,7 +23996,8 @@
             "boundElements": [],
             "updated": 1718305886070,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -23307,7 +24070,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23357,7 +24122,9 @@
                 -30.771527372418404,
                 76.92881843104715
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23407,7 +24174,9 @@
                 23.933410178547547,
                 66.10179954075102
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23461,7 +24230,9 @@
                 -17.665136084166534,
                 47.866820357095094
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23513,7 +24284,9 @@
                 43.80333131708903,
                 -126.15359419321612
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23565,7 +24338,9 @@
                 2.6281998790254875,
                 -14.89313264781049
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -23608,7 +24383,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -23655,7 +24431,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -23706,7 +24483,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "chdf4rHr7b4zg7CKP9p8F",
@@ -23745,7 +24524,8 @@
             "boundElements": [],
             "updated": 1718305886070,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -23817,7 +24597,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23872,7 +24654,9 @@
                 -16.00470506479769,
                 50.97794946565136
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23927,7 +24711,9 @@
                 16.00470506479769,
                 50.385182611399614
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -23976,7 +24762,9 @@
                 -8.298735959524947,
                 76.46692419847659
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24025,7 +24813,9 @@
                 32.009410129594926,
                 72.9103230729661
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24076,7 +24866,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -24119,7 +24911,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -24162,7 +24955,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           }
         ],
         "id": "W6ShpAVMhI90BmaIjMtAs",
@@ -24202,7 +24996,8 @@
             "boundElements": [],
             "updated": 1718305886070,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -24275,7 +25070,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24331,7 +25128,9 @@
                 -0.8948525806708858,
                 101.118341615801
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24383,7 +25182,9 @@
                 16.55477274240957,
                 99.32863645445832
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24431,7 +25232,9 @@
                 -9.395952097043391,
                 5.369115484024405
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24479,7 +25282,9 @@
                 10.290804677714277,
                 7.158820645366177
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24529,7 +25334,9 @@
                 -12.527936129391492,
                 75.61504306668303
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24579,7 +25386,9 @@
                 25.055872258782074,
                 72.48305903433447
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -24622,7 +25431,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -24669,7 +25479,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -24720,7 +25531,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "tw2fNUpBYGUqEJlBrj0lA",
@@ -24800,7 +25613,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24856,7 +25671,9 @@
                 -0.8948525806708858,
                 101.118341615801
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24908,7 +25725,9 @@
                 16.55477274240957,
                 99.32863645445832
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -24956,7 +25775,9 @@
                 -9.395952097043391,
                 5.369115484024405
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25004,7 +25825,9 @@
                 10.290804677714277,
                 7.158820645366177
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25054,7 +25877,9 @@
                 -12.527936129391492,
                 75.61504306668303
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25104,7 +25929,9 @@
                 25.055872258782074,
                 72.48305903433447
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "ellipse",
@@ -25137,7 +25964,8 @@
             "boundElements": [],
             "updated": 1718305886070,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -25180,7 +26008,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -25227,7 +26056,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -25278,7 +26108,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "sHOv3rltI0HEI7ZwdHVmq",
@@ -25318,7 +26150,8 @@
             "boundElements": [],
             "updated": 1718305886071,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -25391,7 +26224,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25441,7 +26276,9 @@
                 -28.4921549744613,
                 63.82242714279437
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25491,7 +26328,9 @@
                 28.492154974461755,
                 68.95101503819751
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25549,7 +26388,9 @@
                 -6.268274094381468,
                 -23.363567079058157
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25595,7 +26436,9 @@
                 -10.827018890295676,
                 -5.128587895402234
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25645,7 +26488,9 @@
                 -10.827018890295676,
                 88.89552352032115
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -25691,7 +26536,9 @@
                 7.9778033928487275,
                 12.536548188762936
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -25734,7 +26581,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -25781,7 +26629,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -25828,7 +26677,9 @@
                 -12.111970549214675,
                 6.728872527341991
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "ntbKfW-FiqIN8HOAf3wyX",
@@ -25868,7 +26719,8 @@
             "boundElements": [],
             "updated": 1718305886071,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -25941,7 +26793,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26017,7 +26871,9 @@
                 -9.669941904316147,
                 -51.40337538610129
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26077,7 +26933,9 @@
                 41.22448917103202,
                 -14.250440701097432
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26127,7 +26985,9 @@
                 -31.04560295596184,
                 73.79692505925414
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26179,7 +27039,9 @@
                 6.616276039795139,
                 -20.35777243013945
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26231,7 +27093,9 @@
                 -11.196774836576878,
                 -20.35777243013945
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26283,7 +27147,9 @@
                 -21.375661051646148,
                 -11.705719147329546
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26333,7 +27199,9 @@
                 30.02771433445514,
                 70.74325919473267
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26384,7 +27252,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -26427,7 +27297,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -26470,7 +27341,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -26517,7 +27389,9 @@
                 7.624842196104055,
                 -4.066582504588041
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26564,7 +27438,9 @@
                 -5.591550943810034,
                 -4.0665825045889505
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "PPakpm6YDhaO7DRlPbhh8",
@@ -26604,7 +27480,8 @@
             "boundElements": [],
             "updated": 1718305886071,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -26677,7 +27554,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26727,7 +27606,9 @@
                 -21.084194681101962,
                 75.78913223206837
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26777,7 +27658,9 @@
                 21.654037780590443,
                 72.37007363513294
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26835,7 +27718,9 @@
                 65.53195644126208,
                 41.028703163225146
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26889,7 +27774,9 @@
                 7.407960293359793,
                 -83.19709252542816
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -26936,7 +27823,9 @@
                 30.381165710407913,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -26979,7 +27868,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -27022,7 +27912,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -27069,7 +27960,9 @@
                 11.057745708265884,
                 1.359226666953873
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "SoOkkuvrIkKtJSJcm8tMQ",
@@ -27108,7 +28001,8 @@
             "boundElements": [],
             "updated": 1718305886071,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -27158,7 +28052,9 @@
                 19.945586937493772,
                 68.65034504336836
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27208,7 +28104,9 @@
                 -35.771997249017204,
                 81.7645651406101
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27266,7 +28164,9 @@
                 6.387856651610036,
                 -60.04585252513607
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27316,7 +28216,9 @@
                 -68.98885183739003,
                 85.59727913157622
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27362,7 +28264,9 @@
                 1.2775713303217344,
                 14.053284633542717
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27408,7 +28312,9 @@
                 -17.885998624508375,
                 8.94299931225396
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27454,7 +28360,9 @@
                 11.498141972898338,
                 1.2775713303217344
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27526,7 +28434,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -27569,7 +28479,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -27612,7 +28523,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -27663,7 +28575,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "Gx16B1u6D9N56LaOs1qBw",
@@ -27703,7 +28617,8 @@
             "boundElements": [],
             "updated": 1718305886071,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -27776,7 +28691,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27834,7 +28751,9 @@
                 32.432994252044864,
                 25.225662196035046
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27892,7 +28811,9 @@
                 70.8720985507648,
                 3.6036660280051365
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27942,7 +28863,9 @@
                 -27.35246877548343,
                 63.82242714279437
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -27992,7 +28915,9 @@
                 30.20168427292947,
                 72.93991673462278
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -28035,7 +28960,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -28082,7 +29008,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -28133,7 +29060,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "e1SjvjFM_Rd3Bo2_xAy0c",
@@ -28173,7 +29102,8 @@
             "boundElements": [],
             "updated": 1718305886071,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -28246,7 +29176,9 @@
                 0,
                 0
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -28304,7 +29236,9 @@
                 32.481056670886574,
                 34.76042906884322
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -28362,7 +29296,9 @@
                 29.061998073951145,
                 2.2793723979566494
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -28412,7 +29348,9 @@
                 -23.933410178548,
                 73.50975983411172
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "line",
@@ -28462,7 +29400,9 @@
                 24.50325327803739,
                 71.23038743615507
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           },
           {
             "type": "freedraw",
@@ -28505,7 +29445,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "freedraw",
@@ -28552,7 +29493,8 @@
             ],
             "lastCommittedPoint": null,
             "simulatePressure": true,
-            "pressures": []
+            "pressures": [],
+            "hasTextLink": false
           },
           {
             "type": "line",
@@ -28603,7 +29545,9 @@
                 13.233836807996795,
                 -1.1028197339992403
               ]
-            ]
+            ],
+            "hasTextLink": false,
+            "polygon": false
           }
         ],
         "id": "fsCQvFMp9KnvqSP-JdI3w",
