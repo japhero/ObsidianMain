@@ -3,6 +3,9 @@
 # Lecture Notes
 - 
 
+- Given an ocilating example we could find at least 2 solutions using sine and cosine 
+
+
 
 &emsp;
 ## Definitions
