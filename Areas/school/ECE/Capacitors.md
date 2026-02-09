@@ -5,6 +5,19 @@
 -  Dielectric means the material will polarize when in contact with an electric field 
 - 
 
+## Equations 
+
+$$
+{
+\begin{array}{l} 
+C=\frac{q}{V} \\ \displaystyle
+V=\frac{q}{C} \\ \displaystyle
+q(t)=\int_{t_{0}}^t i(t)  \, dt +q(t_{0}) \\ \displaystyle
+ i(t)=C \frac{dV(t)}{dt} \\ \displaystyle
+V(t)=\frac{q(t)}{C}=\frac{1}{C}\int_{t_{0}}^t i(t)  \, dt + V(t_{0}) 
+\end{array}}
+$$
+
 
 
 

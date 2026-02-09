@@ -22,7 +22,7 @@
 		{"id":"2cbea44840145d40","type":"text","text":"1600","x":-5160,"y":137,"width":250,"height":60},
 		{"id":"3daa2e4a3cc28862","type":"text","text":"# French and Indian War 1754-63","x":-4644,"y":192,"width":874,"height":77,"color":"1"},
 		{"id":"124f93bcd3643275","type":"text","text":" Boston Massacre\n\n","x":-3690,"y":390,"width":250,"height":50},
-		{"id":"d6cd8bd5c9fe91d3","type":"file","file":"Resources/assorted media/Boston Massacre.jpg","x":-3999,"y":600,"width":399,"height":229},
+		{"id":"d6cd8bd5c9fe91d3","type":"file","file":"Resources/assorted media/Attachments/Boston Massacre.jpg","x":-3999,"y":600,"width":399,"height":229},
 		{"id":"80b389a72baafc42","type":"text","text":"# [Abraham Lincoln 1861-1865](https://www.whitehousehistory.org/bios/abraham-lincoln)","x":1268,"y":280,"width":1236,"height":80,"color":"4"},
 		{"id":"4857f3e76ca549fe","type":"file","file":"Archives/School/CHS/APUSH/14th amendment.md","x":2520,"y":560,"width":400,"height":400},
 		{"id":"cda783f3072f247c","type":"text","text":"# 1823","x":-478,"y":140,"width":155,"height":60},
