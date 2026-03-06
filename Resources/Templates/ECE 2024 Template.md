@@ -1,19 +1,10 @@
-#Electrical_Engineering #Lecture #dump #ECE_2024  #Hardware
+#Electrical_Engineering #Lecture #dump #ECE_2024  #Hardware #ECE 
 
 # Lecture Notes
 - 
 
 
-## Definitions
-- 
-
-
-## Anki Cards
-- 
 
 
 ## Questions
 - 
-
----
-# Resources 

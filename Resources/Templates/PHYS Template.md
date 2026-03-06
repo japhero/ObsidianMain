@@ -1,17 +1,9 @@
 #physics #lecture #class #PHYS_2306
 
-# DUMP
+# DUMP __TOPIC__ 
 - 
 
 
 ## Questions
 - 
 
-## ANKI Cards
-- 
-
-&emsp;
-
----
-# Resources
-- 

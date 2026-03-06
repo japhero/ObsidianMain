@@ -9,12 +9,8 @@
 - 
 
 
-### Anki cards 
 
 
 &emsp;
 ## Questions
 - 
-
----
-# Resources 

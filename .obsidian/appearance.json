@@ -5,7 +5,8 @@
     "dashboard",
     "dashboard-ReadLineLength",
     "align Right",
-    "align"
+    "align",
+    "invertimage"
   ],
   "baseFontSize": 16,
   "theme": "obsidian",
