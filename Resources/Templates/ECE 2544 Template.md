@@ -4,11 +4,6 @@
 - 
 
 
-## Definitions
-- 
-
 ## Questions
 - 
 
----
-# Resources 
