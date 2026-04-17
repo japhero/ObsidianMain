@@ -16,3 +16,8 @@
 - Within the diagnostics thread wont a while(1) loop cause the process to hang or does the scheduler automatically abort the process at that time?
 	- Nope becasue `k_msleep(DIAG_PERIOD_MS);` is passed which sleeps the scheduler so other threads can run 
 
+
+
+## Questions 
+- What does the `LOG_MODULE_REGISTER` do?
+	- register calls to the logging interface under that module 

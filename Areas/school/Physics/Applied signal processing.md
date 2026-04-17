@@ -26,7 +26,7 @@
 ## Aliasing
 - happnes when we sample a frequency to low causes the sample have an unclear value as when reconstructing the sample it gives too little data to let us acuralty reconstruct what it is.
 <img src = "https://i.imgur.com/8ZiRvHI.png" width = 400>
-- sample must be 2 times the max frequency to unambigiously give us the correct sin wave.
+- sample must be 2 times the max frequency to unambiguously give us the correct sin wave.
 - $$f_{s} > 2 * f_{max}$$
 - Nyquist criterion $\uparrow$
 - for any sampled sinosiod there will be an infinite number of higher fequency sinosiods that fit the sample.

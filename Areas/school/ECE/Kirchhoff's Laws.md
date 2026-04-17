@@ -121,6 +121,57 @@ After creating the Supernode equation simply combine the 2 nodes on the ends of 
 
 
 &emsp;
- 
 
 [^1]: [kirchhoff's circuit laws: Wikipedia](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws)
+
+
+
+
+## Voltage and current divider 
+
+
+### Voltage Divider
+- Voltage divider is created within a **2 resistor network** by manipulating Kirchhoff's law  
+$$
+v_{1}=v_{i} \frac{R_{1}}{R_{1}+R_{2}}
+$$
+
+
+> [!EXAMPLE]- Proof of Voltage Divider
+> 
+> 1. We start of with the most basic form of Kirchhoff's law just stating that the sum of our voltages needs to be 0 while making it in terms of our two resistors.
+> $$
+> \begin{array}{ll}
+> v_{1} +v_{2}-v_{i}=0 \\
+> v_{i}=v_{1}+v_{2}
+> \end{array}
+> $$
+>
+> 
+> 2. Now we substitute using ohms law $(V=IR)$
+> $$
+> \begin{array}{cc}
+> v_{i}=v_{1}+v_{2} \\
+> v_{i}=v_{1}+v_{2} =I_{i}R_{1} +I_{i}R_{2} \\
+> v_{1}=v_{1}+v_{2}=I_{i}(R_{1}+R_{2})
+> \end{array}
+> $$
+> 3. Now if we solve for current we get 
+> $$
+> I_{i}=\frac{v_{i}}{(R_{1}+R_{2})}
+> $$
+> 4. Using this new definition of current $(I_{i})$ we can simply substitute this and solve for any of the $2$ voltages drops over either resistor. (because ohms law $V=IR$) 
+> $$
+> \begin{array}{cc}
+> v_{1}=I_{i}R_{1} \\
+> v_{1}=\frac{v_{i}}{R_{1}+R_{2}}(R_{1}) \\
+> \boxed{ v_{1}=v_{i} \frac{R_{1}}{(R_{1}+R_{2})}}
+> \end{array}
+> $$
+
+
+
+### Current Divider 
+$$ 
+I_{r{2}}=I_{s}\left( \frac{R_{a}}{R_{a}+R_{b}} \right)
+$$

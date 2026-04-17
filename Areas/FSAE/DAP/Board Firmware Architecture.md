@@ -1,7 +1,7 @@
 
 ## Sensor behavior notes
 MLX906...BAA
-
+	
 - after the sensor board is turned on it takes 4 minutes for it to reach maximum accuracy 
 - Increasing the polling rate for the sensor increases the noise passed down to the data
 	- Pixels at the corners of the sensor will have worse noise performance than pixels at the center
@@ -39,10 +39,27 @@ MLX906...BAA
 - Wrapper for the data processing and mainly just abstracts away transferring data
 - could be redundant because it has a lot of overlap with the CAN output 
 	- This is already implemented as an interface so abstracting the process would still make sense 
-### MLX Driver (ThermalCamera)
+### MLX Driver (Thermal Camera)
 - The output should be the entire set of data and should be passed to the processing object
 - Manage internally which buffer of data is being passed to the camera sensor 
 - Contains an m $I^2C$ driver to Communicate with the sensor 
+
+
+
+### initialize 
+- Set the polling rate for the sensor
+- Set the timestamp for warmup 
+- Set sensor into measurement mode 
+- Get EPROM constants to calculate temperature 
+
+### Reading data 
+
+- Have the mutex control a pointer that points in-between two internal buffers where one buffer contains the updated data and the other buffer is passed to the thermal pipeline to process data
+
+
+
+
+
 
 
 *** 
