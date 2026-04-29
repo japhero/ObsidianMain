@@ -1,6 +1,15 @@
 	
 # DUMP
 
+## [Lenz's law ](https://www.youtube.com/watch?v=HhFZfWLl-P0)
+
+
+
+
+
+
+---
+
 **Magnetic force on a wire**
 $$
 F_{b}=I \ell B\sin (\theta)

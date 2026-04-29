@@ -68,8 +68,8 @@ y(t)=y_{c}+y_{p}
 $$
 - In this method we guess what the particular solution will look like and then solve for the coefficients of our guess after. 
 
-- One trick to make it easy to solve these is that with the gvien $g(t)$ equation out guess needs to have the same coefficients as $g(t)$
-	- For example if $g(t)=t^2-t+5$ and my coefficients of my guess are $5At^2-3Bt-C$ (after i took the derivative pluged and simplified) then the coeffents must be the same within the guess and $g(t)$ eg $5A=1m,-3B=-1,-C=5$
+- One trick to make it easy to solve these is that with the gvien $g(t)$ equation our guess needs to have the same coefficients as $g(t)$
+	- For example if $g(t)=t^2-t+5$ and my coefficients of my guess are $5At^2-3Bt-C$ (after i took the derivative pluged and simplified) then the coeffents must be the same within the guess and $g(t)$ eg $5A=1,-3B=-1,-C=5$
 
 - summarize with this table 
 
@@ -85,4 +85,8 @@ a\cos(\beta t) & A\cos(\beta t)+B\sin(\beta t) \\
 
 \end{array}
 $$
+
+
+
+## 3.12 Higher Order Homogenous constant Coefficients Differential Equations 
 
