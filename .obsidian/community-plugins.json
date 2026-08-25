@@ -1,14 +1,14 @@
 [
-  "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "media-extended",
-  "templater-obsidian",
-  "obsidian-underline",
-  "obsidian-languagetool-plugin",
   "callout-manager",
-  "obsidian-latex-suite",
-  "obsidian-pandoc",
-  "obsidian-footnotes",
   "obsidian-custom-frames",
-  "obsidian-kanban"
+  "obsidian-excalidraw-plugin",
+  "obsidian-footnotes",
+  "obsidian-git",
+  "obsidian-underline",
+  "templater-obsidian",
+  "obsidian-pandoc",
+  "media-extended",
+  "obsidian-latex-suite",
+  "obsidian-kanban",
+  "obsidian-languagetool-plugin"
 ]
